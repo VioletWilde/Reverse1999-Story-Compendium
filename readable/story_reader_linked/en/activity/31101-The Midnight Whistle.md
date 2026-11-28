@@ -873,8 +873,6 @@ St. Pavlov Foundation External Field Report: The "Danube Dawn"
 
 Mission Number: XXX-1912-XX-13 Location: The "Danube Dawn" Security Level: Top Secret **Intelligence Summary:** **Key Report 1:** Multiple investigation records indicate that during the past three operation cycles (exact dates in encrypted attachment), abnormal arcanum energy traces were consistently detected inside the "Danube Dawn," the international train running between Istanbul and Vienna. These energy patterns closely match the activity signature of a known Beyond entity—the vampire (see encrypted attachment for detailed characteristics). **Key Report 2:** Meanwhile, a series of unexplained deaths and disappearances have occurred along the train's route. Preliminary examinations show that the victims suffered blunt-force trauma and displayed tissue mutations of unidentified form, differing from the pattern of known vampire "Infected." The upper division suspects direct contact with a new strain of vampire. Threat level has been classified as severe. All evidence suggests the presence of an anomalous vampire aboard the "Danube Dawn"—either active on a periodic cycle or as a vampire "Infected" with atypical traits. Squad members are to prioritize personal safety during the operation. **Mission Objectives:** Based on prior performance, Level Four Investigator Semmelweis is hereby assigned to the "Danube Dawn" investigation team. Objectives include: 1. Board the "Danube Dawn," confirm the authenticity and number of vampire entities, observe their activity pattern, and assess passenger threat level. 2. Investigate whether vampire activity correlates with newly observed vampire "Infected" incidents along the train's route. Record any newly discovered strains, their traits, and behavioral patterns. 3. Collect direct evidence of collaboration between "Manus Vindictae" and the vampire. Investigator Semmelweis is to rendezvous with four members of the Istros Operation Squad 77 after the "Danube Dawn" docks at Platform 3, Station G, 6:20 PM local time, November 30, 1912. They will supply all mission-critical resources and equipment. St. Pavlov Foundation November 2, 1912
 
-- Description：What's not written in the Field Mission Manual is the real norm.
-- Action：Read the Files
 
 
 ---
@@ -1204,8 +1202,6 @@ The "Danube Dawn" — Rumor 1
 
 The "Danube Dawn" was once the Versailles Palace on rails, gliding along the banks of the Danube River. From Istanbul to Vienna, silverware clinked a harmonious tune, vase violets glistened with dew, and even the stokers carried themselves with the poise of Habsburg courtiers—at least, that is what they believed. But the glory days didn't last. Once the roar of cannons had grown louder than the whistle, it was abandoned—forgotten in a warehouse. Later, Vienna-Pannonian Railways pulled the train from the warehouse and refurbished it, stripping away the last threads of velvet and cramming in seats hard enough to turn your back straight. The silver tableware disappeared, French cuisine vanished from the menu, and flavorless beef stew took its place. The train now resembles an aging gentleman in an ill-fitting tuxedo, clinging to the last shreds of his dignity. And then, there was the missing conductor, Mr. Hermann. With a pale face, hollow eyes, and a drooping mouth, his very presence reeked of morbid neuroticism. His dress, however, was pristine in every aspect: from his uniform to his pocket watch chain aligned perfectly with his buttons, to the gloves which never left his hands—not even while eating. None ever saw him sleep. Like a ghost, by midnight, he would wander the train, inspecting every carriage. The "Danube Dawn" was his home. He knew every passenger's quirks, every worn cushion, every stain on the windows. Or so the passengers claimed—that is, those who remembered him. One night, three years ago, while passing through a fog-drenched stop near Budapest, the conductor vanished—swallowed by the mist, gone without a trace. Yet a story still circulates among the passengers: the vampire on the train took him. His body was hidden in one of the cars, and his eyeballs embalmed and nailed to the ceilings of cars one and ten so that even in death, he may keep watch over his beloved train. Forevermore ... — UTTU Editor: Verity
 
-- Description：An untold—or perhaps all-too-familiar—story from the past.
-- Action：Check Note
 
 
 ---
@@ -1850,8 +1846,6 @@ Excerpt from the Vampire Beyond Entity File
 
 File No.: XXX-1912-B (The Beyond - Vampire) Clearance Level: Top Secret The vampire is an extremely rare Beyond being bearing a strong resemblance to humans, yet with several defining traits: its skin is notably pale, its irises typically crimson—varying in depth with its tolerance for blood intake. Anatomical studies confirm that blood functions as one of its key energy sources. Vampires exhibit a compulsive craving for blood, particularly that of highly active animals. Key Traits: 1. Bloodthirst A vampire's obsession with blood often triggers bouts of extreme aggression and heightened tracking ability (showing acute sensitivity to the scent of blood). However, certain reports suggest blood is not their sole means of sustenance. A rare few can resist Bloodthirst altogether or survive on alternative food sources without dependence on blood. 2. Photophobia Vampires exhibit a marked physiological aversion to sunlight. Prolonged exposure to strong daylight causes irreversible tissue damage. These entities cast no visible shadows or reflections—whether upon water, glass, mirrors, or polished metal surfaces. 3. Vulnerabilities Ordinary physical attacks are largely ineffective. Only bullets forged from metals refined through specific alchemical techniques (most notably pure silver) can inflict permanent injury upon them. 4. Vampire Infected When a vampire bites or exchanges bodily fluids with an individual possessing innate arcanum affinity, there is a high probability of "conversion." The infected undergo █–█ hours of violent physiological and psychological mutation, with a 93% mortality rate and over 96% incidence of mental instability among survivors. Those who endure the process ultimately become "the Infected," gradually gaining the creature's biological traits and mastering its arcane skills. Note: Intelligence suggests "Manus Vindictae" is conducting ongoing experiments to convert ordinary humans directly into vampires. The success rate and stability of such transformations remain unknown. Disclaimer Both vampires and their infected derivatives are officially classified by the Foundation as "the Beyond," distinct from both humans and arcanists. Last Updated: November 15, 1912
 
-- Description：They're not only sealed in archives.
-- Action：Browse the Records
 
 
 ---
@@ -1862,8 +1856,6 @@ File No.: XXX-1912-B (The Beyond - Vampire) Clearance Level: Top Secret The vamp
 > Wooo-wooo! Join us in our waltz along the banks of the Danube!
 
 <!-- reader-body:start -->
-With a sharp whistle, the train surges forward, chugging with growing speed into the black expanse.
-
 With a sharp whistle, the train surges forward, chugging with growing speed into the black expanse.
 
 **Rubuska:** Phew. The train is finally moving!
@@ -2145,8 +2137,6 @@ Annabelle's Diary
 
 Outside, it's as dark as if someone had spilled a whole bottle of ink. The glass window reflects me and little William sitting opposite each other. I bet he's not really asleep! The kerosene lamp on the table casts our shadows on the wall. I stare at them, hold my breath, and clutch my teddy bear tight. The train clatters along the rails, like someone's chasing after us, chasing us away from Istanbul, away from Uncle's house. When Ms. Dorothy was packing our clothes, her hands were shaking so much she couldn't even fasten the buttons on my shirt. Her face was pale as paper, lips pressed tight, as if the moment she opened her mouth, all the awful words trapped in her throat would come flying out like crows. She just said, "Children, hurry! Come with me." Everything happened too fast. I didn't even have time to pack all my dolls—Jenny, Jack, Nina ... I'm sorry, I couldn't bring you with me! Where is this train taking us? Budapest ... Father's home. Will there be a warm fireplace there? Sweet Dobos cake? The smell of roses? I've already forgotten what Father looks like ... but he must be tall ... tall enough to protect us! Like the heroes in bedtime stories ... the powerful, brave, amazing vampires who only appear at night and vanquish everything in their path! If only ... if only a vampire would really come! They'd drain the blood of all the bad people and protect good children who behave. So they'd surely scare away whatever's hiding in the dark, whatever it is that makes Ms. Dorothy's face go pale. I keep praying silently, again and again. I believe the great vampire will come to save us!
 
-- Description：Sweet, warm dreams of yesterday, forever lost.
-- Action：Open and Read
 
 
 ---
@@ -2954,8 +2944,6 @@ Notice of the "Danube Dawn" Resumed Service - Vienna-Pannonian Railways
 
 Vienna-Pannonian Railways announced yesterday that after a full year of maintenance, the "Danube Dawn" will officially resume service next Wednesday. The new train is said to drastically reduce travel time between Istanbul and Vienna, strengthening connections throughout the Danube region. Rumors, of course, soon followed. An engineer—who wished to remain anonymous—claimed that the train's remarkable performance might not be entirely due to human work. He reported glimpsing peculiar, Critter-like entities near the engine room and wheel bearings, somewhere between a beetle and a firefly in size, dark brown in color, with two slender antennae that glowed faintly red. The workers nicknamed them **"Scarlet Nightmares."** "They seem... very fond of staying close to the engines," he said. "When the machinery runs smoothly, they're lively; when it doesn't, they bunch together and start ... glowing, bright red." Vienna-Pannonian Railways declined to comment. However, several arcanobiology enthusiasts have suggested that these beings are far from ordinary Critters. They might, in fact, be familiars of vampires—social, volatile creatures said to feed on **the blood of laborers**. "This **isn't a metaphor**," they insisted. "**It's real**." "People have long said the disappearance of the 'Danube Dawn''s former conductor was connected to a vampire. Now these Critters show up, and somehow it's the same story again ... maybe the train itself is a familiar of the vampires ..." "Hah! If tickets weren't sold out, I'd get on board myself, maybe even catch a few to show everyone!" "Don't joke about that ..." ... Whether the so-called "vampire familiar theory" holds any truth or not, the "Danube Dawn" will depart on schedule. Will it truly reshape the Danube region's transport network as promised by Vienna-Pannonian Railways? Has it truly been touched by supernatural power? Only time will tell.
 
-- Description：Sometimes rigorous reports and alley whispers are one and the same.
-- Action：Read
 
 
 ---
@@ -3141,8 +3129,6 @@ Passenger Information Log
 
 ... **Sonya, 60 years old** A noblewoman, sharp-tongued and fussy, seemingly fleeing from the war. Sixty years of pride might have made it hard for her to face reality. She was supposed to travel with her butler, but tickets for the "Danube Dawn" were nearly impossible to get. It seems war treats nobles and commoners alike, or perhaps her family's status isn't quite as lofty as she makes it seem. After ten minutes of complaining about having to travel alone, with no butler to set her table or press the creases from her skirt, she finally boarded by herself. Do people really spend their whole lives learning to place their cutlery at a perfect forty-five-degree angle? In any case, she's the archetype of a noblewoman straight out of an oil painting, gown in hand. Let's hope that on her road of escape, she learns what the world is really like. ...... ... **Arbuthnot, 45 years old** Middle class. A decent, respectable gentleman. Nothing remarkable about his demeanor—just an ordinary man who fits neatly into his social standing. A businessman with investments in Eastern European railways and oil. Vital infrastructure and strategic resources. He's well-connected and has an eye for opportunity. The war cost him dearly, and he worries for his future. Special times demand special measures. What troubles him isn't death or hunger—it's the thought of losing a life of luxury forever. ...... ...
 
-- Description：A skilled investigator learns the most from the fewest words.
-- Action：Check Note
 
 
 ---
@@ -3915,8 +3901,6 @@ The "Danube Dawn" — Rumor 2
 
 Passengers from Car No. 3 often come to me with their troubles—not over the tasteless stew or the unbearably chilly nights, but a sound: a crying that seeps through the partitions and burrows straight into the brain. It feels as if the train itself has come alive, endlessly recounting all the pain its body has endured through the years. And so, tonight at 11:51 p.m., I went to Car No. 3, sat by the window, and quietly waited for the "cry" to come. When the hour and minute hands aligned, I heard it—that delicate, indescribable rhythm. The tone rose and fell, turning in on itself, resonating at a frequency barely perceptible. To me, it was more like a ... song, one that no throat could ever produce—something primal, pure, flowing unconsciously from the soul. Once the word "song" took shape in my mind, it stirred a memory. Along the Danube, there is an old legend of "the Song of the Spirit." They say it is the most beautiful melody ever imagined by humankind, able to pass through any physical barrier and reach the listener's innermost consciousness. Could what I heard be that very song? Or was it the faint cry for help from the frail former conductor, Hermann, his decayed vocal cords vibrating through **some supernatural force**? Then, **without the slightest warning**, the singing stopped. The carriage sank into an absolute, suffocating silence ... as though the "Danube Dawn" itself, along with every living and dead thing within its belly, was holding its breath ... waiting for an unseen baton to fall again, or for whatever the song had briefly subdued ... to reawaken. — UTTU Editor: Verity
 
-- Description：Who hums a lullaby for the midnight train?
-- Action：Check Note
 
 ### Trail · Call of the Blood Moon
 
@@ -3930,8 +3914,6 @@ Nameless Nursery Rhyme
 
 Listen, the wind is wailing in the distance. Look, the crimson moon is rising into the sky. Child, don't linger here. Don't touch the berries wet with dew. For that tempting red hue already carries the smell of rust. ... Listen, the wind weaves endlessly through the forest. Look, the bloodthirsty heralds wander here, their forms faint and shapeless. They have no hearts, no shadows, no bodies, only blood-red lips, blood-red eyes, and blood-red fangs. They will use those fangs to suck your little fingers, as if they were the ripest berries ...
 
-- Description：The true madness lies elsewhere.
-- Action：Listen to the Song
 
 
 ---
@@ -4451,8 +4433,6 @@ With a wink and a lazy stretch, he trails after the conductress, out of sight.
 
 END OF DIALOGUE
 
-- Description：Recalling the past is the simplest way to hurt yourself, so I never do.
-- Action：Listen to the Past
 
 
 ---
@@ -4762,8 +4742,6 @@ Something's seriously wrong with her ...
 
 END OF DIALOGUE
 
-- Description：One destination. Ten thousand paths.
-- Action：Discuss
 
 
 ---
@@ -5323,8 +5301,6 @@ His blood-red eyes gleam with unfathomable danger.
 
 END OF DIALOGUE
 
-- Description：You don't understand. He doesn't understand. No one does. We all drown in our own confusion.
-- Action：Listen intently
 
 
 ---
@@ -6724,8 +6700,6 @@ The Infected Transformation Experiment Record
 
 No.██ Date: ████.██.██ Recorder: / 1. Objective: To study the effects of specific environmental stimuli, (particularly audio patterns, i.e. "the Song"), on the blood samples of the Infected, with a focus on their temporary mutation and fusion behavior. 2. Method Summary: · Collect four samples each from arcanist subjects (Group B) and human subjects (Group C), forming one experimental unit. Three units per group are used as control and stimulus sets. · Acquire high-activity vampire blood samples (Group A). · Under █████ conditions, expose Group B and C to Group A to █████. · Introduce "the Song" as the primary stimulus source. · Monitor Groups B and C in real time for changes. ... ......... 4. Key Observations (Experiment Iterations 7–██): · Temporary Fusion and Mutation: Recipient samples (Groups B and C) exhibited the base arcanum traits of the source vampire post-fusion, confirming transformation into the Infected. · "Song" Effect: Confirmed that exposure to "the Song" significantly increases transformation probability. (Fusion rate averaged █.█% without stimulus, rising to ██.█% under stimulus.) · Extreme Rejection Response: All test subjects died rapidly following successful fusion and manifestation of ability. ...... ... Note: Research will and must continue. If this succeeds, we may be able to turn ordinary humans into arcanists.
 
-- Description：He'll swear to you it's just a small sacrifice for a greater cause.
-- Action：Check records
 
 ### Trail · Bad Luck
 
@@ -6739,8 +6713,6 @@ Blood-Stained 0073-MV
 
 Mission Number: 0073-MV Date: ████.██.██ Got the file on the new colleague today—Semmelweis. According to her record, she's a sharp, calm, and reliable investigator. With her joining us, this "odd" case should go a lot smoother. Still, before she arrives, Squad 77 has to do its part—at least handle the groundwork properly. Can't have her looking down on us. I think I've got a lead. Been stationed here for a while, and I keep hearing rumors about that so-called mystic train. You'd be hard-pressed to find another line with so many vampire stories attached to it, unless you're in one of ████'s horror novels. The conductress never replies to our messages—not to inquiries, columns, or even official investigation requests. Highly suspicious. On my list, that puts it right at the top—extremely, ridiculously suspicious! (Suspect there's a syntax error here. Recommend revision before submission.) (I struck out your irrelevant rambling. Why do you always fill task logs with random digressions and pointless jokes?) (Okay, fine. Thanks. But you know this is just a draft — I'll rewrite the official report later.) (Then stop wasting the report forms. I couldn't even find a blank one last time and had to draw the format by hand ... I'll stake out the station tomorrow and see what I can learn about this "Danube Dawn.") Date: ████.██.██ Did we just hit the jackpot? Officer Pyrrhos from the Nika checkpoint invited us to "talk." Guess our "covert" investigation wasn't so covert after all—or maybe the man's just sharp as hell. After getting the invite, first thing I did was review our recent operation. I wouldn't say flawless, but definitely clean ... Uh, in the formal report maybe I'll write that we "intentionally leaked intel to lure them in." Depends how it plays out. Anyway, is it trap or cooperation? We'll only know once we go. Damn, I'm actually nervous. But the invite was polite ... and honestly, our investigation has been stalling. So yeah, let's go! I'm a proud member of Squad 77! My record's just as good as Semmelweis's, I'm just terrible at paperwork! Date: ████.██.██ Warehouse address: ████████████ stench heavy blood ████████ Invited by Officer Pyrrhos of Nika checkpoint we ███ him ████████ he's behind me he's searching ███████ this crate is a terrible hiding spot ████
 
-- Description：Before a mission, I like to line up every god I know and pray to them all.
-- Action：Check Note
 
 
 ---
@@ -7070,8 +7042,6 @@ An Ordinary Yet Unordinary Story
 
 Today's tale doesn't start with "once upon a time." It begins in "a quiet, ordinary village." In that village lived an equally ordinary little girl whose father was a vampire. But unlike him, she didn't live apart from humans. She felt a natural fondness toward both humans and arcanists. Perhaps because she was a hybrid—an "impure" half-vampire? In any case, for a long while, the girl lived peacefully with her parents. Until a shell fell. Yes, war. Again. War brings death, and death spreads. Her family didn't escape it; one by one, they died. Only she and her uncle survived, wandering endlessly. But shells don't discriminate. Human, arcanist, vampire, or half-breed—none are spared. The girl was wounded. How badly? No one knows. Severe enough that she nearly died. Her uncle wanted to save her—his only remaining family. Even if it meant making a deal with the devil, he would. He carried her to an old castle. Its mistress, as all stories go, was powerful and mysterious. She healed the dying hybrid girl. The price—if it could even be called that—was an overactive regenerative power that let her recover from any wound with ease. Since then, the girl's body has always been wrapped in bandages.
 
-- Description：Not everyone's life makes a good story. Most of us live inside third-rate novels.
-- Action：Read Story
 
 
 ---
@@ -7305,8 +7275,6 @@ To the UTTU Editorial Team
 
 Dear colleagues, Regarding Corvus, the conductress of the "Danube Dawn." As you all know, she was once one of us and my most trusted partner. Thus, for personal reasons as well as curiosity, I have attempted to glimpse traces of the partner I once knew. I must admit, she's changed. There is barely a trace of the person I remember. The glimmer in her eyes remains, yes, but where that gaze now falls ... no longer has anything to do with me. Still, in a way, our destinations aren't all too different. For that reason, I still cherish this brief journey we now share. As for Ms. Pandora Wilson, it's been some time since she vanished. Since then, I've found it difficult to sense her through the wind. It's as if some unseen force quietly erased every trace of her. Yet lately, I've faintly detected something ... an echo which mimics the wind. I have tried many times to reestablish contact, but I've received no response. Even so, I still believe she is out there somewhere. Despite this, UTTU continues to publish articles in her name and tone. I understand why. Losing her would mean losing the very spirit of UTTU—something none of us could bear. That is why I took it upon myself to handle external correspondence under her name. Yet, the unease lingers: we are all trying to imitate her—her style, her rhythm, the way she thought, the words she might have written ... but none of us truly understand the meaning behind them. For me, this imitation is like calling out a name in the dark, over and over again, knowing it will never answer back. As for the strange happenings aboard the "Danube Dawn" and the many details pertaining to vampires ... I will explain everything in full once I have alighted. Verity, UTTU Editor Written aboard the "Danube Dawn"
 
-- Description：Countless threads shake with the "wind," both within and beyond the "net."
-- Action：Open the Letter
 
 
 ---

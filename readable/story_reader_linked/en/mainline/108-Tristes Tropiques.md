@@ -46,6 +46,12 @@
 <!-- reader-body:start -->
 Lopera: Cowards, mutineers, traitors!Lopera: You've made your choices; now you'll learn the consequences.Lopera: Zeno never forgives!Lopera: Attention! Ready, aim—Lopera: Fire!
 
+
+
+> **Title card：** Tristes Tropiques
+
+> **Title card：** Unshakable Justice
+
 **Lopera:** Cowards, mutineers, traitors!
 
 **Lopera:** You've made your choices; now you'll learn the consequences.
@@ -215,192 +221,13 @@ He seems resigned. Zeno is just like this dilapidated base, a weakened shadow of
 **Admiral Igor:** Thank you.
 
 **Admiral Igor:** I should return to my work. Your comrades should be waiting for you in the meeting room with Lieutenant Moldir.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Facing the firing squad, you must hold onto your dignity, even as a traitor.
-
-> **Title card：** Tristes Tropiques
-
-> **Title card：** Unshakable Justice
-
-**Lopera**：Cowards, mutineers, traitors!
-
-**Lopera**：You've made your choices; now you'll learn the consequences.
-
-**Lopera**：Zeno never forgives!
-
-**Lopera**：Attention! Ready, aim—
-
-**Lopera**：Fire!
-
-> **Title card：** Zeno Base
-
-**Admiral Igor**：A shame you had to see all that.
-
-**Admiral Igor**：Our Second Lieutenant Lopera is a crack shot. I trained her to be nothing less. Yet, no soldier of Zeno would take pride in an execution.
-
-**Admiral Igor**：The burden falls on me. This was my fault, my negligence.
-
-The soldiers collapse, their limp bodies falling among the weeds.
-
-Their blood stains the soil.
-
-**Admiral Igor**：She hunted down these traitors herself.
-
-**Lopera**：M.E., check the bodies.
-
-**Lopera**：The rest of you, form up!
-
-The soldiers leave in formation amid the clearing smoke as the medics arrive to examine the deceased one by one.
-
-Lopera hands the rifle to the attendant, removes her gloves, and turns to face Admiral Igor. He stands in the shaded colonnade, away from the blazing sun of São Paulo.
-
-**Lopera**：Orders completed, Admiral.
-
-A rare smile flashes across the admiral's face.
-
-He nods, a glimmer of approval for his adopted daughter in his eyes.
-
-**Admiral Igor**：Well done, dismissed.
-
-Lopera salutes before following the soldiers away from the execution grounds.
-
-**Admiral Igor**：There have been too many accidents—an unacceptable rate.
-
-The admiral's face shows discomfort. The recent soldier desertions, like the leaked footage, have exposed the embarrassing state of the Zeno army.
-
-**Lilya**：What reason could you have to kill your own men?
-
-**Admiral Igor**：Not our men. Not any longer. They mutinied and killed their superior officer.
-
-**Lilya**：So they got what they deserved, then.
-
-**Admiral Igor**：Lieutenant Moldir is investigating still. We will find out who else was involved.
-
-**Admiral Igor**：The Apostles Brotherhood is back. We suspect they may have even infiltrated our base.
-
-**Admiral Igor**：We've also received intel indicating Manus Vindictae's presence in São Paulo.
-
-**Vertin**：Manus Vindictae?
-
-**Vertin**：I'm not entirely surprised. Intelligence suggests they are closely associated with the Apostles Brotherhood.
-
-**Vertin**：What I hadn't expected is that they would drop their "Order of Enlightenment" guise so soon.
-
-**Vertin**：But Arcana is dead.
-
-**Admiral Igor**：There is no room for doubt. No one, nothing, could survive a vacuum bomb.
-
-It was the admiral's personal order to annihilate that once formidable woman. Destruction rained from the sky, and once the dust settled, it was clear that she had been utterly obliterated.
-
-The sun glistens in the pooling blood of the executed traitors.
-
-**Vertin**：Hm ...
-
-Sweat gathers on her forehead.
-
-**Admiral Igor**：You will become used to the tropical sun in São Paulo.
-
-**Vertin**：...
-
-The early summer heat here is overwhelming.
-
-**Lilya**：I've been through a lot worse.
-
-**Lilya**：Snowy mountains, deserts, and soaring eagles.
-
-**Admiral Igor**：I, too, find myself thinking back to those times.
-
-**Admiral Igor**：It should never have been a battleground.
-
-**Admiral Igor**：Our business here is concluded. Timekeeper, Lieutenant Lilya, let us continue inside.
-
-**Lilya**：Do you really need me in there, Captain? Otherwise, I'd like to hang out here for a bit.
-
-She gulps down some sweet liquor, but it provides little succor. It lacks the frosty flavor of the north.
-
-This drink is lethargic, but it's all the base has to offer.
-
-In São Paulo, soda is cheap, but rum is cheaper—and in near endless supply.
-
-**Lilya**：I'll check on Sotheby. See you both later, bye!
-
-**Admiral Igor**：Dismissed, soldier, but I caution you, much has been abandoned here. Remember our rules and keep to within the guarded areas.
-
-> **Title card：** Igor's Office
-
-A simple office. Military papers litter the walls and shelves, and a phone sits on a side table. A few dice are scattered casually on the desk.
-
-**Admiral Igor**：There may be a person of interest to us nearby, a writer for the UTTU Magazine, said to be a blind woman named Urd. Her works seemed to be published after every era the "Storm" has affected.
-
-**Admiral Igor**：It could be this is only an alias, a pen name used by a new person each time, or—
-
-**Vertin**：Or could she really have crossed the "Storm" eight times?
-
-**Vertin**：And, somehow, the "Storm" has never affected her?
-
-**Vertin**：Ms. Barbara provided us with some information.
-
-**Vertin**：She said the latest piece was sent from a Veterans' Residence in São Paulo.
-
-**Admiral Igor**：I understand they have a doctor working there, a blind woman. If so, she would match our intelligence on this mysterious UTTU writer. You should seek her out.
-
-**Admiral Igor**：You are fortunate to have come now, Timekeeper. Carlos, the late commander here, was something of a pain to work with. An idiot. Maybe this is why his own men rose up and killed him.
-
-He turns away.
-
-**Vertin**：...!
-
-**Admiral Igor**：We've already dispensed with most of them.
-
-**Vertin**：Those men you just had executed?
-
-**Admiral Igor**：Yes. Lopera raided one of their locations. Manus Vindictae will not be so happy to hear that, I think.
-
-**Admiral Igor**：She was, I'm told, excessive in her work, a "loose cannon," but I am pleased with her results.
-
-He seems to hold Lopera in high regard.
-
-Cold, ruthless, decisive—qualities that don't quite match her sweet face and fiery orange hair.
-
-**Vertin**：Admiral, with you in charge here now, I thought I might ask a favor.
-
-She needs to familiarize herself with the local area, transportation, and intelligence.
-
-**Vertin**：Things may become quite complicated during our visit to São Paulo. I wonder if I might request Zeno spare some manpower to assist us.
-
-**Admiral Igor**：Our situation is more dire than expected. I will see what can be done, Timekeeper. But, no promises.
-
-The seventeen towers and twenty-two courtyards of the base were once all fully patrolled, but now most of them are abandoned.
-
-**Admiral Igor**：Lieutenant Moldir will provision you with everything you need.
-
-**Admiral Igor**：And Lopera, she knows São Paulo well. You may take her with you, as a guide.
-
-The admiral has offered all the assistance he can spare. He sighs at the state of the base.
-
-**Admiral Igor**：Now, Timekeeper, there is also something you might do for me.
-
-He seems resigned. Zeno is just like this dilapidated base, a weakened shadow of its former self.
-
-**Vertin**：As long as it's within my power, Admiral.
-
-**Admiral Igor**：I see that you have one of ours with you, Lieutenant Lilya—I ask that she serve us for the duration of your mission here. She is a fine instructor, and Zeno is in need of help training our latest recruits.
-
-**Vertin**：I'll speak with her and see what she thinks.
-
-**Admiral Igor**：Thank you.
-
-**Admiral Igor**：I should return to my work. Your comrades should be waiting for you in the meeting room with Lieutenant Moldir.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Instructions in Advance
 
@@ -414,8 +241,6 @@ I Am Venturing Out!
 
 Greetings! By the time you read this letter, I will already be on an auto island far out at sea. Oh! Please don't misunderstand, I adore your company, especially the hallway walking parties at 3 a.m. Though I do love all parties, walking parties are a particular treat, but unfortunately, The Lady's Code of Conduct dictate that I should be sound asleep by 9 p.m. What a pity. Also, please tell Ms. Moissan not to worry! I'm not adventuring alone; miss Vertin is also going on a trip to the legendary El Dorado. The City of Gold! Magic, gold, and even bouncing coffee beans! I can't wait to talk to the locals about potential invigorating potion recipes! Speaking of invigorating potions, now everyone can become a brewing master! All it takes is a cup of coffee, and before drinking, add three grams of gold, and voilà, you've got an invigorating potion! I've already prepared the ingredients—the gold is on the table! And thanks to the automatic coffee drip-beast in the lounge, we're saved from the hardest part—making coffee! And do look forward to the special gifts I'll soon bring back! Sincerely, Sotheby
 
-- Description：A joyful goodbye letter, a solid paperweight.
-- Action：Move the Paperweight
 
 
 ---
@@ -885,6 +710,10 @@ The two of them are met with a cold look from the admiral.
 <!-- reader-body:start -->
 Meeting Room
 
+
+
+> **Title card：** The Minotaur
+
 **Admiral Igor:** Lieutenant Moldir, about time. What was it? Did you stop for a picnic?
 
 A scalding comment.
@@ -1090,226 +919,13 @@ The wooden door creaks open a little, allowing an insect to fly in through the g
 Inside the tower, the sole prisoner has been quietly listening to their conversation: There's a ship leaving tomorrow morning.
 
 As the footsteps trail off, she gently pushes the door. The seal is indeed gone. She's free.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Following the thread's guidance, she finds the way out.
-
-### Segment 1 · `script 100803`
-
-> **Title card：** The Minotaur
-
-> **Title card：** Meeting Room
-
-**Admiral Igor**：Lieutenant Moldir, about time. What was it? Did you stop for a picnic?
-
-A scalding comment.
-
-Moldir was supposed to be taking care of Ms. Sotheby. It seems she has abandoned her duties.
-
-**Moldir**：Admiral, I ...
-
-**Admiral Igor**：Save your excuses.
-
-**Moldir**：Yes, sir!
-
-**Lopera**：It was my fault, Admiral. I ran into her on our way here. It's been a while since we last saw each other.
-
-As her father glares at her, she quickly realizes that her attempt to cover for her sister is only making things worse.
-
-**Vertin**：Your performance on the training ground earlier was most impressive, Ms. Lopera.
-
-She breaks the awkward silence.
-
-**Vertin**：Allow me to introduce my team. This is Ms. Sotheby.
-
-Sotheby smiles and curtsies.
-
-**Vertin**：And this is Lieutenant Lilya.
-
-She gives a brief salute.
-
-**Lilya**：How's it going? I was previously assigned to HQ.
-
-**Admiral Igor**：It seems your assignment here has done little for your discipline, Lopera.
-
-The admiral stands with his hands behind his back. He examines his undisciplined daughter, a grim look on his face.
-
-**Admiral Igor**：You have new orders. I am assigning you to accompany the Timekeeper and her team to São Paulo for the duration of their mission.
-
-Lopera nods, but Lilya still has questions.
-
-**Lilya**：Me and Lopera? That's a whole lot of firepower. What are we expecting during this mission?
-
-**Vertin**：Oh! Sorry, Lilya. I haven't had the chance to speak with you privately. The Admiral asked if you could stay on site to help with training their new recruits.
-
-**Vertin**：What do you think? You can do as you wish.
-
-**Lilya**：Training up some new blood, eh? Well, as long as you think you can handle things without me, I can stick around to lend a hand. It'll be just like the good old days back at the academy.
-
-She knows that this isn't a request but an order.
-
-**Admiral Igor**：Thank you, Lieutenant.
-
-He nods and smiles in thanks. His smile fades as he turns to his youngest daughter.
-
-**Admiral Igor**：As for you, Lopera ...
-
-**Admiral Igor**：Please show our guests to their rooms, and try not to over-exert yourself.
-
-Orders have been given to everyone present.
-
-**Admiral Igor**：Lieutenant Lilya, stay for a moment.
-
-**Admiral Igor**：Lieutenant Moldir will bring some documents shortly; they should prove useful for your assignment.
-
-Moldir, briefly out of the admiral's sight, shrugs helplessly as her orders start to pile up.
-
-Lilya gives her a knowing smile. It's always like this. It's just part of the job.
-
-**Admiral Igor**：Now, I have other business to attend to. If you'll excuse me.
-
-He turns and leaves, his imposing figure soon disappearing from sight.
-
-Lopera exhales a long breath, snaps her fingers, and smiles as she heads toward the door. She turns to her guests.
-
-**Lopera**：Come on, let's go. I'll show you around. But stay close. This base can be a bit of a labyrinth. It's only missing a bloodthirsty minotaur lurking its halls. Well, I haven't seen him yet, anyways.
-
-> **Title card：** Zeno Base
-
-**Lopera**：The base here has been understaffed for some time; whole sections are deserted—it can be dangerous. We don't usually allow guests to move about freely.
-
-**Lopera**：Well, who am I kidding? We don't have any guests in the first place. Who'd come here for a visit?
-
-**Lopera**："Scenic views of dead gardens and overgrown brush. In the spring we have vine-tripping competitions, and in the summer you can be part of our complementary bug buffet!"
-
-**Lopera**：Even the farmers back home had it better than this.
-
-She leads the way, chewing on a piece of wolf's-tail grass.
-
-**Lopera**：Before Zeno moved in, this was the fort of some Lisbon aristocrat.
-
-The shadows of the old continent are everywhere here, the ghosts of the 18th century still clinging to every mark on the marble columns.
-
-**Lopera**：There's only one place fully off-limits here: that tower.
-
-She points to a tower in the distance.
-
-Styled after Andalusian architecture, it stands ominously under the scorching sun, looming over the base with an eerie intensity.
-
-**Vertin**：What's in there?
-
-**Sotheby**：It must be the minotaur's lair!
-
-**Sotheby**：Or a secret lab for super soldiers!
-
-Sotheby's imagination is running wild again.
-
-**Sotheby**：Imbued with the strength of an ox, the wits of a man, and the wings and fiery breath of a dragon!
-
-**Lopera**：Miss, this is a Zeno base, not some chimera's nest.
-
-**Lopera**：Besides, if there were any monsters in there, I would have heard them by now.
-
-**Vertin**：Were those the Admiral's exact words? That nobody is allowed "inside" the tower?
-
-**Lopera**：Yeah, that was what he said: "Under no circumstances is anyone to be allowed inside."
-
-Then a quick peek around wouldn't exactly violate the letter of that order.
-
-**Sotheby**：Ms. Vertin, are you thinking what I'm thinking?
-
-Is there treasure inside the tower?
-
-**Lopera**：Let me say this again: There are no monsters in that tower.
-
-**Lopera**：And I am under orders to escort you directly to your rooms.
-
-She blinks. Clearly, curiosity isn't only in the hearts of these new guests.
-
-**Lopera**：But if we were to, say, walk a bit too close, and "accidentally" provoke some nearby critters ...
-
-Mischievous critters often wander into the courtyards, and these ones have appeared just in time.
-
-**Sotheby**：Oh! How terrible! It seems trouble has found us!
-
-### Segment 2 · `script 100804`
-
-**Sotheby**：They gave me quite a start! Thankfully, they were easy to handle.
-
-**Lopera**：We can't let them run off. Who knows what damage they could do?
-
-Lopera chases after the fleeing critters, who just so happen to be heading in the direction of the tower.
-
-It is nothing more than a coincidence.
-
-The half-hour-long game of "tag" finally comes to an end.
-
-**Sotheby**：Now where could they have gone?
-
-She searches for the colorful critters, a serious look on her face. In her concentration, she bumps into a wooden door flanked by lemon trees.
-
-**Vertin**：It may well be possible they fled into the tower.
-
-The door stands at the base of the tower.
-
-**Vertin**：Is this the entrance?
-
-**Lopera**：Timekeeper!
-
-Clearly, this door is not supposed to be opened.
-
-**Lopera**：My father, the admiral, he won't be happy with this.
-
-The sight of it is tantalizing. Just a touch, and it will swing open, revealing all the mysteries within.
-
-**Sotheby**：But why? Is there something hidden inside?
-
-Claw marks line the wall, and blood stains the door—rabbit blood, bull blood, unblessed lamb blood.
-
-The wind stirs the lemon trees, filling the air with the faint scent of bay and myrtle.
-
-**Vertin**：There's an arcane array on the door.
-
-**Vertin**：Is it to stop us from entering, or to keep what's inside from coming out?
-
-The arcane array looks ancient. It has weakened with time.
-
-She traces the markings with her fingertips. The blood flakes off, breaking a small gap in the array.
-
-**Lopera**：I have no idea. We're soldiers, we "follow orders, no questions." As my father would say.
-
-**Lopera**：With all the flooding we've had, they probably shoved everything they wanted to keep safe and dry in there.
-
-**Moldir**：Lopera!
-
-Moldir rushes from behind, putting an end to their little "accidental" adventure.
-
-**Moldir**：You get lost on your way to the guest rooms, Pera? You know better than to be here.
-
-**Moldir**：Your ship will be leaving early tomorrow morning. Please return to your rooms and get some rest.
-
-**Moldir**：This is a military base, not an amusement park. Please, do not wander about, especially near restricted areas.
-
-**Vertin**：My apologies, Lieutenant. Perhaps you could point us in the right direction?
-
-She steals one more look at the tower as they leave. The fruits on the lemon trees are plump and juicy. The old beast-blood array appears dark in the sunlight.
-
-The wooden door creaks open a little, allowing an insect to fly in through the gap.
-
-**???**：The seal ... it's gone.
-
-Inside the tower, the sole prisoner has been quietly listening to their conversation: There's a ship leaving tomorrow morning.
-
-As the footsteps trail off, she gently pushes the door. The seal is indeed gone. She's free.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Same as Before
 
@@ -1323,8 +939,6 @@ Transfer Notice
 
 After discussions at the headquarters and based on the current global situation and the conditions of each branch, the following transfer notices are officially announced: The Texas base will be abandoned and all personnel evacuated. Comrade Igor will be transferred to the Zeno-Brazil branch to succeed General Carlos as commander. All other branches will remain unchanged. This transfer notice is official and has been approved by the Pax Security Council, effective immediately. 1990.9.22
 
-- Description：The world is changing so quickly that even a tortoise has to pick up the pace.
-- Action：Read
 
 
 ---
@@ -1336,6 +950,10 @@ After discussions at the headquarters and based on the current global situation 
 
 <!-- reader-body:start -->
 Zeno Base
+
+
+
+> **Title card：** Riptide
 
 A journey always starts with a farewell.
 
@@ -1546,232 +1164,13 @@ She reaches out and pinches Sotheby's cheek.
 Kimberly smiles, as if she has shed the baggage of their previous encounter, and disappears into the crowd.
 
 There's an old legend told in the desert peninsula: encountering a demon is always a sign of bad things to come.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Then, your life is handed over to the river, and you are forced to struggle against the current.
-
-> **Title card：** Riptide
-
-> **Title card：** Zeno Base
-
-A journey always starts with a farewell.
-
-**Moldir**：Here, put this on, Pera. It will allow me to track you should anything happen.
-
-She fastens a small button to her sister's collar.
-
-This button connects the two of them tightly. With this, they will always be able to find each other, no matter where they are.
-
-They kiss on both cheeks.
-
-**Moldir**：You'll remember to bring Father a souvenir this time, yes?
-
-**Moldir**：And promise me you'll be careful. I do not wish for our Pera to "buy the farm" just yet.
-
-**Lopera**：Don't worry about me, Molly. Worry about them.
-
-**Lopera**：I'll kill them all, if I have to. Every last one.
-
-She makes sure to emphasize the totality of her determination.
-
-**Lilya**：Alright, alright, enough blabbering. Do you two always share these little heart-to-hearts whenever you leave? I got nothing to say 'cept "bye."
-
-**Lilya**：Or is the tortoise suddenly not so worried about its speed?
-
-The ship signals its imminent departure.
-
-**Vertin**：Sotheby, do we have everything?
-
-**Sotheby**：Naturally! Ms. Sotheby is always ready to travel!
-
-**Moldir**：The ship is boarding now. After it departs, I will spend some time gathering intel on Mr. Duncan.
-
-**Vertin**：Thank you.
-
-**Lopera**：We should be able to find him in the flesh once we get to town. Duncan and I go way back, hahaha!
-
-**Lopera**：And I'll introduce you to another friend. She lives in a bottle.
-
-**Vertin**：I'd be delighted to meet your friends.
-
-**Vertin**：We should be going now.
-
-**Vertin**：Lilya, I've told Admiral Igor that he can rely on you for further assistance as necessary. Is that alright with you?
-
-**Lilya**：Yeah, I'll do whatever needs doing.
-
-**Lilya**：Have a good trip!
-
-> **Title card：** Igor's Office
-
-Having seen off their guests, Lieutenant Moldir returns to the admiral's office to report an incident from the previous night.
-
-**Moldir**：Admiral, a prisoner has gone missing from the tower.
-
-She lowers her head as she awkwardly delivers her report.
-
-**Moldir**：We'll make sure it's kept under wraps.
-
-**Moldir**：The seal was broken, and we're still investigating who might have been involved.
-
-**Moldir**：I did encounter the Timekeeper, Ms. Sotheby, and Lopera near the Tower yesterday. Still, I see no reason to suspect them.
-
-They were the only people she saw near the tower yesterday.
-
-**Admiral Igor**：...
-
-**Admiral Igor**：The Timekeeper doesn't have any incentive, and Lopera—No, she wouldn't be involved.
-
-Until last night, the tower held a single unlucky prisoner—a lamb to the slaughter, a stalk of wheat in autumn. But now she has gotten away.
-
-**Admiral Igor**：Find the prisoner, but don't attempt recapture. Let's see who she's been in touch with.
-
-**Moldir**：Understood.
-
-**Admiral Igor**：Lieutenant, this was a failure that must not be repeated.
-
-He grits his teeth as he stares at the map before him. Zeno shouldn't be like this.
-
-> **Title card：** Aboard the "Alligator"
-
-The ship departs, and before long, a dozen rowboats have surrounded it.
-
-**Sotheby**：Oh, look at those strange cowboys! What are they doing with those hooks? Are they trying to hitch a ride?
-
-**Lopera**：Yes, they will use those hooks to grab onto the side of the ship and moor their boats to ours.
-
-Just as she said, the boats throw their hooks, latch onto the ship, and a number of people clamber aboard.
-
-They're traders hawking homemade trinkets. Lopera politely declines them all.
-
-**Lopera**：Take this, Timekeeper.
-
-**Vertin**：What's this?
-
-**Lopera**：Just a map, in case we get separated.
-
-The map is marked with at least three "safe routes."
-
-**Lopera**：This will show you the way from the harbor to the Veterans' Residence. Though, it can't show you the safest way. For that, you'll need me.
-
-**Lopera**：But what am I saying? São Paulo is perfectly safe! That's what the politicians say anyways, never mind the talk of gangs, cartels, and greedy multinational corporations—pure slander.
-
-**Vertin**：Thank you for the warning, and the map. Let's hope I won't find any occasion to use it.
-
-**Lopera**：I hope so, too. Well, we have a long cruise ahead. I'll leave you to your business. See you.
-
-She waves goodbye, making her way through the energetic traders and to the other side of the deck.
-
-The traders scamper around like little mice. Having made their sales, they're now scrambling to get a plate of food from the chef.
-
-**Vertin**：So, the kitchen even prepares food for them.
-
-**Chef**：No line-cutting! You, boy, back to your place!
-
-**Chef**：Queue up, or there will be no dinner for you tonight!
-
-The chef taps his metal spoon, sending the boy back to his place in the queue.
-
-The boy sneakily grabs a few flatbreads, tucks them under his shirt, and scurries away.
-
-**Sotheby**：Ah!
-
-He bumps into Sotheby, crashing to the floor along with his "stolen goods."
-
-**Young Vendor**：Ei, out of my way!
-
-He stuffs the bread under his shirt again before running off. As he passes, Sotheby notices a glint of an arcane skill in his eyes.
-
-He runs like a child enchanted by the Rattenfanger as he bolts toward a corner of the cabin.
-
-**Sotheby**：Ms. Vertin? Did you notice that boy? Wasn't he awfully strange?
-
-**Vertin**：You're right. Come on, let's go see what he's up to.
-
-A woman hides in the shadows.
-
-Her face is familiar, but she wears an entirely new outfit.
-
-Is it really her? The lady at Tuesday's Motel?
-
-**Vertin**：It's you!
-
-The bread-stealing child is gone.
-
-Instead, Ms. Kimberly is curled up in the corner, stuffing bread into her mouth with both hands.
-
-She stops and looks up, surprise in her eyes.
-
-**Ms. Kimberly**：Mm?! Oh, Vertin?
-
-**Ms. Kimberly**：How—What are you doing here?
-
-**Vertin**：I was about to ask you the very same question.
-
-The farewell at Tuesday's Motel last month wasn't exactly pleasant.
-
-But she looks starved now.
-
-**Sotheby**：Is this a new friend, Vertin? A pleasure to meet you!
-
-Sotheby approaches, but Kimberly looks terrified. She freezes, a sticky lump of dough dropping from the corner of her mouth.
-
-**Vertin**：Please, take this.
-
-She offers her a chocolate bar. After a moment's hesitation, Kimberly swallows, grabs the bar, and shoves it into her mouth.
-
-**Ms. Kimberly**：Th-Thank you ...
-
-She licks her fingers clean like a ravenous child.
-
-**Vertin**：Have you found what you lost since we last met?
-
-**Ms. Kimberly**：...
-
-Her face falls. It appears not.
-
-**Vertin**：Perhaps I could help.
-
-**Ms. Kimberly**：Thank you, but I would prefer to do this on my own.
-
-**Ms. Kimberly**：I was the one who lost it, and I will be the one to get it back.
-
-She's unwilling to cooperate, but there's no hostility.
-
-A strange and contradictory figure, an arcanist who seems to be on the verge of reformation.
-
-**Vertin**：This ship is headed to São Paulo. Is that where you're heading as well? Would you like to accompany us?
-
-**Ms. Kimberly**：São Paulo? I don't ...
-
-It's the ship's only destination. Where else could she go?
-
-**Ms. Kimberly**：There isn't anything for me there. Only a pit of misery and pain. There's no more dancing, no feasts or banquets. No—
-
-Her eyes dart away.
-
-"There's nothing there."
-
-**Ms. Kimberly**：No, I would rather we simply part ways here, Ms. Vertin! Farewell, and pleasant journeys—I'm indebted to you for your kindness.
-
-**Ms. Kimberly**：Ah, and your friend here ... Aren't you just a sweetheart? Oh, I could just gobble you up for tea!
-
-She reaches out and pinches Sotheby's cheek.
-
-**Sotheby**：Ah! Madam, please. You ... This simply isn't proper or ladylike.
-
-Kimberly smiles, as if she has shed the baggage of their previous encounter, and disappears into the crowd.
-
-There's an old legend told in the desert peninsula: encountering a demon is always a sign of bad things to come.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · The Price of Procrastination
 
@@ -1785,8 +1184,6 @@ Pending Documents
 
 · First official exchange report with the School of Apeiron Priority: Low, but please complete the registration of the arcanists from Apeiron as soon as possible. If the registration cannot be completed, please explain the reasons and provide relevant proof. · A detailed report of Apeiron's operations on the island. Priority: High, please prioritize completing the report on the joint operation with Zeno and a detailed account of Arcana's death. · Complete the application for the ship "APPLe III" and explain of its specific purpose Priority: Low, to be completed before the final deadline. ... · A detailed report on operations at the Green Lake Campsite Priority: High, please submit a complete account of the event to assist in the multi-party evaluation of the arcanist, Jessica. ... · Task handover procedures for Highway 77 Priority: Low, to be completed before the final deadline. · A detailed report on operations at Tuesday's Motel Priority: High, please submit a complete account of the event to assist in the multi-party evaluation of the arcanist, Tuesday. · Explanation of the safety of placing the uncooperative arcanist consciousness entity into the suitcase Priority: High, please submit along with the above reports ...
 
-- Description：Constant delay will not make the piles of documents disappear—eventually, someone will have to deal with them.
-- Action：Get Some Coffee
 
 
 ---
@@ -2283,8 +1680,6 @@ Special Incarceration Record
 
 Prisoner Name: Ms. Kimberly Detention Process: During the raid on the Apostles Brotherhood stronghold, the subject was found alone, gnawing on a turkey leg, and was apprehended by Lieutenant Lopera's team. After interrogation, it was confirmed that the subject was indeed a follower of Manus Vindictae, but she knew even less than a typical follower, did not participate in the local rebellion, and was not involved in General Carlos's assassination. Therefore, unlike other deserters, she will not be executed but held in custody, awaiting Admiral Igor's decision. Just leave her be for now.
 
-- Description：Some people end up in prison simply because of the wrong friends. Unfortunately for her, she didn't have much of a choice in the matter.
-- Action：Read
 
 
 ---
@@ -3417,6 +2812,10 @@ Life and Death in São Paulo
 
 —The Friend from Afar
 
+
+
+> **Title card：** On the Margins of Life and Death
+
 **???:** In the narrow streets, violence is so often more than just a means to ending conflicts. It is a tool, and one all too readily used.
 
 **???:** I must note, however, with some relief, that the segregation so commonly observed in other regions is absent here. The arcanists of São Paulo live alongside humans, with the latter often displaying traits more common to their arcanist neighbors—passionate, if a bit touchy.
@@ -3604,180 +3003,13 @@ The doctor speaks to herself, or perhaps in reassurance to the unconscious girl.
 Kimberly catches up to the doctor, only now realizing how far they've walked.
 
 She steps into the doctor's "home."
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** In the midst of such prolonged suffering, happiness feels as far away as the sun in the sky.
-
-> **Title card：** On the Margins of Life and Death
-
-**???**：In the narrow streets, violence is so often more than just a means to ending conflicts. It is a tool, and one all too readily used.
-
-**???**：I must note, however, with some relief, that the segregation so commonly observed in other regions is absent here. The arcanists of São Paulo live alongside humans, with the latter often displaying traits more common to their arcanist neighbors—passionate, if a bit touchy.
-
-**???**：Life here is incomparable to the comfort, security, and freedom of New England.
-
-**???**：Hardship, violence, and oppression are the fundamentals of life, as constant as the sun, and as heavy as the rain.
-
-**???**：This country is renowned for its coffee and sugar. It is a land of beauty and bounty, treasures too often extorted. Whether by the princes of Europe and their donatários, or now by the bankers and corporations.
-
-**???**：Despite all the centuries of treasures extracted from the land, desperation remains everywhere you look. It is a place where insurmountable wealth and the deepest deprivations are neighbors—sometimes they lie only a street across from one another.
-
-**???**：The multinationals have cut open the country's throat, and now they drink it dry—
-
-**???**：leaving the people struggling with poverty and chaos. It is a bleak existence.
-
-**???**：Dear readers, I share this with you, so the story of these people might be heard.
-
-> **Title card：** Favela
-
-The doctor sits by the riverside, a small group of children gathered around her. They watch in awe as her typewriter hammers the letters onto the page.
-
-**Doctor Dores**：Shippy, do you know, has life always been like this here?
-
-**White Rum**：If you ask me, Doc, São Paulo in 1990 isn't much different from Nassau, 1681.
-
-**Doctor Dores**：It's a shame. Between the sunshine and warm sands, there is a good life to be lived here, if only they were free enough to live it.
-
-The summer is long, just like the suffering of these people.
-
-**Doctor Dores**：I used to dream of traveling to all sorts of fascinating places.
-
-**Doctor Dores**：A foggy city by the Thames, and a little town blanketed in snow and sunflowers. I met so many different people, though I find I can no longer recall their voices, I have only their words left, only my records of them.
-
-**White Rum**：Have you heard of a weed down at the bottom of Lake Ilopango? The people there turn it into a polenta with cornmeal.
-
-**White Rum**：Supposedly, if you have it, you'd recall every last thing that's ever happened to you. Every bit of it!
-
-**Kid in the Favela**：Wow! What's the weed called?
-
-The children turn to the ship in the bottle, their eyes filled with curiosity.
-
-**White Rum**：They call it "La hierba del tonto," Spanish for "the fool's weed," ahahahaha!
-
-**White Rum**：You see, lad, only a fool would want to remember everything. Sometimes, a little forgetfulness is a blessing in disguise.
-
-**Doctor Dores**：I beg to differ, Shippy. To forget the past—its lessons, in pain and joy alike—that isn't a blessing. It's oblivion.
-
-**Doctor Dores**：But let's not argue over some mythical weed. For all the claims, no one has ever seen it, just another myth, like the succubus or the minotaur.
-
-**White Rum**：Aye, aye, let's talk about succubi instead. That's sure to get the lads pricking up their ears!
-
-At the mention of this, the little ship goes off again.
-
-**White Rum**：Back in '88, I mean 1688, of course, our chief mate, Mr. Morgan, had an encounter with a succubus after he found her seal while carousing in Porto Belo.
-
-**White Rum**：If the rumors tell true, once he got a hold of it, she grabbed a hold on him too. I couldn't say what transpired, but we never saw hide nor hair of him again.
-
-No one can debunk her stories, but no one really believes them either.
-
-The children's curiosity fades, and their eyes start to wander. One of them spots two "big fish" floating in the water.
-
-**Kid in the Favela**：Look over there! Something's in the water!
-
-Two figures float among the trash in the river, spluttering and choking.
-
-One is clinging onto the other as they struggle to swim to shore.
-
-**White Rum**：What the devil is all that commotion?
-
-**Vertin**：...
-
-**Ms. Kimberly**：Hey. Wake up.
-
-**Ms. Kimberly**：Hey, hey! Stay with me!
-
-**Ms. Kimberly**：Can you hear me? Hello?
-
-Kimberly pats her fallen companion's face.
-
-No response.
-
-**Ms. Kimberly**：She's still breathing. Why won't she wake up?
-
-**White Rum**：Oh. What happened to the lass?
-
-The little ship makes its way over, followed closely by the children and the doctor.
-
-Seeing the group of strangers approaching, Kimberly tenses up.
-
-**Doctor Dores**：Miss, are you alright? Is there anything we can do?
-
-**Ms. Kimberly**：Yes, I'm fine. Our ship went down.
-
-**White Rum**：Blow me down! These waters are getting rougher by the day.
-
-The little ship sways back and forth in its bottle, showing off its excellent condition.
-
-**Ms. Kimberly**：And we drifted down the river until we reached the shore here.
-
-A long way to go, only to end up in the favela.
-
-**Ms. Kimberly**：I know she's traveling with her friends, but I don't know where they could be now. Everything happened so fast.
-
-**Doctor Dores**：Shippy, what's going on? Are there people that need care? What's their condition?
-
-**White Rum**：Just one. A lass. She's still breathing, but she looks like she's been keel-hauled for a bit too long.
-
-**Doctor Dores**：Miss, please lay her down on her side.
-
-Kimberly does as she is told.
-
-**Ms. Kimberly**：What are you going to do to her?
-
-The doctor kneels down, skillfully clearing the girl's mouth of any residue before starting chest compressions.
-
-**Doctor Dores**：Save her, if I can.
-
-One push. Another.
-
-It's a professional instinct. The duty of a doctor.
-
-An unexplainable impulse drives her to revive the drowning girl.
-
-**Doctor Dores**：Huh ... Huh ... Huh ... Huh ...
-
-The girl coughs up some water. The doctor continues.
-
-**Doctor Dores**：Good, good. She'll make it. Please, make sure her airway's clear.
-
-She coughs out more water, but she still lies there, unable to move.
-
-**White Rum**：Errh, are you sure about that, Doc? The lass looks paler than a ghost. I think she's burning up.
-
-The doctor touches her forehead. It's burning hot.
-
-**Doctor Dores**：You're right. We'll need to take her back with us. I'll fix some medicine for her.
-
-**Doctor Dores**：Would you give me a hand, Miss? Help her up on my back.
-
-Kimberly obediently helps the blind doctor lift the feverish girl onto her back.
-
-**Doctor Dores**：Oh! She's almost as light as a child.
-
-The children run ahead, pulling aside the hanging clothes for them to pass.
-
-**Doctor Dores**：I need to run some tests and see if it's just an ordinary fever, or if she has contracted something from the water.
-
-**Doctor Dores**：Don't worry. You're safe with us.
-
-The doctor speaks to herself, or perhaps in reassurance to the unconscious girl.
-
-**Ms. Kimberly**：Where are we going? Wait up!
-
-**Doctor Dores**：Home.
-
-Kimberly catches up to the doctor, only now realizing how far they've walked.
-
-She steps into the doctor's "home."
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Interview Guidelines
 
@@ -3791,8 +3023,6 @@ Encrypted Record#5225
 
 "Ms. Barbara, thank you for agreeing to this conversation." "Please relax, this is the Foundation's way of reciprocating UTTU's interview. We can proceed at your leisure." "Yes, it's rare to be the one asking the questions and hosting the editor of UTTU. Let's make the most of this opportunity. Regarding your method of avoiding the 'Storm' ... " "I'm sorry, but as you probably know, you cannot hear the wind, so you can't hear the secrets of the 'Storm'. There's nothing I can do about that." "UTTU shows no interest in cooperating on the 'Storm' issue. I'll note it down like this, for the record." "That doesn't sound like an amicable record, but maybe that's how it's perceived by you." "Let's move to the next question. From what we understand, UTTU has a unique communication method. Can it help you locate each other? Does it work for ordinary contributors?" "Only UTTU members can hear the wind, but I can ask about the source location of the contributor's package for you ..." ... "Ms. Barbara?" "Sorry ... the wind just told me something unrelated. I need to head to Texas now." "But our conversation isn't over ... " "I apologize, but I must go to Highway 77 immediately. Please allow me to end the call." \*The other party then hung up. \*\*Matilda has been appointed as a special investigator to continue our interview on Highway 77. \*\*\*The task has been transferred to the Timekeeper. \*\*\*\*The Timekeeper has returned with information, indicating that Urd might be at the Sao Paulo Veterans' Residence in Brazil.
 
-- Description：A conversation filled with one-sided questions doesn't necessarily have to feel like an interrogation.
-- Action：Check records
 
 ### Trail · Paths of the Past - Anjo Nala
 
@@ -4381,8 +3611,6 @@ The Untold Stories of the Invisible College—Boyle's Impossible Flask
 
 Perhaps you are familiar with the Royal Society, maybe you're even able to name every president. But do you know its predecessor—the mysterious scholar's assembly, known as the Invisible College? Today, we will introduce the central figure of the Invisible College, Robert Boyle, the famous alchemist, natural philosopher, and founder of modern chemistry, along with his mystical stories. When discussing Boyle, one must mention Boyle's Law, which states that at constant temperature, the pressure of a gas is inversely proportional to its volume. Boyle demonstrated this with a U-shaped tube filled with mercury. But before that, Boyle tried various devices and countless designs in his quest for a frictionless flask with a piston. He even employed arcane skills, casting an incantation of proportional scaling into a flask. As a result, the flask could indeed compress and expand objects perfectly. However, arcane skills being what they are, the object's mass would shrink with its volume, and the process would cause noticeable temperature changes. A very successful arcane skill, but a failed experimental apparatus. These flasks were eventually donated to the Royal Society, but it's said some ended up in private hands. So, keep an eye on the ordinary flasks around you—one of them might just be a highly convenient "Impossible Flask."
 
-- Description：A magazine clipping is posted next to a pile of glass souvenirs, a very effective promotion.
-- Action：Read the Clipping
 
 ### Trail · Paths of the Past - Dr. Dores
 
@@ -5561,8 +4789,6 @@ To Mr. Marble
 
 Dear anonymous gentleman, The Veterans' Residence deeply appreciates your generosity. Your donations have been a great help during these difficult times. We've taken to calling you Mr. Marble, after your donation of that fine marble chair. I assume marble holds some special significance for you. If you happen to see this letter, we hope that you will one day soon come through the door and accept our thanks and hospitality. I'm sure you'll be pleased and comforted by the heart-warming sights inside the home you've so long supported, and we'd love to hear the story behind the large red button you've placed on your gifted chair.
 
-- Description：There's a secret group in the world that does good deeds in silence—let's list all its members on this wall.
-- Action：Appreciate Kindness
 
 ### Trail · Paths of the Past - Anjo Nala
 
@@ -5582,6 +4808,10 @@ Those pristine wings, however, could never, ever fly across the riverbank.
 
 <!-- reader-body:start -->
 Sao Paulo Veterans' Residence
+
+
+
+> **Title card：** Boto Cor-de-Rosa
 
 **Mamãe Mariana:** Oh, more visitors?
 
@@ -5826,266 +5056,13 @@ It's a cleanly written ransom note, signed "Santos."
 ...
 
 **Vertin:** Mamãe Mariana, please contact Admiral Igor. We need Zeno's help.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Light a candle in memory of the departed.
-
-> **Title card：** Boto Cor-de-Rosa
-
-> **Title card：** Sao Paulo Veterans' Residence
-
-**Mamãe Mariana**：Oh, more visitors?
-
-**Vertin**：...?!
-
-It's Lopera. She's safe.
-
-But where's Sotheby?
-
-**Vertin**：Thank goodness. You survived, too. What about Sotheby?
-
-**Lopera**：Oh, something happened in the favela earlier, so she decided to stay there. Don't worry. Duncan's with her.
-
-**Vertin**：We've got bad news. Dr. Dores has been abducted by the Brotherhood.
-
-**Lopera**：What? Idiots! What's wrong with them?!
-
-**Lopera**：Ugh, guess I'll call the base. My father will figure something out.
-
-**White Rum**：Sink me! Lopera! I thought you'd been sent to Davy Jones's locker!
-
-White Rum soars through the air and lands squarely in Lopera's arms.
-
-The ferocity of the embrace is enough to knock a grown man to the ground.
-
-**Lopera**：Hahaha! Why did you think that? I'm tougher than the stubble on the chins of the old geezers here!
-
-**Lopera**：I'm like you, a ship that'll never sink!
-
-**Lopera**：Umm, Timekeeper, who's that over there?
-
-Kimberly is peeking out through the doorway, only a sliver of her face showing through the gap.
-
-**Lopera**：Kimberly? Did my father let you go?
-
-She's been released?
-
-**Lopera**：Oh, Timekeeper, let me explain. When we were routing out the deserters, we found Kimberly hanging out with the Manus thugs.
-
-**Lopera**：Pa took her off somewhere, and he always has a plan, so I didn't bother asking where she ended up.
-
-**Lopera**：Hey, come over here and say hi. When did Pa let you go?
-
-**Lopera**：Or did you sneak out somehow?
-
-Kimberly's eyes shift, her claws tensed, as if ready to spring into action at any moment.
-
-**Vertin**：I think ... Ms. Kimberly, didn't you pull me out of the water?
-
-**Ms. Kimberly**：...?!
-
-**Ms. Kimberly**：How did you know?
-
-**Vertin**：Shortly after my fever subsided, I started to remember what happened just before I lost consciousness.
-
-**Vertin**：There was a voice ringing in my head. It was you calling out to me, "Vertin, I can't have you dying here! You mustn't give up!"
-
-**Ms. Kimberly**：What?! I did not say that! I just took you to the doctor and left!
-
-Her protestation is almost a scream.
-
-**White Rum**：Aye, 'tis true what Vertin says. Though Kimberly denies it, she chose to save her—even when she had plenty of chances to blow the lass down.
-
-**White Rum**：She's a good lass at heart. Not an enemy, Lopera.
-
-**Lopera**：...
-
-**Ms. Kimberly**：...
-
-Lopera lowers her guard, offering a friendly wave to Kimberly.
-
-Kimberly cautiously steps out of the doorway but maintains some distance between the two of them.
-
-Lopera looks at her new "friend." Her attire has given her a totally different appearance.
-
-After a brief pause, Lopera smiles at her.
-
-**Lopera**：You have to understand, it's pretty hard not to suspect someone who hangs around with the Manus.
-
-**Lopera**：Anyway, I guess there must've been some kind of misunderstanding. Back then, I didn't have time to ... In any case, I'm sorry, Kimberly.
-
-Lopera extends a hand in a gesture of peace, but Kimberly hesitates, her claws tensing once again.
-
-**Ms. Kimberly**：It's fine. But don't think I'll forgive you so easily.
-
-**Ms. Kimberly**：Speaking of the Manus and the Brotherhood, I never quite understood what they were trying to do.
-
-**Lopera**：I don't blame you. I still don't really get it, either.
-
-**Lopera**：So you're really not in the same boat as them?
-
-A sudden yet perfectly reasonable question.
-
-**Ms. Kimberly**：Of course not! I don't have a boat, no, I mean, I'm not in any boat with anyone!
-
-**Ms. Kimberly**：If only I'd found my ...
-
-She looks around as if she's forgotten something but finds nothing.
-
-**Ms. Kimberly**：Listen, I don't know who it is you're looking for, but it's not me. I've already told you everything I know. If I'm not welcome here, I'll get out of your way.
-
-**Ms. Kimberly**：Just please don't take me back to that place. I don't want to see that thing ever again.
-
-She refuses to look at the weapons around Lopera's waist. Perhaps in a restrained sense of rejection or fear, or something hidden deep within her heart.
-
-**Mamãe Mariana**：Alright, girls. If you want to have a chat, at least take a seat first.
-
-**Mamãe Mariana**：It simply won't do to have you all standing around the entrance like this.
-
-Mamãe Mariana takes Kimberly with one hand and Lopera with the other and leads them back to the courtyard. When they arrive, she lays out some paçoca for them to snack on.
-
-**Lopera**：Eating candy's bad for your teeth, Grandma.
-
-**Mamãe Mariana**：Oh, I'm much too old to worry about that. When you reach my age, and just waking up each day is a blessing, you'll eat whatever you want, too.
-
-**Vertin**：Mamãe Mariana, could I have a word with you, please? I have some questions about Mr. Duncan.
-
-**Mamãe Mariana**：Oh, Duncan, what kind of trouble has he stirred up now? Alright then. Why don't we head inside and give those two some space?
-
-**Mamãe Mariana**：And Lopera, apologize to that poor girl properly, you hear?
-
-Every lost friend is worth remembering.
-
-**Lopera**：My father released you, which means you can be trusted.
-
-**Lopera**：And you saved Vertin's life, too. I guess I shouldn't have been so hostile toward you.
-
-**Ms. Kimberly**：I ...
-
-**Lopera**：Here, have a drink, as a token of my apology.
-
-She hands her a warm cup of something dark. It has a rich smell.
-
-**Lopera**：It's Salvadoran coffee. Great if you need to pull an all-nighter!
-
-Kimberly raises the cup to her mouth with both hands and curiously sticks her tongue into the liquid.
-
-**Ms. Kimberly**：Bleh! It's so bitter!
-
-**Lopera**：Yep. Bitter like the old days.
-
-Lopera falls silent for a while.
-
-Kimberly glances at the gun around Lopera's waist.
-
-**Lopera**：You know, back in Colombia, my father did horrible things to his plantation workers.
-
-**Lopera**：Well, my biological father. Not Igor.
-
-Lopera looks off into the sky and laughs resignedly. It's as if she just spoke of a stranger rather than her flesh and blood.
-
-**Lopera**：He said, "No, that's not the sound of gunfire outside. The workers are setting off fireworks. They're celebrating."
-
-**Lopera**：But they weren't fireworks. He betrayed his workers—his compatriots. It wasn't a celebration; it was a massacre.
-
-**Ms. Kimberly**：...?!
-
-**Lopera**：After that, I ran away from home. One day, the admiral and Molly found me. That's how I joined Zeno.
-
-**Lopera**：Betrayal's as common as dirt here. Comrades, friends, family, anyone could sell you out, and for cheap, too.
-
-**Lopera**：I hope you can find your boat soon. You know, a place where people have your back.
-
-**Ms. Kimberly**：Umm, can I not drink this?
-
-**Lopera**：Hahahaha, of course. Don't force yourself. I know the taste isn't for everyone.
-
-She clinks cups with her new friend.
-
-**Lopera**：Carlotta Lopez Rivera.
-
-**Lopera**：That's my full name. Bit of a mouthful, huh?
-
-Lopera stretches out her arm, closes one eye, and lines up the moon between her fingers. She closes her fist but catches nothing but the air.
-
-**Lopera**：I wanted to erase it from my profile, from everywhere, to be honest, but my father disapproved.
-
-She fiddles with her fingers, her eyes lingering on that unattainable celestial body.
-
-**Lopera**：Molly agreed with him. She said, "You mustn't forget your past, Pera."
-
-**Lopera**：So I let it go. But "Lopera" sounds so much nicer, so I prefer to go by that.
-
-**Lopera**：And you, Kimberly? What's your real name?
-
-Kimberly hesitates.
-
-**Anjo Nala**：Nala. Nala Hari. The residents of Heartfelt Home called me Anjo Nala.
-
-> **Title card：** Guest Room, Veterans' Residence
-
-**Vertin**：How long ago did Mr. Duncan move here? Do you remember?
-
-**Mamãe Mariana**：It must have been ... five, maybe six years ago? I'm not entirely sure.
-
-Five or six years ago. Nowhere near the '20s. What's going on?
-
-**Vertin**：Do you have any photos of him?
-
-Mariana nods and pulls a photograph from the storage room.
-
-**Mamãe Mariana**：We do have one, but it's been gathering dust for years. Let me see. Ah. Here. This is him.
-
-She points to the man who looks like Mr. Karson.
-
-**Vertin**：I knew a gentleman who looked just like him.
-
-**Vertin**：His name was Karson. Did Mr. Duncan ever go by that name?
-
-The old woman blows the dust off the frame.
-
-**Mamãe Mariana**：No, not that any of us are aware of anyway. And I've known him since I was a medic in the army.
-
-**Mamãe Mariana**：Back then, people called him "Duncan the Dauntless" or "The All-Powerful Duncan." I never once heard "Karson" or anything of the like.
-
-**Mamãe Mariana**：Sorry I couldn't be of more help, my dear.
-
-It seems an in-person meeting with Mr. Duncan is in order.
-
-As they head outside, black flashes across their vision as a crow swoops down from above.
-
-It releases the letter clutched in its claws.
-
-**Vertin**：A crow?
-
-The crow perches nearby as the letter flutters down and lands at their feet.
-
-The old woman picks it up and breaks the seal.
-
-**Mamãe Mariana**：Oh, dear. This looks like bad news.
-
-**Vertin**：Santos.
-
-It's a cleanly written ransom note, signed "Santos."
-
-**Vertin**：Dr. Dores is being held captive in the colonel's manor.
-
-**Vertin**：He's given us three days.
-
-**Vertin**：He says that if Zeno doesn't return the deserters they detained, he'll execute the doctor.
-
-...
-
-**Vertin**：Mamãe Mariana, please contact Admiral Igor. We need Zeno's help.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Urgent Need for Counseling
 
@@ -6099,8 +5076,6 @@ Interrogation Record#SF1
 
 Below is a recording of the interrogation of a member of the Order of Enlightenment that occurred in San Francisco: "Next, you will need to answer a few simple questions. This 'Order of Enlightenment' is just another front for Manus Vindictae, correct?" "Ask whatever you like, I ain't gonna tell you anything, Foundation lapdog!" "Please calm down. This doesn't have to be a hostile interrogation, but your answers here will influence our assessment of you. You know Arcana is dead, right?" "Ignorant fool! The Guiding One's fate is always in her own hands! She chose a temporary death to suffer for us. One day, she will return, like an angel, and we will be reunited. We will once again become one, returning to that glorious age!" "I have no intention of arguing with you. You're sweating profusely—do you need some water?" "I won't drink anything you give me!!!" "Alright, let's finish this quickly so you can return to your room and rest. Can you tell me who your current leader is? Is it 'Forget Me Not'? Or the former School of Apeiron arcanist Sophia? Or someone else?" "How dare you call the Preacher by her name!!!" "... You may go now. Please notify the next person ... Uh, never mind, I'll call them myself."
 
-- Description：He needs counseling, and whoever counsels him will also need it too.
-- Action：Browse Record
 
 
 ---
@@ -6112,6 +5087,10 @@ Below is a recording of the interrogation of a member of the Order of Enlightenm
 
 <!-- reader-body:start -->
 Igor's Office
+
+
+
+> **Title card：** The Sleepless Man
 
 Admiral Igor rarely makes calls to Zeno headquarters, but the situation has become desperate.
 
@@ -6308,216 +5287,13 @@ A lucid dream, a living death, a perished immortality.
 **Moldir:** ...
 
 **Moldir:** I will always stand with you, Father.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Now, the die is cast.
-
-> **Title card：** The Sleepless Man
-
-> **Title card：** Igor's Office
-
-Admiral Igor rarely makes calls to Zeno headquarters, but the situation has become desperate.
-
-**???**：Ah, Igor! How are things in São Paulo?
-
-**Admiral Igor**：Worse than expected.
-
-**Admiral Igor**：I have a small number of troops with me, but not enough to deal with the situation.
-
-**Admiral Igor**：Things have gotten out of hand. At least one of the Apostles Brotherhood leaders has pledged allegiance to the Manus.
-
-**???**：Tsk, Brotherhood? These new gangs just keep popping up, don't they? It's like cutting down sugarcane. Before you know it, another one's grown in its place.
-
-**Admiral Igor**：Carlos has been murdered by his own subordinates. Even now, some of the deserters are with the Brotherhood.
-
-**Admiral Somme**：...
-
-This news is met with a prolonged silence.
-
-**Admiral Somme**：Did you catch them?
-
-**Admiral Igor**：Some have already been executed. The rest will be transferred to headquarters for interrogation.
-
-**Admiral Somme**：Good. What assistance do you require, comrade?
-
-**Admiral Igor**：An army. A reliable one.
-
-**Admiral Somme**：An army? I'm afraid that's not possible. We simply don't have the men to spare.
-
-**Admiral Igor**：It doesn't need to be large.
-
-**Admiral Igor**：Just dispatch my Sentinel Unit from Buenos Aires to São Paulo.
-
-A loyal army led by the children he raised himself, composed of orphans of war born into Zeno's cause.
-
-**Admiral Igor**：Or at the very least, send Ptolemy.
-
-**Admiral Somme**：Ptolemy? Ah, one of your orphan "children." Hmm. That seems like a feasible solution.
-
-**Admiral Igor**：Yes, his parents died fighting for Zeno. All my children are loyal to a fault.
-
-**Admiral Igor**：Officer Carlos was shot in the head by one of his own men in this very office. I need soldiers I can trust.
-
-**Admiral Somme**：Ah, so the fearless Igor is afraid of death, after all?
-
-**Admiral Igor**：An officer was killed by his own soldiers at his own base. This is an immense stain on Zeno's honor.
-
-How little honor they have left. Igor clings to it like a leaf to a tree in winter.
-
-**Admiral Somme**：Indeed. If everything goes according to plan, you'll see your unit shortly.
-
-**Admiral Igor**：Now, it's just a matter of time.
-
-The admiral tosses the dice in his hand. Up and down, up and down.
-
-He receives the same oracle—the same answer—like the inscription on the Behistun monument. It is eternal. Unchanging.
-
-"His heart is a hanging lyre, a hanging lyre ... gently plucked ... "
-
-An ancient verse rises in the old admiral's memory.
-
-Dark omens. Ill prophecies. It is all whispered from his lips.
-
-I have seen the hawk chase the dove and the sun god pull his golden bowstring taut.
-
-I watched as the wooden horse was welcomed into our territories, and the sacred fountain flowed with the blood of the fledgling birds.
-
-Ah, but a man of steely mind and lofty pride knows ...
-
-That his city will endure. Its walls will stand strong. It will be as steadfast as the earth's core.
-
-What wickedness ...
-
-Now, the die is cast ...
-
-The pale shroud will devour him, and he will be enveloped by the grim night.
-
-**Admiral Igor**：All for a better future.
-
-**Admiral Igor**：A better future for everyone ...
-
-On this rain-soaked night, this is the only answer.
-
-**Moldir**：Admiral.
-
-**Admiral Igor**：Come in.
-
-**Moldir**：Yesterday, we received word from the Timekeeper that Dr. Dores has been abducted by the Apostles Brotherhood. She should be coordinating with Lopera to set up a rescue operation as we speak.
-
-She breathes a sigh of relief. The doctor may have been abducted, but at least the Timekeeper is safe.
-
-**Moldir**：Also, that girl who escaped, Kimberly, is with the Timekeeper. She claims that she was released.
-
-**Admiral Igor**：Just play along with her lie. There's no need to tell Lopera the truth.
-
-**Moldir**：The Brotherhood has demanded that we exchange the detained deserters for the doctor. Forgive me for issuing instructions without your consent, but if we refuse or ignore them, I'm afraid they'll—
-
-**Admiral Igor**：They'll execute the doctor.
-
-He knows full well the ways of these thugs.
-
-**Admiral Igor**：What arrangements did you make?
-
-Moldir tenses up a little, unsure of how her father will react to her decision.
-
-**Moldir**：I told the Timekeeper that Zeno reinforcements would meet her at the Veterans' Residence.
-
-**Moldir**：Since Lopera is familiar with the place, I also asked her to scout out the rendezvous location.
-
-**Moldir**：And, yes. I played along with Kimberly's lie. I-I assumed you would've done the same, Father.
-
-**Admiral Igor**：Very good.
-
-While the admiral refused to talk to anyone last night, his daughter had been modeling her actions after him.
-
-**Admiral Igor**：Your squad will soon arrive. Take them to Lopera at the rendezvous point and bring the doctor back.
-
-**Moldir**：A squad?
-
-The admiral gazes out the window.
-
-He scans the barren fort, the weathered stone, and the vines slowly wearing away at the walls. How did this come to be?
-
-**Admiral Igor**：I've spoken with headquarters. All going well, Ptolemy and the unit will arrive soon.
-
-Moldir's body relaxes a little, and a smile grows on her face.
-
-**Moldir**：I see. I can hardly remember the last time we were all together.
-
-Her smile turns bittersweet.
-
-**Admiral Igor**：Your father died in Abadan, in a war he had no obligation to fight in.
-
-**Moldir**：It's far more glorious to die in the throes of battle than to wither away on a sickbed. He made an honorable sacrifice.
-
-**Admiral Igor**：How shameful that we would tarnish his honor.
-
-Honor is a thing easily stained.
-
-**Admiral Igor**：Let's begin with that young pilot, Lilya. Tell me, what do you think of her?
-
-**Moldir**：She's well-trained, experienced, a straight shooter—similar to Lopera in many ways.
-
-**Admiral Igor**：She's a true Slav. Just like my brothers and sisters back home.
-
-Stubborn, loyal, brave, and as unshakable as the frozen Siberian earth.
-
-**Admiral Igor**：I suppose she's luckier than Lopera. Not destined to become a traitor like her.
-
-**Moldir**：Lopera's still a child, really.
-
-The admiral closes his eyes as he remembers those who fought beside him.
-
-**Admiral Igor**：So many lives have been lost, in wars, in the "Storm."
-
-They have all been enshrined in the Hall of Merit at headquarters.
-
-**Admiral Igor**：What do you think Lopera will do?
-
-**Moldir**：She's your child, just like me. I think she will stand with us.
-
-He smirks.
-
-**Admiral Igor**：You "think," do you?
-
-**Admiral Igor**：Anyway, she's not important. Here, take a look at this.
-
-An invitation.
-
-**Admiral Igor**：I will not wear it.
-
-**Admiral Igor**：Nor will you. I promise you, not one of us will wear this thing.
-
-**Admiral Igor**：The Preacher has given us a gift and shared with us an "oracle."
-
-**Admiral Igor**：We will bring her something in return.
-
-**Admiral Igor**：Fire and brimstone rained down from heaven, yet among the ruins we recovered the remnants of a miracle.
-
-**Admiral Igor**：A miracle that is living, breathing, and growing.
-
-**Admiral Igor**：I can sense THEIR life force. I can hear THEIR whispers from within these ashes.
-
-A lucid dream, a living death, a perished immortality.
-
-**Admiral Igor**：Moldir, THEY are invincible.
-
-**Admiral Igor**：Rather than endlessly throwing young soldiers' lives to the White Stone House ...
-
-**Admiral Igor**：I choose to stand with the true future.
-
-**Moldir**：...
-
-**Moldir**：I will always stand with you, Father.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Gambling Etiquette
 
@@ -7613,8 +6389,6 @@ Containment Code: Ms. Kimberly
 
 ※1917.▊▊.▊▊, confirmed that Mata Hari still has a sister on the run, but her whereabouts remain unknown. A bounty has been issued through the Hunter's Guild. ... ※1985.▊▊.▊▊, confirmed that the fugitive Mata Hari sisters are involved in espionage and assassination activities, Code name: Kimberly. Personnel have been dispatched for containment. Use force if necessary. ※1985.▊▊.▊▊, Ms. Kimberly's contract item has been recovered without any expected conflict. The original contractor has been handed over to local government authorities, and the contract item will be sent to headquarters for permanent storage. ... ※199?.▊▊.▊▊, due to secondary incidents caused by the "Storm," the contract item was lost during an accident. A high-priority standing order has been issued—any field personnel who come across Ms. Kimberly's contract item must immediately recover it. If it is confirmed that Ms. Kimberly's seal has been broken, ensure personal safety and contact headquarters to assist the special agent in resealing. ... ※10-1990.▊▊.▊▊, Ms. Kimberly was found in San Francisco. Zeno has been tasked with searching for and sealing her. ※10-1990.▊▊.▊▊, Admiral Igor reported back that the contract item has been recovered, and preparations for containment are underway.
 
-- Description：Some things have been lost for too long, and recovering them is now a luxury.
-- Action：Check the Records
 
 
 ---
@@ -7626,6 +6400,10 @@ Containment Code: Ms. Kimberly
 
 <!-- reader-body:start -->
 Sao Paulo Veterans' Residence
+
+
+
+> **Title card：** The Black Lamb
 
 The pieces are falling into place. Lopera has gone to the colonel's manor, as Admiral Igor planned.
 
@@ -7870,264 +6648,13 @@ She's sobbing.
 **Vertin:** Nala ...
 
 Aim ... at him ...
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** It's better to flee into the wilderness than to return to a cold flock.
-
-### Segment 1 · `script 100825`
-
-> **Title card：** The Black Lamb
-
-> **Title card：** Sao Paulo Veterans' Residence
-
-The pieces are falling into place. Lopera has gone to the colonel's manor, as Admiral Igor planned.
-
-If Mr. Duncan moves quickly, he might make it to the manor in time to meet her.
-
-The early morning sun scorches the courtyard.
-
-White Rum is still tucked away in her bottle, fast asleep.
-
-**Anjo Nala**：What are you waiting for?
-
-**Vertin**：Admiral Igor has sent reinforcements. We were instructed to await their arrival at this location.
-
-Some time has passed. The sun has now risen well into the sky, but the reinforcements are yet to arrive.
-
-**Anjo Nala**：Igor?
-
-She tenses up at the name.
-
-**Vertin**：Do you know him?
-
-**Anjo Nala**：N-No, I don't. And I don't want to know him, either. I want nothing to do with those Zeno madmen!
-
-She knows him. She's hiding something.
-
-**Anjo Nala**：Stay away from them, Vertin. Trust me, they—
-
-They're here.
-
-A young man with an eye patch strides into the Veterans' Residence, followed by a squad of soldiers, all armed to the teeth.
-
-**Ptolemy**：Greetings, Timekeeper of the St. Pavlov Foundation. I'm Ptolemy, the Commander of Igor's Sentinel Unit.
-
-Ptolemy? No one at the base has mentioned such a name before.
-
-**Vertin**：Are we setting off now, Commander Ptolemy?
-
-**Ptolemy**：Setting off? No, no. It's Lopera's mission to take care of the doctor.
-
-**Ptolemy**：My mission, well ... It concerns the young lady behind you.
-
-**Anjo Nala**：...?!
-
-**Vertin**：I wasn't informed of this. What does she have to do with Zeno?
-
-Is it because of what happened at Tuesday's Motel?
-
-**Vertin**：As far as I'm aware, the Zeno officer at Tuesday's Motel committed suicide. Kimberly had nothing to do with it.
-
-**Ptolemy**：Oh, Stefen? I couldn't care less about him.
-
-If that's the case, then why is he here?
-
-**Anjo Nala**：The door opened all by itself.
-
-What door?
-
-**Ptolemy**：Hmph. I'm not stupid, you know. Ms. Kimberly somehow escapes the base.
-
-**Ptolemy**：And suddenly I find her with the Timekeeper, who I hear took a detour to a certain tower before she left.
-
-**Ptolemy**：So, Timekeeper, care to explain why you helped Ms. Kimberly, a member of Manus Vindictae, escape?
-
-**Vertin**：Oh, so the captive in that tower was Ms. Kimberly?
-
-She gives him no answer.
-
-**Ptolemy**：Per the admiral's orders, I will now escort you back to the base, Ms. Kimberly. And please, don't make me resort to violence.
-
-**Anjo Nala**：No. I'm not going back there.
-
-She takes a step back, her body trembling all over. She's too frightened to run.
-
-**Anjo Nala**：You'll kill me, just like those Zeno soldiers.
-
-Ptolemy's soldiers raise their guns, just as the others did when they executed the deserters.
-
-**Ptolemy**：Now, now. Let's just get along, shall we?
-
-**Ptolemy**：This isn't an arrest, Ms. Kimberly. It's an invitation.
-
-He reaches into his pocket and reveals Zeno's "sincerity."
-
-**Anjo Nala**：...?!
-
-**Ptolemy**：A succubus should follow her instincts.
-
-**Ptolemy**：Come on. Obey your master.
-
-A toy. Unremarkable, even ridiculous, yet utterly terrifying to her.
-
-**Ptolemy**：You know, you were close, Kimberly. You almost found it.
-
-**Ptolemy**：It was hidden at Tuesday's Motel, just like you thought. Stefen thought it was just a wind-up toy. Hmph. What a fool.
-
-**Anjo Nala**：Give it back!
-
-**Ptolemy**：Yes, that's the spirit. Come with me, and I'll—
-
-**Vertin**：Don't. He's not going to give it back to you.
-
-**Anjo Nala**：...?!
-
-**Ptolemy**：Oh, so you'd rather stay with the Timekeeper.
-
-**Ptolemy**：I guess you need a little reminder of who your real master is.
-
-**Ptolemy**：Soldiers, prepare to fire!
-
-### Segment 2 · `script 100826`
-
-Kimberly barely moves as she struggles against the command of the seal. Meanwhile, Ptolemy and his troops have taken control of the courtyard.
-
-**Ptolemy**：Pick it up, Timekeeper.
-
-He's tossed a pistol near her.
-
-**Ptolemy**：I hold no grudge against you, and I'm not going to shoot an unarmed civilian.
-
-**Ptolemy**：Make your choice. Take the weapon and continue to fight, or surrender.
-
-**Ptolemy**：If you do surrender, I'll guarantee your freedom, but Kimberly has to come with us.
-
-She picks up the pistol.
-
-**Ptolemy**：I see. So you've chosen to fight. On your feet.
-
-**Ptolemy**：Now then, Kimberly.
-
-The officer gives a malicious grin.
-
-**Ptolemy**：Kill her.
-
-**Anjo Nala**：You want me to kill Vertin?
-
-A command as malicious as the look on his face.
-
-She doesn't know what to do.
-
-But her bloodline allows her no choice. The seal takes effect, slowly compelling her to obey it.
-
-**Ptolemy**：Come on, my patience has its limits.
-
-Ptolemy raises the wind-up toy, like a lighthouse beacon in a storm.
-
-**Ptolemy**：You will obey me!
-
-Compulsion. An attack so swift that there is no time to react.
-
-The succubus looms over, her eyes hollow, her beastly claw poised to strike.
-
-Ptolemy will say anything to ensure she enacts his will.
-
-**Ptolemy**：Do it, demon. Your freedom for the life of a stranger.
-
-...
-
-**Ptolemy**：Yes, kill her. Prove your loyalty. Then I'll give you back your toy, I promise.
-
-The succubus wraps her claws around her neck.
-
-**Anjo Nala**：Vertin ... I ... I can't ...
-
-The command has taken hold of her, but still, she's wavering.
-
-Meanwhile, Ptolemy, like a sadistic spectator in a coliseum, wills their struggle to go on.
-
-**Ptolemy**：Raise your gun, Timekeeper.
-
-Gun ... yes ... I have a gun ...
-
-But breathing ... strength ... it's all ...
-
-**Ptolemy**：Aim at her and pull the trigger.
-
-...
-
-**Ptolemy**：This monster's going to kill you. You'll have to shoot her if you want to live.
-
-Ptolemy presses further, eager to get a show.
-
-**Vertin**：...
-
-No matter how hard she resists, the succubus within her must obey.
-
-Her claws tighten around her neck. She can hardly breathe.
-
-**Anjo Nala**：No, I don't ...
-
-Her struggle is as futile as her tears.
-
-**Ptolemy**：Obey your master.
-
-Her claws start to sink into her neck.
-
-**Ptolemy**：Yes. Give in. Just like that.
-
-**Ptolemy**：Look, Kimberly. She picked up the gun. Shouldn't you kill her before she kills you?
-
-**Ptolemy**：She obviously values her own life over yours, and she won't hesitate to fire a bullet through your heart. To her, you're just a horrifying beast.
-
-**Ptolemy**：I mean, look at you. You're a succubus, a demon born to be bound to a master! Born to be controlled!
-
-His contempt is palpable.
-
-**Anjo Nala**：No! I-I don't want to!!
-
-She's pleading.
-
-Tears pour down her cheeks.
-
-**Anjo Nala**：Please. No more orders. No more running. No more.
-
-**Anjo Nala**：I don't want to be like my sister.
-
-Hiding away for all those years, living no kind of life at all, only to be captured and executed.
-
-**Ptolemy**：If that's what you want, then kill her. Break her neck.
-
-**Ptolemy**：Now, heed my order and kill Vertin!
-
-She does everything she can to resist the command, yet her body is compelled to follow.
-
-She raises a claw. It hangs in the air, like a butcher's knife ready to slice its meat.
-
-**Ptolemy**：End your suffering with her death.
-
-**Ptolemy**：Don't think. Just obey.
-
-Her grip tightens.
-
-The pistol ... Get it. There's still a chance.
-
-**Anjo Nala**：L-Let go. Let go of her.
-
-She's sobbing.
-
-**Vertin**：Nala ...
-
-Aim ... at him ...
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Paths of the Past - Anjo Nala
 
@@ -8993,8 +7520,6 @@ A Lost Codex
 
 ... 5 They are greedy, they are cruel, they want us to slaughter our own people, so we stand up. 6 We aspire to kindness and mercy, for this we must sit at the round table with kings and cardinals. ... 65 When the sufferers sent by heaven come, they will, under the guidance of angels, suffer for the people, and the springs will cleanse them of their sins, and thus heaven will arrive. ... 589 Let those willing to be redeemed join us, and let those unwilling be crushed by crumbling stone. 590 Be loyal to your kin, protect the interests of your kin, and say nothing to mankind. 591 Respect your elders, for their wisdom far exceeds yours. ... 605 Make the shaping of order your lifelong work, and never cease.
 
-- Description：This book isn't a history text, but the change in writing style suggests that there was a change in authors.
-- Action：Skim a Few Pages
 
 ### Trail · Paths of the Past - Mr. Duncan
 
@@ -10126,8 +8651,6 @@ Special Emergency Notice
 
 The headquarters has informed all branches that the Brazilian branch has experienced another mutiny, though specific details remain unclear. All branches are ordered, effective immediately, to recall all units and temporarily detain any personnel who have served in Brazil or were under the command of any officers from the Brazilian branch. These individuals are to remain in custody until a special agent from the headquarters arrives for inspection. Noncompliance will be treated as support for the traitors. The mastermind behind this mutiny remains unidentified, and discussion of the matter is strictly prohibited. These successive mutinies in the Brazilian branch in such a short time are a great dishonor for us and represent the most severe loss Zeno has suffered in recent years. However, we stand resilient in the face of this loss, all is still under control. No sacrifice will stop us from moving forward, and all traitors will pay the price for their actions. \*Only brigadier generals and above are permitted to view the following message: We all know what Igor has done, but now may not be the most opportune time to confront our former war comrade with anger and vengeance.
 
-- Description：Footsteps resound, red lights flash, and everyone is called to the square.
-- Action：Listen to the Broadcast
 
 
 ---
@@ -10139,6 +8662,10 @@ The headquarters has informed all branches that the Brazilian branch has experie
 
 <!-- reader-body:start -->
 Clifftop, Tierra del Fuego
+
+
+
+> **Title card：** The Roaring Forties
 
 **???:** You made the right choice.
 
@@ -10267,150 +8794,13 @@ The old admiral sighs and pulls a stack of UTTU magazines from his coat. They we
 **Admiral Igor:** I don't know what you've encountered, what you've experienced, in all this time.
 
 **Admiral Igor:** But your very existence is about to change the fate of us all.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Summer ends here, the icy sea begins.
-
-> **Title card：** The Roaring Forties
-
-> **Title card：** Clifftop, Tierra del Fuego
-
-**???**：You made the right choice.
-
-**Admiral Igor**：We simply followed THEIR guidance, Preacher.
-
-**Admiral Igor**：Unfortunately, we failed to bring the succubus.
-
-**Admiral Igor**：But I did bring you this, and Ms. Urd, as well.
-
-**Sophia the Preacher**：...
-
-**Sophia the Preacher**：No, Admiral. Not you ...
-
-**Sophia the Preacher**：Us.
-
-**Sophia the Preacher**：We all need the miracle THEY bestow.
-
-**Admiral Igor**：My men will not wear the masks. Nor will they take the trials.
-
-**Admiral Igor**：We need no trials to test the loyalty of my children, Preacher.
-
-**Admiral Igor**：And for now, Ms. Urd will stay under my protection.
-
-**Sophia the Preacher**：As you wish.
-
-The Preacher agrees to all of the admiral's requests.
-
-It doesn't matter. None of it matters.
-
-She looks southward across the sea.
-
-**Sophia the Preacher**：Until next time, Admiral.
-
-The Preacher takes the relic left by the Mother of Resurrection and bids farewell to the admiral.
-
-**Moldir**：Father.
-
-**Moldir**：I shot at Lopera.
-
-Shooting is one thing. Whether the bullet hits the heart or the ground is another. To the admiral, however, it is unimportant.
-
-**Moldir**：I have to be honest, Father. I don't fully agree with your decision, at least not on a personal level.
-
-**Admiral Igor**：You're entitled to your opinion, Lieutenant. But I don't need your approval.
-
-**Moldir**：I understand. You only need my obedience.
-
-**Admiral Igor**：Precisely.
-
-**Moldir**：Had you anticipated that Lopera wouldn't come with us?
-
-**Admiral Igor**：She is inconsequential. She helped us retrieve Urd from that Brotherhood farce. That's all I needed from her.
-
-**Moldir**：But the Brotherhood ... With all due respect, admiral ...
-
-**Moldir**：I've heard they have connections with our "friends" at Manus Vindictae.
-
-She finds it hard to call those they once fought against "friends."
-
-Treason is a stain not easily washed clean.
-
-**Admiral Igor**：I thought you'd make the same choice she did.
-
-**Moldir**：No, I will always follow you, Father.
-
-**Admiral Igor**：Just let her be.
-
-A lone seagull glides across the sky, calling out as it flies to the warm north.
-
-Igor pats his daughter on the shoulder.
-
-**Admiral Igor**：Now, bring me Dr. Dores.
-
-**Moldir**：Father.
-
-She dutifully leads the doctor to her father and leaves the two alone.
-
-**Doctor Dores**：I don't know you, sir. You must have mistaken me for someone else.
-
-**Admiral Igor**：No, I couldn't possibly mistake you.
-
-**Admiral Igor**：Old friend.
-
-**Admiral Igor**：In the last days before the millennium, we fought side by side.
-
-Memories flood the weathered halls of the old admiral's mind.
-
-**Admiral Igor**：In hindsight, that battle may have been a mistake.
-
-**Admiral Igor**：The "Storm" swept across the world, leaving behind an era of chaos.
-
-**Admiral Igor**：And we lost our future.
-
-The admiral has never been fearful of sacrifice, especially when it has served the grander goal.
-
-**Admiral Igor**：But now, another path lies before us, one that we once fought desperately against.
-
-**Admiral Igor**：A path paved by Arcana.
-
-**Admiral Igor**：A path leading to a world free of conflict.
-
-**Admiral Igor**：My old friend.
-
-Sadly, she cannot comprehend even a fragment of these words.
-
-She's simply Doctor Dores. Nothing more.
-
-**Admiral Igor**：That marble chair the Foundation gave you ... What's the secret behind it?
-
-**Admiral Igor**：What happened to you after you pressed that button?
-
-**Doctor Dores**：Nothing.
-
-**Admiral Igor**：Do you remember what happened after you walked into that white house?
-
-**Doctor Dores**：I'm sorry. I don't know anything about that.
-
-She's stubborn but answers honestly.
-
-The old admiral sighs and pulls a stack of UTTU magazines from his coat. They were not for his own reading.
-
-**Admiral Igor**：My dear Ms. Urd.
-
-**Admiral Igor**：Your name continues to show up between the occurrences of the "Storm."
-
-**Admiral Igor**：I don't know what you've encountered, what you've experienced, in all this time.
-
-**Admiral Igor**：But your very existence is about to change the fate of us all.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · A Minute to Spare
 
@@ -11092,8 +9482,6 @@ Cryptographers, Assemble!
 
 "You guys! Look at this! 137121111, 135120110, 142126115, 156139126, 152135123, 159141128!" The researcher excitedly waves a scrap of paper like it's a treasure map to a new continent, circling the group and letting the paper flutter in front of each person. "151134122, 167148135, 186166150, 203181163, 180161145, 163145132!" "What are you talking about?" "166148134, 208185168, 221197177, 197176158, 155138126, 141125114!" "Are those RGB values?" "203180163, 185165149, 175156141, 164146132, 136122111, 138124113!" "Has John Titor infected you? Speak in human language or we're leaving." "The gibberish on these papers might be a treasure map! You have to help me crack it. Where's Ulrich?" "Probably standing in line to buy a ship ticket to Australia. He won't be back for a while. Where did you get this?" "There was a box of punch cards outside the computer room, I tossed them all into the decoder." "You should stop wasting your time, those might be Ulrich's discarded scribbles for all we know."
 
-- Description："Guys, you've got to see this—this is the discovery of the century!"—the best way to rally coworkers together.
-- Action：Join the Gathering
 
 ### Trail · Paths of the Past - Lopera
 

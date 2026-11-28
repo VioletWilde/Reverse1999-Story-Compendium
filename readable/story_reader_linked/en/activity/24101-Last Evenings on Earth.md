@@ -935,8 +935,6 @@ Excerpt from "A History of Arcane Ethnicity"
 
 ... Due to the reclusive nature of the Nukutais, our knowledge of this enigmatic people comes only from the sparse accounts of a few trading ships that had contact with them and the legends from neighboring societies. ... In the folklore of coastal civilizations in the South Pacific, there are often tales of Shell People or Hermit Crab People. These beings, dressed in shells and living in the water, are depicted as otherworldly ocean emissaries or guardians. They offer advice and guidance to the protagonists in these stories or help those lost at sea. ... With the Age of Exploration, the veil over these mysterious figures was lifted, and a small island named Nukutaeao, known for its production of mystical and esoteric crafts, became a topic of intrigue among adventurers in taverns. Consequently, the intrusion of explorers and trading ships seemed to weary the Nukutais, and records from that period show they gradually vanished from the pages of history. They employed some form of arcane skill to conceal the island's exact location, ensuring their homeland never appeared on any official map. ... Today, with advancements in maritime technology and increasing global communication, it is only a matter of time before the island of the Nukutais is rediscovered. The author can only hope that this inevitable encounter will not bring undue harm to the Nukutais, wishing that they can integrate into the global community through peaceful and friendly exchanges. May the final chapter of this Age of Exploration conclude with harmony.
 
-- Description：The nameless black dots on this parchment cry out for annotations.
-- Action：Check the File
 
 
 ---
@@ -1170,8 +1168,6 @@ Probationary Assessment - Regulus
 
 Codename: Regulus Time Employed: 11 months Project Team: The "Storm" Research Group (Unregistered) Assessment Results: Not available Performance Review: Research on the Influence of Light and Sound Waves on Emotion Control on Crowds. Safety Verification of St. Pavlov Foundation's Communication Equipment. Exploration of the Possibility of Communication without Numbers with the School of Apeiron. No accomplishments. Probationary Experience: Assisted the Timekeeper in investigating the "Storm," consistently on the front lines of responding to the "Storm," and have experienced three "Storms." These experiences provided invaluable data for Laplace's "Storm" research. During this operation, her numerous active contributions have brought a wealth of inspiration to colleagues. In interactions with the St. Pavlov Foundation and the School of Apeiron, she has displayed outstanding negotiation skills, making her a crucial and mainstay member of the Timekeeper squad. ██████████████████████████████████████████████ Evaluator's Comments: Alright, enough with the charade. The only thing in this document that she actually provided herself is this photo! I'll let her join the research group as a formal researcher, but she will not receive any benefits until she personally fills in all the blanks on this form. —Ulrich
 
-- Description：Please make sure she completes this document in person.
-- Action：Check
 
 
 ---
@@ -1672,8 +1668,6 @@ Fish Tank Brainstorm
 
 "The topic of this brainstorming session is: How did this 'Pioneer' manage to cross the 'Storm' and continuously send information to the Earth's surface?" The ferrofluid flows freely in his glass tank. "Is it possible that this is just a prank? Like a cipher game created by one of us, accompanied by fake photos and data ..." An indifferent researcher shrugs. "Then go and write a detailed report on who you think is pulling the prank, one every week, until someone confesses to being behind it." "That's an abuse of power!" The researcher, who intended to remain silent, slams the table. "Alright ... I have a thought. The 'Storm' rewinds people into disappearance, but some things that inherently exist longer might not be completely reversed. This 'Pioneer' could be some kind of man-made satellite that regularly sends data, and the 'Storm' rewinds it to an older version, but doesn't affect its operation." "We've already experienced time periods as far back as the beginning of World War I; no man-made satellite should even exist at the time." "I've got it! It's aliens! Aliens are crossing the 'Storm' and sending us some kind of signal! It's not surprising at all that they have technology immune to the 'Storm' among their advanced space tech, right?" A researcher with a fanciful imagination raises his hand. "Damn it, we don't have time to verify baseless hypotheses such as these!" "The man-made satellite theory might just be a reasonable hypothesis. Maybe the internal structure of the satellite just happened to form a knot-like structure? Many of the satellites launched by Laplace have adopted arcane techniques, theoretically capable of activating the immunity spell." The researcher, feigning seriousness, rests his chin on his hands. "That's a good direction, but your reasoning is too idealistic. Let's proceed on the premise that there exists a satellite capable of gaining immunity to the 'Storm' and investigate further, regardless of the principle behind all this. Now, everyone, spread out and check every satellite in Laplace's history. If this hypothesis is confirmed, it could be another significant breakthrough in our 'Storm' research."
 
-- Description：Minds come together here to help those in the highest positions reach informed conclusions.
-- Action：Initiate Discussion
 
 
 ---
@@ -2432,8 +2426,6 @@ Procurement List - Project Regulus
 
 ... Dragon Tree Resin Compasses—Compasses carved from the resin of dragon blood trees, serving as the activation stimulus of the Eastern astrology arcane skill on telescopes, used for navigation in extreme environments. Note: Procure dragon blood (the sap of the dragon tree) for re-manufacturing. To ensure foolproof production, an external contract has been issued for collecting genuine dragon blood. Obsidian Crystals—Utilizing obsidian crystals to produce solar panels was a proposal by some arcanists of that time. The ingenious application of Aztec arcane skills significantly enhanced the efficiency of solar energy absorption. Note: On-site collection at Popocatepetl Volcano, along with lab-produced control samples. Wide-field Camera—The wide-field planetary camera (WFPC) with the highest resolution of that time provided by Caltech, responsible for capturing image data. Note: Send a specialist to negotiate, requesting a camera and a design blueprint if possible. The price is of no issue. Astronomical Spectrometer—The telescope is equipped with various sized spectrometers, integrating both spectral and photographic functions, used for gathering spectral data. Note: A labor-intensive task; retrieve all existing spectrometer designs from Laplace, and commission expedited production from major corporations. High-speed Photometer—An instrument used to measure the brightness and polarization variations of celestial bodies. It was decommissioned before the first "Storm" due to malfunctions. Note: Even if decommissioned, it can't be overlooked. The museum might have replacement parts. Space Seeds—Seeds prepared for the activation environment of certain arcane skills at that time. Each seed was meticulously selected and symbolically significant. Note: The original conditions cannot be fully recreated, but similar substitutes can be found. Request as many as possible from Plesetsk. "Regulus" Record—The power source of the telescope, shrouded in complete mystery as the most enigmatic component of the apparatus. Note: The owner has been identified. The entanglement of identical names brings inextricable fate into play ... though unscientific, this must also be considered.
 
-- Description：Damn, this expense report is absolutely astronomical.
-- Action：Initiate Discussion
 
 
 ---
@@ -2665,8 +2657,6 @@ Ulrich gives her a reassuring pat on the shoulder.
 
 END OF DIALOGUE
 
-- Description：All games must come to an end.
-- Action：Say Farewells
 
 ### Trail · Identity Crisis
 
@@ -2716,8 +2706,6 @@ END OF DIALOGUE
 
 END OF DIALOGUE
 
-- Description：Regulus won first place in a rock pirate impersonation contest, now that's natural talent!
-- Action：Who, what, how!?
 
 
 ---
@@ -3860,8 +3848,6 @@ The ferrofluid swirls in a distorted arc.
 
 **Serres** **Common Names:** Pig-toothed Ray, Anchor Fish, Deep Bass Disc, Hammerhead Ray. Back home, we call this thing a Sea Bat. That's not right! Sea Bats are a different species and they definitely don't smash your portholes at night! **Classification:** Subclass: Aquatic Primal Critter, Order: Oceanic, Family: Ray-form, Genus: Flying Ray. In my opinion, it should be classified as a bird. **Distinctive Features:** Broad wings, long tail, a pair of clawed fins, and curved ivory-white fangs. Hey, I just thought of a business idea! Could we pass these fangs off as ivory? Serres typically live in groups and feed on large fish, seabirds, and drifting debris. While they may look similar to Olitiau, their behavior couldn't be more different. While Olitiaus are generally non-aggressive, Serres are known for their fondness for challenging creatures larger than themselves—including sperm whales, baleen whales, megalodon sharks, and passing ships. Sometimes, they even mistake protruding rocky outcrops and coral reefs for foes. When a Serres spots a ship, it leaps from the water, attacking the vessel with its sharp wings and calling upon its companions. They seem to have a competitive nature; each Serres strives to soar higher and leave deeper marks on its target. Stay away from the windows. You never know how deep their wings can slice. Despite their large numbers, Serres communicate through a single method: sound. They can produce a wide range of calls within the 10-180Hz frequency range, ideal for underwater communication, and they can sense each other's vibrations through their wing membranes. The best way to deal with Serres is to disrupt their hearing. Shouts, bangs, and music can confuse them, while enough volume can physically irritate their auditory systems, causing them to flee in discomfort. Now that's more like it! My former captain tried using anti-Olitiau measures against them, which is why he's my "former captain."
 
-- Description：Knowledge is power! Quickly, find the creature's weakness before you get killed!
-- Action：Open and Read
 
 
 ---
@@ -4091,8 +4077,6 @@ Hurried footsteps echo, and a clear voice cuts through the chaos.
 
 END OF DIALOGUE
 
-- Description：Exchange is one thing, and competition is another. Without both, how can we improve?
-- Action：Friendly Discussion
 
 
 ---
@@ -4784,8 +4768,6 @@ Shipboard Medical Log
 
 X/X, Wednesday Charlie, 43, seasickness. Administered dimenhydrinate. Janice, 29, severe seasickness. Administered dimenhydrinate. Kalaea, 17, seasickness. Patient refused medication, advised to open a window and get some fresh air. It's really trying how afraid some 17-year-olds can be of taking medication. X/X, Thursday Alessio, 33, diarrhea from consuming excessive seafood. Administered diphenoxylate, advised bed rest and adequate hydration. Kalaea, 17, scalded by a water heater. Accompanying personnel were agitated and cursing; calmed them down, cleaned the burn, and applied ointment. These two never cease to amaze me. Last time I spent ages explaining seasickness meds, and now they talk about 'water-fire boxes' and 'heat-pots.' Where on earth are they from? X/X, Saturday Received an emergency call from the crew informing me of an altercation involving five passengers in the dining area. Treated four with minor injuries and one with a light injury on the spot. The captain tells me that it wasn't caused by those shell-wearing lads this time. Still, with their bizarre and smug demeanor towards others, it wouldn't surprise me if they got into trouble one of these days. X/X, Tuesday Eira, 22, bloating, diarrhea, vomiting, high fever. Administered IV fluids, kept under observation. During observation, the patient showed signs of delirium, claiming the cruise had reached the 'New Era' and demanded to disembark and return to Nukutaeao. The shell on the patient's chest turned from white to red and developed numerous cracks. When questioned about this, the patient hastily hid the shell, and the accompanying person sternly rebuked us and changed the subject.
 
-- Description：We assure you that we strictly adhere to established medical standards.
-- Action：Read
 
 
 ---
@@ -5447,8 +5429,6 @@ A sudden warmth bursts forth within her, urging her to push the mask aside.
 
 Abstract Chapter 1: Introduction 1.1 Research Background and Significance 1.2 Current State of Academic Research 1.2.1 Immunity Ritual 1.2.2 Space Telescopes 1.2.3 "Chaos" and "Pneuma" Note: This section references the Lorentz Butterfly, and the reproducibility of their results is subject to verification. 1.3 Existing Issues in Current Research 1.4 Main Research Content of This Paper Chapter 2: Experimental Materials and Methods 2.1 Experimental Materials 2.1.1 Biological Materials (seeds, resins, young dragon tongue tubes, vesicle bugs, fire moth powder, etc.) 2.1.2 Mineral Materials (obsidian, sea urchin fossils, volcanic rocks, chalcedony, vermiculite, etc.) 2.1.3 Artificial Products (camera, spectrometer, records, compass, Nixie tube, etc.) 2.1.4 Arcane Items (Critter hair, slime, condensed raindrop, mithril, Platinum Ouija, etc.) Note: The slime samples contain arcane materials related to Manus Vindictae, a report is to be filed to the Timekeeper. 2.2 Experimental Equipment and Instruments 2.3 Experimental Methods 2.3.1 Criteria for Selecting Sites of Supernatural Phenomena 2.3.2 Connection of Water Sources to Reaction Containers 2.3.3 Injection Method for Asymmetrical Nuclide R 2.3.4 Preparation and Use of 73.5% Rainwater 2.3.5 Operation of Sonic Catalytic Reactions 2.3.6 Standards for Experimental Logs and Waste Disposal Chapter 3: Properties of Experimental Materials in the "Storm" Environment 3.1 Introduction 3.2 Stability of Materials 3.2.1 Stable Materials 3.2.2 Unstable Materials 3.2.3 Materials with No Significant Correlation 3.3 Correlation with Era Sickness 3.3.1 Materials that Can Suppress Era Sickness 3.3.2 Materials that Can Aggravate Era Sickness 3.3.3 Materials with No Significant Correlation 3.4 Chapter Summary ...
 
-- Description：Perhaps a few more names should be included in the list of authors.
-- Action：Initiate Review
 
 
 ---
@@ -5636,8 +5616,6 @@ Accountability Measures
 
 "We can't allow failure and betrayal to run rampant indefinitely, don't you agree, Ms. Grace?" The shadow of the serpent twists under the light, appearing several times larger than its true form. "Yes," replies another shadow, trying to lower itself as much as possible. "You quickly identified that the toy was a contract item used to control the succubus, which is impressive. It also shows you're different from Matheus and possess wisdom befitting an Apostle." The stirring rod clinked against the teacup, producing a melodic sound. "I am sorry that others fell to Kimberly's betrayal; I did overestimate the potency of the contract item." "If you'd shown less mercy to that succubus and given her stricter orders, this tragedy might have been averted. Likewise, if you had been more ruthless in Texas, you wouldn't have wasted so much time there and would not have lost the contract item in the chaos. Although, in the end, losing it was Igor and his subordinates' fault, not yours." "Thank you for your guidance and understanding." "Steel yourself, merciful little Grace. Showing compassion to a viper only gets you bitten. Remember this in your next mission." "The Nukutais ... they will present us with their 'Spirit Shells.'" "Your capabilities are undeniable. I still hold some faith in you." At last, a hot cup of tea is stirred into a cold one, and the serpent's shadow vanishes out the door without even flicking its tongue. "Oh, and I shouldn't need to remind you—any unforeseen events during the mission must be reported, especially anything related to Vertin. This is also according to Their guidance." "...Yes, it's all for Their return."
 
-- Description：We need to first determine who's at fault before we can identify who needs improvement.
-- Action：Listen In
 
 
 ---
@@ -6215,8 +6193,6 @@ This logical leap nearly causes Ulrich's circuits to crash.
 
 ... "Check it out! You are witnessing the greatest rock moment of all time, brought to you by the one and only Rockin' Captain!" "Keep it down, Researcher Regulus! I'm recording this!" "Hey, we could die at any second! No way I'm gonna stay silent!" "Then just keep yelling! We'll keep the control variables consistent! Now, start testing the next material! Researcher Regulus, put down the Dragon Blood Resin Compass and pick up the Platinum Ouija!" "Yeah! How's this?! Have I become a work of art yet?!" "As with the previous material tests, Researcher Regulus's temporary 'Storm' symptoms have shown no improvement! The Platinum Ouija is ruled out! This concludes the testing of the single-material objects. Next, let's move on to the two-material objects!" ...
 
-- Description：Please extract and record the useful content from this videotape.
-- Action：Begin Extraction
 
 
 ---
@@ -6942,8 +6918,6 @@ Supply List
 
 ... - Meat, Vegetables, Fruits As always √ - Tobacco, Alcohol As always √ ... - Ice Cream As always √ Under orders of the new captain, all pending deliveries have been canceled. ... - Ornamental Plants and Animals Got plenty more from Australia √ ... - First Aid Kits, Medications As always √ - Lifeboat Maintenance Maintenance complete, backup boats are empty √ New captain orders maintenance for the backup boats as well.
 
-- Description：It's because of these necessities that we can never truly call the sea our home.
-- Action：Check List
 
 
 ---
@@ -7072,8 +7046,6 @@ She raises her Crackling Box high, her face flushing red.
 
 **Barcarola:** \*Sinfonia gioiosa, dividetevi con grazia!
 
-Surprised Guest: Oh, Ms. Barcarola, not your zanfona! I remember you telling us how hard you worked to find it.Reminiscing Guest: I haven't seen one of those since my time in Galicia.Emotional Guest: You've turned them into boats! Ms. Barcarola, you're not just a great musician, you're a kind soul, too!Emotional Guest: You saved us!
-
 **Surprised Guest:** Oh, Ms. Barcarola, not your zanfona! I remember you telling us how hard you worked to find it.
 
 **Reminiscing Guest:** I haven't seen one of those since my time in Galicia.
@@ -7095,8 +7067,6 @@ Report on the "Free Breeze" Incident
 
 According to the Timekeeper's statement provided to our personnel, the recent hijacking of the "Free Breeze" was orchestrated by Ms. Grace, a member of Manus Vindictae. Her involvement included the abduction of the Nukutais and persuading passengers to wear Manus Vindictae masks. Considering this, an upgrade in our risk assessment for Ms. Grace may be necessary, along with issuing a formal warrant for her arrest. Additionally, with assistance from Regulus, a member of the Timekeeper's team, Researcher Ulrich of Laplace was able to complete his 'Artificial Storm' experiment on the "Free Breeze". Regulus's record was identified as an immune material, however its overall efficacy is weak, providing only a minor delay in the onset of Era Sickness, and critically lacks reproducibility; none of the copies of the records show the same level of efficacy. Regulus attributes this to her record's 'unique rock spirit,' claiming it possesses a soul that its imitations lack, this claim has not yet been rigorously assessed.
 
-- Description：A new day, a new life, and the same old job.
-- Action：Submit Report
 
 
 ---

@@ -365,8 +365,6 @@ Unfortunately, it's too late to stop the crash.
 
 **Lilya:** Hah. Sounds about right. What's the story about?
 
-The story starts off in the typical way.A man was driving down a long Texas road when he saw a girl hitch-hiking.He offered her a lift and a piece of chocolate.The man dropped the girl off at a cemetery and drove on. It was late at night, so he was hoping to reach his destination quickly.Soon after, he saw a funeral procession going down the road.The photo of the dead seemed familiar.Curiosity came over him, and he followed them to the cemetery.Look, a piece of chocolate.
-
 The story starts off in the typical way.
 
 A man was driving down a long Texas road when he saw a girl hitch-hiking.
@@ -564,8 +562,6 @@ The Hitchhiker's Column
 
 Since our last column, we've been inundated with letters, tapes, and voice recordings from our passionate readers. I must say, the impact of the "Piranhas in the Sewers" story exceeded my expectations. One anonymous reader compiled 23 different urban sewer predator legends she picked up during her travels and asked when I was going to write about "The Country Witch Who Turned Into a Hare." She fondly recalled how her grandmother's amusing witch stories, tinged with a touch of gentle fright, would lull her to sleep as a child. I'd like to extend my heartfelt thanks to this reader—these contributions are invaluable to my writing, and I'll soon delve into these childhood tales. Stories of mysterious transformative arcane skills are truly captivating, and their prevalence might be more widespread than I initially thought. As we continue with the last issue's theme, sewer legends intertwine with conspiracy theories. For example, in a tape sent in by a Mr. K from New York City, a relative of his staunchly believes that the government secretly hired a team to feed albino fish living in the sewers. In previous investigations, a teenager shared his thrilling experience—he encountered human-sized, upright-walking reptiles and rodents in the city sewers. These stories often end with the line, "The government knows they exist, but the higher-ups are keeping it all hush-hush ..." More radical speculators suggest that city sewers can easily be used as experimentation sites, with piranhas, alligators, giant snakes, and all manner of other dangerous creatures being secretly bred by the government or mysterious organizations for unknown purposes. ... In our next column, we'll be returning to Texas—where this series began. As you read this, I'll most likely already have set off on a new adventure. Perhaps our paths will cross on the dusty roads of Texas.
 
-- Description：This magazine column was always popular, but now the columnist's trail has vanished near Route 77.
-- Action：Read Magazine
 
 
 ---
@@ -2137,8 +2133,6 @@ St. Pavlov Foundation Report
 
 Report Number: XXXXXXXXXXXXX From: Field Investigation Team Leader Andreas Sylvester To: Office of the Vice President, St. Pavlov Foundation Dear Madam Vice President, After a month of surveillance, my team has identified several Manus Vindictae agents operating in the southern United States. At least three have been traveling between Dallas, Austin, and Houston; they are likely establishing information and supply channels for the Order of Enlightenment. Several others are active along Route 77, frequently using aliases and disguise potions to keep their exact identities and numbers hidden; however, at least five false identities have been confirmed. Please find detailed information on these agents attached to this report. I believe these findings further substantiate our hypothesis that the Order of Enlightenment is planning to carry out an unprecedented arcane ritual. Additionally, informant reports indicate that a spy known as "Ms. Grace" is active in Texas (see attached document). We await your directive on whether to pursue further surveillance of this individual. May the peace be with us. Field Investigation Team Leader Andreas Sylvester Reply: To the Field Investigation Team, Thank you for your diligent efforts in the pursuit of peace. The aforementioned intelligence has been documented. Regarding "Ms. Grace," I am fully aware of the situation. Given the unknown intentions of this spy, I recommend a strategy of non-interference. Allow her to proceed in her actions for further observation. May the peace be with us. Vice President Constantine of the St. Pavlov Foundation
 
-- Description：Every day, thousands of documents pass through the headquarters. And this is merely one of them.
-- Action：Read the Report
 
 
 ---
@@ -3112,8 +3106,6 @@ Accountability Record
 
 Date of Record: September 20, 1990 Recorded By: Lieutenant Moldir Subject: Admiral Igor's Recent Actions This week, Admiral Igor addressed the conduct of three subordinates and implemented the following measures: Captain L. Harris Transgression: Ineffective leadership during training, resulting in subpar exercise performance. Admiral Igor's Action: Issued a severe warning and reassigned from current position. Sergeant K. Rodriguez Transgression: Breach of military discipline, unauthorized absence from duty. Admiral Igor's Action: Gave a severe reprimand and imposed three days of confinement. Lieutenant J. Davis: Transgression: Failure to complete assigned tasks within the designated timeframe. Admiral Igor's Action: Issued a severe warning and assigned additional personnel to assist with the investigation. The source of the leak has been identified as Stefen Garcia. Leaked content: Vacuum bomb explosion footage? End of record. Notes to self: It is evident that the admiral's stringent measures are aimed at reinforcing military discipline. We must ensure that every officer and soldier adheres strictly to their duties and maintains a high level of readiness. Some officers believe he has been excessively harsh recently—discuss this with them. High command's perspective—arrange a meeting for the admiral. Tracking target "K"—Texas, awaiting scout report.
 
-- Description：Hastily written lines in a standard-issue notebook, as clear and powerful as the lieutenant who wrote them.
-- Action：Read the Record
 
 ### Trail · Small Town Tales
 
@@ -3127,8 +3119,6 @@ Leather-bound Diary
 
 February 5th Well, ain't that odd? Pierce came back early this morning, scared out of his mind. I had never seen the kid so freaked out. He sped through town and only slammed on the brakes when he got to the front door, as if something was chasing him. That nut almost ran over Marita's little bulldog! Only God knows what he ran into. February 15th The birds were chirping the whole night long. I had never seen so many of them gathered together. Oh boy, they were so noisy; I barely slept a wink. Ruth was scared, she thought it was some kind of omen. What a joke. Those long-beaked birdies weren't afraid of shotguns, that's for sure. I fired a shot at them, but only a few got spooked enough to fly away. Father Morgan suggested hiring a "bird control team"—if such a thing exists in the big city, that is. But I still think we should assemble all the gun users in the town and kill all those birds once and for all, rather than scare them off. March 27th Had a nightmare, a very vivid one, though I can't for the life of me remember what it was all about now. Ruth woke up scared too; I comforted her. It was just a nightmare, nothing more. March 30th Pierce didn't come back from Houston, but the police sure did. They said Pierce's employer in Houston reported him missing, thinking he ran off with their money. I wouldn't put it past that sly fox. April 10th All night long, the birds were making that racket again. When I pulled back the curtains in the morning, I thought I was still dreaming, but it was real. There were so many birds they were blocking out the sun. It was like a waking nightmare. April 12th The birds scattered. Everyone looked kind of strange. It had been ages since I saw Marita walking her dog, and Ruth started bawling over the most trivial things. It's unnerving. April 17th Johnny's back in town, looking like his soul got swallowed up by the devil. I saw him running, screaming like a madman, then he just collapsed on the lawn all of a sudden, crying and begging for something to spare him. Father Morgan came, but he had this strange look about him. I heard what Johnny was saying. He was mumbling on and on about a "motel." May 13th I talked to a realtor. Yeah, it's come to that—I'm finally thinking about moving. Why? I don't know. I guess you could call it a ... gut feeling? Maybe my mind can be eased a bit somewhere new.
 
-- Description：Every town has its own story, some fit for prime time, others for filling slots.
-- Action：Read Diary
 
 
 ---
@@ -3450,8 +3440,6 @@ Motel Shopping List
 
 **August 1989** Bought: Blue Jay coffee beans, 5 lbs (with filters) River Valley bedsheets, 15 sets—Going through these too fast, need a countermeasure. Second-hand TV, 1 set—A good deal, "haunted, spooky shadows within," the seller said, hah! Sold: Cowboy brand toolkit, 1 set **October 1989** Bought: Thanksgiving decorations, 1 set Pecan Grove air fresheners, 1 dozen —Bloodstain trick is too simple. Need to have a word with "it." "Light of the South" bulbs, 1 dozen—Pretty crumby, but affordable and useful. Fresh cream, 3 pints—From Old Stewart's ranch, yum. Maybe get some candy next time? **November 1989** Bought: Texas trail candy, 5 boxes—Yum. Marigold body wash, 1 dozen—Smells too strong. **January 1990** Bought: Seven Star tea bags, 3 boxes Fresh ranch butter, 15 lbs River Valley bedsheets, 12 sets—Hope this batch lasts longer. Sold: Second-hand TV, 1 set—Sorry, darling, but it's time to say goodbye.
 
-- Description：She's a reliable and attentive owner of the motel, always making sure her supplies are well-stocked, even those that her guests may not need ...
-- Action：Read List
 
 
 ---
@@ -3609,8 +3597,6 @@ Laughing and running in those grassy fields.
 **Argus:** She was the apple of all their eyes.
 
 **Argus:** How dare this ugly imitation!
-
-She forcefully loads the shotgun.Argus: So ...She aims her gun squarely at the mirror.Argus: Here's my response.???: Urgh, i-it hurts.
 
 She forcefully loads the shotgun.
 
@@ -3935,8 +3921,6 @@ Experiment Report
 
 **Methods** Through the aid of voluntary donations, the research team extracted a nucleus from a female arcanist (Genetic Mother A) and an enucleated egg cell from a female human (Genetic Mother B). The nucleus was cultivated and processed to enhance its receptivity to new genetic instructions. After injecting the donor cell nucleus into the enucleated egg cell, an electric pulse was used to fuse the nucleus with the egg cytoplasm, initiating cell division and forming embryonic cells. During this process, the ratio of arcanist to human genetic material was adjusted to be nearly equal. In Experiment No. 277, the embryo developed well, meeting the criteria for transplantation, and was implanted into the uterus of a Finn-Dorset ewe after formation. **Observations** **0 Months Old** The subject was born through natural delivery, with 60.05% arcanist genetic material and 39.95% human genetic material, not achieving the expected complete balance, but still proving that the adult somatic cells of an arcanist can be programmed and adjusted through cloning technology. In appearance, the subject exhibits characteristics of both Genetic Mothers A and B; simultaneously, for unknown reasons, its head is highly similar to that of a Finn-Dorset, but brain development has not been affected. **2 Months Old** The subject's development is slower than that of contemporary human and arcanist infants. Mild symptoms of lung infection have been found. **4 Months Old** The subject's development is slower than that of contemporary human and arcanist infants, but it showed significant responses to music and human language, with consistent reactions to specific sounds. The cause of the lung infection was identified; the subject's lungs tested positive for the JSRV retrovirus, commonly found in sheep living indoors for extended periods. It was suggested that a veterinary team be brought in for consultation. **6 Months Old** The subject's physical development is slower than that of contemporary human and arcanist infants, and may stop developing prematurely. Sterile room staff reported that the subject began consciously mimicking communication behaviors, as expected. Educational classes and moral guidance videotapes were initiated. The lung infection worsened, and the subject showed a strong allergic reaction to chemical fiber products. ... **10 Months Old** The subject can engage in rudimentary communication, exhibiting good brain development. Multiple tests have confirmed that American country music is effective in alleviating the subject's allergic reactions, the cause of which is yet to be determined. ... **22 Months Old** The subject performed excellently in communication and intelligence tests, possessing the intelligence level of a 7-year-old human child. **23 Months Old** Bone tests indicated that the subject's physical development will cease completely by the age of 12.
 
-- Description：Details a significant event of the late 20th century. Essential reading.
-- Action：Read the Report
 
 
 ---
@@ -4802,8 +4786,6 @@ UTTU Special Interview
 
 Tuesday: An interview, huh? Well, I do declare, that is new ground for me, especially being interviewed by a child like you. Tuesday: So, what do you want to know? Barbara: You're no stranger to the realm of fear, and undoubtedly hold a unique perspective on the concept. That's why I want to hear what you have to say. Tuesday: You're a curious little thing, aren't you? I wonder ... is the rest of your flock this nosy? Look, darling, for me, fear's just a little hobby. Like, some people enjoy fishing, some like brewing their own beer, and ... some even like combing the knots out of sheep fleece—no offense. Barbara: None taken. Please, go on. Tuesday: Appreciating fear takes finesse ... you have to ease into it gently, like nudging a glass along the edge of a table with just your fingertip. Tuesday: Then, you hear that nice, crisp—clink. Barbara: So, you see yourself as a fear facilitator, not a direct participant, correct? Tuesday: You're a smart child. Tuesday: How do I put this ... It's more like the scared are scaring themselves. Those poor lambs will do the hard work for you, you see. Their imagination is my greatest tool. Tuesday: People start to make choices for themselves after experiencing true fear, based entirely on their imagination and of their own volition. And that's the most interesting part.
 
-- Description：When an interview opportunity presents itself, a professional journalist always grabs it with both hands.
-- Action：Read Interview
 
 
 ---
@@ -5287,8 +5269,6 @@ Tuesday's Motel Cleaning Records
 
 Week 4 Routine Cleaning Room 105: Cleaned carpet stained with vomit. Room 108: Cleaned stains and fingerprints off walls. Room 205: Broken glass, contacted supplier for replacement. Week 5 Routine Cleaning Room 105: Cleaned carpet stained with vomit. A lesson needs to be taught. Room 211: Replaced showerhead. Cracks in the glass in room 205 disappeared? Week 8 Routine Cleaning Front desk: Table needs repair. Room 102: Floor scorched—I saw that, I'm sure of it. Scorch marks disappeared. That's a good baby. Week 10 Routine Cleaning Room 105: Bloodstains, carpet ruined. It's time for punishment. Room 202: Glass completely shattered. Repaired **all by itself**. An good baby deserves a reward. Tonight. Room 105, of course.
 
-- Description：For hostesses, cleanliness is next to godliness. Fortunately, the subject this hostess wishes to clean is all for it.
-- Action：Read the Record
 
 ### Trail · Sweet Dreams
 
@@ -5302,8 +5282,6 @@ Lullaby
 
 Close your eyes, close your eyes, my darling little dear, The shining moon and peaceful night are dancing ever near, In your cradle, dream a dream, so tender and so sweet, Dream a dream to entertain and make this night complete. Close your eyes, close your eyes, my darling little one, The owls have caught some squirrels, dear, such luck and oh such fun, One by one, their eyes survey, on branches perched so high, Feasting freely, oh such delight, their banquet in the sky. Close your eyes, close your eyes, my darling little star, The black horse roams the wilderness, through rolling fields afar, Don't you fret, don't you fear, their hooves no harm shall bring, Their gentle pitter-patter prances lighter than the wind. Close your eyes, close your eyes, my darling little love, The barn is filled with fright and fear, below as is above, Breakfast ready, maws agape, a rousing sweet delight, Here awaits you to awake, devoured by morning's light.
 
-- Description：A song drifting through countless nights' dreams.
-- Action：Listen to the Song
 
 
 ---
@@ -5433,8 +5411,6 @@ Tuesday's Motel Incident Investigation Report (Excerpt)
 
 **Subject of Supervision:** An unknown arcanum entity, at the current stage identified as a living consciousness. Commonly referred to as "Tuesday's Motel" (hereafter referred to as the "motel"). **Level of Self-Awareness:** Medium to low, lacking gender, age, or other cognitive attributes, but capable of responding to certain human linguistic cues. **Arcane Skills:** Abilities include but not limited to influencing cognition, creating illusions, generating enclosed spaces, and creating aggressive arcanum entities. ... Tests indicate that the subject responds to Tuesday's voice and actions approximately 60.15% of the time, and can follow certain simple commands such as "defend," "allow," and "forbid." It is less responsive to researchers and exhibits a certain level of aggression. Tuesday denies manipulating or training the "motel," claiming that their relationship is one of "nurture" or "partnership." According to Tuesday, the subject was discovered in the Texas countryside, dyanmic in its form and size, currently mimicking the motels along Route 77. The subject's size correlates with the amount of fear it absorbs. The subject can create tangible arcanum entities that implant illusions in affected individuals and cause real damage. Witness records show that these entities can exhibit characteristics associated with popular North American myths and legends, including but not limited to Bloody Mary, the Mothman, and poltergeists. ... **Handling Recommendations:** Given Tuesday's influence over the subject, it is recommended that the "motel" is kept under Tuesday's stewardship, but Tuesday must be monitored at all times. Alternatively, consider transferring them to Team Timekeeper.
 
-- Description：Now that Foundation staff have taken over here, it's time for the routine cleanup procedure you excel in—and hate.
-- Action：Read the Report
 
 ### Trail · True Story
 
@@ -5492,8 +5468,6 @@ Alligator Ranch Extravaganza
 
 **Get ready for the adventure of a lifetime! Hundreds of sharp-toothed stars with mouths open wide are eager to meet you, as Texas's behemoths converge right here!** Alligator Kingdom Parade: A grand spectacle like you've never seen before! One hundred alligators are here to welcome you into their wild world! Alligator Feeding Frenzy: This is a challenge that's not for the faint of heart, where your fingertips brush against giant, hungry jaws! Don't worry though! Our safety measures are flawless, ensuring a perfect blend of excitement and safety, seriously. Giant Exhibit: "Everything's bigger in Texas!" It's true, folks—come see for yourself! See the state's largest cowboy hat, boots, waterwheel, and a whole load of other colossal wonders you've never even dreamed of! Critter Corner: Come meet the latest little stars down on our ranch, captured by Texas's bravest hunters. From those invisible little pests making mischief on your fields to the true cryptid legends of the badlands, come and see them today, now here before your eyes!  **Delay no more—come join the extravaganza today!** Scrawled Note: Damn, those creatures have escaped! Get an alligator hunter or critter expert on this, pronto!
 
-- Description：A color-printed flyer annotated with what seems to be explanations behind several urban legends.
-- Action：Read Flyer
 
 ### Trail · UFO Hunter
 
@@ -5507,8 +5481,6 @@ How to Hunt UFOs
 
 Author: Buck Stahlton, Renowned Texas Alien Hunter Author's Note: From Cowboy to UFO Hunter Chapter 1: The Origins of Aliens and UFOs Chapter 2: UFO Hotspots in Texas Case Study 1: The Mystery of the Highway Disappearances Case Study 2: The Hitchhiker's True Story Case Study 3: Buck's BBQ Bash and the UFO Encounter Chapter 3: Gearing Up Essential Gear and Equipment: Cowboy Hat, Lasso, and Radar Forming Your UFO Hunting Crew: From Ranch Hands to Earth Defenders Safety and Emergency Measures: How to Avoid Being "Taken" ... Chapter 9: Dealing with Alien Encounters Ways to Communicate with Aliens: Hand Signals, Morse Code, and Texas Whistles Staying Calm and Documenting Interactions: Don't Forget Your Cowboy Hat Possible Alien Agendas: Are They Here for the Cows?
 
-- Description：The resolute cowboy, met by a stroke of sheer luck, generously offered up this gift, complete with the author's priceless autograph.
-- Action：Read Book
 
 ### Trail · A Thrilling Adventure
 
@@ -5522,8 +5494,6 @@ A Thrilling Adventure
 
 Attention all true **explorers**! Get in your car, grab your map, and gather your courage to join us on a mysterious adventure tour! Itinerary: Old Valley (Ghost Cowboy Haunt) Hadley Oil Field (Mysterious Glowing Creatures) "Big Henry" Oak (Site of "The Hook" Killings) Route 77 (In Search of the Mysterious Motel) Ghosts? Critters? Arcanists? Together, we'll uncover the truth. Meet us at the town hall entrance on Friday at 5 PM ... (Flyer printed on a home printer. The rest of the text is illegible.)
 
-- Description：Half a flyer lies on the road. The creases, tire tracks, and coffee stains it bears tell of a thrilling tale.<br>Perhaps its previous owner experienced the very same mishap.
-- Action：Read Flyer
 
 ### Trail · Critters' Book Club
 
@@ -5535,8 +5505,6 @@ Attention all true **explorers**! Get in your car, grab your map, and gather you
 
 The critters scatter in every direction, a clear sign that you have won this battle for knowledge.
 
-- Description：The little creatures gather, earnestly and meticulously digesting mouthfuls of dust and knowledge.<br>Unfortunately, the folklore tome you have been looking for is among them.
-- Action：Drive the Critters Away
 
 ### Trail · Hitchhikers
 
@@ -5548,8 +5516,6 @@ The critters scatter in every direction, a clear sign that you have won this bat
 
 The unusual hitchhikers finally take their leave. Though still reeling from the shock of the ordeal, it is clear that the driver has many such tales to share.
 
-- Description：Wait, stick out your hand, and get in—hitchhiking is so simple that even the critters roving beside Route 77 have caught on.<br>Unfortunately, these critters have not yet learned the art of gracefully accepting rejection.
-- Action：Stop the Critters
 
 ### Trail · Legends to Be
 
@@ -5561,8 +5527,6 @@ The unusual hitchhikers finally take their leave. Though still reeling from the 
 
 Their legendary venture comes to an abrupt end. The hostage piles on profuse gratitude, thanking you with the gift of all the ghost stories he knows.
 
-- Description：A car rumbles down the dusty stretch, carrying two fledgling "entrepreneurs" who dream of recreating the legend of Route 77—a legend forged with bullets and burning rubber.
-- Action：Fight Back
 
 ### Trail · Unexpected Enemies
 
@@ -5574,8 +5538,6 @@ Their legendary venture comes to an abrupt end. The hostage piles on profuse gra
 
 The followers are completely defeated. Unfortunately, they don't have any valuable information or resources with them, but the booklet they were carrying is still more helpful than nothing.
 
-- Description：Yet another encounter with the followers of the Order of Enlightenment—this time a group of their lowest members.<br>Clearly, this will not end well for them.
-- Action：Defeat Them
 
 
 ---

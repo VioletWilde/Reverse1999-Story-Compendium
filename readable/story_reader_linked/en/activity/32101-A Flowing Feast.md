@@ -1153,8 +1153,6 @@ Welcome to Paris
 
 In a recent report, Paris was named the most preferred city for arcanists seeking residence. Respondents note that living in a metropolis dominated by humans is no easy feat—arcane skills, whether deliberate or incidental, often disrupt established social norms, inevitably creating confusion and conflict. Yet Paris, long known for its inclusivity toward people of many diverse backgrounds and traditions, stands apart. Parisian salons have come to regard arcane skills as a kind of marvelous and romantic art, and arcanists are frequently welcomed as guests of honor. To humans, Paris is a cradle of art; to arcanists, a haven of creativity. Reports indicate that several renowned arcane product entrepreneurs have opened new branches in Paris this year, their trust in the city drawing increased attention. The historic capital continues to attract arcanum talent and resources from across Europe. While human concerns about the spread of arcanum persist, many believe that more cities will soon follow in Paris's footsteps. —Arcanist Observer Journal
 
-- Description：The results reflect the opinion of the majority—but does truth belong instead with the few?
-- Action：Flip Through the Magazine
 
 
 ---
@@ -1819,8 +1817,6 @@ Midnight Whimper
 
 A hotel security guard says he often hears a woman's sorrowful voice during his nightly rounds. But whenever he investigates, he finds no trace of anyone hiding in the hallways or rooms.
 
-- Description：An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.
-- Action：Inquire
 
 
 ---
@@ -1990,8 +1986,6 @@ Exotic Mask
 
 A homeless man claims he saw someone in a blind alley wearing a crab mask. The person appeared well-dressed, not like someone living on the streets. The animated expression on the mask could change, as though the shell itself were the person's real face.
 
-- Description：An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.
-- Action：Inquire
 
 ### Trail · Voices in Debate
 
@@ -2244,8 +2238,6 @@ A Missing Person Report
 
 Hello. Yes, I ... I need to report a missing person. My Aunt Mary. She's the youngest among the elders in our family ... She's a quiet person. She's always reading poetry we don't really get ... She doesn't drink, and she bakes the best cakes for the kids ... But now she's disappeared. We can't find her anywhere! All her belongings are gone too—her clothes, her books, her baking supplies. Who would take all that with them ... What does she look like? Oh, sure, she's small and thin, with neat, short brown hair. Ah, and she has a birthmark on her right arm ... No, no, we don't have a photo of her. Yes, we checked every album. I think it's strange too, but there isn't a single picture of her anywhere. She's part of our family, so I don't know why she's not in any of our group photos ... Wait, what do you mean you can't help? Too many missing people with no proof they exist? What does that even mean?
 
-- Description：A city of leisure, the only people that ever seem to be busy are the operators and the police.
-- Action：Play the Call
 
 
 ---
@@ -3033,8 +3025,6 @@ Stay Away
 
 "Are we seriously waiting all night? I'm not sure this is worth it." "Trust me, Paul. This is our big chance. I saw him go in right here." "The Catacombs? It's just a pile of bones. Everyone in Paris knows that." "He had suitcases. Heavy ones. I bet he's hiding something big. It's all ours when he leaves." "Did you hear that?" "Shh! He's coming out!" "Wait ... was the guy you saw ... this massive?" "No way ... look at his head. No, wait, what's wrong with his hands?" "He's coming this way ... Did he see us? He saw us!" "Run, Paul! Come on! Go, go, go!"
 
-- Description：Theivery is a craft that demands both courage and skill. But above all, luck.
-- Action：Approach
 
 ### Trail · Voices of Anger
 
@@ -3331,8 +3321,6 @@ Riverbank Lights
 
 A boatman on the Seine says he saw unusual blue flames near the riverbank one night. They disappeared when he got closer. He insists he's never seen will-o'-the-wisps in all his twenty years on the river.
 
-- Description：An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.
-- Action：Inquire
 
 
 ---
@@ -3621,8 +3609,6 @@ But Adèle is at a loss for words, unable to summon up an explanation without st
 
 **Célia:** You mustn't trust her! She's more dangerous than she—
 
-Célia: Uhh—ughhh ...Adèle: Huh ...?Félicienne: How rude. You really ought to reflect on your choice of friends, my darling.Félicienne: I've no patience for personal slander.
-
 **Célia:** Uhh—ughhh ...
 
 **Adèle:** Huh ...?
@@ -3903,8 +3889,6 @@ But Adèle is at a loss for words, unable to summon up an explanation without st
 
 During Louis XIV's reign, life for most nobles of the sword was tough. They had to live at Versailles and follow elaborate etiquette to show their loyalty to the king. Earning even a small amount of royal favor meant extra rewards and yearly salaries, which helped them manage their debts. However, some families refused to exchange their swords for robes. Old aristocratic families with arcane bloodlines continued to flaunt their "unique" arcane skills. The Baron family was one of them. Once commanders of thunder and lightning on the battlefield, the Barons now performed parlor tricks at banquets to gain social status. As time passed, their wealth dwindled. After the Napoleonic era, these noble families found themselves deeply in debt, often selling off their possessions to survive. Investing in business became more common and was no longer seen as disgraceful. Fortunately, the rise of aluminum gave Monsieur Baron the chance to apply his arcane skills to this new industry, bringing his family a steady income. But their success didn't last. As new weapons and a new social order emerged, human technological progress made low-output arcane skills obsolete once more. Electric lights and wiring became commonplace, and the Hall-Héroult process made aluminum cheap, wiping out the Baron family's last viable business. What a pathetic glory of the past, what pitiful noble souls. These nobles desperately needed an opportunity, some support, a chance to change times and restore the arcanists' prestige ...
 
-- Description：A few words of advice for arcanists who've run out of options.
-- Action：Read the Records
 
 
 ---
@@ -4110,8 +4094,6 @@ Elephant in the Dream
 
 Many mothers report that their children, scared and screaming, run back to them when playing in the park, only to have severe nightmares afterward. Each dream begins the same way: with a blurry image of a toy elephant.
 
-- Description：An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.
-- Action：Inquire
 
 
 ---
@@ -4465,8 +4447,6 @@ A Record
 
 Everything is unfolding right now. No form of divination, prophecy, thought, or those feelings of déjà vu and dreams is just a coincidence. Imagine a vault that exists beyond both time and space. Inside it lies everything. Love and hatred, good luck and bad luck, the oldest archetypes and legends. Under normal circumstances, we could never reach it. But the Guiding One and the "Storm" have made this miracle possible. Now, the Archive of Imagery, known as the "Depths of Myth," has become visible to us. We owe a great deal to the pioneer whose research and courage made this possible. Her dedication and sacrifice deserve our deepest respect. We would all be wise to follow her example. ...
 
-- Description：A round of applause for the latest research breakthrough—don't forget to raise a toast!
-- Action：Read the Paper
 
 
 ---
@@ -5345,8 +5325,6 @@ A Stroke of Genius
 
 A painter sketching in a square remembers reaching a point where his artwork was "stuck in a bottleneck." That's when a "young person with a uniquely inspired touch" helped him finish it. The piece, with its "exquisite cubist composition," now "shines with the light of a new-age Muse." The painter believes this must be the work of "some magnificent god of art" who manifested to guide him.
 
-- Description：An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.
-- Action：Inquire
 
 
 ---
@@ -6217,8 +6195,6 @@ Whale Song on Land
 
 A report from a special investigator mentions that her sound measurement equipment picked up steady infrasound at the Champ de Mars. The frequency and rhythm matched the calls of a whale—something impossible to hear in Paris. She tried to track the source but couldn't find it.
 
-- Description：An unremarkable witness report. All rumors, whispers, and tales—every passerby keeps a few in their pockets.
-- Action：Inquire
 
 
 ---
@@ -6816,8 +6792,6 @@ A Prophecy Comes True
 
 She must have foreseen this moment before. The clean lines of the dark marble floor before her match the image in her mind. The visitors' shapes are just as they appeared in the orbuculum. The woman with black-rimmed glasses and dark eyes is kinder but firmer than expected. Blue top hat, distant look—a familiar childhood friend. And then ... a duckling. She flaps her wings as she rushes up the steps, the sound of leather shoes stomping loudly. She doesn't apologize for bumping into anyone ... First floor, second. The hallways of the Foundation seem endless today ... No need to ask for directions, she runs, panting, sure of where she's going ... "Please leave the door, Vertin. I'm expecting more company," she says quietly. A glance passes between the one in the blue hat and the one with glasses, who gives a slight nod. Footsteps approach quickly, accompanied by the sound of labored breathing. There's no knock. The door, already slightly ajar, is pushed wide open. "Ha! Mama! \*deep breath\* I knew I'd find you here!"
 
-- Description：Some prophecies take ages to come true. Others, only a moment.
-- Action：As in your vision
 
 ### Trail · The Opposite of Perjury
 
@@ -6851,8 +6825,6 @@ She must have foreseen this moment before. The clean lines of the dark marble fl
 
 **Brume：** None. I'm certain.
 
-- Description：She shows no change in expression, her pulse steady, her statement flawless.
-- Action：View
 
 
 ---

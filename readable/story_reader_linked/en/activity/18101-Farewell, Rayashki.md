@@ -3916,8 +3916,6 @@ He says nothing else, then turns to leave without looking back.
 
 Thanks to your help, everyone is one step closer to achieving their goal and transitioning into a town life.
 
-- Description：The story begins with a melody that echoes through the airspace of the workshop, signaling the beginning of a new day.
-- Action：Lend a Hand
 
 ### Trail · Walk faster
 
@@ -3963,7 +3961,6 @@ Resident II: The town has been built, and we have been living here for a while n
 
 Resident I: Hey, alright! That's the attitude we need! If we walk a little faster, we can still make it back to work on time!
 
-- Description：Walk faster
 
 
 ---
@@ -4253,7 +4250,6 @@ Bertolt: That's true, gentlemen. But why do you insist on doing everything yours
 
 Bertolt: It seems that our conversation has come to an end. I will stay here until Evgeni arrives and gives an answer, which should be soon.
 
-- Description：Point of Divergence
 
 ### Trail · United Hands
 
@@ -4265,8 +4261,6 @@ Bertolt: It seems that our conversation has come to an end. I will stay here unt
 
 Snow covers all, including your grumpy neighbors.
 
-- Description：Dealing with these neighbors is something everyone is familiar with, but having an extra person around is always beneficial.
-- Action：Drive them away
 
 ### Trail · The Taste of Yesterday
 
@@ -4298,7 +4292,6 @@ Patrik: I have to remember to write down all the details in case the kids ask me
 
 Patrik: There are countless unsung heroes in Rayashki, a place filled with ordinary people just trying to make ends meet. That's the reality of our lives here.
 
-- Description：The Taste of Yesterday
 
 
 ---
@@ -5129,7 +5122,6 @@ Knut: ...
 
 Knut: Here. This is all of it.
 
-- Description：A Heartfelt Legacy
 
 ### Trail · School
 
@@ -5141,8 +5133,6 @@ Knut: Here. This is all of it.
 
 Thanks to your help, everyone is one step closer to achieving their goal and transitioning into a town life.
 
-- Description：This is the building that's garnered the most attention in town, where blank pages are splashed with vibrant colors.
-- Action：Lend a Hand
 
 ### Trail · Dodgy Excavators
 
@@ -5154,8 +5144,6 @@ Thanks to your help, everyone is one step closer to achieving their goal and tra
 
 Your familiar neighbors reluctantly back away from the ore.
 
-- Description：It's only natural that minor conflicts arise during the mining process.
-- Action：Drive them away
 
 ### Trail · Needles and Loaves
 
@@ -5189,7 +5177,6 @@ Raisa: Whether it is Comrade Vila or ... Comrade Evgeni, I trust in their abilit
 
 Raisa: Rayashki will always be here, steadfast and unwavering.
 
-- Description：Needles and Loaves
 
 ### Trail · Town Square \<nobr\>Meet-Up\</nobr\>
 
@@ -5203,8 +5190,6 @@ Side by Side
 
 Miners, covered in a layer of dust and wielding their picks, hurry over as others join them after washing off their bandages. In the square, some take shelter under the statue and read books, while children are led by loving hands through rows of coats and boots. A strong sense of camaraderie unites everyone in the square; they are all part of the same tight-knit community. The conversations begin and spread like a hurricane, sweeping from one end of the square to the other as everyone tries to engage with those around them. But then another voice joins in. The town's teacher has arrived, embodying the ideals we hold dear. She is like a character from a legend who has come to our town from a faraway place. Because of our strong will, even legends can become reality here. If the teacher had not said, "See you tomorrow!" this would have gone on all night. As a community, we each have a voice in shaping the future of our town. It's inspiring to see so many people come together to make a difference. There is a sense of pride that radiates from within, uniting us all towards a common goal. Oh, how powerful it is when we come together as one!
 
-- Description：Pour out your thoughts and feelings here.
-- Action：Stop and watch
 
 
 ---
@@ -5394,7 +5379,6 @@ Elena: It is crucial for children to explore the world. I came here at a young a
 
 Elena: We did not come to Rayashki to have fun. They've got it all wrong.
 
-- Description：Same as Before
 
 ### Trail · No Man's Land
 
@@ -5406,8 +5390,6 @@ Elena: We did not come to Rayashki to have fun. They've got it all wrong.
 
 Sometimes physical action is more practical than verbal communication.
 
-- Description：After people leave, new inhabitants arrive. However, they don't seem to be very interested in socializing.
-- Action："Friendly" Exchange
 
 
 ---
@@ -5525,8 +5507,6 @@ The boy, bright as any other sunflower, waves to her as he hops joyfully in the 
 Windsong wants to say something, but a sudden creaking draws up her attention.
 
 She looks up to see a construction crane looming over the town.
-
-The new coal refinery, a school, a hockey field, the dormitories ...In the boundless future ahead for Rayashki, these buildings will be like speckled grains of sand cast over the tundra.Windsong: We begin the next chapter of Rayashki today.Windsong: I'm so glad we will build it together.Windsong: Hello, Rayashki.
 
 The new coal refinery, a school, a hockey field, the dormitories ...
 
@@ -5696,7 +5676,6 @@ Knut: I don't want to leave. I'm afraid I'll change faster than this town did. T
 
 Knut: It's incredible, isn't it? How things can change in what feels like an instant ...
 
-- Description：An Instant
 
 ### Trail · The Factory Spirit
 
@@ -5726,7 +5705,6 @@ Adrian: I hope to turn our experiences here into a legend, like the stories of C
 
 Adrian: So let's raise a glass to the new factory and all that we have accomplished here together!
 
-- Description：The Factory Spirit
 
 ### Trail · A Promise
 
@@ -5740,8 +5718,6 @@ Vibrant Snowy Square
 
 Take another good look at the square. It hasn't changed much—a polar bear stands in the center, outlined by a faint light, while children eagerly reach out to touch its paws. The snow dusts the bear's head, giving it a serene quality that contrasts with the lively setting. Flowers bloom amidst the white snow, covering most of the stones on the ground. The bear appears to be at peace against the mustard yellow background. This is an important place in Rayashki, as the town kitchen cannot accommodate such a large number of people. It is often used for public discussions and will continue to serve that purpose. Recently, it was decided to allow children to venture outside and explore the world beyond. The road leading there is bathed in sunlight, decorated with red ribbons that sway in the gentle breeze from the trees. People find familiar images here that evoke nostalgia and memories of past lives, yet those who come here rarely speak of their homeland. This is the true essence of Rayashki—everything they hoped to see in their homeland, but never did. It's like the distant horizon that Rusalka dreams of as she braves the icy waters, or the intricate illustrations created by traveling ley hunters, or even the homes of Foundation visitors who have long since disappeared. It's what previous generations promised the next: a glimpse of their idealized homeland. The more impossible an ideal seems, the stronger it becomes—unbreakable in its perceived perfection. Despite this, there is still so much to strive for and achieve in life.
 
-- Description：I believe we are resilient and strong, and I have no doubt that you are too.
-- Action：Look Forward
 
 
 ---
@@ -5897,8 +5873,6 @@ Lost Export Plan Found at Port
 
 **Raw Coal:** Commonly used as a fuel for combustion. Suitable for heating and power generation. High priority for direct export (but can cause resource waste and air pollution). **Coal Gasification:** Can be converted into clean fuel gas for synthesis (related technology and facilities are expensive – consider collaborative production methods). **Coal Ash:** Produced from boiler combustion. Can be recycled for use in road construction. No need for export. **Coking Coal:** Important material for iron smelting (perhaps the ironworks could be rebuilt?). **In addition:** It is reported that there is technology to produce refined coal after it is washed, and there is a high demand for refined coal in the south. Should be prioritized. What is the source of this report? Who could have predicted that we would uncover a coal mine, or that we had been to the south? —Comrade Evgeni listed more than a dozen common uses and export directions for energy in his letter, and we found one that we could use.
 
-- Description：The writer must have been in a rush, leaving it to share space with crates and the cold wind.
-- Action：Open it
 
 ### Trail · Narrow Path
 
@@ -5910,8 +5884,6 @@ Lost Export Plan Found at Port
 
 The silhouettes of the neighbors disappear into the depths of the mine.
 
-- Description：The mine is too narrow to fit everyone. One side will have to give way.
-- Action：Keep Safe
 
 ### Trail · Essential Reading
 
@@ -5925,8 +5897,6 @@ Miners' Code and Appendix
 
 **Part One: Standard Training** 1. Must complete safety knowledge training and pass a test before working. 2. Must be familiar with the site survey and operating procedures for the appropriate type of work. .... 9. Anyone under the age of 16 or over the age of 60 is absolutely prohibited from entering the mine. **Part Two: Practical Operations** 1. Arrive at the site on time for shift changes. 2. Check the safety of the site, the quantity and quality of materials, and remove any obstructions that may impede operations. .... 9. Prepare a written record of the mine's safety conditions prior to shift changes, and regularly update and review this record. **Part Three: Safety Instructions** 1. Must start engines according to standard procedures and perform reverse checks to ensure equipment reliability. 2. If abnormalities occur while operating winches, locomotives, or pickup vehicles, stop and investigate immediately. 3. Bring all necessary tools with you before entering the mine. Sharp tools must be carried in protective covers. ... 19. Fill out the logbook carefully and check it regularly. **Appendix - Index of Self-Manufacturable Components at the Factory** ... 17. Cross Slides (process temporarily missing) Comrade Evgeni extracted the method from the book. We have enough raw materials, approved for production. —I. I. Novikov It's hard to make, but let's try anyway. —Bo. F. Braginskaya
 
-- Description：Plays a critical role in ensuring personal safety.
-- Action：Read Carefully
 
 ### Trail · Production Factory
 
@@ -5938,8 +5908,6 @@ Miners' Code and Appendix
 
 Everything is going smoothly, but it never hurts to be careful.
 
-- Description：The safety of miners is paramount and precautions must be taken. This includes prioritizing the production of sturdy, reinforced structural components.
-- Action：Lend a Hand
 
 ### Trail · Hey, Tomorrow!
 
@@ -5991,7 +5959,6 @@ Knut: Right ... I may not be good with words, but I wholeheartedly agree with co
 
 Knut: This must have been Comrade Evgeni's true wish.
 
-- Description：Hey, Tomorrow!
 
 ### Trail · Snow
 
@@ -6005,8 +5972,6 @@ Snow and Other Possibilities
 
 To the town, she is a familiar figure. But to herself, everything is so drastically different. She's used to walking in the snow. The poplar fluff floating through Moscow's streets reminds her of Rayashki; it's like snow, but it doesn't make her cheeks turn red or her hands and feet cold; it doesn't melt on the skin, nor can it hide anything. Canned goods, even sausages and fresh meat, are available in stores, and one doesn't have to count the days just to exchange for everyday items ... The first time she made soup in her new home, it felt surreal. Another vivid memory was when she got off the train, holding her child's hand in fear. Outside the small town, in Moscow, there were so many people, all seemingly full of hope. But she boarded the train back to Rayashki anyway. Rayashki had changed, too. There were faces in the town she didn't recognize, and the statue in the center of the square had changed. The school was still the same, and the children played games in the small playground. The townspeople's greetings were a bit awkward; no one mentioned her hasty departure as if it was not important, as if anyone could leave at any time and also return whenever they wanted. Snow fell on her hair and collar, turning her fingers and nose red—this was real snow.
 
-- Description：Tiny salt crystals scattered across the ground, faithful companions that can fix any problem.
-- Action：Reach Out
 
 ### Trail · The Path Ahead
 
@@ -6058,7 +6023,6 @@ Vila: The future is unknown and unpredictable. All we can do is take one step at
 
 Vila: You will always have the ability to move forward on this path, with all of us.
 
-- Description：The Path Ahead
 
 ### Trail · Welcome Home!
 
@@ -6104,7 +6068,6 @@ Vila: Would you mind taking care of the children for a while? I have to go check
 
 Vila: Welcome home, Comrade Ulyana!
 
-- Description：Welcome Home!
 
 ### Trail · Laborer's Canteen
 
@@ -6116,8 +6079,6 @@ Vila: Welcome home, Comrade Ulyana!
 
 Now that all the important tasks have been completed, it's time to celebrate.
 
-- Description：The bigger the occasion, the more preparation is needed. Our comrades deserve this well-orchestrated celebration.
-- Action：Lend a Hand
 
 ### Trail · Toward the Distance
 
@@ -6167,7 +6128,6 @@ Pasono: Yes, let's find the prettiest twigs to decorate them with!
 
 Pyotr: Let's go, everyone. Split up to find materials and come back as quickly as we can!
 
-- Description：Toward the Distance
 
 ### Trail · Twig Collecting Initiative
 
@@ -6179,8 +6139,6 @@ Pyotr: Let's go, everyone. Split up to find materials and come back as quickly a
 
 The children have triumphantly gathered a pile of precious twigs.
 
-- Description：Even when building snowmen, these kids have a keen eye for good materials.
-- Action：Compete Fairly
 
 ### Trail · Abandoned Mines
 
@@ -6192,8 +6150,6 @@ The children have triumphantly gathered a pile of precious twigs.
 
 This is the result of your combined efforts. Now, the snowman can proudly display buttons made of precious ore.
 
-- Description：Pay attention to the vibrant colors around the mine, and don't lose sight of the child busy building a snowman.
-- Action：Provide help
 
 ### Trail · Children's Creation
 
@@ -6207,8 +6163,6 @@ Circle Dance
 
 Snowmen of various sizes were arranged in a circle on the playground, and the children lovingly linked their twig arms together so that the snow friends were holding hands. Each child focused on decorating their little creation, staying close together, and when one arm brushed another's shoulder, there was a cheerful laugh. The little girl on the far left lowered her head, her braids curled up like haystacks in the sun. She carefully placed sunflower petals on her snowman's head. Nearby, two boys were trying to make their snowman's chubby body wider and sturdier so it would last longer and Ms. Vila could greet them more often. The little boy's snowman was a bear. It was only through his explanation that the head and paws of the arctic fox could be seen on its back. Foxes don't usually have long ears like rabbits, but he gave it those in order to hear his mother's footsteps, Vila's footsteps, and his friends' footsteps. Finally, he carefully placed the mined ore on the fox's chest, just as he wore the beautiful stone his father had left him. **"Okay, my frosty comrades! You can all stay here and do the circle dance with Ms. Vila. Remember, no running around or making a ruckus; just listen to her instructions ..."**
 
-- Description：Shaped by different little hands, sharing the same innocent hopes.
-- Action：Look at Them
 
 ### Trail · The Workers
 
@@ -6222,8 +6176,6 @@ Caring Crowd
 
 Among the long tables sits a group of people. The one in the middle maintains her usual politeness and friendly smile. If you weren't looking at how her hands are resting uncertainly on the table, you'd miss the emotion beyond the politeness. Yes, this young scholar is stunned that the theory she has been focusing on is back in the spotlight. After being relegated to the pile of old papers in most places outside, it has found a place in Rayashki. As for the people around her, most are still wearing their work clothes, with coal dust clinging to their collars and pant legs. They are aware of this and keep their distance from the scholar until she reaches out to them. This group of makeshift teachers and students shake hands, determined to spend time understanding a fading discipline. Those most dedicated to the work are also the most serious pragmatists. The study of ley lines has played such an important role in the rebuilding of the town! When the scholar first entered the research institute, this is what she had hoped for. Is the study of ley lines omnipotent? No. But it may eventually bring about change. Perhaps it will be the moment the coal mine was discovered, or perhaps it is this moment.
 
-- Description：Those who made Rayashki stand tall on the snowy plains, and those who never expected their names to be remembered.
-- Action：Approach them
 
 ### Trail · Unexpected Scenario
 
@@ -6235,8 +6187,6 @@ Among the long tables sits a group of people. The one in the middle maintains he
 
 It was unanimous: a larger venue was needed for this lecture.
 
-- Description：An impromptu lecture on the study of ley lines. The architect never imagined that this place would be used for such passionate discussions.
-- Action：Maintain Order
 
 ### Trail · Residential Area
 
@@ -6248,8 +6198,6 @@ It was unanimous: a larger venue was needed for this lecture.
 
 The next step is to sift through the information, a task best left to the experienced scholars.
 
-- Description：The best way to solve local problems is to consult with the locals. The most direct approach is to go door to door.
-- Action：Knock on Doors
 
 ### Trail · To the Horizon Line
 
@@ -6317,7 +6265,6 @@ Vila: At that moment, I decided to go and see for myself. And so I arrived at Ra
 
 Vila: ... It's remarkable how our dreams are gradually becoming a reality.
 
-- Description：To the Horizon Line
 
 
 ---

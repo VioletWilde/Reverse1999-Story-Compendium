@@ -876,8 +876,6 @@ Ghost Radio
 
 "So last night I picked up a really weird shortwave station." "Was it a buzzer? Or a numbers station? Could just be interference." "No, there was a woman's voice spelling letters, but it made no sense. MYDA, SEVA ... She also said something quite creepy." "Did you record it?" "Only got a few clips. Here, listen." "Mike, Yankee, Delta, Alpha ... \*static noise\*" "Sierra, Echo ... Victor, **Abandon** ... I'm the only one left ... Am I really the only one? No, I-I can't **give up**, no ... \*static noise\* Run away!" "Mike ... Yankee, Delta, ugh, what? \*static noise\* Buzzing ... the bug is in my ears ... buzz ... **Buzz, Bless ... Blasphemy**! We brought on the devil's wrath! This is **blasphemy**!"​ "Starve,  **I'm so hungry** ... Is this thing edible?" "I'm close to the \*static noise\* end now." "A frozen corpse, a broken skull ... I must ... \*static noise\* ... find Mother Spirit ... guide ... \*static noise\*" "..." "Hotel, Lima, Evil ... **Providence**. The radio's not working, the radio ... I need to throw it away. **Mother Spirit, bless me**."
 
-- Description：This comes from the personal experience of a radio enthusiast, there's no way it could be false.
-- Action：Listen to her
 
 
 ---
@@ -1251,6 +1249,8 @@ There stands a golden Spinning Wheel, locked in silent communion with her.
 > Come on, keep up—don't lag behind.
 
 <!-- reader-body:start -->
+> **Title card：** My Travel Companions
+
 **Sonetto:** Manus Vindictae is an extremist pure-blood arcanist organization. They used to act covertly to disrupt the world order in hopes of reviving arcanum.
 
 **Sonetto:** However, in the last year, they've become much more active, even encouraging ordinary people to wear their masks and endure their trial. It's suspected that they went high-profile in order to quickly attract more believers.
@@ -1472,230 +1472,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Come on, keep up—don't lag behind.
-
-> **Title card：** My Travel Companions
-
-**Sonetto**：Manus Vindictae is an extremist pure-blood arcanist organization. They used to act covertly to disrupt the world order in hopes of reviving arcanum.
-
-**Sonetto**：However, in the last year, they've become much more active, even encouraging ordinary people to wear their masks and endure their trial. It's suspected that they went high-profile in order to quickly attract more believers.
-
-**Sonetto**：According to our intel, they'll hold an important ritual in Antarctica soon.
-
-**Vertin**：And we're searching for someone who may play a vital role in this ritual.
-
-**Nautika**：Arcanists, masks ... Are the Snow Monsters what you call Manus Vindictae?
-
-> **Title card：** Abandoned Research Station
-
-Nautika's words are marked with a strange excitement.
-
-**Nautika**：W-What exactly is this ritual they're holding?
-
-**Sonetto**：Sadly, we don't have much information in that regard. We're hoping to figure it out on this mission.
-
-**Nautika**：Ritual ... Arcane ritual ...
-
-**Nautika**：Wait, wasn't that one of my research topics?
-
-**Nautika**：Draw the formation, place the offerings, and summon or invoke Her spirit through a series of actions to communicate with the Mother Spirit!
-
-She looks up with pure eagerness.
-
-**Nautika**：D-Do you know of Her? Do you know the Mother Spirit?
-
-**Sonetto**：...?
-
-**Sonetto**：Um, sorry, no.
-
-**Nautika**：N-No?
-
-**Sonetto**：Please excuse us, miss. We have to leave now.
-
-**Vertin**：Oh, and given that the communication equipment at this station isn't working ...
-
-The suitcase opens again, this time revealing a radio decorated with a flower.
-
-**Ms. Radio**：Ah-Atishoo!
-
-Ms. Radio shakes in Nautika's palm, struggling with the harsh shifts in the Antarctic temperature.
-
-**Vertin**：May I introduce you to Ms. Radio? She'll receive the signal from the rescue team for you.
-
-**Sonetto**：In the meantime, you may await their arrival here. The incantation keeping you warm will remain effective until then.
-
-**Sonetto**：And thank you for your advice. We will proceed with caution.
-
-The station's creaking door reopens.
-
-...
-
-**Ms. Radio**：Hello, little explorer. You can call me Ms. Radio, as the Timekeeper said.
-
-**Nautika**：The heart of Antarctica, an arcane ritual, a vital role ...
-
-**Ear Worm Máhtu**：<glitch>"The guide appears, then fades from human sight; If the devoted journey, let their songs unite."</glitch>
-
-**Nautika**：Damn it, Nautika.
-
-**Nautika**：Little Máhtu is reciting a message from the Mother Spirit Herself. Focus!
-
-**Ear Worm Máhtu**：<glitch>"The guide appears, then fades from human sight; If the devoted journey, let their songs unite."</glitch>
-
-**Ms. Radio**：Um, hello? Can you hear me?
-
-**Nautika**：Your topic ... Your research ...
-
-**Vertin**："I assume you're here in pursuit of something, just like the rest of your family."
-
-**Nautika**：Their dream ... Your dream.
-
-Máhtu's voice is snapped off as Nautika bolts to her feet.
-
-**Nautika**：This is the chance of a lifetime.
-
-The visitors' boots are already cleaving a deep path through the snow outside the station.
-
-The door closes heavily and slowly behind them.
-
-**Nautika**：Wait!
-
-The door swings open again as Nautika rushes out holding Ms. Radio.
-
-**Sonetto**：...
-
-**Vertin**：...
-
-Her hands tremble with excitement as she pulls a map from her pocket and struggles to unfold it in the wind.
-
-A crumpled sheet of waterproof synthetic paper, bearing deep grooves with red ballpoint ink.
-
-**Nautika**：I-I drew this map myself. It's a draft, yes, but, well, in this situation, it is the authoritative guide on Antarctic mythological archaeology.
-
-**Nautika**：I recorded everything I saw in Antarctica on it, see? Here's the route from the station to the hinterland. A-And here, the landmarks along the way. And this—I charted the topography around the ruins at the heart of Antarctica. Right here.
-
-**Sonetto**：Ruins? You mean there's an undiscovered site in the heart of Antarctica?
-
-**Nautika**：Yes, exactly. It's never been recorded in any reports. It's a brand new discovery of our team.
-
-The two exchange glances.
-
-**Vertin**：And Manus Vindictae's hiding place.
-
-Sonetto nods.
-
-**Vertin**：It's highly possible that the ritual will be held there.
-
-**Nautika**：But, hmm, we've never entered the ruins. The closest we came was in its periphery, but the weather was too severe. We had to turn back.
-
-**Nautika**：But-But if Máhtu is right, we'll make it this time.
-
-**Sonetto**：And by "we," you mean ...?
-
-**Nautika**：Well, if it's possible, would you mind taking me with you?
-
-Nautika takes a timid step, shuffling forward like a penguin.
-
-**Nautika**：You-You see, I could be in danger waiting here by myself. Why not just follow you and ...
-
-She gulps a sharp breath of dry, cold air, and her voice quivers again.
-
-**Nautika**：And, wait a minute. Is there really a rescue team on the way?
-
-Meanwhile ...
-
-A small schooner enters icy waters.
-
-Ulrich's ferrofluid moves erratically. He grips a communicator in one hand while impatiently tapping the porthole with the other.
-
-**Ulrich**：Yes, we've tested the stability of the "Regulus" record in the "Storm" the hard way. But there are still some experiments to be completed, and that is a problem.
-
-**Ulrich**：Our study is like a baby who's just started to crawl. It's making moves, yes, but isn't exactly going to win a marathon anytime soon.
-
-**Ulrich**：That's why we need you to stay in the lab. You have the greatest knowledge of the "Artificial Storm." You're more than capable of continuing the work on your own.
-
-**Ulrich**：Yes, yes, I know how much you wanna see the Timekeeper and embark on your "cross-century rock expedition."
-
-**Ulrich**：But the experiment in Antarctica isn't one of your concerts. It's a gamble, and we're betting every hypothesis on it.
-
-**Ulrich**：If "Regulus," that is, your record, is in fact the key to artificially controlling the "Storm" and its Syndrome as we suspect ...
-
-**Ulrich**：I hope it can at least serve as the Timekeeper's backup plan in this Antarctic operation should the worst happen.
-
-**Ulrich**：You know the agreement we made with her. I take the "Regulus" record for experimentation and support, and you stay in Laplace to work on the "Artificial Storm."
-
-He adjusts the record to fit snugly and securely under his arm.
-
-Even after surviving multiple "Storms" with its former owner, the record remains good as new.
-
-**Guard**：Boss, we've entered the continental shelf. If Manus Vindictae picks up our long-distance comm signal, this operation will be declared a failure.
-
-A guard chewing chocolate-flavored rations mutters out a warning.
-
-A deafening horn blast echoes in the distance.
-
-Hearing this, the guard exits her casual slouch and moves onto the deck, scanning the horizon.
-
-> **Title card：** Antarctic Sea
-
-**Guard**：Oh, we've finally met the Foundation's fleet.
-
-**Ulrich**：What?
-
-A dark shadow cloaks the heaving waters.
-
-Ulrich looks up from his communicator.
-
-**Ulrich**：What on earth ...
-
-The propellers spin fast against the swelling sea. The distinct aroma of burning diesel hits the air.
-
-**Ulrich**：Is that ...?
-
-At the front of the schooner, a sailor turns his face.
-
-**Sailor**：Ha! "Triglav" the battleship, and "Dida" the destroyer.
-
-**Sailor**：Are they deployed from Petropavlovsk-Kamchatsky, ha! Traveled halfway across the world to get here. Looks like they're finally on the last stretch to Antarctica.
-
-**Guard**：From the north? Surely not.
-
-**Sailor**：That's right. Seems that Commander Creius and Admiral Somme have struck a deal.
-
-A torpedo explodes a hundred meters away. A strange, animal-like scream is heard as waves splash over it.
-
-**Guard**：Hold on! Adjusting the sail angle. Damn it, no one told me we'd be fighting on the front bloody line.
-
-**Sailor**：It's one of them armed Magnus beasts that the Manus modified. Didn't expect their first line of defense to be an actual monster.
-
-**Sailor**：Zeno's elite expeditionary force versus the army Manus Vindictae has gathered across multiple "Storms" ...
-
-**Sailor**：This is gonna be a right hell of a fight.
-
-**Guard**：What is he so excited about? Come on, help me at the helm.
-
-After one last loud boom, the shrieking Magnus submarine quickly dives underwater.
-
-Soon, the icy ocean turns blood red.
-
-A line cuts through the crimson water, moving fast toward the fleet.
-
-**Captain I**：135T, prepare to engage. Bridge ready.
-
-Warships maneuver over the icy sea. Relays of orders and replies come staccato and clear over the radio.
-
-The guns inch into position, aiming to hit the water at six o'clock.
-
-**Captain I**：Let's see if their liquid metal reactor can resist Type 65-76 torpedoes and our aerial firepower.
-
-**Captain I**：Attack!
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -2050,8 +1827,6 @@ Blinking, she finds herself mesmerized by the strange, golden flurry dusting her
 
 END OF DIALOGUE
 
-- Description：Predicting other players' moves is always more interesting than playing them yourself.​
-- Action：Analyze the "game"
 
 ### Trail · Workplace Survival Guide​
 
@@ -2093,8 +1868,6 @@ END OF DIALOGUE
 
 END OF DIALOGUE
 
-- Description：Reading between the lines and detecting micro-expressions are important workplace skills even in Antarctica.
-- Action：Study the case
 
 
 ---
@@ -5923,8 +5696,6 @@ H
 
 > **Action：** Go to the experimental site
 
-- Description：​​We suggest that every researcher continue regular exercise or else apply for an exoskeleton from their institution.
-- Action：Go to the experimental site
 
 [Outdoor Experiment](../trails/900028-Outdoor%20Experiment.md#episode-90002801)
 
@@ -7708,8 +7479,6 @@ Tales of the Mother Spirit
 
 **The First Tale** When he arrived in this world, the child received the Mother Spirit's first blessing. He stopped crying as a sunbeam fell on the pillow. Through his tears, he saw Her gifts: golden rays warming his hands, white cloths softly swaddling his body, and fresh air breezing into his lungs. A single life is all we are given; thus, the Mother Spirit taught the child to cherish. **The Third Tale** The child gripped a bow, leaving deep footprints in the snow. It was his day to hunt. But this land hadn't seen any trace of birds or squirrels for ages. The long-absent spring was growing fainter with every passing year like a distant myth. Finally, the child took down a doe just before sunset. Closing those watery eyes glowing with innocence, his weary hands shakily splitting the flesh, he recognized that this was the Mother Spirit's second blessing. Staring at the frozen, fragile branches, the child knew it was time to go south. **The Seventh Tale** The sun fell into the moss-covered plains, its once eternal fire frozen by the ice. Fish drowned in the waters, sinking to the riverbeds where they transmuted into swords. Coffins creaked open. Shriveled fingers clawed at passersby, seeking redemption. The child trudged across the land, his blood and cotton wool forming scabs over the surface of his skin. His fingertips, first ravaged by chilblains, were then abraded by hoes and pickaxes. Only his vocal cords remained alive to pray to the Mother Spirit. Please rewrite the laws of this world. Please grant us a new spring. **The Ninth Tale** The lost child received the Mother Spirit's third blessing. In the farthest south, the child passed through the Mother Spirit's body and knocked upon the gate to Her soul. A sense of warmth he hadn't felt for a long time enveloped him, making him Her child once again. Cradled in the Mother Spirit's arms, he heard the last message. Many, many years later, when the earth was again dotted with trees and flowers, the child's children sat around the campfire, begging for tales of the Mother Spirit. "I embraced Her and She enlightened me. That was a great gift," he said, "Her great gift."
 
-- Description：Those childhood bedtime stories reveal more when reread through the eyes of a grownup.
-- Action：Read the book
 
 
 ---
@@ -10617,8 +10386,6 @@ Operation Day
 
 03/30 13:05 Triglav conducted an initial test firing from 22KM, scoring a direct hit on the coastal ice shelf. Four minutes later, a second salvo was conducted for firing data adjustment. Four minutes later, a third salvo was conducted to complete firing calibration. Reply: Commence the attack. 03/30 14:32 Magnus activated self-navigating mines. Confirmed underwater attacks on two destroyers, with one confirmed incapacitated. Magnus then surfaced, commencing gunfire while using its hull to block attacks. Reply: ​Deploy the second wave of five destroyers to intercept Magnus. Zeno Air Force has launched fourteen reconnaissance personnel. Coordination required. 03/30 16:03 Magnus has been defeated. Fleet is advancing pending the construction of an artificial harbor by logistics units. Reply: Monitor Igor's rebels and provide real-time situation assessments. 03/30 19:25 Triglav has advanced into the heart of the combat zone. The artificial harbor construction is now in its initial phase. Sonar has detected a massive unidentified signal. No movement detected from Igor's forces. Reply: Emplace firearms based on fortifications. Maintain surveillance on the enemy main forces. 03/31 00:10 All Olitiaus have taken to the skies. The retreating Magnus abruptly reversed course and attacked. Two destroyers were incapacitated by Magnus's flat-trajectory artillery fire. Request heavy fire support. No signs of Igor's forces joining the battle detected. Reply: Artillery will establish fire coverage across your 12NM forward sector in 5 minutes, with air support arriving in 20 minutes. Remain on high alert as Igor's movement toward Manus clearly indicates intentions. 03/31 02:34 Leviathan has surfaced, severely damaging Triglav. Triglav is initiating detonation of the onboard array. Reply: All vessels evade ice zones and reorganize defense.
 
-- Description：Hundreds of people trapped on a thin sheet of paper, waiting for orders—and for rescue.
-- Action：Provide support
 
 
 ---
@@ -12431,8 +12198,6 @@ The once-red blood darkens, becoming veins, pulsing with the rhythmic throbbing 
 
 END OF DIALOGUE
 
-- Description：We all seek the answer, but we move from opposite sides.
-- Action：Find the answer
 
 
 ---
@@ -13674,8 +13439,6 @@ Dores releases the rock. The current seizes her, pulling her forward.
 
 The Spinning Wheel bobs on the surface while what's left of her dissolves piece by piece.
 
-Vertin: Okay. I got the Wheel.Vertin: Now take my hand, please.Doctor Dores: Goodbye.Vertin: DR. DORES!
-
 **Vertin:** Okay. I got the Wheel.
 
 **Vertin:** Now take my hand, please.
@@ -14011,6 +13774,10 @@ Breathe Again
 <!-- reader-body:start -->
 Antarctic Plain
 
+
+
+> **Title card：** Apocalypsis cum figuris
+
 **Moldir:** This is ...
 
 Moldir steps down from the helicopter, watching drops float upward.
@@ -14143,167 +13910,6 @@ The rain dissolves the figure, carrying it away—impossible to tell whether any
 
 Except for the song, familiar and bright drifting down from beyond the sky.
 
-Sail, sail free, my heart and light.Wave your home a last goodbye.Go and seek the Golden Fleece.In the land of endless peace.Sail, sail free, my heart and light.Find your home beneath your feet.Winter, spring, the years they turn.Let your heart grow brave and strong.
-
-Sail, sail free, my heart and light.
-
-Wave your home a last goodbye.
-
-Go and seek the Golden Fleece.
-
-In the land of endless peace.
-
-Sail, sail free, my heart and light.
-
-Find your home beneath your feet.
-
-Winter, spring, the years they turn.
-
-Let your heart grow brave and strong.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** On the never-ending relentless march through time, the future will come again.
-
-> **Title card：** Apocalypsis cum figuris
-
-> **Title card：** Antarctic Plain
-
-**Moldir**：This is ...
-
-Moldir steps down from the helicopter, watching drops float upward.
-
-**Buddy Fairchild**：Butter my backside and call me a biscuit! Rain pullin' itself right off the ground and risin' up into the sky! I ain't never seen nuttin' like it!
-
-Moldir yanks Sergeant Buddy Fairchild back by his coat before he can dash into the rain.
-
-**Moldir**：Careful, Sergeant. Stay clear of those raindrops.
-
-She scans the horizon. The flood no longer pours out across the land; instead, it ascends back into the sky.
-
-**Moldir**：The sea level is dropping.
-
-**Moldir**：I can hardly believe it. The plan actually worked.
-
-**Moldir**：I guess you're less of a fool than I thought, Mr. Ulrich.
-
-**Ulrich**：I was only one part of the plan.
-
-**Ulrich**：I wonder how Vertin's doing down there. She's the one you should be thanking.
-
-**Moldir**：I'll make sure I do.
-
-**Moldir**：The "Storm" is growing heavy.
-
-**Moldir**：I wonder have my people in São Paulo found shelter?
-
-**Guard**：I knew I wasn't mad for bringing a few extra Equilibrium Umbrellas. Boss, get under here!
-
-Ulrich nods and looks at the collapsed mountain.
-
-Every trace has been erased by the "Storm." The ferrofluid flows through his tank without any trace of emotion.
-
-**Ulrich**：The ritual has been disrupted, and the "Flood" is turning into a "Storm."
-
-**Ulrich**：Then, does that mean ...
-
-**Ulrich**：All the "Storms" were the result of a failed "Flood"?
-
-> **Title card：** Antarctic Sea
-
-On distant ships, Equilibrium Umbrellas snap open one by one.
-
-Admiral Somme looks out over Antarctica.
-
-**Admiral Somme**：The ritual has been halted, just as it was in 1999.
-
-**Admiral Somme**：And now comes another "Storm." History has a way of repeating itself, it seems.
-
-Behind him, crisp boots step forward.
-
-**Creius**：Where will it take us this time? Back to the past? Or into the future?
-
-**Admiral Somme**：Perhaps this is the best outcome we could have hoped for.
-
-**Admiral Somme**：We might have suffered many more casualties.
-
-**Creius**：Agreed, sir.
-
-**Creius**：The Timekeeper has certainly exceeded her reputation—quite remarkable indeed.
-
-**Admiral Somme**：Regardless, the battle is over.
-
-**Creius**：But our respite will be brief.
-
-**Creius**：After all, the "Storm" won't last for long.
-
-In the "Storm," firearms and artillery rise one after another.
-
-> **Title card：** City Ruins
-
-**Vertin**：Urhm ...
-
-**Sonetto**：Timekeeper!
-
-**Vertin**：Sonetto? Nautika?
-
-**Nautika**：You're awake! We were searching and searching, and we couldn't find you anywhere, and we were so worried and ... and ...
-
-**Sonetto**：We found you in the sanctuary ruins after the "Flood" subsided. I don't see any issues with your physical condition, but ...
-
-**Sonetto**：How are you feeling? Any discomfort?
-
-**Vertin**：The Spinning Wheel ...
-
-**Sonetto**：...
-
-**Sonetto**：The only piece of it we found was the one that you were holding in your hand when we found you.
-
-**Sonetto**：It looks almost identical to the one we have in the suitcase. I assumed it was important, so I put it in the suitcase for safekeeping.
-
-**Sonetto**：Probably best to keep it in there for now.
-
-**Vertin**：Wait. Is that rain I hear?
-
-**Sonetto**：Yes. It's the "Storm." The "Flood" transformed into it.
-
-**Sonetto**：But don't worry. We're safe within the sanctuary walls.
-
-**Vertin**：...
-
-Pushing upright, she looks out.
-
-The "Storm" purges all things.
-
-Yet at the edge of vision, a familiar silhouette appears like a haze within the rising rain.
-
-**Vertin**：That's ...
-
-**Vertin**：Dr. Dores?
-
-Her feet move on their own, chasing the distant image.
-
-**Vertin**：Dr. Dores, wait!
-
-**Vertin**：I-I still have things I need to ask you!
-
-The figure stops. This time, she turns.
-
-**Doctor Dores**：Vertin.
-
-The "Storm" blurs her face.
-
-**Doctor Dores**：We all walk our own paths, seeking our own answers.
-
-**Doctor Dores**：But our paths will surely cross again.
-
-The rain dissolves the figure, carrying it away—impossible to tell whether anything truly stood there or if it was just a waking dream.
-
-Except for the song, familiar and bright drifting down from beyond the sky.
-
 Sail, sail free, my heart and light.
 
 Wave your home a last goodbye.
@@ -14321,9 +13927,11 @@ Winter, spring, the years they turn.
 Let your heart grow brave and strong.
 
 > **Title card：** THE END
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Distortion
 
@@ -14337,8 +13945,6 @@ Discussion over the Radio
 
 "Team 'Difference Engine,' this is HQ. Southeast district sweep complete, and Arcana's presence has not been detected. Abort mission, link up with Team 'Tungsten Wire,' and proceed to ... Hello? Team 'Difference Engine,' come in! Damn these primitive comms! If I'd been born in this era, I'd have chosen any career without radios." "Got anything on your end?" "The Field Squad's got cut off, but my device kept picking up crosstalk. There's this Royal Mail Ship reporting a sudden submarine attack, requesting Entente warship assistance. So I guess it's 1917." "Can't be 1917. Multiple bands are broadcasting about Hollweg. More likely 1915, if you ask me." "No way it's 1915! My liaison team mentioned the Battle of Verdun has been over for ages. Optimistically, we might be at war's end with everyone analyzing the aftermath!" "Can't be optimistic. From what I'm hearing, Austria-Hungary is still holding strong, and the Ottomans are no slouches. Probably Manus Vindictae has had a hand in this." "Yeah, maybe the arcanists in this war—Wait, Team 'Difference Engine'! This is HQ. Go ahead!" The Foundation's communication officer grabs a pen, nearly splashing ink on the other one's face. The scratch of pen on paper lasts a full minute before stopping. "What did he say?" "Two years ago, the Compiègne negotiations failed. It's 1920."
 
-- Description：​​The ITU Radio Regulations won't be released for a few more years, so just use what you have.
-- Action：Listen carefully
 
 
 ---

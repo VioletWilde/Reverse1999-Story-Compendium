@@ -78,8 +78,6 @@ Who shall become the flame bright enough to cut through the haze?
 
 **Tooth Fairy:** Thank you. I'll be back soon.
 
-Tooth Fairy: ...!
-
 **Tooth Fairy:** ...!
 
 Foundation Office
@@ -335,8 +333,6 @@ Uluru Fever!
 
 Fun, food, and the unforgettable **Uluru!** Come one, come all—the Uluru Fair is now open! ------------------------------------- **Important notice: The "Champion of the Borough" voting has begun!** Head to the central square of the Uluru Fair, one vote per person. Vote now! **Announcement: The Mock Uluru Games are open to all!** Offering three main categories: shooting, racing, and ball games, consisting of a grand total of 7 challenges! Enjoy the thrill of sports and entertainment, all for just 6 pence! ------------------------------------- **Recommended venue: Victor's Cinema** The "Legendary Uluru Athletes" documentary series is now in theaters! ------------------------------------- **Don't miss out on Uluru Trivia Night, held every Monday, Wednesday, and Friday!** Winners will be awarded two tickets to a featured event! ------------------------------------- **Recommended booth: Puck's Fortune Telling** Match predictions and good luck charms await you, at Puck's Fortune Telling! -------------------------------------
 
-- Description：This brochure is issued to all Uluru Qualifier participants and enthusiasts. Full details are found on the back.
-- Action：Turn Over
 
 
 ---
@@ -582,8 +578,6 @@ Between the Pages
 
 - What's this? - Rubbish. Stop poking around. - Rubbish? Ain't this a book? Don't ya want it? Mind if I take a butcher's? - You wouldn't understand it. - Hmm ... - You're right, I don't understand it. So, what's it about then? - Don't you have anything better to do? - I ain't done any of today's chores, I haven't taken that package to me sister, or helped the lady next door with her little one like Mum asked ... but I don't wanna do any of those things. I just wanna stay here a little longer. - ... - I ... I-Insects. "Insects ... are ... herbs ... with leaves, and ... purple flowers." Maybe it's an adventure book? About the adventures of a little creepy-crawly and its friends. Can I draw a story for it inside? - ... - Can I? - You just don't stop do you? Can't you find someone else to entertain you, or maybe I just have "mug" written all over my face? Fine, do whatever you want with it, stay here, for all I care. Just leave me alone, understand? Leave me alone! - I can do whatever I want with it? Thanks, but I don't have a pen, do you ... - Here. Draw. Bog off.
 
-- Description：A conversation overheard as a Carbindcle basks in photosynthesis.
-- Action：Listen Together
 
 
 ---
@@ -1045,8 +1039,6 @@ Two Alternating Handwriting Styles
 
 - "Do not touch **any** plants with barbs." - Barbs? - The thing I had to pull off of your leg yesterday. - "If a plant cuts you and the wound turns purple, or the blood isn't bright red, knock on my window." - At any time? Even if you're dancing? - At any time. - "In the evening, the Critters will lower their top buds to the ground. Try not to step on them." - Got it! So, can I touch the top buds? - Do whatever you want. Just don't come crying to me when they bite you. - "Stop squeezing in through the damaged parts of the fence. Just use the front gate." - Righto! Didn't know I weren't supposed to ... - I'm teaching you Arcane Skills so you can fly, not crawl.
 
-- Description：Everyone is curious about the Witch's Garden, and everyone fears it—except for one small bird. To her, it isn't so dangerous.
-- Action：Follow Her
 
 
 ---
@@ -1344,8 +1336,6 @@ Notes on a Weather Chart
 
 - It is half past ten in the morning, yet even by the window, the page cannot be read without a lamp. I set the journal by the sill, lit the lamp, and returned to find it layered in fine coal ash. - Best to refrain from keeping the windows open for now. - On the Thames, visibility is so low that feeding the swans is a hopeless task. I hear their mournful calls but cannot see them. Their wings beat against the smog like warnings to retreat. - Records suggest fogs like these are unusual for this season. - Cases of tuberculosis are on the rise. While I have no firm statistics, the overcrowding in hospitals and sanatoriums tells its own story. - By tea time, visibility's improved slightly. The bus lamps barely pierce the fog, their faint glow the only evidence of their passage. - Not good. Now my chest is starting to burn too. - At the hospital, there's talk of a "Black Fog" capable of flattening buildings. Supposedly, one hospital was claimed in such a disaster. A tiny tornado? No, didn't look like it. Either this is a macabre joke, or someone should call up an arcanist to investigate.
 
-- Description：Some liken it to pea soup, others to the famous Spartan black broth.
-- Action：Check Log
 
 
 ---
@@ -1959,8 +1949,6 @@ Life's Essentials
 
 Lubricating Ointment Snail mucus, acacia sap (scraped), swiftlet saliva, vulture feather powder. —Vulture feather powder is hard to come by, and from the looks of it, it is not an essential ingredient. —Swiftlet saliva, however, is absolutely required. —Lanolin snails yield the best results. Sleeping Draught Hairy agrimony and elm leaves (crushed), oranges (juiced), winter bear's paw (fur dried in blue twilight), coarse salt. —Remember to buy hairy agrimony seeds Bought. —Too much salt drastically affects both the taste and sleep induction. Special Pain Relief Balm Olive oil, Ead's tongue (soaked in cold water), petrified resin (softened), white crystal, dragon bone powder —Dragon bone? For everyday use?! Of course I can afford that! I'll just trade up **fifty bottles** of regular balm for **one meager ounce** of dragon bone powder, why bloody not? It is such a bargain! —Alternative substitute: ... Or, just use fifty bottles of regular balm and endure the pain until it subsides.
 
-- Description：A compilation of potion recipes from popular books such as the Common Household Potions Handbook and Anyone Can Be An Alchemist: Simple and Easy Brewing Techniques.
-- Action：Read List
 
 
 ---
@@ -2550,8 +2538,6 @@ Calm, steady footsteps grow nearer, and a large hand tousles the little girl's h
 
 **Exclusive Interview: Meet the Floor Ritual Prodigy** **Charlotte O'Hagan: "Claiming My Sunshine"** In a stunning performance at the Uluru Games' Floor Ritual event, 11-year-old Charlotte O'Hagan claimed the gold medal with her original move, the "Geranium Dance." This victory not only crowned her this year's champion but also broke a two-century-old record, making her the youngest winner in the event's documented history, with the previous record being set in 1802 by "Greenfingered Anna," who was 13 at the time. The O'Hagan lineage is steeped in the traditions of ritualistic Arcane Skills. Charlotte's great-grandfather, Douglas O'Hagan, who famously once entered the hidden stone gate at the Giant's Causeway, and authored the arcanist text The Gate of All Gates: Rituals of Unlocking and Summoning. Her grandmother, Elizabeth Baker O'Hagan, earned a bronze medal in the same Floor Ritual event back in 1866 ... ...... Charlotte shared her thoughts and experiences in a post-competition interview (See page 4 for the full interview).
 
-- Description：An aged, delicate newspaper—a remnant of the distant and worn past.
-- Action：Revisit the Past
 
 
 ---
@@ -3059,8 +3045,6 @@ London Air Pollution Auto-Detect Cleaner Research Notes
 
 **Improved Suction Device - Third Test** Unsuccessful again. Not surprising—a mere cleaning device cannot possibly hope to replace the role of the Fogwalker lineage. Amplifying the family's Arcane Skill may hold some promise, but ... we've only three weeks left. Truth is, my goal is not to solve the unsolvable mysteries of the industrial era—I simply need to ensure that breathable air is available to all for the event's duration. That means faster filtering, broader reach, larger capacity—just for a short period of time, not forever. **Arcane Skill Boosting Device - Fourth Test** I could be off the mark on this one. Boosting the potency of arcane skills showed very limited effects. This line of thought failed to meet expectations, miserably so. It was a bloody waste of time! **Air Pollution Purifier - First Test** Thanks to the St. Pavlov Foundation for their ritual inscription techniques, the device works! I was on the right track, somewhat. The Fogwalker's Arcane Skill may be irreplaceable, but this essentially doubles the number of hands we've got. By inscribing incantations onto a device like this, it's like having a duplicate of myself, working in tandem with me. Sadly, I'm not capable of supporting more than one of these, and the purification efficiency is still subpar ... **Air Pollution Purifier MK. III - First Test** A complete catastrophe! I'm a fool, an idiot, a nincompoop! Curse it, curse it! **Advanced Air Pollution Purifier - Third Test** What an astounding discovery by the Foundation! I've never heard of enchanting arcane skills onto everyday, ordinary items before; their developments in this area are revolutionary. Though I lack the expertise to perform true enchantment, following their instructions to combine specific tools has improved my Arcane Skill's integration into the device! And by integrating components of human technology ... I've achieved success! I shall name this creation the "London Air Pollution Auto-Detecting Purifier." **London Air Pollution Auto-Detect Cleaner MK. III - Seventh Test** Phenomenal! Maintaining the purification output puts an extraordinary strain on me, but at least it is sustainable for several hours. I pray that tomorrow's demonstration goes off without a hitch.
 
-- Description：In the name of London, the current Fogwalker has put forth great effort. Records show sacrifices of sleep, numerous attempts at amateur Arcane Skill enchantment, and a few rather ungentlemanly words.
-- Action：Read the Record
 
 
 ---
@@ -3610,8 +3594,6 @@ Unofficial Work Logs (Not Suitable for Formal Submission)
 
 Note 1 It's hard to say which is more miserable—the pea soup in the air or the pea pudding on my table. I didn't finish today's report concerning the Fogwalker. He wasn't in his office, and I only happened upon him while wandering the streets at dinnertime. Trying to find someone in the fog is the worst game of hide-and-seek imaginable. The Fogwalker is piecing together a device he claims to be some sort of smog filtration machine ... I hope he doesn't truly believe he can handle all this fog on his own. Note 2 Almost had my leg smashed in by a car. An Uluru leaflet dive-bombed my face, and with the Foundation uniform on, I couldn't get cross about it and tear the thing up. HQ sent new tasks. Annoying. Frankly, under these circumstances, it feels inevitable that the London qualifiers will be canceled. Note 3 Never thought I'd be drafting up paperwork to get the qualifiers canceled so soon. I'm oddly excited about the whole thing. Note 4 Yes, it's all so strange. Everything here contradicts what we've managed to preserve in our records. But so what, why couldn't it have just been recording errors, bad recording practices, or outright falsified data that were passed on to us? Meanwhile, I'm choking on coal dust that is falling as heavy as snow and putting up with a colleague who keeps getting lost in the fog. A stellar job experience. Note 5 It's done, though there's a heap of follow-up work ahead. Honestly, I'm hoping that magnificent contraption will actually succeed. That way all these decorations won't go to waste, the tourists and athletes won't have wasted their time, and I won't have wasted all my pre-drafted paperwork. Waste, waste, it was all a waste ... but I suppose things could have been so much worse.
 
-- Description：Everyone could use a few slips of notes here and there, whether tucked into a pocket or slipped into a notebook.
-- Action：Open the Notebook
 
 
 ---
@@ -4075,8 +4057,6 @@ To: The Foundation's London Branch
 
 **Subject: The "London Air Pollution Auto-detect Cleaner" Project: Progress and Future Collaboration** To the Honorable Head of the Foundation's London Division, Allow me to extend our greetings on behalf of the London Atmospheric Clean-up Committee Office and present a thorough progress update on the "London Air Pollution Auto-detect Cleaner" initiative. ... Though the research has faced setbacks and failed to resolve the pressing issues of the Uluru qualifiers, we greatly appreciate the open-minded approach and collaborative spirit exhibited by your department. Without your material enchantment technologies and the protocols for incantation inscription, progress would have been far more limited. As indicated in earlier communications, we are committed to sharing the outcomes of this joint research endeavor in both mechanical engineering and arcanum studies. Although the device has not yet achieved its intended results, we will honor this commitment. As per standard collaboration practices with the Foundation, since your team provided only technical support while all material sourcing and manufacturing were conducted by us independently, the physical device will not be included in the shared materials. However, we will share its design concepts, manufacturing data, and complete test records. ... Please accept our heartfelt gratitude for your continued cooperation. Should you require clarification or wish to discuss this matter further, please do not hesitate to reach out. Yours sincerely, Arthur Fog London Atmospheric Clean-up Committee Office
 
-- Description：Sending out long, dull letters is just a small part of his job.
-- Action：Open the Letter
 
 
 ---
@@ -4588,8 +4568,6 @@ Uluru London Qualifiers Athlete List (Partial)
 
 **Note: This list has undergone a second review.** Winged Key Archery **\[Confirmed\]** - Peter Thomas (Kent) (Note: Event participants confirmed to be fewer than three. Permitted to continue as per regulations). **\[Withdrew\]** - Victoria White (Yorkshire) (Note: Found 12 days after having gone lost her direction in the smog during a London training session. Exhibits a severe screaming reaction to Winged Keys. Withdrew for safety reasons). **\[Withdrew\]** - Stanley Smith (London) (Note: Unable to make contact. Recorded as withdrawn). (Note: Found on the Paris qualifiers' final participant list. Verified as the same individual). ...... 1500m Weighted Run (15 kg Division) **\[Withdrew\]** - Bluebell Dove (Kent) (Note: Both entered and withdrew under an alias). **\[Withdrew\]\[Confirmed\]** - Charles Scott (Gwynedd) (Note: Originally in the 25 kg division. After withdrawing, re-registered for 15 kg division after low participation count was observed). **\[Confirmed\]** - Lily Morris (Glasgow) (Note: Honorary Scottish Shetland Pony Club member. Decided to continue competing after failing to transport her pony out of London in the middle of this fog). ... Floor Ritual **\[Confirmed\]** - Caroline Bartley (South Yorkshire) (Note: Qualified directly for the Uluru finals). **\[Withdrew\]\[Confirmed\]** - Anna Baldwin (Essex) (Note: Initially withdrew due to Caroline Bartley's entry. Rejoined after learning Bartley already qualified for finals). **\[Confirmed\]** - Willow (London) (Note: Registered under an alias). ...
 
-- Description：No matter what comes after, these unprecedented qualifiers have already left a lasting impression on everyone.
-- Action：View the List
 
 
 ---
@@ -5195,8 +5173,6 @@ Post-Qualifiers Prospects: Setting Out Beneath Clear Skies
 
 Following the Uluru London Qualifiers, 32 athletes from Britain, competing in 18 different events, departed for Australia aboard an Imperial Airways flight this morning. The weather was exceptionally clear with fresh air and no visible smog. Imperial Airways personnel commented that it was "an exceedingly rare occurrence, an ideal omen for their momentous journey." Reports suggest that the rare clear skies may be related to the "Fog Monster Incident" during the qualifiers. Many claim that Willow's floor ritual routine banished both the fog and the phantom beast, while skeptics argue that the Witch staged the entire event, using a sinister spectacle to manipulate public sentiment. Others have even claimed to hold insider knowledge indicating this to be part of a century-long conspiracy orchestrated by the British government ... Whatever the truth of the matter, the Uluru qualifiers have brought tangible benefits to London. Hospital admissions for respiratory conditions have dropped by 60%, with many residents reporting easier breathing and air quality "reminiscent of centuries past."
 
-- Description：A collection of clippings compiled by an avid Daily Inquirer reader and diehard Uluru Games fan.
-- Action：Read the Clipping
 
 
 ---

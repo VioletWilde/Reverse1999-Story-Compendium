@@ -589,6 +589,10 @@ Theater Impressions
 <!-- reader-body:start -->
 Laplace Main Hall
 
+
+
+> **Title card：** Drums of March
+
 **Medicine Pocket:** Move, ugh, move!
 
 Navigating this corridor is no easy feat, as researchers, engrossed in their Brownian motion studies, hurry along without watching their step.
@@ -822,254 +826,13 @@ The young student straightens up. Her mentor catches her emotion and replies uns
 **Hofmann:** Now just focus on our destination, Vienna.
 
 **Hofmann:** Time to get out. Grab your luggage.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** The opening notes of a big crescendo.
-
-> **Title card：** Drums of March
-
-> **Title card：** Laplace Main Hall
-
-**Medicine Pocket**：Move, ugh, move!
-
-Navigating this corridor is no easy feat, as researchers, engrossed in their Brownian motion studies, hurry along without watching their step.
-
-**Medicine Pocket**：... Shoot, are you blind, or did you hit me on purpose?
-
-**Medicine Pocket**：...
-
-A viscous, deep purple substance drips from their face onto the hem of their lab coat, marvelously landing in a spot not yet coated with other stains.
-
-**Laplace Staff I**：Hey! Hello!
-
-**Laplace Staff I**：Do you know how to control this thing?
-
-**Laplace Staff I**：It always drips on my bread at lunch. I had to skip breakfast for a week.
-
-**Medicine Pocket**：Just remove your brain. Problem solved.
-
-**Laplace Staff I**：That makes sense. How come I didn't think of that? Thank you for your advice. You are so sweet.
-
-**Medicine Pocket**：Oh, you're so welcome, pal.
-
-**Medicine Pocket**：I'd wipe my eyes more often if I were you. Just do something to get that black snot off those lashes.
-
-**Medicine Pocket**：The good news is, the persons in charge of this place are all dead ...
-
-**Medicine Pocket**：The bad news, the one in charge right now is not a "person"!
-
-> **Title card：** "Storm" Observation Room
-
-**Lucy**：Hello, Researcher Medicine Pocket. Your meal allowance is being deducted to pay for door repair.
-
-**Medicine Pocket**：I don't care, bucket head.<br>Do your worst, a few pennies don't bother me.
-
-The head of the computing center nods, taking this as a sign of amicable agreement.
-
-**Lucy**：You could have called me from your lab terminal. The technology department has equipped every researcher with the latest communication device, and I have the energy to communicate with everyone.
-
-**Medicine Pocket**：Then how am I supposed to know whether my report is lying in your trash or not? Oh please, you know we gotta talk face to face to solve our issues when things get ugly.
-
-With a flick of their wrist, a gray folder lands with impact, spilling its contents across the desk.
-
-**Medicine Pocket**：Congrats on the one and only achievement you got from the Manus Mask: we're now fully aware of its side effects! And this great achievement is filling the halls with oil and insanity!
-
-**Medicine Pocket**：You should thank the hatted cuckoo for her report. No one's turned into a crazy monster yet, or the Manus would be attacking the headquarters from Laplace right now!
-
-**Medicine Pocket**：D**n it, what are you doing? Are you even listening to me?!
-
-Lucy turns her head, having just fastened the buckle on her face.
-
-**Lucy**：My apologies. You said we needed to talk "face to face."
-
-**Lucy**：If I understand it correctly, this is your number one request.
-
-**Medicine Pocket**：... You always carry a face in your pocket? That's just ... great.
-
-**Lucy**：You are welcome. It is our duty to learn and meet the needs of every researcher. This will help them reach their full potential while respecting the nature of their being.
-
-**Lucy**：I received some letters of complaint. They asked me to develop a better sense of humor. They said it would help me understand the researchers' sarcasm, so I am studying it.
-
-**Lucy**：75% of the complaints mentioned they did not want to see a face on my head. Some even used strong words like "Never let me see that face of yours again!"
-
-**Lucy**：I am glad that you are one of the other 25%, Researcher Medicine Pocket.
-
-**Medicine Pocket**：You know what, I don't mind if you keep that face on, as long as you let me kick it around a bit.
-
-The newly face-flaunting robot nods slightly, pleased with their renewed consensus.
-
-**Lucy**：Regarding your second request, I have read your report. I fully understand the side effects of the mask as well as the ... feasibility of the decryption.
-
-**Medicine Pocket**：Then what's the point? It's like trying to get the syrup formula out of a coke can! Ugh! Again, we are all screwed without the original ritual from the Manus!
-
-**Lucy**：It is too early to conclude that the mask does not contain important clues. The attempts we are making are very necessary.
-
-**Lucy**：Besides, the situation in Laplace is not as bad as you say. The side effects are completely under control. The subjects are only suffering from dehydration and mania.
-
-**Lucy**：Fortunately, the Rehabilitation Center has extensive experience in dealing with manic patients. And some researchers, like yourself, are already manic without putting on the mask, so the side effects will not affect them much.
-
-**Laplace Staff I**：Hahahaha! Yes! Ball pens! Ball pens love brains!
-
-Two researchers arrive swiftly, removing the poor soul who lodged a pen into their eye socket and just as swiftly replacing the broken glass.
-
-**Medicine Pocket**：Extensive experience, huh?
-
-**Lucy**：That is right. I am glad you have noticed our efforts. We have prepared a large amount of polymer materials in case of minor vandalism by the patients.
-
-**Medicine Pocket**：Hahaha, amusing.
-
-**Medicine Pocket**：So this is the logic of a machine, huh? Humans are as expendable in the lab as glass. You should be glad that your head is harder than my teeth, or I'd ...
-
-**Lucy**：Your opinion surprises me, Researcher Medicine Pocket. There is a big difference between the human body and glass.
-
-**Lucy**：As for the original ritual, you are not the first researcher to make this suggestion. We are fully aware of its importance.
-
-**Lucy**：We have dispatched investigators and members of the Field Agent Administration to investigate various regions. Here are the images they sent back.
-
-**Medicine Pocket**：Field ... What?
-
-**Lucy**：Field Agent Administration. If you have not heard of the name before, most prefer to call them the History Guards, given their function.
-
-**Medicine Pocket**：Right. That team of cannon fodder.
-
-**Medicine Pocket**：The thought of people being thrown around like garbage makes me feel lucky ... that I'm just a piece of glass.
-
-Medicine Pocket lifts their head, examining the screen. Their attention completely diverted.
-
-**Medicine Pocket**：Looks like "face to face" conversation does solve problems. Finally we're getting somewhere, aside from the insane colleagues running amok.
-
-**Medicine Pocket**：Let me guess. The blue dots are good news, huh?
-
-**Lucy**：Correct. They represent the safe areas immune to the "Storm."
-
-**Medicine Pocket**：Ahh, North America ... I should've gone there for a walk in the park. I don't deserve to suffer in this stupid gray prison.
-
-**Lucy**：I have to say, Researcher Medicine Pocket, even though I approved your request for a sports field, which you claimed was a humanitarian need, I think it is more of a canine need.
-
-**Medicine Pocket**：I suggest you install an indicator on your humor module, so we know when to laugh. See, like this blinking red dot ...
-
-**Medicine Pocket**：Hm, is that Vienna?
-
-**Lucy**：Yes.
-
-They wait, but the android does not offer up any further information.
-
-**Medicine Pocket**：Alright, alright. "Not privy to the information," huh? I know of your tricks.<br>One day I will find the logical fallacies in your words, I swear.
-
-**Medicine Pocket**：And, this here ...
-
-**Medicine Pocket**：Yellow. Better than the worst, worse than the best.
-
-**Medicine Pocket**：That's the Aegean Sea. What's all the fuss about? Don't tell me there's a five hundred meter long blue crab ...
-
-**Lucy**：No. No sightings of large marine organisms other than the Gorgon.
-
-**Lucy**：This is where Timekeeper and her team are right now.
-
-**Lucy**：By the way, it seems you can distinguish between colors precisely, so the canine elements in you are more of a personal choice than an innate trait.
-
-**Medicine Pocket**：I see your efforts on improving your sense of humor, I do, but that's enough now. Turn off the module, ok? Who the heck put these complaints in the box?! I'm gonna kick their teeth out!
-
-**Lucy**：Back to business. Timekeeper and her team are in a bit of a situation. The details are classified, and I am not privy to them either.
-
-**Medicine Pocket**：Hah, "classified." I know what's going on. In this place, "classified" means ...
-
-**Medicine Pocket**：They're in big trouble!
-
-**Pilot**：D**n it! What are they?!
-
-**Pilot**：Krupp did not tell us about these things!
-
-**Pilot**：D**n it! Get away from me, you arcane fiends!
-
-**???**：... Marcus?
-
-**???**：Marcus?
-
-**???**：Ooh!
-
-**Marcus**：I'm sorry, Madam Hofmann. I was reading the newspaper ...!
-
-**Hofmann**：I know I told you to practice your arcane skills more, but you don't have to do it all the time.
-
-**Hofmann**：I just told you the oath to secrecy for this mission. Level Two Investigator Marcus, repeat it to me.
-
-**Marcus**：Uhm ...
-
-**Marcus**：Remember the Field Mission Manual ...
-
-**Marcus**：Never disclose any information about the "Storm" or the "era" to irrelevant people.
-
-**Marcus**：Never build unnecessary connections with the current era. Never disclose any real information about the headquarters to members of the branch. Never discuss confidential matters in unrelated settings.
-
-**Marcus**：Never contact or interfere with the insignificant. Stay out of their lives, silently observe and respect their lives ...
-
-**Marcus**：And, why is the stupid train never on time?
-
-**Hofmann**：...
-
-**Hofmann**：Did I really say that?
-
-**Marcus**：Yes, in a low voice, after the last random stop.
-
-**Hofmann**：You have a talent for multitasking, I'll give you that. But the point is, as a rookie investigator, your focus should really be on the mission.
-
-**Marcus**：Y-Yes, Madam Hofmann. I'm so sorry ...
-
-**Hofmann**：Laplace has analyzed the information from the Field Agent Squad and suggested several Critical Points on where the "Storm" may arrive. One of them is Vienna.
-
-**Hofmann**：The History Guards have reported sightings of Manus leaders there. Considering they will probably do the same thing they did in 1929, you know, escalate international conflicts to accelerate the reverse, this mission is probably quite risky.
-
-**Marcus**：It's okay, Madam Hofmann. I am fully prepared!
-
-**Marcus**：I've been waiting for my first field mission since I joined the Foundation. Thank you for approving my application, or I'd still be talking to rusty filing cabinets and diamond patterns on a wall ...
-
-**Hofmann**：No need to thank me, Investigator Marcus. Your application has been approved by headquarters, as your arcane skills will prove very useful on this mission.
-
-**Hofmann**：This time we will track down Manus Vindictae in Vienna and gather intelligence on their rituals. The intelligence should help with the "Storm" immunity research, making it the top priority over all other missions.
-
-**Hofmann**：That's why I said your arcane skill, "reading," will be useful on this mission.
-
-**Marcus**：Yes ... Understood!
-
-The young student straightens up. Her mentor catches her emotion and replies unsmilingly.
-
-**Hofmann**：I know how lucky you must feel for returning to your era, after being isolated from the outside world for so long.
-
-**Hofmann**：I will take you to Romania and visit the orphanage where you used to live, if we still have time for that after the mission.
-
-**Marcus**：...!
-
-**Marcus**：I'll do my best, Madam Hofmann! Whatever you need, as long as my arcane skill can do it!
-
-**Marcus**：By the way, how's the Timekeeper doing on that Aegean island?
-
-**Hofmann**：Marcus, have you already forgotten what I just told you?! This is a confidential matter!
-
-**Marcus**：But it's in the news.
-
-**Marcus**："Unknown island appears on the Aegean Sea. Forces attacked by arcane creatures."
-
-**Marcus**："Ownership over island causing conflicts between Bulgaria, Serbia, and Greece."
-
-**Marcus**："Austro-Hungarian Empire and Russian Empire to establish a negotiating committee ..."
-
-**Marcus**：Madam Hofmann, the increased turmoil could cause the "Storm" to arrive earlier, right?
-
-**Hofmann**：That is not our problem. The headquarters will send someone to intervene, since it is caused by the arcanum.
-
-**Hofmann**：Now just focus on our destination, Vienna.
-
-**Hofmann**：Time to get out. Grab your luggage.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Suggestion Box
 
@@ -1083,8 +846,6 @@ Suggestion Box Samples
 
 **Title: Feedback on "Faces"** **Submitter:** ■■ **Content:** Who thought the Michael and Jason horror masks were a good idea? And what's with the creepy face of the little tank engine? Enough already, my heart can't take this! **Collection Point:** Laplace ■■ Department, First Floor. **Collection Date:** ■/28 **Reply Received on ■/30:** This plan was recommended anonymously with the intention of using familiar characters to create a sense of closeness among employees. However, these masks failed to achieve the desired effect. Mask Plan Mark II has now been initiated. —————————— **Title: Fourth Floor, Keep an Eye on Your Test Animals!** **Submitter:** Tom Evans **Content:** Stop letting your spiders run wild—they've already eaten six of our Madagascar hissing cockroaches! This is seriously affecting our progress! These are crucial pieces of experimental data and research that are at stake here! **Collection Point:** Laplace Headquarters, Fourth Floor. **Collection Date:** ■/3 **Reply Received on ■/30:** Look, just because we're researching the Spider Tail doesn't mean we're responsible for any of this. Our Spider Tails don't even contain actual spider parts! Maybe you should ask the third floor instead, they're the ones studying the hydraulic legs. —————————— **Title: Sincere Advice for Madam Lucy** **Submitter:** A person with a single letter for his name. **Content:** Given that Madam Lucy is an incredibly sophisticated computer with no emotional modules, and I am a carbon-based life form naturally equipped with such modules, I would like to make some modest suggestions. It could be beneficial for Madam Lucy to learn more about interacting with our carbon-based employees. This includes not entering their offices without prior notice, developing a better sense of humor, and not removing important components from their delicate machinery. **Collection Point:** Laplace Headquarters, next to the Director's office. **Collection Date:** ■/■ **Reply Received on ■/31:** Hello, X. The set of devices you designed is unnecessarily complicated—the work it is doing far exceeds the joules needed to brew a pot of coffee under normal conditions, so I made some adjustments. As for your other points, I noticed today that my office wall is now covered with fake 230V sockets. Is this what you call a sense of humor?
 
-- Description：An effective way for interdepartmental communication and understanding the needs of all employees.
-- Action：Read Suggestions
 
 
 ---
@@ -1731,8 +1492,6 @@ St. Pavlov Foundation Vienna Branch Employee Notes
 
 **Procedure for Requesting the Dispelling of a Mute Incantation (Simplified Version)** **1. Initiating the Application** The applicant must go to the administrative desk of the St. Pavlov Foundation, Vienna Branch - Austro-Hungarian Empire Internal Security Department - Austro-Hungarian Empire Public Security Bureau with a ticket to receive the Joint Processing Application Form. **2. Filling Out the Form** The applicant must fill out the application form truthfully and submit it to the administrative desk of the Austro-Hungarian Empire Public Security Bureau, where the administrative staff will conduct a preliminary review. **3. Commencement of the Dispelling Procedure** After the administrative staff has conducted a preliminary review, the form will be submitted to the Social Responsibility Monitoring Group of the St. Pavlov Foundation, Vienna Branch - Austro-Hungarian Empire Internal Security Department - Austro-Hungarian Empire Public Security Bureau for risk assessment. **4. Commencement of the Assessment** Members of the Social Responsibility Monitoring Group will conduct a detailed investigation and assessment of the applicant, fill out their review comments, and submit them to the team leader. **5. Secondary Approval** The team leader will then summarize the review comments and submit them to the director of the Public Affairs Bureau for a secondary approval, who will then submit the application to the Internal Affairs Department. **6. Completion of the Process** Upon approval, the director of the Public Affairs Bureau will initiate an interdepartmental collaboration process and send the comments of the secondary approval to the Harm Prevention Office, which will then issue a notification letter to the administrative desk. **7. Execution of the Dispel** Upon receipt of the notification letter, the administrative desk will archive it and issue another notification letter informing the applicant to participate in the mute incantation dispel ritual. Don't forget any of the steps or you'll regret it! This is my third @#&\* time starting over! D\*\*n it all. I don't ever want to fill out these d\*\*n forms again!
 
-- Description：A crucial transcription, meticulously transcribed in bold for emphasis.
-- Action：Read
 
 
 ---
@@ -3318,6 +3077,8 @@ The Weight of a Name
 > A showdown for the future of a shining star.
 
 <!-- reader-body:start -->
+> **Title card：** A "Fair" Duel
+
 **Marcus:** Good day. I would like to check the date of a novel.
 
 **Marcus:** Yes, it is The Man Without Qualities, by Robert Musil.
@@ -3612,6 +3373,10 @@ Kakania leaps, alighting herself onto the window frame with the lightness of a b
 
 **Kakania:** Okay, this is a quiet road ... We're going to jump, Ms. Foundation. Three, two, one ... Here we go!
 
+
+> **Title card：** TO BE CONTINUED…
+
+
 ***
 
 COMBAT:
@@ -3651,312 +3416,7 @@ Got it. Follow me!
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** A showdown for the future of a shining star.
-
-> **Title card：** A "Fair" Duel
-
-**Marcus**：Good day. I would like to check the date of a novel.
-
-**Marcus**：Yes, it is The Man Without Qualities, by Robert Musil.
-
-**Marcus**：...
-
-**Marcus**：Oh. I see, I see ...
-
-**Hofmann**：What did they say?
-
-**Marcus**：Just as I remembered it ...
-
-**Marcus**：The novel was completed in 1930, the word "Kakania" was also created by Robert Musil.
-
-**Marcus**：Kakania should not be a nickname for anyone in 1914.
-
-**Hofmann**：It doesn't belong to this era.
-
-**Hofmann**：She could be with Manus Vindictae, or, at least is associated with their people.
-
-**Marcus**：What's more ... When we were at the Secession Building, I "read" that painting, The Salvation.
-
-**Marcus**：It seemed ... out of place compared to the other paintings. Theophil may have applied a new technique on The Salvation, a more daring kind, audacious, even.
-
-**Marcus**：But these are only subtleties ... I can't be too certain. I was interrupted by that strangely speaking gentleman, so I didn't get everything.
-
-**Marcus**：Another thing, its content reminds me of the symbol of "The Circle."
-
-Marcus rummages through the bookcase, finding the pamphlet tucked within the thick register.
-
-**Marcus**：This twisting circle resembles the circles in The Salvation.
-
-**Marcus**：Heinrich called them magical circles, one next to another. They must be more than just circles, I think ...
-
-**Marcus**：Was he demonstrating the madness of passion? But the lines are clean. Perhaps the purity of eternity? No, the circles are too twisted for that ...
-
-**Marcus**：Or, was he just representing a primitive state of being ...?
-
-**Hofmann**：I don't understand any of it.
-
-**Hofmann**：So, this must be art.
-
-**Marcus**：Hahaha, ma'am. You're funny sometimes.
-
-**Hofmann**：...? I wasn't joking.
-
-**Marcus**：...?
-
-**Hofmann**：Based on what we know, we can't be sure if this group of young arcanists and the Manus are connected. But we all know that the latter is eager to win over the cynical, revolutionary youth.
-
-**Hofmann**：You did well, Marcus.
-
-**Hofmann**：The important figures of "The Circle"—Isolde, Heinrich, and even the late Theophil—we have made contact with them all.
-
-**Hofmann**：Only this Kakania ... What does the intel say about her?
-
-**Marcus**：Kakania, also known as Ms. Klara, inherited her arcane skills from her family. She's able to reflect people's thoughts in a mirror. She was once a medical student, but dropped out halfway through.
-
-**Marcus**：These days, she shows up at various social events as a psychiatrist, which the Foundation tries to prohibit because she doesn't have a license.
-
-**Marcus**：And she is also ... an activist.
-
-**Hofmann**：An activist?
-
-**Marcus**：According to Mr. Heinrich, she is meeting with a doctor named Schwartz today.
-
-**Hofmann**：Schwartz ... The family doctor Karl mentioned.
-
-**Hofmann**：Let's try our luck there.
-
-**Notary**：Now then, Ms. Klara, Mr. Schwartz.
-
-**Notary**：Only three weapons are allowed in the duel—the army knife, the sword, and the pistol.
-
-**Kakania**：I will leave the choice to Dr. Schwartz, for he has more experience in these duels than I do. It's an honor to fight you, and I look forward to ending your winning streak.
-
-**Dr. Schwartz**：Not so much an honorable thing for me.
-
-**Marcus**：Excuse me ... Please ...
-
-Hofmann extends her hand, mercilessly cleaving a path through the crowd.
-
-**Hofmann**：Pardon me. What is happening?
-
-**Passerby I**：A duel, ma'am!
-
-**Passerby I**：Just as Dr. Schwartz was demonstrating his therapy, Ms. Klara barged right in! They were arguing, and this is how they decided to end it.
-
-**Passerby I**：To ensure fairness of the duel, the combat must happen within 48 hours of the challenge ... But I've never seen one take place on the spot.
-
-**Passerby II**：Well, I hope they know what they're doing. I don't want to get caught as collateral damage.
-
-**Marcus**：That green dress ... So she is Kakania! What do we do? If she gets injured, our mission will ...
-
-**Hofmann**：Don't worry about people in their time. It is their life to live.
-
-**Hofmann**：Never intervene if you don't know the exact consequences of your actions. The course of history is more important than our investigation.
-
-**Hofmann**：This is investigator Greta Hofmann.
-
-**Hofmann**：What ...? Hold on.
-
-**Hofmann**：I'll be right back.
-
-**Marcus**：Where are you going?
-
-**Hofmann**：The Field Agent Squad needs to speak to me. This won't take long.
-
-**Hofmann**：I will leave this to you. Remember what I said, Marcus.
-
-**Marcus**：Yes, madam.
-
-Hofmann turns toward the Baroque wooden door made of mahogany, before her figure disappears amidst the crowd.
-
-Only her still-unfledged assistant remains.
-
-**Marcus**：Leaving this to me, to me, to me ...
-
-Marcus recites it to herself as a mantra, attempting to slow her racing heart.
-
-**Marcus**：Breathe, Marcus! There's nothing to be nervous about. You can't be an assistant forever. There will come a day when you're all on your own.
-
-**Marcus**：Just like at the Secession Building, I only have to watch her. If I end up talking to Ms. Kakania, I'll just pretend to be an ordinary employee of the Foundation ... Easy!
-
-**Marcus**：You used to do well on your own, when you were reading in the lighthouse and the forest ...
-
-**Marcus**：Mm, Dr. Schwartz ... Three times he has been involved in duels, and three times he has won—impressive! This time, he's still going for the pistol.
-
-**Marcus**：But ... Ms. Kakania does not have an assistant. And she has only one witness in this duel. This is not right. Why did she agree to this?
-
-**Marcus**：She's being reckless. Even an arcanist should have at least one assistant in a duel.
-
-**Marcus**：Dr. Schwartz's assistant brought them a pair of pistols ... FN Model 1910. Hmm, is that a right weapon for a duel?
-
-**Marcus**：It's too crowded here. I can't see ...
-
-**Marcus**：Hmm?
-
-**Marcus**：No, the pistol given to Ms. Kakania ... something's wrong with it.
-
-**Marcus**：The bullets ... Her life is in danger if the duel begins!
-
-**Marcus**：But Madam Hofmann warned me about the consequences of intervention ...
-
-**Marcus**：What if, what if, I just go and talk to her as an employee of the Foundation branch, like I did at the Secession Building?
-
-**Marcus**：So far, Heinrich has been difficult to communicate with, while Mr. Karl doesn't want us to get in touch with Ms. Isolde.
-
-**Marcus**：Ms. Kakania is the only person who is both a friend of Theophil and associated with "The Circle." But I have to be careful with this name.
-
-**Marcus**：If she is indeed one of the Manus Vindictae, I will be jeopardizing this mission by going near her ... But wait! She doesn't know that I'm from the headquarters, so she probably will talk to me.
-
-**Marcus**：But how do I know she doesn't know my identity? What if Mr. Karl is not to be trusted? And what if Mr. Karl and she are in this together? Their names both start with a "K" ...
-
-**Marcus**：...
-
-**Marcus**：What am I thinking?
-
-Marcus patting her cheeks with an unaware gusto, drawing side glances from the others present.
-
-**Marcus**：Stop, stop! I'm not on the Flannan Isles anymore. I can't waste my day on endless thoughts!
-
-**Marcus**：Remember what Madam Hofmann said, think of the immediate mission. I have to prevent Kakania from getting killed in the duel. She has the clues about Theophil that I need ...
-
-**Marcus**：Never intervene if you don't know the exact consequences of your actions ...
-
-A long, deep breath.
-
-**Marcus**：I have assessed the risks, madam.
-
-**Marcus**：I will not stand by and watch this happen ... even if I don't know the consequences!
-
-**Dr. Schwartz**：I need to make this clear to you. Not only have you hindered Ms. Dittarsdorf from getting the treatment she needs, but you have repeatedly defamed me.
-
-**Kakania**：Oh, I can only admit that you're right if you have to call a different academic perspective slander.
-
-**Dr. Schwartz**："A different academic perspective" ... ?! Do you really think Freud and his petty tricks are "academic"?
-
-**Dr. Schwartz**：One could hardly find a worse insult to science than this!
-
-**Kakania**：Is that so? Do you really mean that? Rumor has it that you taught the military the method of hypnosis for a price. Do you wish to clear things up here?
-
-**Dr. Schwartz**：...
-
-**Kakania**：Hah, your silence is a resounding "yes." Tell me, why did you please the ministers with these "petty tricks," but not with your "most advanced" electrotherapy you've been touting?
-
-**Kakania**：Do you harbor negative feelings towards Mr. Freud because of his open rejection of hypnosis?
-
-**Dr. Schwartz**：... What does any of this have to do with you?
-
-**Kakania**：Many things, Mr. Schwartz. Your behavior has greatly undermined the interests of arcanists, who are your own people.
-
-**Kakania**：Not to mention that hypnosis is a violation of a patient's free will!
-
-**Kakania**：And I have reason to believe that this duel is entirely personal. I must make it clear that your wife's appointment with me has nothing to do with the rumors of your ... lackluster performance in the bedroom.
-
-**Kakania**：I'm not the real enemy, Mr. Schwartz. The gossipmongers and the tabloid writers are!
-
-**Dr. Schwartz**：You, you ...
-
-**Notary**：Are both duelists ready?
-
-**Dr. Schwartz**：Perfectly ready.
-
-**Kakania**：I'm ready too—
-
-**Marcus**：No! She's not!
-
-**Kakania & Dr. Schwartz**：...?
-
-**Marcus**：Ms. Kakania needs another minute!
-
-Their collective gaze causes her voice to tremble slightly.
-
-**Marcus**：Err, ahh, the crowd ... shoot me, I want to go home ... Why oh why did you apply for this mission, Marcus ...
-
-Despite her mental turmoil, she extends her hand, attempting to ascend with some dignity intact, or at least without resorting to crawling.
-
-**Marcus**：I-I am Ms. Kakania's assistant. I'm here to ...
-
-**Kakania**：...
-
-**Kakania**：Sorry to interrupt, miss. But the last time I checked, I couldn't possibly afford a St. Pavlov Foundation member to be my aide.
-
-**Marcus**：Ah! Darn it, I forgot about my badge ...
-
-Kakania retracts her pistol, twirling it around her finger.
-
-**Kakania**：So the Foundation is trying to intervene. Don't worry, Ms. Foundation staff! Look around, we're doing it the human way—no arcane skills involved!
-
-**Kakania**：The head of the Foundation branch should not be your role model. Mind you, you're giving up a part of your integrity for taking his Krones! A terrible deal indeed.
-
-**Marcus**：I ...
-
-**Kakania**：Besides, we're using human guns! We don't need the Foundation's license to use these. I'm not doing anything against the Foundation's rules, am I?
-
-The Browning pistol spins once more in a perfect circle.
-
-**Kakania**：If it's urgent, can we wait until after the duel? Please stand back, the bullets can't tell the difference between friend and enemy.
-
-**Marcus**：I, I ...
-
-Marcus is again interrupted by the rapid-fire speech of the other party.
-
-**Marcus**：... Please don't use that gun! The bullets in it are dangerous!
-
-**Kakania**：... What?
-
-**Marcus**：The bullets are wrong! The gun will burst if you pull the trigger!<br>Sir, I demand that the gun be checked ...
-
-Kakania grips the half-turned gun tightly, before deftly removing the magazine.
-
-**Kakania**：...!
-
-**Kakania**：The size of these bullets ...
-
-A cold bead of sweat drips down her spine.
-
-**Kakania**：I need an explanation, Mr. Schwartz. I thought you had at least the integrity of a gentleman.
-
-**Kakania**：The bullets in my gun are wrong. If I pull the trigger, as Ms. Foundation here said, the barrel will burst.
-
-**Passerby II**：A bursted barrel? I remember now. That Anton boy lost the duel to Schwartz for the same reason! Did Schwartz do something to his gun, too? And was the guard in on it too?
-
-**Notary**：...!
-
-**Dr. Schwartz**：D**n! ... This is defamation! I have never ... !
-
-**Vienna Guard**：Freeze! Who is dueling here?!
-
-**Passerby I**：Ahhh! The guards are here!
-
-**Passerby III**：Hey, don't step on my dress!
-
-**Marcus**：Not good! Madam Hofmann has not come back yet. Madam Hofmann ...!
-
-The young assistant is engulfed within the chaotic crowd.
-
-**Kakania**：Hey, miss! The helpful Ms. Foundation employee!
-
-**Marcus**：Ms. Kakania?
-
-The green-clad pistoleer extends her hand.
-
-**Kakania**：Don't stand there ... Come here!
-
-Kakania grabs the shy assistant's hand, pulling her into a fierce embrace without a second word.
-
-**Marcus**：Aahh!
-
-Kakania leaps, alighting herself onto the window frame with the lightness of a bird.
-
-**Kakania**：Okay, this is a quiet road ... We're going to jump, Ms. Foundation. Three, two, one ... Here we go!
-
-> **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Ownerless Notebook
 
@@ -3970,8 +3430,6 @@ A Notebook Covered in Mud and Blood
 
 **Page One** Duels are not for the purpose of self-■■■■■■■■■■—they are to demonstrate one's chiv■■■■, to uphold the honor of one's lord or oneself. Do not initiate ■■■■■■■■ over trivial matters. ——————————————————————— **A duel! You don't want to miss it!** When one party is insulted, they may issue a challenge to the insulting party. The challenged party must either accept or ■■■■■■ like a little rat, humil■■■■■ in front of everyone. Challenge by mail ■■■■■■■■■, by throwing down the gauntlet (silk or leather), or by verbal ■■■■■■■■. ——————————————————————— **Maybe a verbal one is better ...**  **Page Two** Both parties of the duel should bring an assistant and a doctor. After agreeing on the terms and conditions of defeat (perhaps when one party is ■■■■■■■■■■■■■, or one party di■■, ■■■■■■■■ shall stop after firing three shots), the duel can officially begin. ——————————————————————— **Must so many people be involved?** **Page Three** Pistolet Modèle 1733 **Expensive** Colt M1873 **Expensive**  Smith & Wesson Model 1 **This one is good.**
 
-- Description：Includes muck, traces of blood, and expensive means of preserving one's dignity.
-- Action：Pick It Up
 
 
 ---
@@ -3982,6 +3440,8 @@ A Notebook Covered in Mud and Blood
 > You and I met, and the room was aglow with light.
 
 <!-- reader-body:start -->
+> **Title card：** Mirror and Lantern
+
 **Vendor I:** Kakania! This way! Over here!
 
 **Kakania:** Illich! Thanks a lot! The prop sure came in handy.
@@ -4218,6 +3678,10 @@ Kakania's tone remains gentle, as if soothing one of her patients.
 
 **Kakania:** I am curious. No need to be alarmed—I'll treat you gently.
 
+
+> **Title card：** TO BE CONTINUED…
+
+
 ***
 
 COMBAT:
@@ -4271,254 +3735,7 @@ Ouch!
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** You and I met, and the room was aglow with light.
-
-> **Title card：** Mirror and Lantern
-
-**Vendor I**：Kakania! This way! Over here!
-
-**Kakania**：Illich! Thanks a lot! The prop sure came in handy.
-
-Kakania tears off her fake beard, fanning herself with her hand.
-
-**Marcus**：Mmm ... Ugh! Phew, finally. Why do I keep having things stick to my lips ...
-
-**Vendor I**：Hah! Be careful with that. It is no ordinary beard! Every single strand was soaked in a Bohemian potion mixed with bloodroot, toad's heart, and javangall ...
-
-**Vendor I**：Why were the guards after you?
-
-**Kakania**：That's a long story.
-
-**Kakania**：And oh, don't worry about this kind little lady. She saved my life, and she's a half ... a third of a friend!
-
-**Marcus**：A third of ...
-
-She discreetly releases the button of the communicator in her pocket.
-
-**Marcus**：Ugh ... This is bad, the connection is down, I can't get in touch with Madam Hofmann.
-
-**Marcus**：She's probably in an important conversation with the Field Agent Squad and has calls on block ...
-
-**Marcus**：It's okay, Marcus, you can do this yourself, just stay in the conversation! Communication is not that hard. You've done this through before. You can do it!
-
-Despite having written about a thousand ways to start a conversation, she never expected to find herself in a situation like this.
-
-Marcus frantically racks her mind for topics to discuss. Fortunately, everyone present is far more talkative than she is.
-
-**Vendor I**：My, my, Kakania! Are you friends with government officials now?
-
-**Vendor I**：Times have changed indeed! I've been here for a whole year, but I've never seen an official without a beard!
-
-**Vendor I**：Where are you from? Croatia? Moravia? Galicia?
-
-**Marcus**：I grew up in Romania ...
-
-**Vendor I**：Oh, I'm from Bosnia and Herzegovina ... That makes us friends, since we're both from somewhere-nia! Gahaha!
-
-**Kakania**：Be careful on the streets these days, Illich. You could be in trouble too if the guards catch you! After all, you haven't got a license.
-
-**Marcus**：Eh? You don't?
-
-**Vendor I**：Oh, of course not! Have you read the requirements? "Records of the safe use of arcane skills within three generations" ... I was born in the streets, I don't even know who my grandmother was.
-
-**Vendor I**：And the records aren't the hard part to get around. If you're applying in Vienna, the license has to be issued by the central government.
-
-**Vendor I**：It's not an Austrian problem, nor a Hungarian problem. The central government sits in the middle ...
-
-**Vendor I**：... and no official has any idea of what's what—should this be the Kaiser's concern? Or the König's? Or both?
-
-**Vendor I**：You'd be the biggest fool to listen and follow these broken rules! Stuck in the system, nowhere to go ... unless you work the magic of krones ...
-
-**Marcus**：... What happens if we don't have an arcanum license?
-
-**Vendor I**：Oh, you'll love this.
-
-**Vendor I**：Who knows. You could get 3 days in detention, or maybe 10 years in prison. Even if you are sentenced to prison, they might forget to bring you in.
-
-**Vendor I**：Or, if you're an outstanding citizen who can shed your arcanum during your human re-education, you might get to have a nice life—without a license that is.
-
-**Vendor I**：Our justice system is much more unpredictable than the arcanists'. We still have a fair chance of getting away!
-
-**Kakania**：Very informative, Illich.
-
-Kakania clears her throat, still somewhat guarded, and flashes out a meaningful glance.
-
-**Vendor I**：Oh, well then ... See you, Kakania and Ms. Foundation. Forget I said anything!
-
-**Marcus**：They are ...?
-
-**Kakania**：Some arcanist kids on the streets. I'm surprised you know nothing about them. The country has changed, lady, and not everything in Vienna is as decent and sumptuous as the buildings on the Ring Road and Herrengasse.
-
-Her tone belies a hint of sarcasm.
-
-**Kakania**：I'm thankful for your help, Ms. Foundation, but so far I have returned the favor—you don't want the guards either, do you? We're even.
-
-**Kakania**：So can you tell me why you're here?
-
-**Kakania**：Oh, I see. Mr. Karl sent you, didn't he? Because I don't have a psychiatrist's license. Can't you people give me a break?
-
-**Kakania**：I swear on my ancestors, I'm doing this entirely the arcanist way. It has nothing to do with human science!
-
-She poses a question but leaves no room for an answer. Leaning closer to Marcus, she pushes her glasses up with suspicion.
-
-**Kakania**：Don't you people ever sleep? Do you not have a life? This is the tenth time this month, even God rests after working six days in a row!
-
-**Kakania**：I have an arcanum license inherited from my family, it's nothing to be ashamed of. My fees are reasonable, no one's ever complained ...
-
-**Marcus**：No, um, Ms. Kakania, this is really coincidental ... I ... Err ... I just happened to know that you are a psychiatrist ...
-
-**Kakania**：Hm? So? Are psychiatrists considered doctors now?
-
-Maintaining her barriers of politeness against the rapid topic changes feels like holding a smile in a hailstorm.
-
-On the verge of tears, Marcus desperately falls back to the Field Mission Manual.
-
-**Marcus**：I think there's been a misunderstanding. We-I'm not here to check your credentials.
-
-**Kakania**：Then what?
-
-**Marcus**：So, you call yourself Kakania, but I know your first name is Klara ...
-
-**Kakania**：Oh, I didn't know the Foundation staff reads my work. How very flattering!
-
-**Kakania**：Yes, I'm Klara. But Ms. Foundation, don't you think Kakania is an intriguing name? Heinrich—who is a friend of mine—gave me a book which greatly inspired me.
-
-**Marcus**：...!
-
-**Kakania**：Our country is just like that name. It both is, and isn't; it both has, and has not. If you look for it, it can't be found. Yet if you stop looking, it's everywhere.
-
-**Kakania**：Look at this country, my friend!
-
-**Kakania**：The sumptuous buildings rise so high ...
-
-**Kakania**：that the people in power never have to lay eyes on the rye farmers of Bohemia, the immigrants from the east coast of Adriatic Sea, or on the arcanists!
-
-**Kakania**：How could there possibly be smog choking the industrial area? How could there possibly be cold houses in the winter? The coffee house is definitely filled with people who love to dance, and not with those who can't afford the heat, oh no.
-
-**Kakania**：Surely there's no bureaucracy, no discrimination, no poverty here. This is a city of humanism and freedom, oh yes.
-
-**Kakania**：Kakania ... "kaiserlich-königlich," or "kaiserlich und königlich," and ... "Caca-nia," the s**tland! Hahaha, there's no better name for this country.
-
-**Marcus**：So then, you did get that book, from a friend ...
-
-**Marcus**：...
-
-**Marcus**：Now's my chance. I still have one "Spider Tail" Madam Hofmann left me.
-
-**Marcus**：If I can find a chance to leave the Spider Tail on her ... Or in her place ...
-
-The young assistant takes a deep breath.
-
-**Marcus**：I ... I'm intrigued by the book. Can I see it?
-
-> **Title card：** Cemetery
-
-**???**：This concludes the report by Semmelweis of the Field Agent Administration. Please confirm, Madam Hofmann.
-
-In the corner, Hofmann holds her communicator out with brow furrowed.
-
-**Hofmann**：Yes, report received.
-
-**???**：Haha, why so serious, Greta? That was just routine.
-
-**Hofmann**：And I envy your lightheartedness and optimism. They got you out of Vienna on such short notice, I can only imagine that it must have been difficult for you as well.
-
-**Hofmann**：According to your intel, the Empire's had too many assassinations in a short period of time. This is not good for the Critical Point, Semmelweis.
-
-**Semmelweis**：At least try to stay in a good mood. What else can we do?
-
-**Semmelweis**：Aside from that, Greta, I have more to tell you. I was pulled out of Vienna overnight and I didn't have time to brief the new squad there.
-
-**Semmelweis**：You know, it takes ages to get through the briefing process. I might as well just tell you now, personally.
-
-**Semmelweis**：There could be an arcanist who has crossed the "Storm," and is now in Vienna.
-
-**Hofmann**：What did you say? Do we know more about this arcanist?
-
-**Semmelweis**：We only know his name is Heinrich. We learned about this from the Berlin squad when we met up here, but had no time to verify.
-
-**Hofmann**：I see. Leave the rest to us.
-
-**Semmelweis**：If true, he traveled to Berlin during the sixth "Storm" and survived the 1913 "Storm" there. And after the 1966 "Storm," and the one in 1929 ...
-
-**Hofmann**：And now it's 1913 for the second time. For all the arcanists who crossed the sixth "Storm," this is exciting news.
-
-**Semmelweis**：Mmhmm. Their time has returned.
-
-**Hofmann**：I understand the excitement, but perhaps time, in its chaotic fashion, has inadvertently returned to the same year.
-
-**Hofmann**：I hear you, Semmelweis. This is valuable information, I'll let the ...
-
-**Hofmann**：...!
-
-**Semmelweis**：Greta? Are you still there?
-
-**Hofmann**：Sorry, I have to go ...
-
-**Hofmann**：Something's wrong with the "Spider Tail" I left on Marcus. This is not her ritual ... Something's happened.
-
-**Kakania**：I'm surprised, Ms. Marcus, you know so much about this era!
-
-**Kakania**：I thought the Foundation was nothing but bureaucrats and bookworms. Oh, have you been to the Secession Building? Did you like it? Shame that book isn't there.
-
-Kakania finally finds the key.
-
-> **Title card：** Clinic
-
-**Kakania**：Please, come in! Forgive the mess. I must say that it is at least more orderly than the administration of the Empire.
-
-**Marcus**：Than-thank you.
-
-The room resembles a studio more so than a clinic.
-
-The scene is scattered about with unfinished paintings, dried paints, stage props, and posters.
-
-And mirrors. Many, many mirrors.
-
-**Kakania**：These are stage props, Heinrich left them here. He certainly learned some useful things in Berlin.
-
-**Kakania**：Make yourself comfortable. I'll get you some tea, and look for the book.
-
-**Marcus**：Please don't bother, Ms. Kakania! I won't stay long, I have to go back to the branch soon.
-
-**Marcus**：I just need to confirm that you have that book with you ...
-
-**Marcus**：Ooh!
-
-The clinic's curtains are tightly drawn, blocking out the day, yet her mirrors flash with light for a second.
-
-**Marcus**：Is this ... Kakania's arcane skill?
-
-Marcus quickly covers her eyes with her hands, stepping back toward the door.
-
-Kakania's cheerful voice rings from the other side.
-
-**Kakania**：Ms. Foundation, it's okay! Just a little trick I use to ensure my personal safety. I usually even charge for this!
-
-**Kakania**："Look into the mirror, which reflects your inner world" ... This trick has been used by arcanists for thousands of years. When it was first used, the Roman Emperors still ruled this land.
-
-**Kakania**：Speaking of which, Ms. Foundation ...
-
-**Kakania**：How did you know that the pistol was tampered with? Your arcane skill?
-
-Though it might only be some sort of trick of psychology—the mirror's glare becomes increasingly blinding.
-
-**Marcus**：... Um, don't look at the mirror!
-
-The investigator braces herself as she grips the lamp, ready for combat at a moment's notice.
-
-Kakania's tone remains gentle, as if soothing one of her patients.
-
-**Kakania**：I am curious. No need to be alarmed—I'll treat you gently.
-
-> **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Children of the Empire
 
@@ -5097,8 +4314,6 @@ Friendly Exchange
 
 Listen, I've had enough of you playing with the mirrors, you d\*\*n noisy green bird! Stop bringing in any old quack, peddler, or foreigner off the street! And those horrible, unbearable noises—the mirrors that could practically blind someone! I'm not a fool, you daft green parrot! If you're going to call it a wand, it should look like a stick, not a mirror! I really don't want to see those d\*\*n blue striped pants anymore! **—Those d\*\*n mirrors!** If you don't learn to behave yourself and control your "patients," you'll be getting a lot more from me than just a piece of paper next time! Now go back to your nouveau riche cliques and stop causing trouble here!
 
-- Description：A crumpled note is attached to the door, its edges torn and folded, emphasizing the messenger's urgent need to communicate.
-- Action：Remove Note
 
 ### Trail · Trail ① The Shadow in the Broken Mirror
 
@@ -5110,8 +4325,6 @@ Listen, I've had enough of you playing with the mirrors, you d\*\*n noisy green 
 
 Is there any satisfaction in waking up? Once you do, it's gone forever. You're left with a life of constant longing for the past.
 
-- Description：A hint of mystery lingers in the air, like a pleasant dream that refuses to fade from memory.
-- Action：Gaze at It
 
 
 ---
@@ -5122,6 +4335,8 @@ Is there any satisfaction in waking up? Once you do, it's gone forever. You're l
 > Glimpses of the heart.
 
 <!-- reader-body:start -->
+> **Title card：** The Mind's Endoscope
+
 Two invitations, from the founder of "The Circle," no less.
 
 A precious opportunity—a rare and precious clue to the goings-on here.
@@ -5364,6 +4579,10 @@ A more intense flash fills the clinic, dispelling the damp and resentful darknes
 
 **Kakania:** Leave my patient alone, and never come back!
 
+
+> **Title card：** TO BE CONTINUED…
+
+
 ***
 
 COMBAT:
@@ -5439,260 +4658,7 @@ It's okay. I'm here. You'll be alright ...
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Glimpses of the heart.
-
-> **Title card：** The Mind's Endoscope
-
-Two invitations, from the founder of "The Circle," no less.
-
-A precious opportunity—a rare and precious clue to the goings-on here.
-
-Hofmann caresses the edges, sinking into a long silence.
-
-The obedient assistant looks off into the far distance, awaiting the impending storm.
-
-**Hofmann**：... You know what happened. But under the Foundation's regulations, I must reiterate that the primary subject of this investigation has been changed to Heinrich.
-
-**Hofmann**：These two invitations are very useful. I'll tell the Field Agent Squad to act tomorrow night. Once Heinrich's identity is verified, we will detain him in the exhibit.
-
-**Hofmann**：But I must remind you, Marcus.
-
-**Hofmann**：What you did today was a serious violation of the Field Mission Manual. And I have to report this to the headquarters.
-
-**Hofmann**：That island is not of this era. Everything about it is strictly confidential. You have crossed a line.
-
-The mentor's tone was of a stern reproach. Not so inconsequential anymore.
-
-**Marcus**：... Understood ...
-
-Marcus's complexion turns deathly pale. Her mouth hangs open to speak several times but fails to make a sound.
-
-If not for the wall, she might well have fallen over.
-
-**Hofmann**：I know what you're thinking. We need to get closer to this group.
-
-**Hofmann**：You might think that their ideas are closer to those of the headquarters, and therefore easier to work with compared to the Vienna branch.
-
-**Marcus**：Umm ...?!
-
-Marcus finds herself surprised by her stay of execution.
-
-**Hofmann**：You must know that Kakania is not our only source of information.
-
-Hofmann turns away, intentionally avoiding the overeager eyes of her apprentice.
-
-**Hofmann**：On the one hand, Karl has given us a list. In principle, everyone on this list is useful. On the other hand, the branch has its own connections too.
-
-**Hofmann**：More importantly, it takes more than a conversation over tea to get people on the same side of a conflict.
-
-The experienced investigator sighs, rubbing her forehead.
-
-**Hofmann**：I'm worried you are not ready for this, Marcus.
-
-**Hofmann**：There is too much wickedness out there dressed in the skin of kindness. The most horrible atrocities are always committed for the most seemingly justified reasons.
-
-**Hofmann**：Even at the headquarters, people are mired in power struggles and compromises.
-
-**Marcus**：...
-
-**Marcus**：Sorry, ma'am, I was naive ...
-
-**Hofmann**：It'll be the Foundation's judgment call. If the information you've gathered outweighs the risks, you may be treated leniently.
-
-**Hofmann**：Marcus, look at the street.
-
-The Ring Road has a feeling of tranquility despite the evening bustle.
-
-**Hofmann**：You're not the only one who wants to contribute to this place and its people. We come for peace, and many before us have tried to prevent foreseeable tragedies, only to cause greater tragedies.
-
-**Hofmann**：The rules are there for a reason. Nothing in the manual was written out of imagination. Every one of them came from a mistake of the past.
-
-**Hofmann**：We are only here to observe.
-
-Many well-dressed citizens pass by, enjoying their sunset strolls.
-
-**Marcus**：...
-
-**Hofmann**：This is Vienna in 1914. The birthplace of an enduring war and chaos, the Critical Point.
-
-**Hofmann**：It is a powder keg, and the slightest spark will set it off. Any action we take could have unfathomable consequences.
-
-**Hofmann**：That's why we advise extreme caution.
-
-**Hofmann**：This is our responsibility to this era.
-
-Marcus follows her mentor's hand, gazing into the distance.
-
-For the first time, she scrutinizes the city ahead of her in detail.
-
-Here, countless lives, possibilities, and thoughts new and old collide ...
-
-Would all this end in an instant beneath a curtain of rain?
-
-**Marcus**：...
-
-Marcus nods, searching out a word of affirmation.
-
-**Marcus**：... I understand completely, Madam Hofmann.
-
-**Marcus**：I won't make the same mistake again.
-
-Away from the Ring Road, others continue on their life's trajectory.
-
-In Kakania's clinic, a slightly unorthodox treatment is about to begin.
-
-**Isolde**：...
-
-**Kakania**：Isolde? You look sad and pale, what happened?
-
-**Kakania**：Did something happen in the troupe? Or did those dreadful officials come back?
-
-**Isolde**：No. I'm just ... a bit worried.
-
-**Isolde**：You ... you entered a duel for my sake. Dear lord, the thought of you getting hurt breaks my heart.
-
-**Kakania**：Did Heinrich tell you that? He needs to keep his mouth shut.
-
-**Kakania**：Don't worry about me, Isolde. I fought for the ethics of the profession, and I'm ready to bear the consequences of my actions.
-
-**Kakania**：That scum sold the secrets of hypnosis to the military. It's a treatment, not a means of interrogation!
-
-**Kakania**：In the end, all is well! The duel didn't happen, and I'm here, unharmed. All thanks to that young missy from the Foundation.
-
-**Isolde**：That young missy from the Foundation ...
-
-**Isolde**：The lady who just left? I bumped into her at the door.
-
-**Kakania**：So you've seen her.
-
-**Isolde**：She was at the Secession Building. You weren't there.
-
-**Isolde**：Did she give you any trouble? You told me that the Foundation was after you for a while because you didn't have a license.
-
-**Isolde**：I can help you, doctor. I can ask Mr. Karl to ...
-
-**Kakania**：Eh? No need for that. We only just became friends.
-
-**Isolde**：Friends?
-
-**Isolde**：You told me to stay away from the Foundation staff, but now you're making friends with them ...
-
-**Kakania**：Oh, she's different, dear Isolde! We met by chance. I gave her an invitation to the exhibit, so you'll see her there. I think you two will become best friends.
-
-**Kakania**：It would take all day to tell you everything. You're here for treatment. Let's not waste time on unimportant things.
-
-**Isolde**：Unimportant? Alright ...
-
-**Isolde**：...
-
-Kakania coughs, trying to revert to her more professional guise.
-
-**Kakania**：You're a personal friend, Isolde, so I didn't want to give you therapy in the first place ...
-
-**Isolde**：Be-because I'm not good enough, or sick enough, to be your patient?
-
-**Kakania**：No no no, because I'm not good enough. I wasn't properly trained, I don't have a medical license, or a degree! This is the cold, hard truth, and you're too important a friend to me.
-
-**Kakania**：But I can no longer watch you suffer from the horrible treatments those quacks gave you.
-
-**Kakania**：I may not have a license, but I have the knowledge and ethics that they don't. I never overcharge my treatment, nor sell unnecessary things to the patient, and I will never experiment on my patients!
-
-**Isolde**：Heh heh.
-
-**Kakania**：Your smile. So you agree with what I said about those psychiatrists and doctors!
-
-**Kakania**：Okay, then let's get to it!
-
-Kakania spins her pen in an excited twirl, flipping open her treatment book.
-
-**Kakania**：Dr. Sigmund Freud wrote that repression of desires is one of the primary causes of hysteria.
-
-**Kakania**：You need to release these desires. I'll guide your memory to find the deeply hidden thoughts. Trust me and tell me everything during the session.
-
-**Kakania**：You'll suffer less from the repression, and your physical ailments, fainting and convulsions, will become less severe.
-
-**Kakania**：Cast off your shackles and trust in me. This first step is crucial.
-
-**Kakania**：I know tragedies in your family have affected you deeply. But I'm here to help you now.
-
-**Kakania**：If you have trouble putting thoughts into words, use this mirror.
-
-**Kakania**：It reflects your inner thoughts, like a mind's endoscope. I cast an arcane skill on it to help your thoughts surface.
-
-**Kakania**：Look at it, and tell me what you see.
-
-**Isolde**：My inner thoughts ...
-
-**Kakania**：Yes, I won't hypnotize you, nor will I turn around and peek at the mirror. What's in there belongs to only you, we're just going to talk.
-
-**Kakania**：Hypnosis is a therapy I most detest. It doesn't help you understand and rediscover yourself.
-
-**Kakania**：And if the dialogue isn't based on the full awareness and consent of both parties, it's pointless.
-
-**Isolde**：I see. I will do my best.
-
-**Kakania**：Do your best? Hah, relax, you're not on the job. Just turn around, look in the mirror, and tell me ...
-
-**Kakania**：What do you see?
-
-**Isolde**：Uhm ...
-
-**Isolde**：I see ... golden circles ...
-
-**Isolde**：Theophil in his study, on his feet, his hand gesturing intensely in the air ...
-
-**Isolde**：Ah, yes, I'm there too. I'm ...
-
-**Isolde**：...?
-
-Her voice becomes strange and sharp.
-
-**Isolde**：Odd. Why am I not here?
-
-**Isolde**：Doctor, is your mirror not working? It's not showing my reflection. No, no, this isn't right, I promised to do my best ...
-
-**Isolde**：I was there, I must have been. I have to remember it. You prepared all of this for my sake, I mustn't disappoint you ...
-
-**Kakania**：Oh no, she's stuck in her obsessive thoughts!
-
-**Kakania**：Isolde, please sit down and listen to my voice.
-
-The actress, ignoring her doctor's warnings, forcefully grips the edge of the mirror.
-
-**Isolde**：Who am I? Where am I?
-
-**Isolde**：Hello, is anybody there? Who is me? I am who? Greetings. Hello?
-
-The candles go out, and the room fills with an inexplicable breeze.
-
-An incorporeal voice responds to her inquiry, invited in from the void.
-
-**Kakania**：The lost ghosts. The last time in the Secession Building ... Now I understand.
-
-**Kakania**：I have to get her to stop relying so much on her arcane power. Luckily, not completing my education is why I know a little bit of everything.
-
-The doctor rushes to the full-sized mirror in the workshop, removing the gray cloths one by one.
-
-**Isolde**：What are you doing, doctor? Is the session over?
-
-**Isolde**：Was it because I did something wrong? Did I mess up?
-
-**Kakania**：Nonsense, you were doing great! I just have to clean the room a bit.
-
-A more intense flash fills the clinic, dispelling the damp and resentful darkness.
-
-**Kakania**：Shoo, go away! Mirrors are useless to ghosts!
-
-**Kakania**：Leave my patient alone, and never come back!
-
-> **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Vienna Daily
 
@@ -5706,8 +4672,6 @@ Front Page and Beyond
 
 **The Dittarsdorfs: Remembering the Brilliant and Fragile Viennese Virtuosos** ... The Dittarsdorf family has left a prominent mark in the history of Viennese opera, their bloodline birthing both an overwhelming operatic talent and an inescapable tragedy. Two fairies together plucked at the heartstrings of the Viennese people, plunging them into a deep infatuation with the female performers of the Dittarsdorf family ... ... ... —————————————————— **Insomnia got you down? Anxiety ruining your life? Perhaps it's time you visited the Secession Building for a cup of tea! Uncover your deepest fears and desires! Inquiries for Kakania are welcome, at the Secession Building!** —————————————————— **The Faded Glory of the Seven Veils** ... At that time, shortly after the beloved Evangeline Dittarsdorf passed away, her daughter Isolde Dittarsdorf even while enduring the immense grief of losing her mother and took on her first performance, continuing the Dittarsdorf family legacy on the Viennese stage. This performance was both an artistic and social debut ... ... ... —————————————————— **Insomnia got you down? Anxiety ruining your life? Perhaps it's time you visited the Secession Building for a cup of tea! Uncover your deepest fears and desires! Inquiries welcome for Kakania are welcome, at the Secession Building!** —————————————————— **Isolde: Supporter of Science** ... Perhaps the death of her brother has affected her more than previously thought, as Isolde has recently been seen attending Dr. Schwarz's public diagnostic sessions as a patient. Perhaps his new medical theories will help her recover, free from the torment of her arcanist bloodline and no longer afflicted by her cruel curse ... ... ... —————————————————— **Insomnia got you down? Anxiety ruining your life? Perhaps it's time you visited the Secession Building for a cup of tea! Uncover your deepest fears and desires! Inquiries for Kakania are welcome, at the Secession Building!** ——————————————————
 
-- Description：The balance between capturing the reader's interest and providing enough content to fill the pages.
-- Action：Unfold Newspaper
 
 
 ---
@@ -6364,8 +5328,6 @@ Faltering Footsteps
 
 **May 26, 1913** We can no longer pretend that nothing is happening here! The world is about to descend into chaos! The upper echelons of the empire were indeed harboring a Russian spy. Before this, everyone regarded him as a hero of the empire, but he turned out to be a secret operative, sending his own compatriots to the enemy's guillotine. Who knows how much intelligence he has sent back to Russia? Is our country just a naked fool in the eyes of the Russians? The whole of Europe is secretly in turmoil, wars are breaking out everywhere—everywhere! Even in Vienna, one can always hear whisperings of war, and the people no longer have the heart or the mind to appreciate art. The bullets of war have shattered the glass domes of Vienna, the sound of shattering echoes through the nights of beautiful dreams, scratching the phonograph records, and clogging the tubes of the horn. Is tonight the last time I will sit in the opera house? Oh, beautiful place, like a mother's womb, only here can my grief and panic about the war be alleviated. Perhaps I should transfer my family fortune, but where to? Or should I exchange it for gold bars and jewels, and hide them in a secret compartment under my bed? It was only two short years ago! How wonderful it was then—there was no constant call to war between nations, and mankind was as innocent as Adam and Eve before they left the Garden of Eden ... No ... No ... I shouldn't make such comparisons. I do not wish to face a fate of eternal damnation. Perhaps all this is just baseless speculation on my part. Perhaps I have been infected by those madmen who fantasize about the end of days. Now, there are few countries that even come close to the Austro-Hungarian Empire, and I cannot imagine scenes of war ravaging Vienna any time soon. Such a scene would indeed herald the end of the entire world ... \*A fine leather notebook! An expensive gold-plated pen! What's that embossed on its velvet box ...? "Fischer"? \*The good parts have already been ripped off! D\*\*n it! Just leave this broken book in the trash!
 
-- Description："Trash" that has lost the protection of a velvet box and leather envelope.
-- Action：Pick It Up
 
 
 ---
@@ -6858,8 +5820,6 @@ Shoeshine Boys
 
 "Come, sir, put your feet up, please. I'll wipe the dust off your shoes, and we can even talk about the opera, if you'd like. The opera, yes! Isn't it just all over the posters, in the streets and alleys! Isn't it just, sir! Please, just a few more coins, sir, so that I can afford a ticket for tonight ... Of course, I understand, sir, I know all the lines off by heart! "Pourquoi faut-il que le destin l'ait mise là sur mon chemin?" I learned that off a kind gentleman outside the theater ..." ... "You must try the Sachertorte—we say this to every tourist ... Haha, of course! How could I recommend it to you if I hadn't tasted it myself? Rest assured!" ... "Look, sir! I bet you don't even recognize your shoes anymore! I can even see my face in them. I've polished them so hard ..." "You must be here to see the sights of Vienna, right? The streets here are spotless, and after this polish, you won't have to clean your shoes for at least ten days ... Yes, if things carry on like this, we'll have to go to school. I hear they teach French there ... Next time you come to Vienna, maybe I'll be that little apprentice up on the stage."
 
-- Description：Several boys, rubbing the shoe polish in their hands over and over on a towel, invite you to sit down.
-- Action：Accept the invitation.
 
 
 ---
@@ -6871,6 +5831,10 @@ Shoeshine Boys
 
 <!-- reader-body:start -->
 Guest Room, Island
+
+
+
+> **Title card：** The Island
 
 The low stone table is ill-suited for writing, but there is little other choice for the moment.
 
@@ -7071,222 +6035,13 @@ Where the red wax seal of the St. Pavlov Foundation's express letter is clearly 
 **Sophia:** Are these all from the outside world?
 
 **Sophia:** What's happening out there?
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** "That golden island is undoubtedly a sanctuary for the arts, a utopia where all arcanists can thrive."
-
-> **Title card：** The Island
-
-> **Title card：** Guest Room, Island
-
-The low stone table is ill-suited for writing, but there is little other choice for the moment.
-
-**Vertin**：Thank you for your mediation within the committee. I think you're right.
-
-**Vertin**：Sending more people to the island will only exacerbate the trust issue. They don't trust us, and that's what Arcana wants.
-
-**Vertin**：Things have just got better, and we can't let anything else upset this delicate balance.
-
-**Vertin**：I think ...
-
-The pen hesitates for a moment, but driven by need, it commits to the paper.
-
-**Vertin**：If we somehow can't come to an agreement with the Apeiron, we should at least prevent them from allying with the Manus in turn.
-
-The letter lingers dangerously on her fingertips.
-
-Then, it flutters its wings, flying out of the room as a butterfly, heading at speed toward the headquarters of the St. Pavlov Foundation.
-
-A timely knock breaks the tension in her.
-
-**Vertin**：Come in please.
-
-The visitor lifts the curtain.
-
-The rooms of the School of Apeiron rarely have doors.
-
-Such curtains are merely a courtesy for guests from beyond the island.
-
-**Marta**：Good morning, Ms. Vertin.
-
-**Marta**：I'm here to see if you need help with anything.
-
-**Vertin**：May I have some more paper?
-
-**Marta**：Of course. We are always generous in our support of the contemplative.
-
-**Vertin**：Thank you, Ms. Marta.
-
-**Vertin**：Don't you want to ask me what I'm writing letters for?
-
-**Marta**：Despite all the unpleasant events, the integrity of your soul number is unquestionable.
-
-The school's envoy stands silently, her gaze not reflected beneath narrowed eyelids.
-
-**Vertin**：The Foundation is negotiating with the outside world. They're trying to resolve this unfounded territorial dispute peacefully.
-
-**Vertin**：We've yet to reveal the coordinates of the island, and don't want to exacerbate the conflict.
-
-**Vertin**：Could you convey our sincere intentions?
-
-**Marta**：... Heh heh. You're such a young girl, yet you sound like an official.
-
-She sighs resignedly.
-
-**Marta**：But I'm just a practitioner without a number, a roamer of turbulent times. I haven't been on this island much longer than you.
-
-**Marta**：I will send your message, but I'm not the one who makes the decisions.
-
-**Marta**：It's just, from what I know about the teachings of Apeiron, what you're striving for is not of their concern, Ms. Vertin.
-
-**Vertin**：I don't understand.
-
-**Marta**：All that is trivial in the phenomenal world is the trivialist of trivialities.
-
-A wind blows in from beyond the void.
-
-In the direction of the sea breeze, one can see that the beach has been restored as if it were new, no longer bearing the scars of battle that had littered it only a short time ago.
-
-**Marta**：If the "Emanation" arrives, everything will be washed away.
-
-**Marta**：Wars, disputes.
-
-**Marta**：Their number one priority is ... how to find "salvation," once and for all.
-
-> **Title card：** The Hall of Apeiron
-
-The debate has been ongoing for days.
-
-The Hall of Truth occupied by the clamor of their crushing reality.
-
-**Believer I**：The fact is, we're going astray!
-
-**Believer I**：The "Emanation" in 1999 had taken away almost all our outside contacts.
-
-**Believer I**：Ever since the incident four years ago, we've been cut off from the outside world and have become an isolated island in the "Emanation."
-
-**Believer I**：And during these four years, no research on the "Emanation" progressed. In the end, the theoretical study of its patterns was proven completely wrong.
-
-**Believer I**：How long should we sit idly by? Until the humans take over our island?
-
-**Believer I**：No matter who revealed our coordinates, be it the Foundation or Manus Vindictae, someone should be held responsible!
-
-**Believer II**：37 is the one in charge of studying the "Emanation." Save your questions until after she wakes up. 6 is treating her now.
-
-**Believer II**：Also, talking about the decisions made four years ago is meaningless now.
-
-**Believer II**：What's more, the Foundation is not hostile. They helped us minimize the damage from the reveal.
-
-**Believer II**：Manus Vindictae has also given us constant material support since that difficult time four years ago.
-
-**Believer III**：Ha, 37? She's just a child, can't even handle her own business. Ever since she brought outsiders to the sacred place, everything has changed ...
-
-**Believer IV**：You know you're judging a child in a coma? Even if 37 did something wrong, she's certainly paying for it!
-
-Those gathered glare at each other from the edges of the room, seething with anger.
-
-Far from their formal votes awaiting the casting of stones—the debate has yet to even produce a clear topic of debate.
-
-The pursuit of truth of days past, now muddied by the dust and blood of the phenomenal world.
-
-**210**：Don't get angry. What 42 is trying to say is simple.
-
-**210**："Even if the 'Emanation' will take away the human army, when is it coming?"
-
-**210**："Now that our model has failed, how can we be informed of the next 'Emanation,' and act accordingly?"
-
-**210**："If pure theoretical research is doomed to failure, and if we must look outward, how can we restore communication with the outside world?"
-
-**210**："Do we stand with the Foundation, or with Manus Vindictae?"
-
-A clear voice of opposition rises from below.
-
-**Believer III**：210, your words are provocation!
-
-**Believer III**：Are you saying that we should stop being neutral and get involved in the endless faction disputes? This is against what Apeiron stands for!
-
-**Believer II**：I can't agree either. The truth is supposed to keep us off the wheel of birth, not on it.
-
-**210**：I was just interpreting what 42 had in mind.
-
-**210**：Moreover, we're already caught in the wheel of birth—human weapons were undeniably dropped on our island before.
-
-**210**：The tragedies it caused, and the thirst for justice will only keep us trapped in this cycle!
-
-**210**：But what caused this cycle to begin with?
-
-**210**：Brothers and sisters, you are blinded by the shrapnels of that conflict, and you're missing the "essence." Listen to me and I will tell you—
-
-**Believer IV**：Cut to the chase, 210! It seems you're the one blinded by your own rhetorics!
-
-**Believer III**：Who can get me the stone clock on 6's seat? I'll clobber him myself!
-
-The rhetorician taps his forehead mockingly, ignoring the dissatisfaction of his cohorts.
-
-**210**：The original cause, is the failure of our research on "Emanation."
-
-**210**：Our excellence comes from our beliefs. Once the truth fails us, the foundation that sets us apart from the world will also fail us.
-
-**210**：However, my people of great wisdom, forgive me for imagining a worst case for you ...
-
-**210**：We believe the book of nature was written in the language of mathematics, and every number is a transcendental existence living in the kingdom of eternity ...
-
-**210**：Math is the path to truth. The calculation of math patterns has led us to pursue the fundamental knowledge of the world: the origin of pneuma.
-
-**210**：But, what if the supreme existence has no pattern at all? What if the ebb and tide of pneuma is chaotic and irrational?
-
-An uproar ensues.
-
-**Believer III**：210, are you denying our beliefs?
-
-**Believer III**：Are you saying the results we've achieved are just coincidences?
-
-**Believer III**：The fundamental theorems of ancient mathematics, the applications and improvements from modern mathematics, the mathematical laws in atomic clocks and leaf venation,
-
-**Believer III**：and every prophecy of "Emanation" that were proven correct ... Were they all just a collective dream of ours?
-
-**210**：Well, like I said, I was just imagining a worst case scenario.
-
-**210**：Exhaustion is also a common method of proof.
-
-Their further defense becomes untenable amid loud denunciations.
-
-The calls rise one after another, bouncing against the stone walls of the hall and reaching the ears of listeners outside as an echoed cacophony.
-
-**Sophia**：...
-
-**Sophia**：Please help us, O Apeiron.
-
-**Sophia**：Correct the errors of our souls, bring us back on the right path ... Harmonize our spirit with the flesh, our will with life; avoid sedition from a city; purge sickness from the body ...
-
-**Sophia**：...
-
-Sophia wipes away her tears.
-
-A flock of seagulls flies over the beach.
-
-They circle and dance in the air with an unusually delicate grace, more like butterflies than birds.
-
-**Sophia**：They don't look like seagulls, or am I mistaken?
-
-The Corrector moves forward.
-
-Stepping into the crystal-clear sunlight ...
-
-Where the red wax seal of the St. Pavlov Foundation's express letter is clearly visible.
-
-**Sophia**：Are these all from the outside world?
-
-**Sophia**：What's happening out there?
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① Viennese Coffee
 
@@ -8831,8 +7586,6 @@ The young assistant clutches the doctor's sleeve tightly.
 
 Like stray locusts or straggling rats, weak and exposed.
 
-- Description：They strut and swagger, apparently not considering the possibility that they may soon be facing the real thing.
-- Action：Defeat Them
 
 
 ---
@@ -8844,6 +7597,10 @@ Like stray locusts or straggling rats, weak and exposed.
 
 <!-- reader-body:start -->
 Vienna People's Opera
+
+
+
+> **Title card：** Art Above All
 
 **Hofmann:** ... The Field Agent Squad cannot make it this time. They have a more urgent mission.
 
@@ -9004,182 +7761,13 @@ The black-haired opera singer steps to the front of the stage.
 **Kakania:** Please, enjoy.
 
 **Kakania:** Even if the world ends tomorrow, we still have a show to enjoy.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** And now, the most anticipated performance.
-
-> **Title card：** Art Above All
-
-> **Title card：** Vienna People's Opera
-
-**Hofmann**：... The Field Agent Squad cannot make it this time. They have a more urgent mission.
-
-**Hofmann**：But the Vienna Branch already requested support from the army, even though we haven't told them what is happening. They are irritated by the blatant attack.
-
-**Hofmann**：We'd better use the power of the "era" now.
-
-Hofmann clips a Laplace-issued communicator back on her waist.
-
-**Hofmann**：Only one question remains. Is the source of this intel reliable, Marcus?
-
-**Hofmann**：Are Isolde and Heinrich really playing in the premiere of Tosca?
-
-She questions her assistant, but her gaze is fixed on Kakania, who sits there idle in thought and action.
-
-**Marcus**：Yes. It may sound a bit absurd, but that is Ms. Kakania's inference ...
-
-**Kakania**：... It is you who asked for cooperation. I've done what I can and told you everything I know.
-
-She hangs her head, her voice uncharacteristically dispirited.
-
-**Kakania**：Unless the show is canceled, Isolde will show up. She is a perfectionist when it comes to her work.
-
-**Kakania**：If she shows up, so will Heinrich.
-
-**Kakania**：Neither of them is under bounty. And the upper class loves her performance, so it's not hard for them to guarantee a show even in these troubled times.
-
-**Kakania**：I know her well. She will be there ...
-
-**Kakania**：... If I know her as well as I think I do.
-
-Kakania says nothing more, and her eyes fix on a curtain, locking into a trance.
-
-The opera is about to begin. The audience pass through the aisles and take their seats on the soft chairs.
-
-**Marcus**：... Madam Hofmann, what mission is the Field Agent Squad dealing with?
-
-Marcus speaks up, trying, in the manner of her books on conversation, to ease the momentary awkwardness.
-
-**Hofmann**：Assassinations. There's been an outbreak in the Empire over the past three days. They are sent to guard the important people.
-
-**Hofmann**：We're out of manpower right now, so don't expect any backup.
-
-**Hofmann**：But don't worry. We don't need to capture or defeat the Manus. Just focus on the original ritual.
-
-**Hofmann**：Put your own safety first. Understand, Marcus?
-
-Marcus signals her understanding. Once again, she dives into her "read" on the interior of the Vienna People's Opera.
-
-**Marcus**：Hmm? The audience is bigger than the tickets sold.
-
-**Marcus**：I counted the seats in the balcony and gallery. There are still too many people in the main hall. Are they all staff of the Vienna branch?
-
-**Hofmann**：No. This could be the doing of Manus Vindictae.
-
-**Kakania**：Haha.
-
-**Hofmann**：What are you laughing at?
-
-**Kakania**：At you, Ms. Foundation. You have no idea where you are. This is Vienna, the city of music!
-
-**Kakania**：And this is Isolde and Tosca! People are crazy about them!
-
-**Kakania**：I bet they would even stand outside the railings if standing tickets were sold ...
-
-**Kakania**：And when it reaches act three, they would fling themselves over the edge, crying "O Scarpia, avanti a Dio!"
-
-Hofmann's brow hangs heavy with vigilance.
-
-**Hofmann**：I don't get what you're saying, but it sounds even worse than Manus Vindictae.
-
-**Marcus**：I-I collected information about this opera ...
-
-Marcus hands off another stack of material to her mentor.
-
-**Hofmann**："Rome, 1800. Painter Mario Cavaradossi and singer Tosca are two lovers ..."
-
-**Hofmann**："Cavaradossi has been arrested for helping the fugitive Cesare Angelotti, former consul to the Roman Republic."
-
-**Hofmann**："To save her lover, Tosca turns to Scarpia, the Chief of Police."
-
-**Hofmann**："Scarpia has coveted Tosca for a long time, so he proposes that Cavaradossi will be freed if Tosca gives herself to him."
-
-**Hofmann**："Tosca submits to him, but when he tries to embrace her, Tosca stabs him in the heart with a dagger ..."
-
-**Kakania**：For heaven's sake! How did you make that sound so boring?!
-
-Kakania stands up, unable to bear the indignity any longer.
-
-She reaches out, snatching the stack.
-
-**Kakania**：I don't think you should read the script ahead of time. It takes away all the surprises.
-
-**Kakania**：Just let the singer guide you and immerse yourself in this world ...
-
-**Kakania**：Isolde is very good in guiding the audience. She's the best there is!
-
-Kakania grips the script tightly, ready and willing to defend her beloved play.
-
-**Kakania**：As a seancer, her incredible arcane skills allow her to act like the characters themselves on stage.
-
-**Kakania**：She can do all kinds of voices, even those that seem physically impossible ... When she does this, she becomes a completely different person, taking us to a world beyond reality.
-
-**Kakania**：It'll feel like witnessing a miracle firsthand.
-
-**Kakania**：...
-
-She realizes her behavior is, for the moment, quite grossly inappropriate.
-
-Kakania slinks back down and removes her glasses, holding them in her hand.
-
-**Kakania**：... Sorry. I got a little excited.
-
-**Kakania**：So this is how much I looked forward to this opera ...
-
-She trembles as her hands reach up to grasp her forehead, her voice falling into a sob.
-
-Marcus hesitates, but eventually reaches out, placing a hand on her shoulder.
-
-**Marcus**：I'm sorry. I know you still see her as a friend.
-
-**Kakania**：No. I'm just thinking ...
-
-**Kakania**：I thought I knew my friends and my kin, but really I had no idea what they were truly thinking, even with this mirror and all the psychological theories.
-
-**Kakania**：I am like Pandora who opened the box without knowing what was inside. Was it hope, or destruction?
-
-**Marcus**：That sounds ... dark ...
-
-**Kakania**：But I also think ...
-
-**Kakania**：... Perhaps we can never truly understand one another, but things won't get any better if I give up because of it.
-
-Kakania shakes her head, rubs her eyes forcefully, then puts on her glasses once more.
-
-**Kakania**：I can not turn my back on this.
-
-**Kakania**：Don't worry about me, Ms. Marcus. Now that I'm here, I will fulfill my promise.
-
-**Kakania**：I will stop her.
-
-**Kakania**：As for the doomsday you talked about ... I don't know what I can do about it, to be honest.
-
-**Kakania**：All I know is, if I don't stop her today, every day of my life will feel like doomsday.
-
-**Kakania**：No matter what happens from here, the show has begun.
-
-The lights dim.
-
-Just as she had scripted it.
-
-The black-haired opera singer steps to the front of the stage.
-
-**Isolde**：...
-
-**Marcus**：—!
-
-**Kakania**：Please, enjoy.
-
-**Kakania**：Even if the world ends tomorrow, we still have a show to enjoy.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -9504,8 +8092,6 @@ Oh, Venus Most Divine
 
 Venus, Venus, when your golden blood cascades upon us, Passing through the shimmering azure, over ankles and veins, and supple thighs so pure, A hammer falls at the temple's core, You forget. Touching night with your foot's tip once more. Oh, Venus, have you already left me? Oh, Venus, could you be no more? Applaud, applaud, applaud, and cheer! Fulfill that raucous roar! Dances not unpaced in the coffin's stiff embrace, for you, majestic and sublime, do offer meager praise. I follow you, Venus, follow your fingertips in a haze, Stepping onto the path back to better-sweet days.
 
-- Description：Lift the lord's nose, pinch the lady's ear. "You can do away with the raincoat and boots!" A masked friend greets you warmly on the porch: "Come and enjoy this wonderful rain!"
-- Action：Allow Me to Decline
 
 
 ---
@@ -9516,6 +8102,8 @@ Venus, Venus, when your golden blood cascades upon us, Passing through the shimm
 > ... When all tides converge.
 
 <!-- reader-body:start -->
+> **Title card：** The Clashing Tides
+
 **Marcus:** Their faces are distorting ... like those paintings ...
 
 **Marcus:** Is this also some kind of mass hysteria, or ...?
@@ -9703,206 +8291,13 @@ Cries echo from behind the curtain.
 She opens her eyes as another protagonist leaps onto the stage.
 
 **Isolde:** Doctor.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** ... When all tides converge.
-
-### Segment 1 · `script 100625`
-
-> **Title card：** The Clashing Tides
-
-**Marcus**：Their faces are distorting ... like those paintings ...
-
-**Marcus**：Is this also some kind of mass hysteria, or ...?
-
-The opera house is bizarrely noisy, and the people within are restless.
-
-**Balcony Audience**：Anyone seen my glasses? Could you pass them to me?
-
-**Balcony Audience**：Oh, they've grown on my eyes. Don't mind me ...
-
-The cheering crowd stands on their chairs, clapping uncontrollably, shouting with maddened fervor.
-
-**Back Audience**：This is Tosca's kiss!
-
-**Back Audience**：Come, friends, kith and kin! Take your daggers and get up there! We will all kill our own Scarpia!
-
-**Back Audience**：Those so-called upper class people don't deserve the best seats!
-
-**Back Audience**：Vissi d'arte, vissi d'amore!
-
-More and more people leave their seats, some shouting as they step up and over to lean over railings and into the aisles.
-
-The music still plays, and the curtain has yet to fall.
-
-**Guest in Box**：Splendid! I can almost feel the blood splashing on my face!
-
-**Guest in Box**：There is no doubt this is art! The way in which reality replaces fantasy ... I've never seen a show like this before ...
-
-**Guest in Box**：Selah, Orff, what happened? Have you got blood on your faces, too? Is this part of the show, or ...?
-
-**Guest in Box**：Woww!
-
-The crowd blends like a thick oil paint, surging and washing over every corner of the opera house.
-
-**Marcus**：They're killing each other in a frenzy! Is no one noticing this?
-
-**Marcus**：Madam Hofmann, I have an emergency here. I ...
-
-Marcus stumbles, knocked over by the frenzied crowd, and the connection to her communicator is lost.
-
-**Marcus**：No, I can't hear anything!
-
-**Marcus**：The crowd won't let me leave ... I need to make way myself!
-
-### Segment 2 · `script 100626`
-
-Someone rushes out from the shadows, drawing a sidearm.
-
-**Soldier**：Quiet, be quiet!
-
-**Soldier**：Go to hell, you terrorists!
-
-If their arrival had meant to bring order, it succeeded only in making the scene that much more chaotic.
-
-Gunshots, screams, roars, and bellows meld together.
-
-A few staff members from the Foundation branch weave through the crowd, but they are either infected with hysteria or swept away in the flood of people.
-
-Marcus dodges awkwardly among them, like a leaf in a rushing river.
-
-**Marcus**：I need to ... I need to disperse them. At least open up the exit ...
-
-**Marcus**：Ugh!
-
-**Hofmann**：Marcus, what are you doing?! I said evacuate!!
-
-Hofmann hurries from the other side of the curtain, pulling Marcus away from the swarming crowd.
-
-**Marcus**：But people are dying! It is our duty to ...
-
-**Hofmann**：I just got a message from the headquarters.
-
-**Hofmann**：The Timekeeper has issued a twenty-four hour "Storm" warning.
-
-**Marcus**：... What?
-
-**Hofmann**：The Manus has carried out several assassinations on the same day. The instability of this era has reached the Critical Point.
-
-**Hofmann**：... Which means the "Storm" is coming.
-
-**Marcus**：...
-
-Marcus collapses to the ground.
-
-Slowly, bewilderedly, she begins raking her hands through her hair.
-
-**Marcus**：N-no ... No way ... The "Storm" ...
-
-**Marcus**：It was me ... It was me ...
-
-**Marcus**：It was me who started the chain reaction ... It was me who leaked out the details of the island ... It was me!
-
-**Hofmann**：Get a hold of yourself, Marcus!
-
-A pair of strong hands pull her up from the ground.
-
-**Hofmann**：This is the "Storm" of time. Compared to the chaos it causes, you and I mean nothing more than a pebble.
-
-**Hofmann**：It happened many times before you did anything, and it will happen countless times more.
-
-**Hofmann**：The eras in history will disappear again and again, and so will the people. The situation can't get any worse.
-
-**Hofmann**：The only thing we can do now is to find the ritual that grants immunity to the "Storm." It's the only way to save more lives!
-
-**Marcus**：...
-
-**Hofmann**：The Foundation has issued the evacuation notice. All staff must return to the headquarters before the "Storm" arrives.
-
-**Hofmann**：The closest evacuation point is Vienna Central Station. They'll pick us up there in two hours.
-
-**Marcus**：Two hours?
-
-Marcus recalls the map she saw on her way with picture clarity.
-
-**Marcus**：It takes less than two hours to get ...
-
-**Hofmann**：I know. There are still things we can do, before the "Storm" truly arrives.
-
-**Hofmann**：But the enemies are probably much stronger than we are, and there will be no backup for us.
-
-Not far away, the head of the Vienna branch lies slain, his face wrenched in horror, a testament to a crime.
-
-Below the stage, people in fancy dress, in uniform, in costume, roar and surge about, forming an indistinguishable mass.
-
-**Marcus**：You once told me what really scared you was not the threat to your life, but the possibility of dying ignorant.
-
-**Marcus**：I think ... I understand what you mean now.
-
-**Marcus**：I don't want that either ... I don't want to go back to the headquarters without doing anything at all!
-
-**Hofmann**：...
-
-**Hofmann**：Well said, Marcus. Let's go.
-
-**Hofmann**：Find Heinrich and Isolde. They might know the ritual, or have the clues we need.
-
-**Hofmann**：We can still catch the last train if everything goes smoothly.
-
-Hofmann expertly loads her weapon again, and Marcus grips her lamp tightly.
-
-**Hofmann**：Kakania is not with you?
-
-**Marcus**：Mmm, Ms. Kakania ran up to the stage. She and Isolde ...
-
-Beyond the shoulders of the crowd, the green figure has disappeared from the stage.
-
-Marcus squints, inspecting the curtains and stage props.
-
-**Marcus**：Heinrich has enchanted all the props. There must be a hidden entrance to the secret chamber.
-
-**Marcus**：I am sure ... Ms. Kakania and Isolde are still in this theater!
-
-**Hofmann**：Come here!
-
-The deep purple glow of an incantation radiates from the darkness.
-
-Hofmann pulls Marcus back by the shoulder. The incantation flies past her hair, singeing it.
-
-**Heinrich**：...
-
-The familiar figure of a gentleman flits into the scene.
-
-**Marcus**：Heinrich!
-
-A foot almost steps on air.
-
-**Hofmann**：...!
-
-**Hofmann**：Ugh, there are traps under the floor!
-
-This opera is silent.
-
-No audience, no music, not a word or note from any actors.
-
-A space to think.
-
-**Kakania**：Isolde!
-
-Cries echo from behind the curtain.
-
-She opens her eyes as another protagonist leaps onto the stage.
-
-**Isolde**：Doctor.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Experiment Record
 
@@ -9916,8 +8311,6 @@ Experiment Record
 
 **Sample No. 001** After consumption, symptoms of excitement appear, extraction efficiency increases by 20%, and the extracted substance is purer. After a second injection of the purification fluid, symptoms of rapid heart rate and high adrenaline secretion occur. Materials: 3 tables, 7 panes of glass, 2 researchers, and 30 baseball bats. **Sample No. 008** It has been confirmed that its efficacy is positively related to its freshness, and the biochemical substances resulting from the extraction of bodily fluids are in a high-energy state, with active molecular reactions resulting in variable properties. Attempts have been made to control the variables in order to determine a body fluid environment that might render the reagent relatively stable. \*Aside from me, don't even think about touching this thing, unless you want to end up like a certain person who nearly choked on vomit in the lab this morning. **Sample No. 019** After stripping the sucrose from the Picrasma tree leaves, the mixed Picrasma tree suspension is in a state of easy dissociation, and the molecular structure has also become distorted. Perhaps sucrose is one of the keys to stabilizing the output. **Sample No. 023** Sucrose is indeed useful, but its product has not yet reached the expected stability. Attempts have been made to remove alcohol-like compounds from the reagent. \*Stop rushing me, I've had the taste of Picrasma in my mouth for days now! **Sample No. 025** Sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, sucrose, alcohol, and Picrasma leaves ... Let's leave it at that for today. We'll see what happens tomorrow. \*Oh! It was preserved! But the effect is extremely weak. Maybe it's time to move the weights on the scale. ... ... ... **Sample No. 053** The ratio for maintaining the effective components of Picrasma sucrose has been basically mastered in an attempt to eliminate its toxicity to humans. **Sample No. 098-A** After dropping 25% Picrasma tree solution on the inner wrists of volunteers (pure humans), 3 volunteers developed itchy, swollen rashes, and 1 volunteer experienced skin ulceration. All recovered without further effects after treatment. **Sample No. 159-C** \*What is safe for the human body has no effect on arcanists! Don't even think about putting these things in human mouths! If you try to use this to pressure us for next year's funding, I'll slap this experiment notebook in your face!
 
-- Description：Archived experiment records. The scent on the paper is familiar.
-- Action：Flip through the Records
 
 
 ---
@@ -10424,8 +8817,6 @@ In Distant Romania
 
 Five days have passed since the Mărțișor. Grandma Jina received several amulets and gave them to Elena and me. Grandma Jina said that this amulet was for saying goodbye to winter and welcoming spring, but I saw some yellow powder mixed into the white hemp thread, I thought it might be daffodil powder, but Elena told me not to think too much—it couldn't have come from the cemetery. Elena tied a knot on my amulet just like hers, so everyone would know we're sisters. She was so excited for Grandma Jina to see her handiwork that she didn't even take the time to read to me today—she just kept dragging me in front of Grandma Jina, but even now, as I write in my diary, Grandma Jina still hasn't said anything, and Elena has fallen asleep. Maybe she'll forget it tomorrow, but I'll remember it for a long time, because I want to tell her that we can't be sisters. The children in the orphanage don't have relatives. But I never said that. There are exceptions, though, like if Elena and I are taken away by the same person, or the same couple, then we'll become sisters by law ... The door of the orphanage is a very heavy door. I don't know how my parents managed to open it and send me inside, but maybe there are a lot of adults who can't open that door like me, so they couldn't come back to get their children. If someone knocks on the door and wants to come in, I'll run over to help them, and then I'll ask them to take me and Elena with them, and if possible, Andre as well ... But it's okay if no one comes to knock on the door, because the three of us are together now.
 
-- Description：No invitation, no key, no requirements. Just give it a knock.
-- Action：Knock on the Door
 
 
 ---
@@ -10924,8 +9315,6 @@ Hofmann's Investigation Files
 
 ※Theophil von Dittarsdorf Member of "The Circle," deceased, relationship to Manus Vindictae unclear. His posthumous work, The Salvation, reveals information about to the "Storm." Suspected of having had contact with members of Manus Vindictae during his lifetime. Hotel Sacher vs. Cafe Demel **Sachertorte** → Which one? The timing can be decided  **in advance**. ※Gus Klint A young man with a particular fondness for squares and diamonds. More interested in women than Manus Vindictae. ※Egan Hilde A **Dejected?** Young man. relationship to Manus Vindictae unclear. ※Heinrich Mentally unstable. \*Often accompanied by strange odors.
 
-- Description：The handwriting on it may be strong and hasty, but it is still neat and tidy.
-- Action：Open the Booklet
 
 
 ---
@@ -11396,8 +9785,6 @@ I Never
 
 I never step forward. In solitude, I never step forward. I merely stay in place, swaying, A wooden oar. I never step forward. In joy, I never step forward. I wait until the waves wither to caress, The spine of a beast. I never step forward, In death, I never step forward, Until my sleeves, my shoes, myself, Sink to the bottom of the water, until the night comes. Until even the helmsman covers his mouth and nose. —Then, I start to run. Picking up the oar, the spine, the helmsman's soul. I never, ever stand still.
 
-- Description：From the weak and the meek. From the last song on stage.
-- Action：Listen
 
 
 ---
@@ -11595,8 +9982,6 @@ But none of that matters to her.
 She is merely waiting.
 
 Waiting for the sky to fall.
-
-Isolde: Doctor!
 
 **Isolde:** Doctor!
 
@@ -12425,8 +10810,6 @@ Reply from the Headquarters
 
 Ms. Marcus, Level Two Investigator: Regarding the matters of the arcanists "Isolde" and "Kakania," the headquarters of the St. Pavlov Foundation has been fully informed of the situation, and the Special Assessment Department is now working on containment measures. We thank you for your efforts. Please stay out of harm's way and move to a safe area before the "Storm" arrives. At this time, the St. Pavlov Foundation's temporary containment plan is as follows: ▪ Unregistered arcanist, Isolde von Dittarsdorf A preliminary threat assessment report has been prepared, and the subject meets the Level III containment criteria in the St. Pavlov Foundation's underground shelter. We will temporarily mobilize the "Razor" squad, a special operations squad stationed in Prague, to arrive in Vienna and assist the investigative team in any way possible to ensure their safety throughout the containment process. ▪ Unregistered arcanist, Klara Vingler A preliminary threat assessment report has been prepared, the subject poses a low level of danger. In accordance with the "Containment Management Regulations (Document No. 003)", no mandatory containment measures will be taken. Please ensure her safety, as she will be subpoenaed in the future as a material witness to the Vienna incident in accordance with the law. May the peace be with us. St. Pavlov Foundation Headquarters
 
-- Description：A reply on how to best take care of daggers and hand mirrors.
-- Action：Open the Envelope
 
 
 ---

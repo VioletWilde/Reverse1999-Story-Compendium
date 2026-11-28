@@ -348,8 +348,6 @@ We are! The Vigiles Bureau!
 
 "Is there an arcanum situation you're dealing with?" "Got a dispute with your arcanist neighbor?" "Don't worry! We're here to help!" "We are—the Vigiles Bureau!" "Committed to upholding the Vigiles Mediation Code! Protectors of peace in every situation!" "Whether it's for you or your local police, we've got your back!" "Next time, leave this to the foundation's PR department. These guys are hopeless at this," the senior remarked, sealing away the footage while struggling to keep a straight face. "I'm getting a headache … Their evaluations will just have to be postponed for another three months."
 
-- Description：What we're looking for: Genuine and passionate individuals! Help us show the world what we do!
-- Action：Insert DVD
 
 ### Trail · This Is 100% a Business Ad
 
@@ -363,8 +361,6 @@ Your Close Companion is Here
 
 "Close Companions," everyone's best friends. The earliest of these companions can be traced back to the East, where the "Zhenzi" befriended the powerful "Xiandao Beast." Together, they battled against evil and maintained peace and harmony. To this day, the "Liang" family still takes pride in the bond their ancestors shared with "Qiangliang the Xiandao Beast." The Xiandao Beasts protect the world, a story familiar to every child, often whispered by their mothers to soothe them to sleep ... But it's not just a legend; close companions also exist around us. Your grey-headed chickadee poet, your imaginary wolf friend, your changeling childhood playmate—they've long been a part of our lives, and have become our most loyal friends ... Now, it's your turn to find your own close companion—or perhaps get one for the kids! Thanks to the NewBabel Critter Rehab Center, critter companions are coming to every home! Special thanks to the St. Pavlov Foundation for providing the companion footage featured in this program.
 
-- Description：With a professional production team, limitless budget, and official sponsorship, our marketing prowess is unmatched.
-- Action：Turn on the TV
 
 
 ---
@@ -698,8 +694,6 @@ The radio announcement cuts their get-to-know-you session short.
 
 END OF DIALOGUE
 
-- Description：This isn't me nitpicking, rookie. We all had to learn this by heart.
-- Action：Start
 
 
 ---
@@ -1239,8 +1233,6 @@ Live Tonight with Special Guests
 
 "Tonight's first guest is a brilliant young actress you've seen in C07 Part 1 and C07 Part 2. Now, she's returning for the upcoming C07 Part 3—though, honestly, why not just call them C08 and C09? Anyway, please welcome Qi Xing!" … "And then? You know what Noire said? She said, 'We're wrapping up, so we might as well use all the explosives!'" "So your reaction to the explosion wasn't just your stellar acting?" "I'd like to think some of it was! But that wide-eyed reaction when the explosion's shockwave hit me? That was definitely real." "No more big fireworks for Part 3, I take it? You must have used them all up in the last one." "Fifty-fifty." "What's that?" "Fifty-fifty. Either this film ends the series with a bang or flops on its face because of its garbage excuse for an ending. It—" "Whoa, whoa, whoa! I think we're about to head into spoiler territory! Before Noire sues us, let's cut to commercial!"
 
-- Description：Good thing it wasn't live. We'll just cut this part out.
-- Action：Turn on the TV
 
 ### Trail · Routine Check
 
@@ -1286,8 +1278,6 @@ Live Tonight with Special Guests
 
 END OF DIALOGUE
 
-- Description：Alright, check your gear. If you're missing so much as a damn paperclip, speak up now.
-- Action：Inspect Equipment
 
 
 ---
@@ -1882,8 +1872,6 @@ Street Interviews
 
 Last night, the Nightpiercer struck again, attacking the convoy transporting the infamous Johnny Three-Times. Two officers were knocked unconscious during the attack; however, Johnny Three-Times was seriously injured and is remains in critical condition. Insiders say citizens clashed with the convoy earlier that day due to dissatisfaction over Johnny Three-Times's light sentencing. Later that night, the Nightpiercer struck, seemingly enacting vigilante justice on behalf of Johnny Three-Times's victims. Public support for the Nightpiercer has grown since. And although it's already been a day since the attack, crowds still gather at the scene. We're here to hear what the people on the street have to say. … "Serves him right! That scumbag deserves a prickly end!" … "I think following the law is important, but honestly, the way Johnny Three-Times got such a light sentencing feels off …" … "Who me? Are you asking me? Oh, sorry, miss, but you haven't happened to see C07, have you?" "Oh, no reason, I thought this was one of those prank interviews they've been doing lately. Um, how should I put this ... Sorry, but someone in my position isn't really allowed to comment on politics."
 
-- Description：Hey, is that Ms. Qi Xing over there? Looks like a friendly chat is in order!
-- Action：Turn on the TV
 
 ### Trail · Saving Lives
 
@@ -1897,8 +1885,6 @@ The Laplace Rehab Center Welcomes You!
 
 Welcome to the Laplace Rehabilitation Center! We are the world's leading hospital specializing in arcanum, whether you are: · Suffering from arcanum-related injuries. · Cursed with bad luck after an argument with your neighbor. · Transforming more and more into a beetle with each passing morning. · Suddenly recalling your past life as a Pharaoh, causing you great distress at your office job. The Laplace Rehabilitation Center is committed to giving you the best treatment available! Don't worry about whether your rare condition is covered by health insurance. To thank you for contributing to medical advancements, we offer discounts and subsidies based on the rarity of your condition. Each rare condition gets you a flat 60% discount! If you're simultaneously bitten by a vampire and a dragon while dissolving into an oil painting, but you're somehow still alive, then that's right—your treatment will be free, AND we'll even pay you 80% of the treatment cost as a bonus! Thank you for supporting the Laplace Rehabilitation Center, helping you helps us help everyone.
 
-- Description：He's a doctor who loves his job. Seeing you hurt gets him a little giddy, that's all.
-- Action：Read the Poster
 
 
 ---
@@ -2168,8 +2154,6 @@ Reconstructing Idealized Memories
 
 Although I don't usually keep a journal, I had to record today's encounter—I met the great Miss Matilda Bouanich! I still remember that summer. My mother lectured me for an hour before we left and then another hour during our journey. I thought I was following her instructions perfectly: I was dressed perfectly neat; my greetings were memorized word-for-word. But the moment I met the Bouanichs, I froze solid, too nervous to say anything. Even adults can get stage fright, so how was it fair to give her own daughter the cold shoulder for it? A smile or a pat on the back from mother was all I needed to finish my greeting without fumbling. Thank goodness for Lady Beryl. She saw what happened, and her gracious words salvaged the situation. I didn't disappoint my mother after that. I'm sure of it because the rest of my memories of that visit were pleasant—Lady Beryl's warm smile and Matilda's energetic chatter. Matilda could be as noisy as she liked and still win her mother's approval, how I envied that so much. But Lady Beryl … for some reason, I can't remember what she looked like. Now I understand Latham's frustration. Being Matilda's mother, I could imagine a matured, refined version of Matilda—minus the childish energy and, oh right, without the hooked nose, that's my mother's trait.
 
-- Description：Humans are natural editors, piecing together an ideal memory from mere fragments.
-- Action：Open the Diary
 
 
 ---
@@ -2639,8 +2623,6 @@ Investigation Record: Noire
 
 Noire, female, arcanist. Her arcane skill allows her to manipulate inanimate objects within a defined range, designating them as "actors." Born in Hong Kong, in 1950. Graduated from USC School of Cinematic Arts in 1972. Later worked at what would eventually become known as TVB. In 1978, she began collaborating with independent production companies to produce low-budget films. Released her debut film, Muddle, in 1979. Established New Art Company in 1980 and began working on the film Detective C07. In 1983, a car accident left her paralyzed from the waist down, allegedly tied to the Film Incident**1**. … **1** For more details on the "Film Incident," please refer to the attached documentation.
 
-- Description：This document contains confidential information. Please do not take it out of the precinct.
-- Action：Begin Reading
 
 
 ---
@@ -3132,8 +3114,6 @@ Noire blinks.
 
 END OF DIALOGUE
 
-- Description：Okay, I admit. I've always been something of a movie buff.
-- Action：Check
 
 
 ---
@@ -3883,8 +3863,6 @@ A Vigile's Correspondence
 
 This letter was tucked inside a folder of interrogation records, it appears to have been exchanged silently between two Vigiles agents during an interrogation. The two distinct handwritings reflect their unspoken dialogue: "She's tight-lipped about it." "But she seems unaware that we've already figured out everything." "Fascinating, like a mouse in a lab experiment—arrogant yet clueless." "There's still one thing left to figure out: how exactly did she learn to crack the anti-theft arcane seal?" "All her lies and disguises fall apart under scrutiny, but she hasn't given up a single clue about this. Even our artificial somnambulism couldn't uncover anything …" "Could it just be sheer dumb luck?" "Disappointing. I've taught you better—never rely on million-to-one coincidences. Always consider the more plausible scenario." "You mean … she's being controlled by someone else? And they've erased her memory, so she can't betray them?" "Exactly. That slippery merchant gave up Scott, but there's no way a minor employee could pull off something like this. Rejoice, we've hooked a big fish." "So … we're letting her go?" "Yes, but not without loosening her strings first." "Understood. I'll notify Mr. Pedra. I trust he'll ensure Miss Scott feels completely at ease after some … subtle adjustments." "Good. You're a reliable assistant, Billy." The second writer seemed about to reply but left only a hesitant pen stroke.
 
-- Description：A random scrap of paper with intricate folds, a nod to its owner's boredom during a long meeting.
-- Action：Pass the Note
 
 
 ---
@@ -4164,8 +4142,6 @@ Liáng's head throbs. Dazed, she looks around, taking in the sterile white of th
 
 END OF DIALOGUE
 
-- Description：Welcome to the Arcade Restaurant. May I take your order?
-- Action：Place an Order
 
 
 ---
@@ -4435,8 +4411,6 @@ Guidelines from the Vigiles Bureau on Recent Arcane Violence
 
 Based on the latest Vigiles Bureau guidelines on recent arcanum-related violence, modifications and updates have been made to warrants and relayed to enforcement departments. Details are as follows: Wanted: Qi Xing, code name "Nightpiercer." Threat level raised to "A." Last seen in Los Angeles and surrounding areas. Any local institutions encountering this individual must notify the Vigiles Bureau immediately. Wanted: Arcana, leader of Manus Vindictae. Threat level: Maximum. Any arcanist who encounters this individual must avoid engagement and immediately report to the Foundation and request military assistance. (Revoked, confirmed deceased) Wanted: Kimberly, "Ms. Kimberly." Threat level: B. Capture and detain upon encounter, then await Vigiles Bureau support. (Revoked) Wanted: Forget Me Not, officer of Manus Vindictae. Threat level: A+. Capture and detain upon encounter, then immediately contact the Vigiles Bureau for support. Additionally, submit a report to the local Foundation office when reporting to the Bureau.
 
-- Description：New reports, same old faces, same old work.
-- Action：Review Report
 
 
 ---
@@ -4718,8 +4692,6 @@ Chinese TV News Segment: Shehuo Parade
 
 Our reporter brings you an exclusive frontline update: "As the Dushuo Festival begins, Los Angeles's Chinatown is once again alive with the excitement of the Shehuo Parade. Humans and arcanists will soon come together to pray for a year of peace and prosperity." "We are currently at the Chinatown Community Center, which houses 12 sacred arcane idols, marking the starting point of the parade." "We're fortunate to be interviewing Principal Huang, who is this year's 'Summoning Official.' Principal Huang, could you tell us about your role in the festival?" "Ah, the summoning official is responsible for reciting the summoning rites and inviting the idols. After lunch, the rotating God of Shèti, 'Xieqia,' will be placed on the palanquin. Some of the parade members have already gathered outside." "That's right, we can see people carrying lanterns and flags preparing for the parade. Principal Huang, what's that large animal lantern over there?" "That's a Lùshǔ, a Xiángruì. Later, it will join the Beast Lantern Team. The parade will be led by the Five-Colored Banners and the Yingge Troupe, followed by the Xiandao Beasts and Xiángruì creatures—quite the spectacle!" "The Xiandao Beasts, are those the legendary creatures said to ward off evil plagues?" "Exactly. During the 'Plague-Banishing' segment, General Qianmo will shout the command, and three young men wearing Xiandao Beast masks will sing the Plague-Banishing Song, imitating the beasts to drive out evil." "The musicians will accompany them with gongs and drums. The parade will go on until late at night—quite the festivity!" "Thank you, Principal Huang. Though the parade has yet to start, we can see crowds waiting already. Stay tuned as we bring you live coverage of the Shehuo Parade."
 
-- Description：Chinese TV news clips featuring the warm-up for the Chinatown Shehuo Parade.
-- Action：Watch
 
 
 ---
@@ -5339,8 +5311,6 @@ They have no way of knowing that the one responsible for all this is standing ju
 
 END OF DIALOGUE
 
-- Description：People just can't resist sharing their hearts with strangers.
-- Action：Listen intently
 
 
 ---
@@ -5869,8 +5839,6 @@ Within the Film Reel: A New Born Consciousness
 
 Reel 1 – Scene 24 – Shot 9 – Take 3 Writer – He Rijun Scene Description: An old house contested by sworn sisters is reduced to ruins in a fire. Covered in ash, the three lie amidst the rubble, drinking beer bought from a convenience store, and gazing out at the sunrise. … I must finish this film … The film must be finished. Only then can I be whole. … Added Scene: An old woman drops her cane, crying tears of joy: "I'm cured! My family won't need to spend money anymore!" A classic technique—blending social issues with sentimentality. … Added Scene: A man kneels, crying out: "I'll kill that con artist! I'll avenge my mom!" A perfect emotional outburst for the film's midpoint. … Added Scene: A woman paces in her room after watching the film's teaser. She mutters, "This isn't your usual work. The reel has absorbed your hatred—it reeks of malice … I'm not like the others, I believe sinners must be punished. This time, I'll ensure your film has a perfect ending. Purging sin with death? That's perfect—just right for the finale."
 
-- Description：A newly born consciousness, formed from fragments within a chaotic sea of thoughts.
-- Action：Review
 
 
 ---
@@ -6522,8 +6490,6 @@ They exchange a smile and enter the makeshift theater together.
 
 END OF DIALOGUE
 
-- Description：Exclusive Interviews with cast members!
-- Action：Join the Discussion
 
 
 ---

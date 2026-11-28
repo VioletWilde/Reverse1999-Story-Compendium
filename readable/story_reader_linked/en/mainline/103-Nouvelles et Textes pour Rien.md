@@ -362,8 +362,6 @@ Opened Sandwich
 
 ???: Okay, take your suitcase. Now it's time ... Get lost!
 
-- Description：A greasy piece of paper. It seems to have wrapped some food with rich grease.
-- Action：Pick up
 
 ### Trail · Trail ② A Dream Ⅰ
 
@@ -375,8 +373,6 @@ Opened Sandwich
 
 Thorny, and pure-blooded.
 
-- Description：It's black and sharp. It's hopping around.
-- Action：Touch it
 
 
 ---
@@ -653,8 +649,6 @@ The psychube amplitude is leaping in a repeated, fixed pattern; Vertin doesn't g
 
 07:30 a.m. - 08:30 a.m. Patrolled the lobby and the surrounding areas. 08:30 a.m. - 09:30 a.m. Reported for duty at the reception, and received 1 visitor. Reciting the whole employee number? Can anyone actually do that? 09:30 a.m. - 09:35 a.m. Done with breakfast. P.S. the nut scone today was a bit hard. 09:35 a.m. - 12:30 p.m. Reception time. Smile, Sandy, smile. 12:30 p.m. - 01:30 p.m. Lunch time. Roast spinach with potato and roast pork chop. 01:30 p.m. - 02:00 p.m. Reception time. Never had a pork chop this small! 02:00 p.m. - 03:00 p.m. Reception time. Where on earth is the 12th issue of Weird Tales? Who would steal a stupid pulp magazine?! Damn it ... Somebody tell me the ending! 03:00 p.m. - 03:05 p.m. Reception time. Phew, smile, Sandy, smile ... 03:05 p.m. - 04:05 p.m. Reception time. There seems to be uproar in other areas ... Ugh ... I think I need to go to the bathroom. 04:05 p.m. - 04:10 p.m. Reception time. Okay ... Hmm? That was just 5 minutes? Seriously? 04:10 p.m. - 05:30 p.m. Reception time. Amanda should have reported for duty much earlier. She was late for unbelievably 45 minutes last time! 05:30 p.m. - 06:30 p.m. Reception time. Great, she's late ... LATE! For how much longer do I have to sit in this dump today?! 06:30 p.m. - 07:00 p.m. Take a deep breath, Sandy, and smile ... Only 30 minutes to go ... 07:3000 pmm - 13312 App\*\*&^le ... Hea\*&lthy way to dri@#&\*nk every&&hour ... ... 08:00 p.m. - 09:00 p.m. Help, deal with, the, f\*\*cking emergency! Somebody please lock those lunatics!! They are running towards the corridor! **Request for Leave**: Sandy **Time**: 2  3 days **Reason**: Mental trauma!!!
 
-- Description：A record of a day in Laplace Rehabilitation Center.
-- Action：Try to understand
 
 <details>
 <summary>Client transcript</summary>
@@ -684,8 +678,6 @@ Hyla Arborea
 
 The petite ones that are good at jumping often hang around lakes or groves. They can always make it to under the leaves before the rain drops. That is how the students who paid attention at class locate where they are, And catch them with their own hands.
 
-- Description：A touch of fresh green. The round eye is blinking alone. You can hear the sounds it makes everywhere.
-- Action：Take it along
 
 
 ---
@@ -696,6 +688,8 @@ The petite ones that are good at jumping often hang around lakes or groves. They
 > It is immoral to stalk others, and we all know that.
 
 <!-- reader-body:start -->
+> **Title card：** Stalkee
+
 **Sonetto:** Hello, this is Sonetto, the chief assistant of the Foundation's Timekeeper. My employee number is SF38000000801102Y. Could you please register a visit to Ward 1525 for me?
 
 **Receptionist:** Please present your ID.
@@ -840,6 +834,10 @@ Sonetto feels it is slipping away from her grasp, so she pulls out her wand ...
 
 **Sonetto:** Whoever you are ... May the peace be with us!
 
+
+> **Title card：** TO BE CONTINUED…
+
+
 ***
 
 COMBAT:
@@ -847,162 +845,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** It is immoral to stalk others, and we all know that.
-
-> **Title card：** Stalkee
-
-**Sonetto**：Hello, this is Sonetto, the chief assistant of the Foundation's Timekeeper. My employee number is SF38000000801102Y. Could you please register a visit to Ward 1525 for me?
-
-**Receptionist**：Please present your ID.
-
-**Receptionist**：Hold that crystal with your right hand until the color changes.
-
-**Sonetto**：O-okay.
-
-**Receptionist**：What is the shape of the sun, a sphere or a cube?
-
-**Sonetto**：A sphere.
-
-**Receptionist**：Which is edible, rubber, cabbage, or Carbuncle?
-
-**Sonetto**：Cabbage.
-
-**Receptionist**：Does the rain come down from the sky or the other way around?
-
-**Sonetto**：... Can be both.
-
-**Receptionist**：You're good to go.
-
-**Receptionist**：Take these materials with you. The Visitor Guide is between the second page and third page. Go in from the left, turn right twice, and take the lift. Keep walking, and you will see the ward.
-
-**Sonetto**：I see. Thank you. Is there anything else I should know?
-
-**Receptionist**：...
-
-**Receptionist**：Just leave the number out next time.
-
-**Receptionist**：Will you?
-
-**Sonetto**：…
-
-The receptionist disappears once again behind the counter.
-
-**Sonetto**：The nurses seem busy here.
-
-**Sonetto**：The registration is also more rigorous than it was before. I wonder if this is because of the "Storm" ...
-
-**Sonetto**：Turn right again ... hm? But there is only one way and it goes left.
-
-**Sonetto**：Did I miss any crossings?
-
-Sonetto looks back over her shoulder. A shadow swiftly disappears around the corner.
-
-**Sonetto**：...!
-
-**Sonetto**：What's that?
-
-She goes to the corner. There's only a machine with a shaking console.
-
-**Sonetto**：...
-
-**Sonetto**：Maybe I'm seeing things.
-
-The buildings of Laplace Scientific Computing Center have been cleverly designed.
-
-A crossing is hidden in this corner.
-
-**Sonetto**：Hm? So here is the junction to the right ...
-
-Sonetto walks to the junction and disappears into the light.
-
-Behind her, one of the doors in the hallway opens. A shadow follows her into the light.
-
-Footsteps. Sometimes near, sometimes far.
-
-It follows Sonetto.
-
-Speeding up ...
-
-It speeds up.
-
-Slowing down ...
-
-It slows down as well.
-
-Well then ...
-
-Let's go faster, and faster.
-
-Until the shoes are about to be lifted out from the ground, and even the ankles are starting to hurt. Go quickly, and more quickly, qui ...
-
-... And now, run!
-
-**Sonetto**：Phew ...
-
-**Sonetto**：Press every button here to buy some time ...
-
-**Sonetto**：Who was that? Could be a disoriented patient ... or a Manus's spy? Or ...
-
-**Sonetto**：I can't get away from "it."
-
-**Sonetto**：And I will not bring danger to the Timekeeper.
-
-**Sonetto**：I will catch this person.
-
-The elevator stops at the 15th floor. It's rather empty and spacious here.
-
-One can only hear Sonetto's footsteps, aside from the evergoing automatic broadcasts in the building.
-
-**Broadcast**：The rehabilitation Center is established to provide effective medical services and trainings to the patients, for their bodily functions to be restored.
-
-**Broadcast**：This center is managed by Laplace Scientific Computing Center; if you have any special requirements or have encountered any suspicious persons, please move to the ground floor lobby for help.
-
-**Broadcast**：If you are distant from the lobby, please press the yellow button next to the fire hose cabinets. The security on your floor will come to assist shortly.
-
-The footsteps appear again.
-
-**Sonetto**：They're here.
-
-**Sonetto**：I don't see any cabinets ... That's fine.
-
-**Broadcast**：If no help or assistance has come to you in time, you may take action to defend yourself. A free wake-up procedure will be administered on any unresponsive persons if any.
-
-**Sonetto**：Good, just what I need.
-
-**Sonetto**：The sanitary trolley is parked at the next turn. I've left the biggest garbage bag on it.
-
-She suddenly speeds up and quickly turns into the corner.
-
-**???**：...!
-
-The unknown follower becomes anxious and runs to the corner ...
-
-**Sonetto**：Hey ...!
-
-**???**：Whoaa ...!
-
-**Sonetto**：Who are you? Speak up ...! Why are you following me?
-
-**???**：Aww ...
-
-The follower refuses to respond. It clutches the bag to cover its face and tries desperately to escape.
-
-**Sonetto**：Stop! You're not getting away!
-
-The bag is struggling with all efforts. This is a battle of dignity.
-
-Sonetto feels it is slipping away from her grasp, so she pulls out her wand ...
-
-**Sonetto**：Whoever you are ... May the peace be with us!
-
-> **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -1013,6 +856,8 @@ Sonetto feels it is slipping away from her grasp, so she pulls out her wand ...
 > The new blood will rush into the gigantic body, making every effort to serve it.
 
 <!-- reader-body:start -->
+> **Title card：** New Blood
+
 **Sonetto:** Ma-Matilda ...? It's you?
 
 **Sonetto:** I'm sorry! I-I ... thought it was someone suspicious, so ...
@@ -1146,154 +991,13 @@ Madam Z places a stack of files on the desk.
 **Constantine:** I'm always the optimist in the room, and you know that, Ms. Z.
 
 **Constantine:** This won't so much be a dead plan if one day they can prove they are not some dumb puppets.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** The new blood will rush into the gigantic body, making every effort to serve it.
-
-> **Title card：** New Blood
-
-**Sonetto**：Ma-Matilda ...? It's you?
-
-**Sonetto**：I'm sorry! I-I ... thought it was someone suspicious, so ...
-
-**Matilda**：...
-
-Matilda buries her face in her palms and shrugs her shoulders.
-
-**Sonetto**：Matilda ... Are you alright?
-
-Matilda gives Sonetto a push and steps back. Her face blushes.
-
-**Sonetto**：Um ...!
-
-**Matilda**：Sonetto! How dare you!
-
-**Matilda**：Attacked the monitor student in Primary Defense, and disturbed the peace in public, YOU!
-
-**Matilda**：As your classmate used-to-be, I'm obliged to stop you from making a scene here and disturbing the patients!
-
-**Matilda**：I'm, I'm here to give you my warning ...
-
-She suddenly runs towards the other end of the hallway before Sonetto can possibly react to it and do something.
-
-**Sonetto**：Please wait ...!
-
-Bump ...!
-
-**Matilda**：Ouch!
-
-**Mesmer Jr.**：Oh, isn't it the "Sonneteer"? And ... our outstanding graduate.
-
-**Mesmer Jr.**：I thought it was some acute mania patient getting out, waiting for my fancy transcranial magnetic stimulation therapy.
-
-**Matilda**：Err ... it hurts.
-
-**Matilda**：Wh-what! Sonneteer?! How would I have anything to do with her ...?!
-
-**Matilda**：I'm Matilda Bouanich, the Top 3 student in school, the monitor assistant, and the speaker of graceful French!
-
-**Matilda**：None shall forget my name after making the acquaintance of me!
-
-**Mesmer Jr.**：I didn't, but I guess no one will remember the third place.
-
-**Matilda**：Wha-
-
-**Matilda**：Go away, go! Don't stand in my way!
-
-**Sonetto**：Matilda! Please take ...
-
-Matilda runs away without looking back. Sonetto stands there, with a handkerchief in her hand. She is about to give it to Matilda.
-
-**Sonetto**：...
-
-**Mesmer Jr.**：She just ran away like that? There is even garbage dust on her hair.
-
-**Sonetto**：I didn't know she was the one following me. I shouldn't have acted in haste ...
-
-**Mesmer Jr.**：Alright, get down to business.
-
-**Mesmer Jr.**：Sonetto, you are here visiting the timekeeper, right?
-
-**Mesmer Jr.**：Follow me.
-
-**Sonetto**：Okay.
-
-> **Title card：** Joint Committee of SF
-
-**???**：A little bird told me you went to visit Vertin, is that right?
-
-**Z**：Yes.
-
-**???**：How was she doing?
-
-**Z**：Just like the other patients.
-
-**Z**：Unconscious.
-
-**???**：Artificial Somnambulism Therapy shall be good for her.
-
-**???**：It's been four years since she became the Timekeeper. She surely needs a break.
-
-**Z**：Yes, and I have no other opinion about this, Madam Vice President.
-
-**Z**：I'm here for another issue.
-
-Madam Z places a stack of files on the desk.
-
-**Constantine**：The proposal of additional manpower submitted by the House of Integratus ... I have given it consideration. It's not worth a committee hearing.
-
-**Constantine**：Are you here to talk about dead plans?
-
-**Z**：Yes, because I have the exact opposite view.
-
-**Z**：Vertin's suitcase will not be affected by the "Storm," just like the buildings in our headquarters.
-
-**Z**：Which means she will soon be able to form a team ... indirectly controlled by the Foundation.
-
-**Z**：I suggest putting her in command of an independent autonomous unit. With enough support, they should soon become another reliable force of the Foundation.
-
-**Z**：And it also facilitates our relationship with Vertin.
-
-**Constantine**：The people Vertin brought back with her, who are they?
-
-**Z**：Arcanists who have stable personalities, good command over their arcane skills, and some social experiences.
-
-**Constantine**：If you ask me, they are some pitiful exiles who lost everything in the "Storm."
-
-**Constantine**：So desperate, horrified, and overwhelmed, longing for something stable to hold on to.
-
-**Constantine**：Vertin is not here. Only the Foundation can give them what they want.
-
-**Constantine**：But what can they give us in return?
-
-**Constantine**：The innate arbitrariness of arcanists? Or questioning our beliefs of mankind supremacy because they have nobler blood?
-
-**Z**：...
-
-**Constantine**：Of course, the Foundation needs new blood. Especially those ...
-
-**Constantine**：who are highly obedient and know the importance of order.
-
-**Constantine**：That's why these poor refugees need no independent unit or autonomy.
-
-**Constantine**：They need the guidance of disciplines, a teaching more comprehensive than what's been given to those naive children in school.
-
-**Z**：I see.
-
-**Z**：What you want is a group of dumb puppets.
-
-**Constantine**：I'm always the optimist in the room, and you know that, Ms. Z.
-
-**Constantine**：This won't so much be a dead plan if one day they can prove they are not some dumb puppets.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -1650,8 +1354,6 @@ Particle groups start to flow on the screen—it is a dream initiated by the own
 
 Trapped in a natural dream, or an artificial one.
 
-- Description：Wandering, being unaware of where this is, he has seen everything, but is still in the dream.
-- Action：Wake him up
 
 ### Trail · The Nursery Rhyme that Doesn't Rhyme
 
@@ -1665,7 +1367,6 @@ The Nursery Rhyme that Doesn't Rhyme
 
 George the Oak, George the Oak. An acorn between the branches falls from above. The birdlings fly into the marble cage. Little acorn, please help them. George the Oak, George the Oak. The acorn in the bag is picked up by the child. The huge white umbrella gives it a shelter. Tall canopy, please help them. George the Oak, George the Oak. The acorn buried in the soil falls asleep. The glimmering fireflies slowly approach. Deep tree hole, please help them. George the Oak, George the Oak. The acorn has rooted and is waiting to sprout. The casket has become a lonely boat. Free breeze, please help them.
 
-- Description：You need a small acorn to learn everything about the tree with a name.
 
 
 ---
@@ -2130,8 +1831,6 @@ There Is Not Only Darkness
 
 Hunger, silence, the dim light, and a little trouble. Aside from these elements, a standard guardhouse has to have two other things: Critters which are not too difficult for kids to handle and tools for the kids to solve the problems. The interior of the guardhouse will be examined and evaluated regularly, and every week people will come to maintain the facilities and clean it up. However, some words in childish handwriting were left in the room. They were written on crumpled little notes or on the corner of the wall, look like hints, or were left there for reasons which are unidentifiable now. For some reason, these fragments of information were never completely erased in the frequent cleanings.
 
-- Description：Lead ash, wool and grain, one of these will work on them to some extent.
-- Action：Drive them away
 
 
 ---
@@ -2554,8 +2253,6 @@ Squeak, squeak.
 
 The smell is indeed tempting.
 
-- Description：It's always hard to resist the temptation of food. They know how good fish and chips taste.
-- Action：Defend the oil
 
 ### Trail · Fish and Chips in the Kitchen
 
@@ -2567,8 +2264,6 @@ The smell is indeed tempting.
 
 Lemon and white vinegar are both good choices, but Atlantic cod is always necessary.
 
-- Description：The staff canteen is the best choice for filling the belly. Now you only need a bit more information to reach the fish and chips.
-- Action：Collect info
 
 
 ---
@@ -2889,8 +2584,6 @@ Arcanum Military Equipment List: Individual Vehicles
 
 An air combat broom of the Su-01ве (Witch) series for individual combat. With high mobility, high attack and wide range, this arcane vehicle can bring an aerial advantage to its pilot. The series applies titanium alloy and a lancet-like design. As a result, its streamlines allow it to fly faster than any other models (maximum level speed: 1553 mph). Beneath the main body is a wedge-shaped air inlet which guarantees the aerodynamic performance and there is an arcanum detector in the middle of the body. The broom is also equipped with an ST-30-1 30mm Instant Arcane Skill Casting Device at the bottom which works with a high-precision laser ranging aiming system. The Su-01ве (Witch) series was cooperatively developed by the Sukhoi Design Bureau and ■■■■. Experience of piloting arcanum vehicle is required for its operation. Besides, the pilot must possess outstanding G-tolerance as the overload brought by the excessive mobility is inevitable. For now all the models of the Su-01ве (Witch) series belong to the Zeno Arms Academy and work as its main tactical vehicles. Only pilots who have been trained rigorously and systematically are qualified for piloting.
 
-- Description：These multi-legged thieves sneak in, but they are still caught by the falcon's eyes.
-- Action：Stop them
 
 
 ---
@@ -3131,8 +2824,6 @@ Appendix to Foundation Potion Management Ⅱ
 
 - **Bitter Mute** - Warning: Appendix - Ⅱ Bitter Mute is an arcanum drug of Schedule Ⅱ. Arcanum Drug Possession License of the St. Pavlov Foundation is required for its possession. Organizations without the license must not produce or store the drug. The drug is a concentrated solution for external use. When used, the solution should be diluted with pure water until the concentration reduces to the recommended range (45% - 65%). The concentration is adjustable depending on the condition (maximum safe concentration: 77%). \[Active ingredient\] Screaming mandrake root, flying squirrel bile, toad liver (collected on full moon), two-headed snake tail scale powder, three-year-old belladonna (whole plant), leech. \[Caution\] Use a copper cauldron for the production. \[Appearance & Property\] A dark blue or dark brown concentrated solution with a pungent smell and an extremely bitter taste. \[Use\] The drug can cause mental stability, and the bitter taste can cause temporary vision disorder and speech disorder. High concentrations can cause mild paralysis and even hallucination. Nowadays the drug's use in criminal penalty has been abolished and it is mainly equipped by the patrols and branches of the St. Pavlov Foundation. During daily patrols or under extreme circumstances mentioned by the Emergency Defense Code of St. Pavlov Foundation, the drug can be used as an effective suppression method against individuals or groups.
 
-- Description：There is a notebook left in the drawer of the teacher's desk. The pale friends are also very interested in it.
-- Action：It's mine
 
 
 ---
@@ -3583,8 +3274,6 @@ Subtraction
 
 ???: To a brand-new future, you dumbass.
 
-- Description：A nameless box standing in an open space.
-- Action：What's this?
 
 ### Trail · Trail ② Guard of the Green
 
@@ -3600,8 +3289,6 @@ A dropped gift
 
 These clear, glistening, rainbow-colored accessories are the favorable tokens of friendship among the teenagers which allow them to hear the secret whispers. They all came from a student of decent arcane family. Unlike other students who were taken here, she asked to study in this school. Given her keenness of study and prestige background, her belongings weren't put through any close assessment when she enrolled. She hid them in her pocket and waited patiently. She was so preoccupied, paying so much attention on what would happen next, that she didn't notice one of the crystals was left lying on the floor.
 
-- Description：After the children clamored and ran away, they slowly return to this place and hide what they found on the ground in the grass.
-- Action：Check it out
 
 
 ---
@@ -3761,8 +3448,6 @@ Against the potion, they sing with crying voices and refuse to stop.
 **Principal:** Bloody, it doesn't stop! I just want them to shut up! Is the tear gas in position? Shoot it above them!
 
 **Safety Supervisor:** Tear gas is here ...
-
-Vertin: Watch out for the guard batons. Don't get hur ...Pap!
 
 **Vertin:** Watch out for the guard batons. Don't get hur ...
 
@@ -3964,7 +3649,6 @@ The Puppy You know
 
 The warm fur, the little feet, The orange color under the light spots, and the pure white yarn. The unbreakable neck ring that symbolizes loyalty, And a sincere heart that deserves no suspicion. Softly, mildly, without resistance, It licks the white marble. The frogs, the pebbles, and the stinky socks in the attic forgotten, It climbs up the cliff like a pious believer, Poking into the untrackable breeze At the closest place. Between the gaps of the stone gate Are the moist nose and eyes That you couldn't bear to face.
 
-- Description：A wet greyhound with a moist tip of nose.
 
 
 ---
@@ -4217,8 +3901,6 @@ Sonetto's Notebook
 
 Chapter 1 Section 1, Mammalia, Tetrapod 1. pp.13–14, Monoceros thevetii (the species in India has major differences from the local species in England) 2. 3 layers of the horn: keratin, prism, pearl 3.  丿  **Sorry, please see the next page** Chapter 1 Section 1, Mammalia Tetrapod Classification (p.13) 1. Monoceros thevetii: the species in India is about 40 inches long, and has red hair after reaching maturity. **(just the color of the candy from Fiona. Though I didn't ... just for reference)** The local species in England is smaller, about 20-35 inches long, and has dark brown hair. **(Monoceros thevetii may be included by the classification test in the future. Remember: stroke the spot 3 inches below the back of its neck, but keep it less than 4 times in case of panic)** 2. The horn consists of a structure of 3 layers: **(refer to the shell of tridacna gigas)** - Keratin layer: the external layer. Major component: chitin. Gray in most cases, it grows along with its owner; - Prism layer: the middle layer. Major component: calcium carbonate crystal - Pearl layer: the internal layer, composed of horizontally aligned calcium carbonate slices **(imagine the crispy roast fish slice you can get at the left window of the Second Canteen)** 3. ... ... **Dear classmate,** **Wish you get well soon.**
 
-- Description：Her handwriting is neat, and some pages have extra details.
-- Action：Read
 
 ### Trail · Plan of Escape Route
 
@@ -4230,8 +3912,6 @@ Chapter 1 Section 1, Mammalia, Tetrapod 1. pp.13–14, Monoceros thevetii (the s
 
 Considering what you can do, it's perfect.
 
-- Description：This could be a desperate attempt. You must take it seriously.
-- Action：Plan a route
 
 
 ---
@@ -4618,8 +4298,6 @@ Rumors from the Alley
 
 "Hey, be quiet ... First of all, forget what those senior believers of the Manus say! As far as I know ... you know Jerry? Yeah, Jerry Wilson! He was captured and taken to that strange building ... Yeah, I heard that place is covered with gray and white marble, including the floor ... You don't know how miserable he was when he got there, like a drowned rat! That's right, his Arcane Skill is transforming into a rat. Not anything special to us, huh? But they said his mother can get a small sum of money every month ... Yeah, it's from Jerry! The point is, it's sent from that strange building! Unbelievable." "Harry said he saw Jerry once ... just for once though, Jerry got no more mud, stains or strange smell on him! What have they done? If that's how he got all those good stuff, you know, just by giving them some information ... I mean, what if that's an option?"
 
-- Description：Some rumors. Believe it or not.
-- Action：Listen
 
 ### Trail · Trail ② Hatched Eggs
 
@@ -4635,8 +4313,6 @@ Hatched Eggs
 
 A horrifying tale, an ominous sign. An hatching egg. It was laid in the fire of the Jersey Devil, accompanied by terror and chaos. A frequent visitor to those almost mentally traumatizing nightmares, it is. The instructors of the Foundation are also familiar with it, for it is their favorite subject in the bedtime warnings.
 
-- Description：They appear with panic and disappointment. They shouldn't be here.
-- Action：Drive them away
 
 
 ---
@@ -5009,8 +4685,6 @@ A Group Photo
 
 ???: Tomorrow, or the day after tomorrow ... Hah! We'll lose it all!
 
-- Description：An old group photo. No one knows where it comes from.
-- Action：Try to recall
 
 ### Trail · Trail ② Duty
 
@@ -5026,8 +4700,6 @@ Greenery
 
 A plant. It was taken to the rehab center from the student dormitory. It has no objection against the relocating, and it seems happy with its life. The cleaner of the dormitory once took good care of it, and generously shared its flowers with curious students. Its current owner was one of the students who received the flowers. As a staff of the rehab center, she knows they have many means to treat their patients. What she can do now is to look after the patients more carefully, like she does to the plant.
 
-- Description：So many patients are waiting. There is no time for taking a break or being sad.
-- Action：Fulfill duty
 
 
 ---
@@ -5522,7 +5194,6 @@ Her face gradually disappears on the other side of the door.
 
 Red squirrels and woodpeckers
 
-- Description：George the Oak is already 700 years old. Which animals in the tree hole listened to that song with you?
 
 
 ---

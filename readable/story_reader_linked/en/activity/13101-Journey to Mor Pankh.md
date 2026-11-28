@@ -1750,8 +1750,6 @@ As the silence goes on, Matilda notices the wallet in Sherjah's hand.
 
 It's a good thing we didn't exacerbate the issue.
 
-- Description：There is no end to the trouble here. Leave while you can, afore trouble comes knocking with martial batons in hand.
-- Action：Solving Problems
 
 
 ---
@@ -2907,8 +2905,6 @@ Stargazing Today
 
 His family is a distant memory of the past.
 
-- Description：They have pieced him together with fragments from many places. The forests and the mountains, with long practice, and the essence of yesterday.
-- Action：Attempts at Recollection
 
 
 ---

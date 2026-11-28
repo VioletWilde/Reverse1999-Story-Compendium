@@ -931,6 +931,8 @@ Regulus and APPLe start whispering.
 > February 14, 1929. Lovebirds in Chicago kissed each other as the bell tolled. Nobody noticed the gunshots.
 
 <!-- reader-body:start -->
+> **Title card：** Chicago Rescue
+
 **Sonetto:** I did not expect that there is such a big place in your suitcase. I never knew it before.
 
 > **Choice 1：** Not too late to know now.
@@ -1005,6 +1007,10 @@ Regulus and APPLe start whispering.
 
 **APPLe:** Captain, hang in there!
 
+
+> **Title card：** TO BE CONTINUED...
+
+
 ***
 
 COMBAT:
@@ -1026,92 +1032,7 @@ Use an incantation that is strong against the enemy's Afflatus to defeat them mo
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** February 14, 1929. Lovebirds in Chicago kissed each other as the bell tolled. Nobody noticed the gunshots.
-
-> **Title card：** Chicago Rescue
-
-**Sonetto**：I did not expect that there is such a big place in your suitcase. I never knew it before.
-
-- **Choice：** Not too late to know now.
-  - **Sonetto**：You are right. I am very happy to be invited over.
-
-
-- **Choice：** Huh? You didn't call me "Timekeeper"?
-  - **Sonetto**：So-sorry! I got carried away!
-
-
-**Sonetto**：I ...
-
-**Sonetto**：I got promoted.
-
-**Sonetto**：The committee recommended me ... to help you as the chief assistant.
-
-**Sonetto**：The scope of your responsibilities has also increased. You will be in charge of all the investigations on the "Storm" and Manus Vindictae. The authorities will provide us with assistance in all aspects.
-
-**Vertin**：... So, you have seen what the "Storm" was like?
-
-**Sonetto**：…
-
-**Sonetto**：The outside world ... is very different from what I thought.
-
-**Sonetto**：As the Timekeeper, you've always carried such a secret for us. Thank you.
-
-**Vertin**：...
-
-**Vertin**：Thank you for bringing the message, Sonetto.
-
-**Vertin**：So, what's the first mission for our team?
-
-**Sonetto**：Please take a look.
-
-**Sonetto**：According to the latest historical intelligence, there will be a massacre against arcanists in Chicago on February 14.
-
-**Sonetto**：We need to rescue the victims before human gangsters arrive at the underground parking.
-
-**Vertin**：Rescue the arcanists?
-
-**Sonetto**：…
-
-**Sonetto**：It doesn't conflict with the Foundation's purpose, right? Preventing confrontations between two races is also a way to defend the peace of mankind.
-
-**Sonetto**：Although this is different from all the missions before.
-
-**Sonetto**：The authorities would probably want us to recruit new arcanists for the Foundation as much as possible.
-
-**Vertin**：I see.
-
-**Vertin**：The forces of the Manus expand dramatically year by year. To stop the trend, we do need additional manpower.
-
-**Vertin**：But ... Sonetto, did you have oranges just now? There is a scent of orange on the capsule.
-
-**Sonetto**：How come? I did not. And ... I will definitely wash my hands after eating.
-
-**Vertin**：Maybe that's my mistake. If there is no question, we are ready to go ...
-
-**Regulus**：Whoa! You guys, come here and help!
-
-**Sonetto**：It is ... Regulus's voice? Why is her voice coming from above ...
-
-**Sonetto**：Whoa!
-
-**Regulus**：Our ... our suitcase is about to be moved by the critters!
-
-**APPLe**：Ms. Vertin! Sonetto!
-
-**APPLe**：Seems like our suitcase has disturbed some imps! Captain went out to check but got trapped!
-
-- **Choice：** Hurry up and help!
-
-**APPLe**：Captain, hang in there!
-
-> **Title card：** TO BE CONTINUED...
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -1344,8 +1265,6 @@ An advertisement from the ads page of Wall Street Journal.
 
 Come to C.C Critter Pawnshop to make extra money! TEL: 847-6861XXX Are the cunning, ubiquitous critters annoying you again? Don't take that as bad news, because if you have a critter, you just found yourself enough money to pay your rent! We offer the best, the most precise, and the most honest pricing options you'll ever find! Our shop will buy any critters from the cheapest Carbuncles to the expensive yet delicious Rubberados that keep diners bouncing about! C.C swears on its name that every critter we buy will be treated like a family in compliance with internationally recognized standards of humane treatment!
 
-- Description：Critters are everywhere. Though they are annoying and hard to catch, specialized pawnshops offer to buy them at a decent price. Critters are divided into the following varieties. Which one did you run into?
-- Action：Take a look
 
 
 ---
@@ -1961,8 +1880,6 @@ COMBAT:
 
 You have mastered the use of established laws.
 
-- Description：A memory about the strength and weakness between entities. If the Afflatus of your attack is strong against the target's, the target will take more DMG than usual, which will sway the battle in your favor.
-- Action：Check
 
 ### Trail · Trail ② News
 
@@ -1976,8 +1893,6 @@ On Bankrupt Companies and Newly Registered Companies: February
 
 **Public Notice** (1929) IL 17-14000 BD59-3 Great Lakes Media Company, located in Roosevelt Road, the parent company of the Moon Post of Arcanum, does not possess any distributable assets. The debtors Theodore Jackson (Human), Emilio Robert Henger (Human), and manager Steven Sheridan (Human) have applied for the termination of the bankruptcy proceedings following negotiations. The Moon Post of Arcanum specializes in reporting news of the arcanist world with a circulation of over 500,000 copies. Renowned articles include Conspiracy: Human Organ Trade and the Witch's Curse. Its parent company Great Lakes Media Company was forced to stop its publication in September 1928 due to anonymous reports to relevant authorities and the emergence of radio stations. Pursuant to the provisions of The Nelson Act, this Court has reached the verdict of terminating the bankruptcy proceedings of the Great Lakes Media Company in February 14, 1929. Declared on February 24, 1929 **Public Notice** ·List of Newly Registered Companies· Name: Feldwood Communications Company Legal Representative: David Clauberg (Human) Scope of business: Media publishing - Arcanum Global Weekly Date of establishment: February 3, 1929 Name: Karl Entertainment Publishing Company Legal representative: Vince Dayne (Human) Scope of business: Media publishing - American Wizard Entertainments Date of establishment: February 3, 1929 Name: Coast United Publishing Company Legal representative: Hugh Midax (Human) Scope of business: Media publishing - Evening News Date of establishment: February 5, 1929 …… Declared on February 14, 1929
 
-- Description：A wrinkled public notice marked with the latest "news."
-- Action：Read
 
 ### Trail · Trail ③ An Unknown Traveller Ⅰ
 
@@ -1989,8 +1904,6 @@ On Bankrupt Companies and Newly Registered Companies: February
 
 She seems to have screwed up the field battle test just now. Perhaps that overly traditional weapon is no longer a good choice for modern times. She decides to go with you.
 
-- Description：An energetic greeting, but you believe you two are not that close.
-- Action：Communicate
 
 
 ---
@@ -2075,17 +1988,11 @@ COMBAT:
 
 **APPLe:** Vertin, look out!
 
-???: Hmm?
-
 **???:** Hmm?
-
-???: No offense.
 
 **???:** No offense.
 
 **???:** Would you please pass me my heel?
-
-???: It seems to have fallen into your arms.
 
 **???:** It seems to have fallen into your arms.
 
@@ -2103,13 +2010,9 @@ COMBAT:
 
 **Druvis Ⅲ:** Thank you. Then I will come down and clean up the mess.
 
-Druvis Ⅲ: It's fine to land barefoot. However ...
-
 **Druvis Ⅲ:** It's fine to land barefoot. However ...
 
 **Druvis Ⅲ:** I don't like touching them directly ...
-
-Druvis Ⅲ: ... These invaders.Critters: …!
 
 **Druvis Ⅲ:** ... These invaders.
 
@@ -2265,8 +2168,6 @@ Druvis Ⅲ: ... These invaders.Critters: …!
 
 You have mastered the art of enhancing incantations.
 
-- Description：A record on how to make incantations more threatening.<br>Merging incantations will improve their power and even change their effects.
-- Action：Check
 
 ### Trail · Incredible Unicorn
 
@@ -2276,7 +2177,6 @@ You have mastered the art of enhancing incantations.
 
 Quiet Ravenheart
 
-- Description：Sotheby's mansion has thousands of artifacts. What is the thing with one horn hung high above her hall that always gazes at people?
 
 
 ---
@@ -2539,8 +2439,6 @@ She strolls lazily towards the door.
 
 They finally got to greet each other after defeating all the critters. She also made her first "outside friend."
 
-- Description：This is the place where Sonetto and Sotheby met in the most unforgettable way.
-- Action：Witness this moment
 
 ### Trail · Trail ② Tactic to Disarm
 
@@ -2552,8 +2450,6 @@ They finally got to greet each other after defeating all the critters. She also 
 
 You have mastered the art of depriving others of their actions.
 
-- Description：A record on the use of hooks and ropes. Disarm will disable the enemy's attack-type arcane skills and stop their attacks to sway the battle in your favor.
-- Action：Check
 
 
 ---
@@ -2808,8 +2704,6 @@ From One Castle To Another
 
 The streets are now at peace. The dazed critter can no longer make any noise and has dropped its sheet.
 
-- Description：Since they don't know human languages, critters will use items to express their intent. The one before you is hissing and dancing while dressed in a sheet. It is trying to taunt you.
-- Action：Silence it
 
 
 ---
@@ -3094,7 +2988,6 @@ SF School of Primary Defense of Mankind
 
 Chapter 1 Transfer Student of SF School of Primary Defense of Mankind Chapter 2 The Tall and Mature Ms. Bouanich Chapter 3 Ms. Bouanich and Assistant Ms. Sonetto Chapter 4 Secrets of the Campus Citadel Chapter 5 Ms. Bouanich and Her Assistant Sonetto's Happy Vacation ... Chapter 17 Farewell after Graduation Chapter 18 Monitor Assistant?! Chapter 19 Special Field Task
 
-- Description：This sheet is a school report and the signature block says "Matilda Bouanich." The score has been blackened on purpose, and you can only see a jotting: "The number of points I need to reach full marks is exactly the number implied by h-h-her name. Why? Why?!"<br>So what is Matilda Bouanich's score?
 
 
 ---
@@ -3459,8 +3352,6 @@ I'm surrounded by distances like a flag,<br>                      <br>          
 
 Take good care of it, in case those with evil intentions steal it.
 
-- Description：Truth Serum is a controlled substance. It is used to counter deceit and fraud.
-- Action：Pick up
 
 ### Trail · Trail ② Chat in front of the Bar
 
@@ -3476,8 +3367,6 @@ A Letter with Black Mucus
 
 "Chaos begins where the butterfly flutters its wings." —— **Institutum Lorentz** ——  Founded after the "Storm," Institutum Lorentz is a mysterious organization hidden within but independent of the Laplace Scientific Computing Center. Its primary area of research is the chaos energy of Arcanum. Its members distrust the tech of human civilization and would rather discard them. They're active in various sites of arcane phenomena, secretly searching for the "Original Butterfly." While all of its members' whereabouts remain unknown, Lorentz still has branches all over the world. Our vanguard squad has fought their investigators several times, yet we still haven't found a way into any of their branches.
 
-- Description：A member of Manus Vindictae is strolling before the door of the Walden. He has a letter that you might be able to get with a trick.
-- Action：Take a peek
 
 
 ---
@@ -3846,8 +3735,6 @@ Silence named "Fear."
 
 You already know how to boost the morale.
 
-- Description：A record on how to gain Moxie quickly. Getting Moxie quickly will allow you to cast Ultimates quickly and sway the battle in your favor.
-- Action：Check
 
 ### Trail · Trail ② An Unknown Traveller Ⅱ
 
@@ -3859,8 +3746,6 @@ You already know how to boost the morale.
 
 You will leave together to avoid the danger that may occur when you are alone.
 
-- Description：You bumped into a child. The "Storm" got in her way and changed the outside world. Solo investigations are now more dangerous.
-- Action：Leave together
 
 ### Trail · The Critter in a Coma
 
@@ -3870,7 +3755,6 @@ You will leave together to avoid the danger that may occur when you are alone.
 
 You'll get an answer from it. Do pay attention to lies. Many creatures are skilled liars.
 
-- Description：You'll get an answer from it. Do pay attention to lies. Many creatures are skilled liars.
 
 
 ---
@@ -4105,8 +3989,6 @@ Unnamed Poem
 
 Surrounded by imposing barriers, Epics never sing of those about to die. Look up, keep looking up, A broken tile is the only shelter in the tempest. People always knew how they took the wrong path, So they regret the unregrettable nights, laugh at the laughable fools. At the bottom of the cliff, a river always flows.
 
-- Description：An unnamed poem written on a wrinkled piece of paper that reeks of dried sweat.
-- Action：Read
 
 ### Trail · Trail ① Tuning O' One
 
@@ -4546,15 +4428,11 @@ COMBAT:
 
 ***
 
-Schneider: Huh ...Vertin: ...???: ...
-
 **Schneider:** Huh ...
 
 **Vertin:** ...
 
 **???:** ...
-
-Druvis Ⅲ: ... It's you?
 
 **Druvis Ⅲ:** ... It's you?
 <!-- reader-body:end -->
@@ -4788,7 +4666,6 @@ The coming sound of footsteps seems more and more oppressive to those who are st
 
 12|Twelve|twelve
 
-- Description：Schneider's parents are still alive and have raised many daughters. How many older sisters does she have?
 
 ### Trail · Trail ① Garden Scissors
 

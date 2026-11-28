@@ -18,7 +18,7 @@
 
 2026 年 11 月 23 日补录了五种语言的剧情、选项分支、论坛帖子与私信、词条注释、弹窗文档和独立小径。现共收录 692 份章节文件、7,660 个剧情单元、3,151 条小径。原有章节路径和锚点保留，文本异文可在同节的折叠框中查看。
 
-- [2026-11-28 阅读文字修订](structured/story_reader_proofreading_20261128/README.md) · [2026-11-25 正文修订](structured/story_reader_proofreading_20261125/README.md)
+- [2026-11-28 重复收录修订](structured/story_reader_repetition_20261128/README.md) · [阅读文字修订](structured/story_reader_proofreading_20261128/README.md) · [2026-11-25 正文修订](structured/story_reader_proofreading_20261125/README.md)
 - [阅读版总目录](readable/story_reader_linked/README.md) · [本轮补录说明](structured/story_reader_completion_20261123/README.md)
 - [国服 4.1 整理说明](structured/story_text_repull_20261109/README.md) · [国际服 3.9 整理说明](structured/story_global_3_9/README.md)
 - [Issue #2 修订](structured/story_reader_corrections/README.md) · [目录与链接检查](readable/story_reader_linked/validation.json)

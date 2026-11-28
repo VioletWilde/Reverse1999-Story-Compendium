@@ -969,8 +969,6 @@ A gentle breeze brushes against her face.
 
 They jump off the rooftop, feeling the world blur as it rushes up to meet them.
 
-They jump off the rooftop, feeling the world blur as it rushes up to meet them.
-
 Then, the haystack below swallows them whole.
 
 She emerges from the stack, and after regaining her composure, follows Kassandra as she slinks into the temple.

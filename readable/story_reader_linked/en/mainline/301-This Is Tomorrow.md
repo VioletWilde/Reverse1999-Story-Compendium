@@ -32,8 +32,6 @@ SO WE BEAT ON, BOATS AGAINST THE CURRENT, BORNE BACK CEASELESSLY INTO THE PAST.
 
 — FRANCIS SCOTT KEY FITZGERALD
 
-It's raining.No,it is not.It's the "Storm."The "Storm" is coming.
-
 It's raining.
 
 No,
@@ -396,15 +394,9 @@ our love for freedom ever!
 
 **Vertin:** Enemy ahead. Now!
 
-Sonetto: Ascoltare. Capire. Pregare. Perdonare.
-
 **Sonetto:** Ascoltare. Capire. Pregare. Perdonare.
 
-Sonetto: Ed è subito sera！
-
 **Sonetto:** Ed è subito sera！
-
-As the light shines, the enemies disappear in the blink of an eye.
 
 As the light shines, the enemies disappear in the blink of an eye.
 
@@ -1242,8 +1234,6 @@ She draws back in haste until falling down in a puddle behind her.
 At the last moment, Vertin finally manages to open the suitcase and push Regulus inside.
 
 **Vertin:** Look at the world through your own eyes!
-
-What ...What?I'm not like them.I am here to protect you.
 
 What ...
 

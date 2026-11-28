@@ -349,8 +349,6 @@ Black Thursday
 
 "Are we now witnesses of history?" The milkman who knew nothing about finance was laughing at the news. "Hah, finally a hard time for those Wallstreet gentlemen in suits!" "Gotta go, John." "Fine, fine." John responded with impatience and tried hard to move those heavy legs. Unlike the rich, he had to deliver the milk for them before sun rose and being late was not allowed. He dropped the newspaper and put out the cigarette. Suddenly he frowned and stopped to ask "Did you hear that? Someone's playing the pipe. But at this time? He must be nuts!" "John, I said, stop lying ... Seriously, if you're late again, they really got the reason to fire you this time." "Don't worry, man. They've said that for years. People need a guy to deliver the milk anyway. There's always a job for the lazy bones like us. I-I mean ... they gotta drink milk, right?"
 
-- Description：A milkman traveled by this place and left some fuzzy fragments of memory.
-- Action：Watch
 
 
 ---
@@ -639,8 +637,6 @@ Manus Vindictae
 
 Manus Vindictae is an infamous extremist organization. Holding a grudge against humans and contempt for the mixed, these extreme racists only recognize the bodies ruled by arcanist's blood as "mankind." They call themselves Manus Vindictae and believe they have the ability and power to change everything. They are dedicated to building a so-called proper world where arcanists will stand neck and neck with gods and enjoy the status they believe they deserve. In that case, humans, arcanists on the human side, and the mixed who tolerate the pollution of arcanist's blood will pay a huge price for their existence. There is no doubt they are lunatic. One of the two reasons for their madness is their brains: they have a strange prefrontal cortex or some unknown neurons; the other reason is hatred: in those dark ages, arcanists were discriminated, expelled, marginalized, and even slaughtered. The tragedies that happen every day on the fringes of the society breed their revenge and keep strengthening this army of darkness. Now they have come onto the stage. What they want is power, freedom, the one and only supreme status, and an overthrown world.
 
-- Description：Information that most people know about your enemy, Manus Vindictae.
-- Action：Check
 
 
 ---
@@ -1053,7 +1049,6 @@ An Unpopular Children's Song
 
 Who killed the Snowy Dove? I, said the cricket. With my heart and musket I killed the Snowy Dove. Who saw her die? I, said the owner of the suitcase, With my vision and sight, I saw her die. Who dug her grave? I, said the cricket. With my pick and spade, I dug her grave. Who'll make her shroud? I, said the owner of the suitcase, With my little suitcase, I'll make her shroud.
 
-- Description：The paint on this door has yet to dry. The black paint is really out of place, and it is obvious that the original color was bright orange. You knocked but there was no response.<br>A sign that read "Not Yet" was placed on the door.
 
 
 ---
@@ -1364,8 +1359,6 @@ IMPORTANT! Self-protecc Intel You Muss Not Miss!
 
 **IMPORTANT! SUPER SUPER IMPORTANT!** **Most important noos of the year that no critter shud miss!** critters! Still trying to avoid hooman kapture? Still looking out for every trep? Our friends keep diss-ah-peeling, never to be seen again! Dere is no peace for us, even if we hide ourselbs in the deepest holey hole of Braddock Heights! We muss STAND and FAIGHT teh hoomans!! We must KONTRIBOOT ESSENSHO POWERZ to protecc fellow creepz!! **Please call dis number if interested: 847-6861XXX** Hi frenz! I looked at the noospaper and copied dis down! My mother's aunt's sister's good frenz diss-ah-peeled for an entire week! It's terriBALL! Pls join me! FAIGHT TEH HOOMANS! FUR CRITTER FREEEEDOM! - Thanks to Megrez δ Potion Atelier's special mix - Magic Translation and Imaging Formula (Basic). Contents are for references only -
 
-- Description：A noisy critter is wandering by the road giving out flyers, and you attempt to give it a hand. It doubts why, but does nothing else.
-- Action：Take a stack of flyers
 
 
 ---
@@ -1722,8 +1715,6 @@ COMBAT:
 
 > **Action：** Provide help
 
-- Description：In a place full of gold bars, the noisy critter's relative, another critter has approached you. It is not hostile, and hopes to get your help.
-- Action：Provide help
 
 
 ---
@@ -2018,8 +2009,6 @@ You look very sad, Miss Vertin. I do not understand.
 
 You finished the clean-up. This will trouble you no more.
 
-- Description：A tricky clean-up. This is the aftermath of a long-lasting brutal battle. Use the proper moves to liberate them.
-- Action：Clean up the mess
 
 ### Trail · Trail ② Clarification
 
@@ -2033,7 +2022,6 @@ Gold Beam In Your Eyes
 
 **FRENZ! Dun make that call yet!** Mebbe ... juz mebbe we got it all wrong! Hoomans are not all baaaaaad! Please beleaf me! My bruh's sister's neighbor's aunt **saw wif her own eyez** that **HOOMANS ARE EATING GOLD!** GOLD! Real gold! And green papers too! They're eating c-c-c-CAAAASH! They're eating the terriball, painful, and hateful GOLD! They ate and they swallowed! They used fire and knives to cook and cut it, but it still broke their TEEEETH! I muss tell everyone about this **KWIKLY**! It changed my mind about hoomans! **It's time! Time to cast aside our PRE-JUDISS!** - Thanks to Megrez δ Potion Atelier's special mix - Magic Translation and Imaging Formula (Basic). Contents are for references only -
 
-- Description：A critter waiting for the latest news. He seems calmer than before. His cousin has read his flyer in the land filled with gold.
 
 ### Trail · A Door on the Trail to the Garden
 
@@ -2047,7 +2035,6 @@ Outside the Garden Walls
 
 Running from one crowd to another Hopping from one ship to another The green bud finally breaks the dark winter Let the snow melt and the fires die Push open the narrow door to snow covered garden Let bygones be bygones Let the future be itself The sparrows of spring celebrate after a long wait Whispers of the oak forest sound like faint breaths
 
-- Description：A wooden door entwined with thorns. Don't touch it. The thorns will hurt anyone, including the wooden door itself.
 
 
 ---
@@ -2412,7 +2399,6 @@ To Lawrence Cavendish
 
 ???: Now, the sarcoma belongs to him. He swears to build a magnificent stage there. He is patiently waiting ... to put his meanness, craziness, and quivers under the sun.
 
-- Description：Farewell
 
 
 ---
@@ -2795,7 +2781,6 @@ Long Night Trip
 
 ???: "And also with you." Schneider responds in a voice that could hardly be heard. She puts her hand on her heart. This is the first time she responds to the Lord. And it will be the last.
 
-- Description：A Catholic funeral.
 
 
 ---
@@ -3062,8 +3047,6 @@ COMBAT:
 
 Everything went well, but the result doesn't seem to be what you want. Looks like you need to re-update the ingredients.
 
-- Description：The Chew-Chew Hallucinogen II. Sotheby has all the ingredients you need.
-- Action：Try to demystify
 
 
 ---
@@ -3320,8 +3303,6 @@ In the center, next to the huge crucible, there is a high wooden platform as req
 
 The threat has been neutralized.
 
-- Description：You run into them on the way to the Scorched Woods.
-- Action：Clear threat
 
 
 ---
@@ -3670,8 +3651,6 @@ She fiddles with her hair, walking towards the shelter.
 
 Manus Vindictae's supply transport team intercepted. The cleaners will verify its contents and provide a list of records pursuant to Chapter 6 Section 3 of the Foundation Manual on Combat Regulations. Now go and intercept the next team.
 
-- Description：A combat task from St. Pavlov Foundation. Intercept a resource transport team of Manus Vindictae.
-- Action：Perform task
 
 ### Trail · Trail ② Intercept the Transport Squad Ⅱ
 
@@ -3681,8 +3660,6 @@ Manus Vindictae's supply transport team intercepted. The cleaners will verify it
 
 > **Action：** Put the vines aside
 
-- Description：A transport car without a driver. Parked by the road, it is twined by vines that seem to be greeting the visitors.
-- Action：Put the vines aside
 
 ### Trail · Trail ③ Intercept the Transport Squad Ⅲ
 
@@ -3694,8 +3671,6 @@ Manus Vindictae's supply transport team intercepted. The cleaners will verify it
 
 Manus Vindictae's supply transport team intercepted. The damage control team will verify its contents and provide a list of records pursuant to Chapter 6 Section 3 of the Foundation Manual on Combat Regulations. Well done.
 
-- Description：A combat task from St. Pavlov Foundation. Intercept a resource transport team of Manus Vindictae.
-- Action：Perform task
 
 ### Trail · Trail ④ Fight of the Bulldogs
 
@@ -4170,8 +4145,6 @@ COMBAT:
 
 I am so sick of him! An "arcanist" acting like the upper class! He even attended the parties in the lords' mansions. He is nothing like those who hide their identities: they know how to suck up to humans and cover up the ugly side. Look at him! A drink that turns into alcohol only when you drink it? He should be hung, and shot, and burned! Get out of our street! —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 He must be a weird monster! I heard a woman married a snake and bore a horrible child. That must be him! That's why he hides everything about himself. The other day I saw with my own eyes he had scales under those long sleeves, one next to another embedded in his flesh. On the fourteenth night after that, I woke up with a start from the nightmare to find a woman with a strange head staring at me from the darkness outside the window. She didn't breathe or say a word, and just put her face against the window like some dead animal ... That must be his underling ... —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 He gave me a hand when I needed help. —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 His alcohol has bewitched too many people. That green stuff can open anyone's mouth: secrets of the Anti-Saloon League, plans of the Synagogue, and even rumors of the Congress, he knew them all. There's someone different behind him. I don't know who that is, but they must be unbelievably powerful. No one's going to believe my words. I don't know why he is still alive now. That's horrible. I mean it. —Big Mouth Bulletin: From Readers, 1927, Issue 1224-1 Forget Me Not is the most celebrated mixologist of the early 20th century and a perfect embodiment of the American Dream. His real name is unknown to the public, and rumors about him abound. Some claim he's a wicked drug dealer, Satan reincarnate, a political spy, or even the love child of an evil serpent and a human. Although his background remains shrouded in mystery, it doesn't stop us from tasting heaven in his wonderful creations. —Big Mouth Bulletin: From Readers, 1927, Issue 1224, Epilogue
 
-- Description：A tabloid that can be seen everywhere. It describes what people in this city care about, including Mr. Forget Me Not of the Walden.
-- Action：Read
 
 ### Trail · Trail ② Enemy at the Corner Ⅰ
 
@@ -4183,8 +4156,6 @@ I am so sick of him! An "arcanist" acting like the upper class! He even attended
 
 More frightened than hurt.
 
-- Description：An unexpected Manus squad. You should be careful as usual.
-- Action：Engage
 
 
 ---
@@ -4587,8 +4558,6 @@ Excerpt from the New York Times
 
 Around midnight two days ago, a large fire broke out in the oak forest on the western outskirts. The delay of the warning and the complex terrains full of inflammables in the forest resulted in a fire that lasted a whole night till dawn and 13 deaths. The victims entered the forest at dusk. Identities of 6 of them have been confirmed: the Weyerhaeusers, their buyers Tomson Joyce, Shelley Gerald, Kelly Keith, and the project manager Russell James. The others' are still being verified. The Weyerhaeuser used to be a leader in the wood industry, yet it went bankrupt not long ago due to the wood supply crisis these years. After donating the formula of the Resurrection Potion (basic version) to the Maria Sanatorium in New York, the Sacred Heart Sanatorium in Ohio, and the Presbyterian Church Health Center on certain conditions, the Weyerhaeusers sold all of their forestry lands. On the night of the fire, the Weyerhaeusers, their buyers, and the workers went into the forest to start the disafforestation project before they died. The police has found traces of arcanist's activities and a small amount of gasoline at the scene, which shows the case is an arson attack. More investigations are needed to identify the suspect. Reporter: James Welles/Dorey Johnson
 
-- Description：A few old tales and some more old rumors. Ask around, you'll know what it's all about.
-- Action：Pick up the newspaper
 
 ### Trail · Trail ② Enemy at the Corner Ⅱ
 
@@ -4600,8 +4569,6 @@ Around midnight two days ago, a large fire broke out in the oak forest on the we
 
 More frightened than hurt.
 
-- Description：An unexpected Manus squad. You should be careful as usual.
-- Action：Engage
 
 
 ---

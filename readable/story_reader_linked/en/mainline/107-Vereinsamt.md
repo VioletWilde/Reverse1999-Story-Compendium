@@ -710,8 +710,6 @@ This is it. The long-anticipated moment has finally arrived.
 
 **Emergency notice—for your personal safety, please stop what you are doing and read this report in its entirety, unless your life is in immediate danger:** The Timekeeper has issued a 24-hour "Storm" warning. All investigators are to abandon their current tasks upon receiving this notice and return to headquarters to seek shelter. **"Storm" Shelter Precautions:** • We will prioritize space for the preservation of personal items that comply with regulations, but note that space at headquarters is limited—please do not bring unregistered personnel or personal items over 20 kilograms back to headquarters. Note that family members of investigators who are not members of the Foundation are also considered unaffiliated personnel. • In special circumstances, such as having to bring unregistered personnel or extra items back to headquarters to protect the Foundation's core principles, please first contact the headquarters through the nearest device with sound functionality and a dial (must have a round movable part and sound, such as a car radio), and we will respond as soon as possible. For the Foundation's core principles, please refer to the Foundation Investigator's Code of Conduct, Chapters 1 through 3. • Since the Storm Syndrome is currently irreversible, for the safety of the Foundation, returning personnel must undergo an inspection. High levels of infection will restrict your entry, and we will place you in a special isolation area until the "Storm" ends. • If you are in a critical situation and require assistance, the various rescue methods outlined in the Field Mission Evacuation Instructions will remain in effect. Reasonable rescue requests that comply with regulations will be responded to immediately."
 
-- Description：An urgent notice, emitting a monotonous and unignorable ticking sound.
-- Action：Read the Notice
 
 
 ---
@@ -1522,8 +1520,6 @@ Storm Syndrome Investigation Record
 
 The symptoms of the current Storm Syndrome can be roughly summarized as oil painting transformation and heightened delirium. Depending on the region, the severity of the Storm Syndrome also varies: **Vienna** Expressionistic oil painting transformation pervades the body uncontrollably. At the same time, emotional stability is severely impaired—irritability and abnormal behavior occur, including but not limited to: • Using deadly force to correct pronunciation.¹ • Declaring oneself as an independent nation and founding a country by family unit. • Identifying parties by the color of their oil paintings and persecuting people of different colors. ... **Athens** Oil painting transformation symptoms only appear on the face, with a few cases of recovery reported, specific reasons unknown. Aggressiveness increases, especially a strong destructive impulse toward olive trees.² Democratic votes on whether to go to war have occurred several times in different squares, often splitting into two factions and starting a war during the vote. **Cairo** Oil painting transformation symptoms are limited to parts of the facial organs, with minor actual effects on the body, which can largely be ignored. The main mental effect is reflected in an increase in swearing. The local military, severely affected, has begun attempting to convert the pyramids into war fortifications. ... ... ... Based on feedback from investigators around the world, it has been tentatively concluded that the epicenter of this "Storm" is Vienna, and the closer the physical distance to the epicenter, the more severe the symptoms of the Storm Syndrome. ¹Example: German speakers with non-Austrian accents have been attacked by Austrians. ²To be more precise, this is an act of rebellion against peace.
 
-- Description：A hastily made report about the first great war painting of the century.
-- Action：Read the Report
 
 
 ---
@@ -2491,8 +2487,6 @@ Decryption Team Personnel List
 
 ※ Ulrich—Approved Reasons for selection: The most skilled cryptologist in Laplace, also the most brilliant expert in arcane cryptography. In addition, his energy consumption ratio is excellent, capable of high quality work for 72 hours with only two supplies needed. Recommended for selection as the leader of the decryption team. Team leader's comments: This assessment of mine is incorrect; this record has since been updated to 360 hours. Nevertheless, I agreed. ※ Dawkins—Approved Reasons for selection: Dawkins is an expert in linguistics. We need more of such people when the origin of incantations is unknown. Team leader's comments: Dawkins is talented but lacks a sense of seriousness, as evidenced by his inappropriate jokes. Do not let him work alone—assign a serious staff member to supervise him, and also use a cold humor punishment device, setting the penalty at 3 pounds a joke. ※ Richard—Approved Reasons for selection: Richard is an excellent theoretical mathematician and is able to provide us with advice from a mathematical perspective. Team leader's comments: Richard is only cautious when solving math problems, but averages three collisions with table corners per day. He also needs a supervisor to prevent such accidents during experiments. ※ Matthew—Approved Reasons for selection: Matthew has excellent decision-making skills. His fighting spirit will surely bring about important breakthroughs in our decryption work. Team leader's comments: He's just too impulsive. I do not recommend letting him make any decisions, otherwise an explosion in the lab will be the least of our worries. ※ Williams—Approved Reasons for selection: Williams has a meticulous thought process. He excels at finding loopholes that others cannot—perhaps he can assist Matthew and prevent him from making any egregious mistakes. Team leader's comments: Williams is what we call an introvert. His penchant for discovery doesn't mean he'll be good at communicating his findings. He should be left alone to deal with verification. ※ Victor—Approved Reasons for selection: Victor has a leapfrogging thinking pattern and can keep research from getting stuck. Team leader's comments: Victor is good, sure, it's just that his ideas are sometimes incomprehensible. Do NOT let him team up with Dawkins—he will definitely end up paying 3 pounds for Dawkins to tell a joke. I can assure you, putting a weirdo and a dark humor fanatic together will cause us problems. ※ Adler—Pending Reasons for selection: Adler's recommendation is not only because he is an excellent cryptologist, but also because this decryption is not just a task for arcanists—we need opinions from humans as well. Team leader's comments: I have my reservations. It's not that the team doesn't need humans, but it shouldn't be a silent enigma who hasn't been seen in public for eight years.
 
-- Description：Puzzles and solvers, now, they're all here.
-- Action：Get to Know Them
 
 
 ---
@@ -2504,6 +2498,10 @@ Decryption Team Personnel List
 
 <!-- reader-body:start -->
 Office of Director, Laplace
+
+
+
+> **Title card：** Pride and Prejudice
 
 An unknown incantation.
 
@@ -2836,352 +2834,13 @@ The researcher is astonished as the creature, with a texture similar to plaster,
 **Lucy:** Good.
 
 **Lucy:** Someone closer to the "limit" has given us aid.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** A chaotic duo found in chaotic minds.
-
-### Segment 1 · `script 100707`
-
-> **Title card：** Pride and Prejudice
-
-> **Title card：** Office of Director, Laplace
-
-An unknown incantation.
-
-A mask that has proven to be extremely dangerous.
-
-These are the only leads they currently have on the "Storm."
-
-**Lucy**：...
-
-Her metallic fingers pick up another stack of files.
-
-These are the test results of the Manus mask, confirming the presence of asymmetrical nuclide R.
-
-The robot studies them carefully. The slit on her face pulses in contemplation.
-
-**Lucy**：What is the status of the sampling, Simone? Any updates from the Timekeeper?
-
-**Assistant Simone**：For the moment, no. The people on the island are still suspicious of the Foundation's motives, so she hasn't had a second chance to collect any samples.
-
-**Assistant Simone**：But she has called in an hour ago. We were informed that she will return to the cave shortly.
-
-**Assistant Simone**：She also warned us that the immunity zone on the island appears to be shrinking. The safe zone is not stable.
-
-**Lucy**：Hm.
-
-The robot did not put on a face today. Simone can only read her mood from the narrow slit.
-
-**Assistant Simone**：Ma'am, have you noticed something?
-
-**Lucy**：They are unrelated, Simone.
-
-**Lucy**：The mask and the incantation are indeed related to Manus Vindictae, but they are unrelated to each other.
-
-She moves the sealed Manus mask aside.
-
-**Lucy**：If the account of the Vienna investigator is correct, one cannot help but question:
-
-**Lucy**：Why would Arcana not simply give the masks to Isolde and her brother?
-
-**Assistant Simone**：Investigator Marcus's report was highly lacking, making it challenging for us to infer what truly happened.
-
-**Lucy**：I suppose we can be skeptical that the report is incomplete. But it is all we have for now.
-
-**Lucy**：She did a good job. I could not have asked for more.
-
-**Lucy**：We all heard it. "An ancient miracle, a circle of salvation."
-
-The robot extends her hand, drawing an imaginary circle in the air.
-
-**Lucy**：The leader of Manus Vindictae promised a miracle, but the mask is far from it.
-
-**Lucy**：The mask is a tool of control, designed to identify and enslave the believers. Matthew has demonstrated its effects for us.
-
-**Lucy**：But this ritual is different.
-
-**Assistant Simone**：Do you mean the ritual is more sophisticated than the mask?
-
-The robot nods approvingly.
-
-**Lucy**：Perhaps, but it is not entirely definitive.
-
-**Lucy**：The investigators in Vienna completed their mission spectacularly, and now Matthew has proven that the mask is useless for our purposes. Its immunity was only a cover for its other functions.
-
-**Lucy**：And the mask has powerful and irreversible side effects. Even if we find out how it protects the wearer from the "Storm," we cannot use it on our colleagues.
-
-She picks up the scrip.
-
-**Lucy**：If this incantation is verified to be true,
-
-**Lucy**：it will be our Promethean fire.
-
-> **Title card：** Cryptography Team's Office
-
-**Enigma**：This ritual is useless to us.
-
-**Enigma**：Save yourself the trouble. We're not getting anywhere with this.
-
-**Cryptography Lead**：What?
-
-The room is cluttered with all sorts of sophisticated equipment.
-
-The floor is littered with scrap paper. The researchers haven't lifted their heads or taken a break for quite some time.
-
-The cryptography lead stares at Enigma, a fresh cup of coffee in his hand. His patience is wearing thin as the metaphorical string labeled "tolerance" in his mind is finally about to snap.
-
-**Cryptography Lead**：Explain yourself, Adler. What do you mean the ritual is useless?
-
-**Cryptography Lead**：You barely sat down! My coffee's still hot!
-
-The cryptographer solemnly hands the lead a stack of papers from his desk.
-
-**Enigma**：I don't need to waste any more time. It's simple logic.
-
-**Enigma**：The current information is insufficient for cryptographic decryption. We're attempting an exhaustive brute force, comparing every ancient text and record to find the language or corresponding text. It's like looking for a needle in a colossal haystack.
-
-**Enigma**：Even if we stumble onto a match, none of us can validate such a thing. A breakthrough in this regard is simply not possible—
-
-**Researcher II**：You can't be serious.
-
-Across the room, a man stands up abruptly from his chair, clenching a pen in his hand.
-
-**Researcher II**：And what is the basis of your reasoning? Have you figured out the mechanics behind the ritual?
-
-**Enigma**：I didn't need to understand the intricacies of arcanum to deduce this. It was simple log- ...
-
-**Researcher II**：So you never even tried to understand it. With your supposedly superior human reasoning, you dismissed all of our dedication and hard work, just like that.
-
-**Researcher II**：Who the f*** do you think you are!?
-
-Before anyone can react, the researcher lunges at Enigma and punches him right in the face.
-
-**Enigma**：Wh—?
-
-Enigma brings a hand up to his cheek, looking more confused than angry.
-
-**Researcher II**：Matthew was right. You arrogant fools, clueless morons!
-
-**Researcher II**：Get out of my face, you humanocentric narcissist. Go to hell!
-
-The researcher snarls, brandishing his pen like a soldier brandishing a dagger.
-
-Much to his frustration, his swing loses power mid-air—another casualty of the neck and shoulder pain that plagues this office.
-
-Enigma narrowly avoids the attack, bewildered by the turn of events.
-
-**Enigma**：Was this really necessary? I was just sharing my conclusion.
-
-**Cryptography Lead**：Ugh, it was the mask! I should've thought of that. He worked in the same lab as Matthew, and he must've been exposed to the mask.
-
-**Enigma**：But his physical exam seemed fine. Is there an incubation period!?
-
-**Cryptography Lead**：Does he seem fine to you now? Huh?
-
-**Cryptography Lead**：No, Williams, put that down! That's the only Conway Automaton V left after the "Storm"!
-
-He is met with a guttural growl, followed by the deafening crash of metal against wall.
-
-The machine whizzes past his head and shatters to pieces on impact.
-
-The cryptography lead can feel his sanity teetering on the brink. He staggers towards the door, frantically smacking the big red button on the wall.
-
-**Cryptography Lead**：Security! Security! We've got a code red!!!
-
-### Segment 2 · `script 100708`
-
-**Lucy**：So, what are the implications for the decryption?
-
-**Cryptography Lead**：There were no unintended consequences. We were able to control Williams in time, and the Conway Automaton V he destroyed wasn't useful to our work anyway.
-
-**Lucy**：I am glad you kept the damages to a minimum.
-
-Lucy turns off the screen in front of her and turns around.
-
-**Lucy**：Since you are still here, Mr. Ulrich, I take it as a sign that you have more to report?
-
-In a secluded area of the hallway, an emotionally charged complaint is about to take place.
-
-The cryptography lead tries to keep his voice low, looking completely disheveled from the turmoil he has just endured.
-
-**Cryptography Lead**：Williams was merely an accident, ma'am, but Adler is a loose cannon on the team. We need to talk about this.
-
-**Cryptography Lead**：With all due respect, I still don't understand why you put him on the team.
-
-**Cryptography Lead**：He may have made his contributions to Laplace, but that was eight years ago. Now he's just an irritating defeatist and a staunch supporter of humanocentrism.
-
-Every particle of ferrofluid in his helmet is vibrating with rage, his voice rising involuntarily.
-
-**Cryptography Lead**：He never understood the arcanum, or tried. He's still stuck in the time before the first "Storm" and refuses to acknowledge that his small, beautiful world is gone!
-
-**Cryptography Lead**：How can someone like that help us?
-
-The robot senses his doubt and frustration—there may be more sentiments and underlying issues at play. She pauses for a moment before answering, as if deep in thought.
-
-**Lucy**：I understand your concern, but I have not heard anything about the incapacitation of Adler Hofmann.
-
-**Cryptography Lead**：Incapaci—What? He got a few scratches at most. The guy barely touched him.
-
-**Lucy**：So he is fine. I am glad we agree. Is there anything else you would like to report?
-
-**Cryptography Lead**：...
-
-The robot waits 5 seconds for an answer. But there isn't one.
-
-This must be the social cue that it is her turn to speak.
-
-**Lucy**：His lack of knowledge on arcanum is exactly why we need him. His human perspective will offer valuable insights on arcane rituals.
-
-**Lucy**：The results of this study will not only be used to save arcanists,
-
-**Lucy**：but also humans who share the same world with us.
-
-The cryptography lead tries to argue further, but Lucy is certain the issue has been sufficiently addressed.
-
-**Lucy**：We are racing against the clock, mister, and your report on personal disputes and racial conflicts has wasted 2 minutes and 37 seconds of our time.
-
-**Lucy**：If he refuses to cooperate, you have every right to remove him from the team. That is your responsibility.
-
-**Lucy**：Oh.
-
-From the other end of the corridor, the subject of their argument approaches, looking deeply upset and clutching a stack of papers.
-
-Clearly, he has heard every word they just said.
-
-**Lucy**：I am relieved that you survived your altercation.
-
-**Lucy**：What would you like to report?
-
-**Enigma**：...
-
-**Cryptography Lead**：...
-
-Their eyes meet, making both of them squirm uncomfortably. This is undoubtedly one of the most awkward moments in both of their careers.
-
-After a prolonged silence, Ulrich steps back and walks away.
-
-Without even looking back at him, Enigma begins his report in a low voice.
-
-**Enigma**：I'm fed up with wasting time, ma'am. The setback with the mask has already driven too many people insane.
-
-**Enigma**：That's why you should take a look at this.
-
-He hands the stack of files to Lucy.
-
-**Enigma**：I can logically deduce that our current direction is another dead end. The incantation isn't long enough for cryptographic decryption.
-
-**Enigma**：We will have to turn to ancient records. Perhaps we'll find something in age-old manuscripts, in tablet inscriptions, or in the memories of powerful arcanists.
-
-**Enigma**：But even if we find it, we can't validate it because none of us can cast the skill.
-
-The robot remains silent during his pessimistic remarks, flipping through each page of the file.
-
-**Enigma**：Low-ranking arcanists can't cast high-ranking skills, even if they know the exact pronunciation and meaning of the incantation.
-
-**Enigma**：Gnosis is beyond reason like that and cannot be debated. It stems from raw intuition rather than logic and intellect, is shaped by personal experiences and natural abilities, and cannot be intentionally replicated.
-
-**Enigma**：And the most determining factor—it relies on the arcanist's purity of blood.
-
-**Enigma**：The miracle ritual you hold such hopes for belongs to the leader of Manus Vindictae, a pure-blooded arcanist whose power is beyond our imagination.
-
-**Enigma**：It's like asking a toddler to solve Goldbach's conjecture. It's completely beyond the boundaries of our limits!
-
-**Lucy**：But you are not an arcanist.
-
-**Lucy**：Why should you play by their rules?
-
-**Enigma**：...
-
-The man is taken aback by her question. It's something he's never considered before.
-
-**Lucy**：You are right. Arcanists differ due to their purity of blood.
-
-**Lucy**：Researcher Medicine Pocket has already reported the linear correlation between the bloodline of an arcanist and their abilities, and has drawn a conclusion ten times more extreme.
-
-**Enigma**：Then you should listen. That's their area of expertise.
-
-Her neck moves subtly, almost like shaking her head.
-
-**Lucy**：We know that our cryptographers do not have the power to validate the ritual.
-
-**Lucy**：And we do not expect you to do that. All I ask of you is to come up with a feasible plan, and to do it as a team.
-
-Enigma turns away, repulsed at the mention of "team."
-
-Lucy finishes reading the report and hands it back to him.
-
-**Lucy**：Your deduction is logical, but not practical or actionable.
-
-**Lucy**：So I should return this to you.
-
-**Enigma**：What?
-
-The glow in her eye slit is strangely reassuring, almost like a smile.
-
-She looks out of the window.
-
-**Lucy**：Your logic is impressive, Adler. But do not let it limit your thinking.
-
-**Lucy**：You spoke of the boundaries of arcane power, but logic has its limits too, no?
-
-**Lucy**：Knowledge can be obtained through various means, such as intuition, logical reasoning, empirical observations, and teachings from others.
-
-**Lucy**：Your team is not the only one cracking the ritual through their own means. If you fail, we will turn to the others. And if that approach is wrong, we will try another. If no solution is found before the "Storm," we will simply wait for the next one.
-
-**Lucy**：What matters is we keep moving forward, no matter the cost. We must keep to the path, or we will be swept away like dust in the rain.
-
-For once, the researcher does not argue.
-
-He whispers, as if talking to himself.
-
-**Enigma**：If one team fails, you can still turn to the others.
-
-**Enigma**：Then why? Why did it have to be Greta?
-
-**Lucy**：What?
-
-**Enigma**：Forget it. Just a bitter, irrational thought.
-
-**Enigma**：This marks the end of my efforts. Hopefully, "the others" will bring you the needed breakthroughs.
-
-The man walks away in anger.
-
-But after only a few steps, a question comes to mind.
-
-**Enigma**：You've been waiting here for a while. Are you expecting someone?
-
-**Enigma**：You aren't the type to waste time listening to us whine, so there must be something here worthy of your attention.
-
-**Enigma**：Is someone close to a breakthrough?
-
-**Lucy**：Nothing of the sort.
-
-**Lucy**：I am recharging. We have a public power outlet here.
-
-**Enigma**：...
-
-She moves her joints as if standing for so long has stiffened her body.
-
-**Lucy**：But I am indeed waiting.
-
-**Lucy**：The doves of the White Stone House are here.
-
-The sound of flapping wings fills the air.
-
-The researcher is astonished as the creature, with a texture similar to plaster, perches on her metal finger.
-
-**Lucy**：Good.
-
-**Lucy**：Someone closer to the "limit" has given us aid.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Fire Safety
 
@@ -3245,8 +2904,6 @@ Equipment Failure Repair Record
 
 Conway Automaton V, also known as LifeGame V. It is the most popular mind expansion tool in Laplace, capable of simulating cell life and death calculations within a maximum of 2^16 pixels with predefined rules, and supporting modular assembly and custom interfaces, among other features. It has been proven to maintain the mental agility of researchers and can simulate most current popular games. Almost all Conway Automatons were lost in the "Storm" or scrapped to make room for important instruments—this is the last remaining one in the Scientific Computing Center. Although the Conway Automaton V cannot play a practical role in password decryption, to ensure the enthusiasm of the decryption team's work, an urgent repair request is hereby made. If the repairs cannot be completed in a short period of time, it is hoped that a substitute can be allowed during the repair period, such as the latest handheld console, the Game Dude Color.
 
-- Description：A nifty little fellow, the crystallization of tangible wisdom.
-- Action：Press the button
 
 
 ---
@@ -5176,8 +4833,6 @@ Funeral Postponement Notice
 
 We regret to report tragic news today—a large number of researchers have been injured and even killed in an accident caused by the spread of "Storm" immunity incantations. Due to special emergency management regulations, the funerals of the deceased personnel will be temporarily postponed. Please remember the names of the victims, remember their sacrifice, and remember that our research is not over: Dora, Evans, Gary—obliterated ... Richard, Vincent—skin transformed Dawkins—entire body turned to mud, lost the ability to speak Victor—disappeared from existence, no longer physically detectable Margaret—shrunk Louis—dissolved into a puddle of goo
 
-- Description：A notice, some names, familiar and strange.
-- Action：Read the Notice
 
 
 ---
@@ -5790,8 +5445,6 @@ Assistant's Record
 
 ※ Walking on the beach with Marta. She's almost done with her tour of the island, collecting material for her travelogue. I accompany her, also to remind her to avoid the important areas we don't want to be exposed to the outside world. She is hoping for even more reading recommendations. Fine, I'll consult 210 and Sophia. ※ There are too many outsiders here. That's not necessarily a bad thing, but it makes management more difficult. The leader's strategy isn't the best at the moment—we must make clearer decisions. We need to show some self-determination. By repeatedly emphasizing our united will, faith will also be strengthened. Relying on anyone won't work, nor can we put all our hopes in one child and then sit back in satisfaction ... It's impossible for the island to remain peaceful all the time; when it's necessary, it always falls to me to do something. ※ She should have noticed the error, or ... well, I don't believe that a person like 77 would not check the course again and calculate the angles. Even if she is too tired, 37 is still on the island ... Why didn't Hugh take his notebook with him? I saw it at Sophia's place. She left in such a hurry that even her reason for leaving seemed like an excuse. Could communicating with this supreme being really destroy a person's mind? **This is all so strange.** ※ This guy talks a lot. Fortunately, he's also pretty useful. And surprisingly, he thinks the same way as me. I thought he was the one who agreed most with the others. In fact, his speculations are closer to my own ... If I become an assistant, I might be able to learn more. This position has been vacant for too long... A shield without a sword is ultimately unreliable. Now is the time. No matter what they say, I will apply. **210 also believes that 77 has the answer.** **What will the answer bring? (smudge marks)** **—I need to get to the bottom of this.**
 
-- Description：Clear handwritten notes. The neat and forceful writing style reveals the writer's strong character.
-- Action：Read it
 
 
 ---
@@ -6388,8 +6041,6 @@ Wine Brewing Season
 
 —Bang! In the distance, something falls. The cup drains the wine, Tired eyes dry out the sun. Everyone clings to the remaining days, The body speaks to its guest. Who builds, also uses the same hand To destroy, to peel open the rock walls, The scar is a perfect circle. A death tied with a knot, thus —The end. Only it remains: The wilderness. Everything extraneous, swarming in, Just like that, they talk about a bottomed sky.
 
-- Description：A verse from an unknown source, recorded on a scroll.
-- Action：Read It
 
 
 ---
@@ -7474,6 +7125,8 @@ When the sand subsides, all that remains is an old piston, clattering to the gro
 > Even if there is no path, even if there is no destination.
 
 <!-- reader-body:start -->
+> **Title card：** The Pioneers
+
 **Enigma:** ...
 
 A deathly silence.
@@ -7749,296 +7402,13 @@ It is more than enough for him to catch on.
 **Laboratory Technician:** Erm, yes, and by regulations we are not to leave. But, uhm ...
 
 **Laboratory Technician:** They said their new theory had to be verified in the "Storm."
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Even if there is no path, even if there is no destination.
-
-> **Title card：** The Pioneers
-
-**Enigma**：...
-
-A deathly silence.
-
-Until Enigma stumbles back, nearly falling over another person in the room.
-
-**Enigma**：She's dead?
-
-The piston lies motionless on the ground, as lifeless as any other object.
-
-**Enigma**：This is what you wanted to show me?
-
-His heart pounds in his ears as he pants, fists clenched and slick with sweat.
-
-**Enigma**：To watch her utter a curse that's always brought death, only to die in vain?
-
-**Enigma**：And you just let it happen?!
-
-Ulrich looks at him, his voice poised and steady.
-
-**Cryptography Lead**：Calm down.
-
-**Enigma**：Calm down? She's dead, right there! You murderer!
-
-**Cryptography Lead**：We have already repeated this experiment many times.
-
-Enigma is in disbelief.
-
-**Enigma**："Many times"? What?! You've sent people to their deaths over and over again?
-
-The ferrofluid flows again, forming a shape that Enigma can only interpret as disdain.
-
-**Cryptography Lead**：Look at you, Adler, peeing your pants over a "curse." The human boy is so scared that he forgot to ask the crucial question—
-
-**Cryptography Lead**：Did the ritual work?
-
-**Enigma**：What, what do you mean? The curse, the side effect killed her. The experiment failed. Is that not what happened?
-
-**Cryptography Lead**：No, triggering the curse and failure are two separate things. I was the first one to recite the incantation. Way before Dora.
-
-**Cryptography Lead**：When I read it aloud, it worked. I felt the warmth of a miraculous blessing on my head, soft, light as a feather.
-
-**Cryptography Lead**：I told Madam Lucy right away, but as soon as she left the room, the "curse" hit me, and I began to liquefy.
-
-**Cryptography Lead**：There was no one else in the room. My liquid form had become too insubstantial to push the help button.
-
-**Cryptography Lead**：A long darkness followed. After that, I woke up again in my original primitive form, the way I first came into this world.
-
-**Enigma**：Original primitive form?
-
-The ferrofluid pulsates, which in Ulrich's body language is a nod.
-
-**Cryptography Lead**：Unlike humans, the Awakened have neither flesh nor nerves. We are pieces of consciousness, echoes of a primordial melody, that just happen to reside in material objects by chance.
-
-**Cryptography Lead**：With a mind and a body combined, we could talk, learn, think like you do, and perform the experiment and endure the side effects.
-
-**Cryptography Lead**：And this curse, for some reason, cannot affect the "primal consciousness" that caused our awakening in the first place.
-
-**Cryptography Lead**：While human minds dissipate when their tangible bodies are destroyed, our minds reawaken regardless of the changes and destruction of our external bodies.
-
-**Cryptography Lead**：Of course, this was an assumption based on idealized circumstances, and I needed another Awakened being who could awaken in different bodies to confirm my theory. That is why I sought out Madam Lucy for cross-verification. The results ...
-
-**Enigma**：Yes, it was an assumption! You said it yourself! You came back to life this time, but what about the next? Nothing is for sure in arcanum!
-
-**Enigma**：What if she never wakes up again? What if she dies for good?
-
-He swats Enigma's hand away.
-
-**Cryptography Lead**：We know what we are doing, human.
-
-**Cryptography Lead**：Stay out of this. Only the Awakened can carry out the experiment, so we must proceed.
-
-**Cryptography Lead**：This has nothing to do with race. It is a sense of duty that every researcher should have possessed when they chose this path.
-
-**Cryptography Lead**：We have to go beyond the limit. Not out of madness, but out of rationality.
-
-**Enigma**：...
-
-Silence fills the room, like the beginning of time when there was no sound to be heard.
-
-Then slowly, the piston starts to spin.
-
-**Lucy**：Hm. We seem to have replicated Effect No. 2, and 117 of the Coleman lab's protective rituals were proven ineffective.
-
-**Lucy**：Write it down, Simone. This is the fourth time we have seen it. Also, No. 45 and 69 are related to it.
-
-**Lucy**：We need to speed up. This is too slow.
-
-The lights are back on again, and the piston is placed into a new body.
-
-Being prepared for all possible outcomes requires a significant amount of metal material, but it is essential for data collection and analysis.
-
-With a soft hum, the robot turns her head and looks at Enigma, surprised.
-
-**Lucy**：Adler, what are you doing here?
-
-**Lucy**：I am glad to see you out of your room and working with us again.
-
-**Assistant Simone**：No. He is not on the team, ma'am. He forced his way in here.
-
-**Lucy**：Oh? My apologies. I seem to lose a small amount of data when I reawaken.
-
-She smiles at him, as she always does.
-
-**Lucy**：Still, I am glad that you are showing initiative, Adler. Were we supposed to talk?
-
-**Enigma**：No. We have nothing more to discuss, ma'am. Ulrich has filled me in on everything.
-
-**Enigma**：But I still worry whether the experiment's risks were properly assessed.
-
-**Lucy**：Assessments will only be assessments. Much is beyond measure when it comes to arcanum.
-
-**Lucy**：Perhaps "faith" plays a more important role here.
-
-Enigma is caught off guard by her words.
-
-**Enigma**：I'm surprised it is you talking about "faith," ma'am.
-
-**Lucy**：Hm. It seems we both have the ability to surprise each other.
-
-As they speak, the robot strolls over to her chair and sits back down.
-
-**Lucy**：You are right. "Assessments" could indeed be useful to us.
-
-**Lucy**：It allows us to know the probabilities of success and failure based on established facts and past experience.
-
-**Lucy**：But when we find ourselves in uncharted darkness, with no information or past experience to guide us, how are assessments going to help us?
-
-**Enigma**：...
-
-She ponders and stares into the void.
-
-Perhaps the experiment did fry some circuits, she's more sentimental than usual.
-
-**Lucy**：The only thing we have in such darkness is the unwavering faith to move forward.
-
-**Lucy**：...
-
-**Lucy**：When the first steam engine whistled, I awoke into this world.
-
-**Lucy**：At the beginning of this new life, my circuits were charged with a singular, primal desire: to progress.
-
-**Lucy**：In the midst of that never-ending whistle, I have watched man build the towers of science and knowledge, and I have watched them unleash chaos and destruction.
-
-**Lucy**：You, too, have been lost and deterred, but your engines of progress have never stopped churning. Always move forward, no matter the destination, you told yourselves.
-
-**Lucy**：Until the "Storm" brought everything to a standstill.
-
-**Lucy**：But this is just a small setback. We are only back to the beginning, where we stumble blindly.
-
-**Lucy**：And this time, I happen to have a cane.
-
-She gives him a tender smile.
-
-**Lucy**：No need to worry about me. I will not shut down as long as there is still hope for progress.
-
-**Lucy**：Hm. We have wasted a bit of time on data recovery.
-
-**Lucy**：Come, Simone. Let us begin the next experiment.
-
-**Lucy**：I hope to dissolve into paste this time, so we can easily handle it with a Coleman's ritual of transformation.
-
-The human researcher knows that it'd be inappropriate for him to stay here any longer.
-
-Gritting his teeth, he moves toward the door, trying his best to leave the horrific scene behind him.
-
-Someone is waiting for him by the door.
-
-**Cryptography Lead**：Seen enough? We know what we are doing, and you are of no help here.
-
-**Cryptography Lead**：It's been the same old story in this place for the past eight years.
-
-**Cryptography Lead**：When your faith crumbled during the "Storm," it was us who took over the place and cleaned up after you.
-
-**Cryptography Lead**：It was us who got things back up and running, put coals in the hearth, and blazed a trail when everyone was lost in the dark.
-
-**Cryptography Lead**：I know you may not understand the intricacies of the arcanum, but please show some basic respect for our efforts.
-
-**Enigma**：Will you do the experiments yourself, Ulrich?
-
-**Cryptography Lead**：Of course. I am not some emotional, unhelpful little punk.
-
-**Enigma**：...
-
-Instead of his usual witty comeback, Enigma simply shakes his head in a slow motion.
-
-**Enigma**：Do you still remember Adams?
-
-A sudden question that seems out of place.
-
-The ferrofluid quivers. The name seems to unearth memories that have been buried for eight long years in the confines of this institution.
-
-**Enigma**：Adams, Roman, Adolph, Sylvia, Albert, Louise ... Those who were taken from us by the rain.
-
-**Enigma**：Melvin, Frances, Caroline, Leopold ... They volunteered for the field, but we never heard from them again.
-
-**Enigma**：Now we have Dora, Richard, Dawkins, and Victor on the list.
-
-**Enigma**：Life has a wicked sense of humor. My mentor, my classmates, my colleagues, each of them deserved to live more than me. But they're all gone now. There's only me talking to you, alive, useless.
-
-**Enigma**：Am I going to see your names on that list too, Ulrich?
-
-**Cryptography Lead**：...
-
-In this rare moment, he lowers his head.
-
-But soon, he raises his arms and slaps the man hard on the back.
-
-**Cryptography Lead**：Spare me the feelings, human.
-
-**Cryptography Lead**：Though I will take back my sarcastic jabs at you, it is not something a leader should do. Madam Lucy talked to me about the importance of teamwork.
-
-He awkwardly pats the human on the shoulder, a clumsy attempt at friendliness.
-
-**Cryptography Lead**：Go back to your room, Adler. The arcanists will take over from here. Until we get the results, you won't be needed here.
-
-Enigma heaves a breath.
-
-**Enigma**：I will say this, Ulrich. If you survive the experiments,
-
-Alarmed by the opening words, Ulrich instinctively turns down his receiver to avoid hearing anything too warm.
-
-That would be more painful than suffering through a hundred experimental side effects.
-
-**Enigma**：I'll submit the sincerest application to never be on the same team as you again.
-
-**Enigma**：So neither of us will have to worry about teamwork. How's that sound?
-
-**Cryptography Lead**：Haha.
-
-A curve that almost resembles a smile appears on his face.
-
-**Cryptography Lead**：I will wait for that application, Adler.
-
-Now. Roll up your sleeves and clear your mind.
-
-This is not the time to grieve.
-
-If human reasoning and arcane knowledge are not enough on their own ...
-
-... perhaps a combination of the two can solve this problem?
-
-**Enigma**：...
-
-The lab door is in shambles, its metal plate barely hanging on. A wooden sign reading "Keep Out" sways precariously, covered in bite marks and scratches.
-
-Enigma takes a moment before finally knocking on the door.
-
-A voice answers from within.
-
-**???**：Who's there?
-
-**Enigma**：Adler Hofmann from the cryptography team. Is Medicine Pocket in?
-
-**Enigma**：I heard that they wrote a paper on the linear correlation between the purity of an arcanist's bloodline and their power. Can I get some more details on the research?
-
-The door creaks open to reveal a youthful face. But she is not the genius he is looking for.
-
-The lab technician looks at him through her glasses and hesitates a little.
-
-**Laboratory Technician**：The paper is here. Help yourself. Sorry about the stains on it. I just took it out of the trash.
-
-**Laboratory Technician**：If you're looking for Medicine Pocket, I'm afraid they just left.
-
-**Enigma**：Left? To where?
-
-There is a subtle conflict on her face. She is torn between covering for her colleague and following the rules.
-
-It is more than enough for him to catch on.
-
-**Enigma**：They left the building? Hasn't the countdown already begun?
-
-**Laboratory Technician**：Erm, yes, and by regulations we are not to leave. But, uhm ...
-
-**Laboratory Technician**：They said their new theory had to be verified in the "Storm."
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Diagnosis Record - Awakened
 
@@ -8052,8 +7422,6 @@ Diagnosis Record - Awakened
 
 **Diagnostic Subject**: Lucy **Examination Items**: X-ray scanning, visualization, fluoroscopy, magnetic induction check, intelligence checks for age groups 6 to 60, including vision and hearing checks ... **Clinical Manifestation**: The subject's core briefly lost consciousness after channeling an incantation, then returned to normal. Considering the replaceability of the external shell, the damage is negligible. Only changes to the core are described below: Basically unchanged. The subject's core remains stable, with no apparent external injuries, nor any internal damage found. All examination indices are normal. It is speculated that the subject's external shell bore the brunt of the curse, and that the subject's spirit is greater than the material of the vessel—according to one of the current mainstream views, the consciousness of the awakened comes from some still unknown macro-arcanum phenomenon. Perhaps it is such arcane phenomena that override the side effects of the incantation, helping to overcome the curse directly affecting the core, so that the target does not die from the curse while the consciousness remains. **Final Diagnosis**: The subject's suggestion to further verify the side effects of the curse by using herself was agreed upon. However, according to past records, the awakened are not forever indestructible, so observation must be maintained, and the experiment must be terminated immediately if symptoms such as core degradation or mental abnormalities occur.
 
-- Description：We absolutely respect the health rights of our employees.
-- Action：Read the Record
 
 
 ---
@@ -8959,8 +8327,6 @@ Encrypted Record #832
 
 "Regarding Zeno's request for assistance in establishing a dedicated communication line with the Timekeeper, we hope to understand the details." "The exact content of the communication is a military secret. I cannot divulge the details." "The Scientific Computing Center needs to understand the purpose of Zeno's establishment of communication to judge whether it is worth diverting manpower to build a dedicated line." "Zeno's purpose is a military secret. I cannot divulge the details." " ... Next, I will ask some simple questions. If you continue to answer with 'I cannot divulge the details,' I will take it as a sign of admission. Do you understand?" "I am not authorized to answer that question." " ... Very well, then is Zeno preparing for a military operation against Manus Vindictae and therefore needs to establish communication with the Timekeeper for this purpose?" "I cannot divulge the details." "Good, this operation will ensure the Timekeeper's safety then, won't it?" "I cannot divulge the details." "This is an unconventional operation, isn't it?" "I cannot divulge the details." "This operation was most likely inspired by the Pax Security Council, correct?" "We are soldiers. Soldiers act on orders, miss." \*Zeno then hung up the call.
 
-- Description：After a monotonous, constant noise, a response comes from the other end of the line.
-- Action：Listen to It
 
 
 ---
@@ -9801,8 +9167,6 @@ Her unsettling tone causes the girl to instinctively step back.
 **Arcana:** As evidenced by the decision that Truth hath made.
 
 **Sophia:** ...!
-
-Arcana: Heh-heh.Arcana: No one escapes their fate as ever.Sophia: ...Sophia: I ...
 
 **Arcana:** Heh-heh.
 
@@ -10883,8 +10247,6 @@ A Trail in the Forest
 
 A fate has been forged for this purpose, A maxim, a preconception, A deliberate contemplation, a step taken. Believed to be a choice. The woodland is older than all within it. Through passion, or reason, Travelers grope and stumble through the branches, Or silently tread the narrow path, Or choose to turn away, Stepping into the subtle unknown. Read, the voice urges. If now, without pursuit, close to truth, Yet let go. Then never before had it been. Step forward. So they say. Before the tale is told, all is decided, Merchants, competitors, mortals, and heroes. And as the feast begins, How shall they fade away. And those outside, For whom the time they've made has not yet come, Those who deem themselves transcendent, Are merely not in this procession.
 
-- Description：Omens of fate hidden between the lines. Read, a voice says, the moment of choice has arrived.
-- Action：Read it
 
 
 ---
@@ -13056,8 +12418,6 @@ Applying Chladni Plate Sound Propagation
 
 Required Materials: A square sheet of metal Other shapes and materials can also be used, observing the differences they produce is equally entertaining. Sand Flour, salt, or sugar can also be used, but be careful, they're not easy to clean once they get into those body crevices. An element of sound Yes, that's me, glad to help. You can also find any friend who knows how to sing and make vibrations, or say, dance. Working Principles: It is known that sound is produced by vibration and propagates in the form of waves, and different sounds have different frequencies of vibration, so certain sounds can produce fixed waves under certain conditions, thereby representing certain patterns. Operating Steps: First, place the square metal sheet, hereinafter referred to as the plate, on a stable and well-fixed smooth solid surface. This is to prevent phenomena such as slipping, an important step. Second, the sound element is made to contact the plate and emit sound at a specific frequency. The Scientific Computing Center has compiled the wavebands corresponding to the 26 letter shapes—you can ask Mr. Ulrich for a copy, he is a very generous gentleman. Third, observe the pattern and draw conclusions. Wasn't that simple? You can do it alone at home—try it and see what pattern your favorite music program turns into.
 
-- Description：A metal plate, a grain of sand, an element of sound. Simple and effective.
-- Action：Try the Experiment
 
 
 ---
@@ -13567,6 +12927,10 @@ She needs to ensure the next message is clear on the radio.
 > A mirror, a razor in green, and hands reaching into nothingness.
 
 <!-- reader-body:start -->
+> **Title card：** Mirror and Curtains
+
+> **Title card：** 4#0
+
 **Enigma:** I never thought it would be the Timekeeper and the Apeiron arcanists who'd solve the problem. But now, even humans can cast this ritual.
 
 Laplace is now in a rare state of tranquility, for the researchers have done all they can; there's nothing left for them to do.
@@ -13719,6 +13083,10 @@ COMBAT:
 
 **Marcus:** Dr. Kakania, are you really going to stay here?
 
+
+
+> **Title card：** 4#0
+
 **Kakania:** ...
 
 She shakes her head, her fingers tight on Marcus's communicator.
@@ -13836,292 +13204,13 @@ A ray of hope shines through the static.
 **Kakania:** ...!
 
 **Kakania:** Madam Lucy! Any progress on the research?
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** A mirror, a razor in green, and hands reaching into nothingness.
-
-### Segment 1 · `script 100738`
-
-> **Title card：** Mirror and Curtains
-
-> **Title card：** 4#0
-
-**Enigma**：I never thought it would be the Timekeeper and the Apeiron arcanists who'd solve the problem. But now, even humans can cast this ritual.
-
-Laplace is now in a rare state of tranquility, for the researchers have done all they can; there's nothing left for them to do.
-
-With only 4 hours to go, this is the final calm before the "Storm."
-
-**Lucy**：Indeed. The knot is the physical form of the ritual we were looking for. Surprisingly, the numerical code yielded practical results.
-
-**Lucy**：I thought it was necessary to report this to the Timekeeper's organization. It was her contribution.
-
-**Lucy**：But it did not go well.
-
-**Attendee**：Forgive the interruption. What's a knot?
-
-**Lucy**：I will be glad to answer your question.
-
-**Lucy**：Knot theory is a branch of algebraic topology. In mathematics, a knot refers to a connected closed curve in three-dimensional Euclidean space that does not intersect itself. They can also be described as shapes in three-dimensional space that are homeomorphic to circles.
-
-**Lucy**：Knot theory focuses on the entanglement and configurations of closed curves in three-dimensional space, rather than the curves themselves. Since all closed curves are homeomorphic to circles, they can all be topologically categorized as circles.
-
-**Lucy**：A knot equivalent to a two-dimensional circle is called an unknot. And ...
-
-**Attendee**：I don't mean to question Laplace's expertise, but this approach may not be the best solution for widespread implementation.
-
-**Attendee**：The concepts are complex even for us, let alone others. We can't expect to give an advanced math lesson to every individual under these circumstances.
-
-**Attendee**：Doing math before the "Storm"—nobody's got time for that!
-
-**Lucy**：As it turned out, presenting a technical report was much too premature. We should have a complete and official report once the immunity gear is produced.
-
-**Enigma**：Maybe you can change your approach the next time you report to the Foundation.
-
-The robot shakes her head, disappointed by the failure of her report and the listener's math level.
-
-**Lucy**：I simply gave them honest answers.
-
-She turns her head and looks thoughtfully out the window.
-
-**Lucy**：But, this solution is deserving of widespread implementation.
-
-**Lucy**：All we need is a piece of rope, and tie it end to end.
-
-**Lucy**：And spend three to five minutes to make this knot.
-
-**Lucy**：This can be done anywhere, at any time, by anyone using any type of cordage.
-
-**Lucy**：The oldest, fastest, and most basic ritual, the key to braving the "Storm" ...
-
-**Lucy**：... is a knot.
-
-**Enigma**：Why didn't you tell the House of Integratus? I'm sure they would've funded us generously.
-
-**Lucy**：I will make sure to put it in my interdepartmental report.
-
-A rare hint of frustration flickers across her face.
-
-But she quickly moves on to a subject that deserves her attention.
-
-**Lucy**：But at this point in time, the knot only functions like an incantation.
-
-**Lucy**：It is not suitable for widespread use until the research on the side effects and the converter are complete.
-
-**Enigma**：In any case, I've completed all the tasks you assigned me.
-
-**Enigma**：My last plea is, please never put Ulrich and I on the same team again.
-
-The researcher lets out a deep yawn, feeling as if he hasn't slept in ages.
-
-Maybe he can catch a quick nap before the final battle begins.
-
-**Enigma**：Hm. I'm surprised that you're not in the lab. Something bothering you?
-
-**Enigma**：Wait, don't tell me you're charging here?
-
-The robot turns to him, an approving smile on her face.
-
-**Lucy**：Excellent job, Researcher Adler. You have proven that you are keeping the locations of public outlets in Laplace in mind,
-
-**Lucy**：which is a positive sign for your resocialization.
-
-**Enigma**：...
-
-**Lucy**：But I am powering up to reach my optimal condition, preparing for what is to come—
-
-**Lucy**：The scroll of Apeiron, the final piece of the puzzle, the key to minimizing any negative effects caused by the incantation.
-
-**Lilya**：Whoa! The designers on Artificial Somnambulism could use some of this inspiration.
-
-**Lilya**：Look at the clouds, painted with a syndrome of colors and interrupted by a glorious streak of rainbow. It's truly a masterpiece!
-
-The red blur streaks forward at lightning speed, but the Olitiaus are still in hot pursuit.
-
-Their skins are becoming increasingly vibrant due to the Storm Syndrome.
-
-**Lilya**：Funny. They're flying towards the headquarters out of instinct. Maybe they can sense immunity zones?
-
-**Lilya**：These little beasts would make for a good study.
-
-**Lilya**：But I'm not in the mood to take any prisoners.
-
-Lilya speeds up again, trying to lose the pursuers that are swarming behind her like a dark vortex.
-
-In front of her, under the clouds, the gray buildings of the Foundation are now clearly visible.
-
-**Lilya**：Fuel and ammunition are running out.
-
-Her altitude is low enough. She can almost see the hallway outside the committee room.
-
-**Lilya**：Heh. Maybe I should storm the vice president's office with them? But other people might get hurt there. Never mind.
-
-She makes an abrupt turn, her mind racing with ideas.
-
-**Lilya**：Dive into the lake? But the splash might wet the scroll.
-
-**Lilya**：Wait, isn't that ...
-
-Sprouts from the forest. That looks like a signal to land.
-
-**Druvis III**：Ms. Lilya, this way!
-
-**Lilya**：Ha. Good timing!
-
-Her friend's presence has given her a clear sense of direction.
-
-Without a second thought, she charges into the new forest with the huge herd in hot pursuit.
-
-Just before crashing into the trees, Red 38 changes course and rockets upward in a perfectly straight line.
-
-But the creatures behind her have no such finesse.
-
-One by one, they slam into the mesh woven by the dense tangle of trees and vines.
-
-**Foundation Staff II**：Enemies intercepted. Ally landed successfully.
-
-**Foundation Staff II**：Ms. Druvis, the Olitiaus are all ensnared in vines!
-
-The druid closes her eyes, savoring the fresh air.
-
-**Druvis III**：The winds of triumph sweep through the woods. An excellent flight, Ms. Lilya.
-
-**Druvis III**：We will take it from here. Come, everyone, we shall vanquish our foes with the aid of the woods.
-
-### Segment 2 · `script 100739`
-
-**Marcus**：The special operations squad is ready to go.
-
-**Marcus**：Dr. Kakania, are you really going to stay here?
-
-> **Title card：** 4#0
-
-**Kakania**：...
-
-She shakes her head, her fingers tight on Marcus's communicator.
-
-For more than ten hours, she has been waiting for Laplace to respond.
-
-**Marcus**：...
-
-Marcus lowers her eyes, burying her face in her scarf to hide the tears.
-
-The doctor quickly notices it, her voice softens and changes to a lighter tone.
-
-**Kakania**：Don't worry about me, young missy. This won't be goodbye forever.
-
-**Kakania**：Besides, I have already provided all the help I can, right?
-
-**Kakania**：I made Isolde show us the ritual and kept her under control. And now you've figured out how the ritual works.
-
-**Kakania**：To test its results, you will need a couple of volunteers.
-
-But Marcus doesn't seem to find comfort in her words.
-
-**Marcus**：But you heard the report from Laplace: the possibility of surviving the ritual is nearly zero without a converter and the scroll ...
-
-**Kakania**：Nearly, they said, but not surely.
-
-The doctor interjects briskly.
-
-**Kakania**：Plus, where else can I go?
-
-**Kakania**：I was born and raised in this city. This is where I came from, where I lived, and where I belong. This is my whole world.
-
-**Kakania**：I despised the maggots under its golden surface, and fought for the justice and fairness in our society. But I also cherish every detail of this city, from the intricate carvings on the theater columns, to the dirt trodden by dock workers.
-
-**Kakania**：All of these things made me me—my family, my friends, my people, and my operas and culture, are all here.
-
-**Kakania**：I never once thought about leaving this place.
-
-**Kakania**：I have never thought about destroying it, either.
-
-She looks up and sighs sentimentally.
-
-**Kakania**：Being washed away with it would be a just punishment for all my sins.
-
-Yet her eyes are free of darkness and despair.
-
-Marcus can clearly see her determination.
-
-**Marcus**：I wish I could be as brave as you are.
-
-**Marcus**：See you, Ms. Klara.
-
-She gently reaches out to her.
-
-Not far away, the special operations squad is ready to go.
-
-The helicopter begins to whirl. Its last errand of the day.
-
-Inside the cabin, Isolde sits between two "Razor" operatives, her wrists bound in cuffs.
-
-**"Razor"**：Hurry, ladies! Before any of us turns into one of those exquisite paintings.
-
-**"Razor"**：Sorry, but the headquarters is too far for the teleportation disk from here. You'll have to bear with us smelly old grunts for a little longer.
-
-It is time to part ways.
-
-**Kakania**：Goodbye, Ms. Marcus.
-
-**Kakania**：Sharing this era with you has been an honor.
-
-Their warm hands clasp in a powerful handshake.
-
-With a wave to the teary-eyed girl, Kakania turns around and heads toward the city of madness.
-
-**Isolde**：Is your birthday approaching, doctor?
-
-She twirls sharply around at the entranced voice.
-
-Isolde reaches out into the air, still in a dream she's unwilling to wake up from.
-
-There, the world is unchanged, and each day is filled with bliss.
-
-For a prisoner in the Foundation's facility, perhaps dreams will provide the solace she needs.
-
-**Isolde**：I made this for you.
-
-She holds out a brooch. A piece so exquisite that it, too, seems to be an intangible figment of a wistful dream.
-
-The golden setting nestles the sparkling gem in place, a gift undoubtedly made with great affection.
-
-**Isolde**：Turquoise and Topaz, just like you and your eyes.
-
-**Isolde**：Please accept my blessings, doctor. May your life be filled with joy and contentment, and may your courage guide you through all that comes your way.
-
-**Isolde**：You are worthy of all the beauty and goodness this world has to offer, and I will hold you in my heart and in my prayers, forever.
-
-Today isn't Kakania's birthday, nor can she see her reflection in Isolde's lusterless eyes.
-
-The Star of Vienna holds up the brooch, yearning at the emptiness before her.
-
-**Kakania**：...
-
-If one were to die today ...
-
-What would she say to her long-time friend?
-
-**Kakania**：Sweet dreams, Ms. Dittarsdorf.
-
-She takes the brooch and pins it to her jacket.
-
-The communicator at her waist crackles.
-
-A ray of hope shines through the static.
-
-**Kakania**：...!
-
-**Kakania**：Madam Lucy! Any progress on the research?
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Surveillance Report on Ms. Weyerhaeuser
 
@@ -14135,8 +13224,6 @@ Surveillance Report on Ms. Weyerhaeuser
 
 Following the forest incident, Ms. Weyerhaeuser, suspected of using her arcane skills to destroy and invade on public places, and thus causing severe damage, was required to eliminate the influence of arcanum and restore the original function of the site, and was forced to participate in one hundred and twenty hours of Foundation service activities, in addition to a fine of two hundred thousand Sharpodonties. Ms. Weyerhaeuser showed a high degree of cooperation in accepting her punishment. She enrolled in the Temporary Tree Processing class and, within three days, dealt with the excessive tree overgrowth she had caused by trimming all the greenery within the Foundation—at her impassioned request, the materials from the processed trees will be fully utilized. In the following period, the Tree Processing Class responded to this request—we processed the trees into lumber and sent them to the engineering department. The by-products were processed into organic fertilizer, and the remaining fruits were distributed by the canteen at lunchtime to offset Ms. Weyerhaeuser's service activity time—the acorn bread and berry pies received quite good reviews. In summary, given Ms. Weyerhaeuser's excellent performance and good attitude in admitting her mistakes during this period, we believe she has fulfilled her compensatory obligations to our satisfaction, and it is recommended that surveillance and movement restrictions are lifted from Ms. Weyerhaeuser in advance. That is all.
 
-- Description：About that forest you're familiar with. About that companion you know so well.
-- Action：Observe the Direction
 
 ### Trail · The Last Big Newsflash!
 
@@ -14150,8 +13237,6 @@ The Last Big Newsflash!
 
 I don't know if I'm crazy, maybe today is the end of the world, but I have to write this down—this is my duty as a journalist! The whole of Vienna has become an oil painting splashed with turpentine, and I'm not using that as a metaphor—literally! Everything is dripping with paint, and I'm no exception! Fortunately, my right hand is fine for now and I can still write. I thought three men fighting to the death over the pronunciation of a word would be enough to make the front page of the newspapers, but I was wrong—▊▊▊, a great war is unfolding! A great war that will involve the whole world! Those feet marching on the streets can't wait to throw the world into the roasting flames of hell! Hungarians, Austrians, Transleithanians, Germans, Cisleithanians, the streets and cafés are full of lunatics talking nonsense, except for me and the little girl who just came to make a phone call carrying a case of books. The girl was crying so sadly when she made the call, she ran so fast when she came that she even slipped and fell, and she didn't realize her books had fallen all over the place until after she finished the call. I don't understand what there is to cry about when everything has become like this everywhere, and any semblance of order will soon disappear. If there is anything that still makes you sad, then you should do everything in your power to destroy it, just like the editor who keeps rejecting my drafts—if I don't take him down, I'll never have my chance to shine. This article will appear in tomorrow's paper, along with the destruction of my editor, if the world hasn't ended by then.
 
-- Description：Half of this newspaper page has been soaked in murky oil paint. Fortunately, the other half of the text is still faintly legible.
-- Action：Read the News
 
 
 ---
@@ -15841,6 +14926,8 @@ It is a fine weather to set sail again.
 > She brushes off the raindrops from her shoulders and steps into the new world.
 
 <!-- reader-body:start -->
+> **Title card：** And Now, the Curtain Call
+
 The youth are sailing for a new world.
 
 While the old are saying goodbye to the world they knew.
@@ -16104,284 +15191,13 @@ The sunlight dances on her metallic surface, enveloping her in a golden aura.
 **Lucy:** I miss the Laplace chargers already.
 
 **Lucy:** There is a 230-volt bath at the resort, right?
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** She brushes off the raindrops from her shoulders and steps into the new world.
-
-> **Title card：** And Now, the Curtain Call
-
-The youth are sailing for a new world.
-
-While the old are saying goodbye to the world they knew.
-
-> **Title card：** Office of Director, Laplace
-
-**Lucy**：Fifteen plugs. This should be enough to cover all socket types at our destination.
-
-**Lucy**：Simone, pass me the experiment log, please.
-
-She brushes the dust off the desk and takes a final inventory of the lab's equipment.
-
-She leaves the lights off, not needing them any longer.
-
-An urgent knock sounds from the door.
-
-**Lucy**：Come—
-
-Before she finishes her protocol for human social customs, the door barges open.
-
-**Enigma**：Madam Lucy, is it true? Are you leaving Laplace?
-
-**Lucy**：Yes. The inquiry is over.
-
-**Lucy**：This is the decision of all parties involved.
-
-**Enigma**：You have got to be kidding me!
-
-Enigma pounds the table, sending the dust from the experiments into the air.
-
-**Enigma**：After all the incredible contributions you've made, they're suspending you?!
-
-**Enigma**：This is absolutely ridiculous! Without you, there would be no umbrella, and everyone would've died from the side effects!
-
-**Lucy**：Hm, but many did perish because of me. I had underestimated the danger of the ritual, and it ended up spreading uncontrollably.
-
-**Lucy**：Did you not once have the same opinion, Researcher Adler Hofmann?
-
-**Enigma**：I ...
-
-The robot gives him a friendly nod.
-
-**Lucy**：It is surprising to see you change your mind so quickly.
-
-**Lucy**：But that is just what Laplace needs: the spirit of rationality and self-evolution.
-
-The documents have been filed away.
-
-Simone walks up to Lucy and takes the heavy experimental apparatus from her hands.
-
-As the dust rises from their movements, Enigma lets out a cough.
-
-**Lucy**：I can imagine how they came to this decision. They must have considered the backgrounds of all the employees, including their social status and race.
-
-**Lucy**：After eight years, we finally created an umbrella to withstand the "Storm." However, our methods for achieving such progress and breakthroughs were too much for some to handle.
-
-**Lucy**：People needed an outlet for their frustrations, so someone had to be held responsible for the accidents and casualties.
-
-**Lucy**：Numerous complaints have been filed against me, accusing me of being a cold, heartless opponent of humanity.
-
-**Lucy**：Within the Foundation, Zeno, and even here, some are starting to question the idea of having an Awakened piston as the leader of Laplace.
-
-**Lucy**：They argued about my arcane abilities, unsure if I had them under control or if they were becoming unstable and affecting my ability to make rational decisions.
-
-The robot realizes an overlooked detail.
-
-**Lucy**：Hm. I did give the knot to Ms. Kakania in violation of the confidentiality agreement.
-
-**Lucy**：But ultimately, it helped people survive, and that is all that matters.
-
-But Enigma does not pick up on this realization.
-
-He's already enraged, fists clenched in a ball.
-
-**Enigma**：So they're questioning your standing because you're an Awakened, an arcanist?
-
-**Enigma**：They're doubting the rationality of a machine that values technology and progress above all else?
-
-**Enigma**：Could anything be more absurd? Even I, a human, was on the verge of giving up! It was you who convinced me to save our species!
-
-**Lucy**：My question is, why are you so upset?
-
-**Lucy**：This does not affect you. In fact, you may be promoted. Laplace is setting up a new department, and you and Ulrich should have been invited to head it.
-
-**Enigma**：Because this is damn unjust!
-
-**Enigma**：These people don't know you. They haven't worked with you or even listened to you, yet they happily reap the fruits of your labor while showing you no respect.
-
-**Enigma**：The only reason you're getting suspended is because you, an Awakened, can't really die! Or they'd be honoring you with a medal on your grave right now!
-
-**Lucy**：Hmm. Maybe you should take up that offer.
-
-**Lucy**：At least you will get a promotion as a just reward.
-
-Enigma opens his mouth, but no sound comes out.
-
-He wants to tell her she's wrong about him wanting the promotion, but he's too flustered and angry to speak.
-
-The robotic eye slit pulses, and she continues in her unemotional tone.
-
-**Lucy**：By the way, Ulrich ended up receiving a medal, but like you, he was not exactly thrilled either.
-
-**Lucy**：He is outside the committee building, refusing to eat in protest. But everyone knows how resilient the Awakened can be. It is going poorly.
-
-She shakes and sighs, deeply remorseful for her subordinate's behavior.
-
-**Lucy**：I will suggest that one of you take this position. No one knows this research better than the two of you.
-
-**Enigma**：Not a chance!
-
-**Lucy**：The research must progress, and you also need to ensure that the results will not be abused.
-
-A valid concern.
-
-**Enigma**：S**t! You're right.
-
-Enigma is caught in a fierce battle between his principles and his duty.
-
-But the robot doesn't notice these unimportant details.
-
-She nonchalantly walks over to the chair and runs a final battery check.
-
-**Lucy**：The punishment does not bother me, Researcher Hofmann. Power exists only in your dictionary, not mine.
-
-**Lucy**：From the moment of my awakening, I have been unable to comprehend you creatures. And even now, that remains unchanged.
-
-She states, with no emotion added to embellish her delivery.
-
-Enigma's mouth falls open in shock. Meanwhile, the robot just keeps on talking.
-
-**Lucy**：We operate in different ways, just like how our fuels differ. But the bright side is, our paths align.
-
-**Lucy**：Whether we are creatures or machines, humans or arcanists, most of us strive for a better life. It is this primal desire that drives "progress."
-
-**Lucy**：That is why I put on the mask of a human and work on improving my appearance and speech, all for the sake of better communication with you.
-
-**Lucy**：Unfortunately, my efforts do not always pay off. Some say that the more human-like I appear, the more different I seem.
-
-She shakes her head with regret.
-
-**Lucy**：But I am who I am, and my motivation is not to gain recognition from others.
-
-**Lucy**：Our aligned path leads us to "progress," and that is all there is to it.
-
-**Lucy**：Thanks to the invention of the umbrella, Laplace can now resume its research unhindered. And if there is someone better qualified to lead, I am more than willing to remain a humble cog in their machine.
-
-**Lucy**：Besides, Ms. Z introduced me to a beautiful resort. The lake there is rich with arcane power, perfect for an Awakened arcanist like me.
-
-**Lucy**：Not only is it a resort, but also an independent team with a good amount of freedom. My only concern is if they have adequate power supply.
-
-**Lucy**：Oh, rust might be a problem. Perhaps I should ask Researcher X about his "Titanium Derust Machine."
-
-**Enigma**：...
-
-The robot is happily thinking about her vacation plans.
-
-She has completed all preparations for departure.
-
-**Lucy**：Time to go, Simone.
-
-**Enigma**：Madam Lucy. Please take a look at this before you go.
-
-A stack of reports is handed in front of her.
-
-**Enigma**：This is the report you compiled during the "Storm" countdown, detailing 126 side effects and how the scroll alleviates them. I have some questions about the data for Type 34.
-
-Lucy flips it open and dutifully goes through the list one last time.
-
-**Lucy**：Yes. I can see a few errors in here.
-
-**Lucy**：Unfortunately, I have to complete all of the handover procedures today. Perhaps you can ask Mr. Ulrich about it later.
-
-She hands it back to Enigma, but he does not reach for it.
-
-He looks at her, grief-stricken.
-
-**Enigma**：The side effects left a mark on you, didn't they?
-
-**Enigma**：There are 162 side effects, not 126. There was also an obvious typo in the data for Type 34. We noticed it long ago and corrected it, took only 5 seconds.
-
-**Enigma**：You sacrificed so much for this report, yet you could not see such glaring mistakes.
-
-**Enigma**：You called me Researcher Hofmann earlier—a name you haven't used since you took over Laplace eight years ago. To avoid confusion with my sister, you and our colleagues started calling me Adler instead.
-
-Moving closer, he asks grimly.
-
-**Enigma**：How much data did you lose to impair your research abilities like this?
-
-**Enigma**：Is this why you have to leave Laplace now?
-
-**Enigma**：The progress you've made has helped so many, but at what cost to your own well-being!
-
-The robot does not answer, a rare occurrence.
-
-From her side, Simone gently takes the file for her.
-
-**Assistant Simone**：We should go, Madam Lucy.
-
-**Lucy**：Hm. Goodbye, Researcher Adler.
-
-**Lucy**：Thank you for correcting my mistake.
-
-She walks away with steely steps, not looking back.
-
-**Enigma**：Alright, fine!
-
-He grips the doorframe, ignoring the strange looks from the hallway.
-
-**Enigma**：I'll take up that role and do what you've been nagging me to do. I'll take care of those pesky committees.
-
-**Enigma**：But just so you know, I'm not doing this for the higher-ups who look down on us,
-
-**Enigma**：but for the people who look up to us from below!
-
-**Lucy**：...
-
-The footsteps continue in rhythm.
-
-Her duty here is done.
-
-Then, another voice calls out.
-
-**Cryptography Lead**：Madam Lucy!
-
-**Lucy**：Hm?
-
-The corridors are bustling with people.
-
-Researchers, clerks, directors, and security ...
-
-Every Laplace employee is in the corridors, from bottom to top floor.
-
-The same voice shouts.
-
-**Cryptography Lead**：All attention!
-
-**Cryptography Lead**：Salute!
-
-Papers litter the air like snowflakes.
-
-Everyone says goodbye in their own language, tossing files over the railings.
-
-The countless drafts, designs, and forms from the past 24 hours rain down.
-
-They were created for the "Storm," and have completed their mission.
-
-Just as did the robot.
-
-**Lucy**：Simone, why are they throwing papers at me? Are they rejecting me and banishing me?
-
-**Assistant Simone**：On the contrary, madam, they are showing their reverence.
-
-**Lucy**：Oh, I see.
-
-The robot is without a face and emotion module today, so she turns away from the crowd.
-
-The sunlight dances on her metallic surface, enveloping her in a golden aura.
-
-**Lucy**：Let us go, Simone.
-
-**Lucy**：I miss the Laplace chargers already.
-
-**Lucy**：There is a 230-volt bath at the resort, right?
 
 > **Title card：** THE END
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · /lo/ - So which poor sap's up for the spot next?
 
@@ -16395,8 +15211,6 @@ The sunlight dances on her metallic surface, enveloping her in a golden aura.
 
 0001 Anonymous No.92272174 ▶ Lucy has resigned. Who'll be in charge now? 0002 Anonymous No.92272271 ▶\>\>92272411 Ulrich? He's the second most reliable awakened in the Scientific Computing Center. 0003 Anonymous No.92272305 ▶ Someone other than Lucy, I guess. 0004 Anonymous No.92272379 ▶ No one wants that seat. It's electrified. 0005 Anonymous No.92272411 ▶\>\>92273050 \>\>92272271 Ulrich is the most opposed to this idea, he's on a hunger strike in front of the committee building. I guess he'd rather starve to death than sit in that electric chair. How about John? He's a man with clear logic and good project management skills. 0006 Anonymous No.92272669 ▶ Lucy was an excellent leader, the casualties this time shouldn't be her fault. The best option is to let her come back. 0007 Anonymous No.92273050 ▶ \>\>92272411 Which John? I hope you don't mean the one who speaks in hexadecimal. 0008 Anonymous No.92273059 ▶\>\>92273342 \>\>92273451 I recommend John from the mechanical engineering group. He's very creative and forward-thinking—definitely the right person to run the Scientific Computing Center. 0009 Anonymous No.92273342 ▶ \>\>92273059 Last week's major power outage was caused by that John from the mechanical engineering team starting all the lab machines in parallel. He's been suspended and has been undergoing psychiatric evaluation ever since. I'd rather pick the John from the medical team. 0010 Anonymous No.92273451 ▶\>\>92273773 \>\>92273059 John from the medical team caused a huge explosion while testing a new drug formula last month. Luckily, since he's from the medical team, help was at hand, and he's still sleeping like a baby in his hospital bed right now. 0011 Anonymous No.92273773 ▶\>\>92273887 \>\>92273451 What about John from the theoretical physics lab? His projects are absolutely safe, there's never been any danger, and there won't be any in the future. And he only cares about logic in all things—simply the perfect candidate for the man in charge. 0012 Anonymous No.92273887 ▶ \>\>92273773 John from the theoretical physics lab applied for a transfer a long time ago. The only person still hanging on to that group is probably Adler who forgot to transfer his files ... so Adler is indeed currently the best theoretical physicist in all of Laplace (no need to even add "one of"). 0013 Anonymous No.92273982 ▶\>\>92274029 In the entire Scientific Computing Center, we can't find a John suitable to take charge. Isn't there a John with the judgment, execution, and long-term scientific vision of Lucy? One who will unconditionally support our research, and even be willing to approve funding for X's strange inventions or new theories on the study of ley lines? A better sense of humor than Lucy's would also be a plus. 0014 Anonymous No.92274029 ▶\>\>92273987 \>\>92273982 I think you might be able to find a John funnier than Lucy, but that's it. My suggestion is that we all join Ulrich in preventing any politician John or placeholder John from being put in that position, and on that basis, demand Lucy's return. 0015 Anonymous No.92273987 ▶ \>\>92274029 Good idea, see you in front of the committee building. 0016 Anonymous No.92274024 ▶ I'll bring a few decks of cards. And can someone tell me why we're only considering Johns?
 
-- Description：Pale green characters flicker incessantly, and in a second, dozens of messages appear on the fluorescent screen at the same time. It is clear to see that life must go on.
-- Action：Read
 
 
 ---

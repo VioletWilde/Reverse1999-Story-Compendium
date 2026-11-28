@@ -2793,8 +2793,6 @@ Without realizing it, she departs the second floor and follows the sound into th
 
 With the cascading moonlight and melodious singing, the scene laid out before her is one that defies description.
 
-Yenisei: What ...Yenisei: The striped horses—how come they are ... glowing?!Yenisei: What ...Yenisei: What on earth is happening?!
-
 **Yenisei:** What ...
 
 **Yenisei:** The striped horses—how come they are ... glowing?!
@@ -5700,8 +5698,6 @@ He knows that Bessmert must not be talking to him, as the blind arcanist continu
 But then he is wrong yet again.
 
 **Getian:** Who is ... that?
-
-The sound everyone present can hear becomes louder and louder against the breaking silence, accompanied now by nothing but the patter of the rain, to the point where they all turn back in response—All they see is a red dress swiftly passing over them all.It is Jiǔ Niángzǐ.
 
 The sound everyone present can hear becomes louder and louder against the breaking silence, accompanied now by nothing but the patter of the rain, to the point where they all turn back in response—
 

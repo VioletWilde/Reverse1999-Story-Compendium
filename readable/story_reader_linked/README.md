@@ -19,3 +19,5 @@
 [2026-11-25 正文修订](../../structured/story_reader_proofreading_20261125/README.md)
 
 [2026-11-28 阅读文字修订](../../structured/story_reader_proofreading_20261128/README.md)
+
+[2026-11-28 重复收录修订](../../structured/story_reader_repetition_20261128/README.md)

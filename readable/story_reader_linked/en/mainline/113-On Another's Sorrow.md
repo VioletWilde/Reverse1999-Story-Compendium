@@ -549,8 +549,6 @@ Despite repeated reinforcements, new "critical points of time" continue to surfa
 
 In summary, based on reports from all teams, we are unable to confirm Manus Vindictae's operational direction, mount a targeted counteroffensive, or slow the deterioration and expansion of these "critical points of time." Headquarters has decided to execute the evacuation plan immediately in order to preserve as many of our forces as possible. All field team leaders are to order and urge their operatives to return to headquarters without delay or proceed to the nearest shelter to take refuge from the "Storm."
 
-- Description：You can patch a leaky roof, but you can't stop the rain.
-- Action：Check Report
 
 ### Trail · Temporary Dispatch
 
@@ -570,8 +568,6 @@ Complaints From a Part-Time Guard
 
 "Fine, this is why he dumped us here. On top of standing guard and welcoming guests, we're also on riot control, reconnaissance, and counter-espionage duty—and at the critical moment, we might just end up digging a trench outside the building. Let's go, heads up. Time to rotate from patrol to the front door ... Stop it. I didn't mean for you to actually smile like that."
 
-- Description：Business trips, overtime, labor dispatch—there's always a way to get the most out of your employees. If one isn't enough, try all three.
-- Action：Hear the Complaints
 
 
 ---
@@ -1144,8 +1140,6 @@ Legends of the School Watchtowers
 
 \[The last page torn from a book, treated with a visibility potion—the invisible ink now exposed.\] This afternoon I overheard the instructor slip up—she said something like "back when the school didn't have the watchtowers ..." What does that tell us? Those five towers are no ordinary structures; they were built for a reason! Our earlier suspicions just might be right! Which one do you mean? The one about the towers being used to subdue ghosts? Or the one about locking up students who've gone mad? Both! Just think—why would the school suddenly put up towers that serve no purpose and ban every student from setting foot inside? Oh please. Maybe the name says it all—they're just there to watch us. The higher-ups have teachers on duty up there around the clock, holding a long-range stun gun, just waiting for the moment you try to slip out ... and bang, you're down. Even if there really are teachers on duty, I don't believe they can stay awake 24 hours a day. One of these nights we'll find our chance, sneak in, and figure out their secrets for ourselves! Have you lost your mind? What if there are machines inside that can spy on students? We'd get caught in no time. You're just a coward! We'll cover our faces. If something goes wrong, you run first, and I'll cover the rear. Just tell me—are you in or not? Fine ... for the sake of our friendship, I'll go. \[A report lies beneath this "secret message," with a few sharp lines on the page.\] After comparing handwriting, we have confirmed that the two students responsible are fifth-years Andrea and Oliver. I will personally reprimand them and impose a one-week detention as punishment. Given the recent rumors circulating among students regarding the watchtowers, I propose increasing patrol frequency around the watchtower perimeter and strengthening oversight of the weather-stabilizing doves housed within to avoid any lapses during inspections from the Pax House. Regarding my mistake, I can confirm that I did not mention the "Storm" or that reverse incident during the first "Storm." I will submit a three-thousand-word written apology and reflect seriously on my failures in student management.
 
-- Description：The more you try to hide something, the more curious people become.
-- Action：Read Document
 
 
 ---
@@ -1157,6 +1151,10 @@ Legends of the School Watchtowers
 
 <!-- reader-body:start -->
 George the Oak
+
+
+
+> **Title card：** Escape Plan
 
 The passage of time has done little to change the face of the old oak. Years pass by as fleeting moments, but it remains as it ever was.
 
@@ -1411,260 +1409,7 @@ The woman in question lifts her head from the neat stacks of files on her desk.
 **Ms. Stranger:** Long time no see, Timekeeper, Sonetto.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Some school traditions run older than the oak trees in the forest.
-
-### Segment 1 · `script 101304`
-
-> **Title card：** Escape Plan
-
-> **Title card：** George the Oak
-
-The passage of time has done little to change the face of the old oak. Years pass by as fleeting moments, but it remains as it ever was.
-
-And just as ever, a flock of little white doves gathers beneath its ancient boughs.
-
-**Emilia**：Are you sure this is going to work, Lucas?
-
-A short boy crawls across the ground. He seems to be searching for something.
-
-**Lucas**：You CAN leave if you don't trust me.
-
-**Emilia**：Hmph!
-
-**Emilia**：The school anthem's over. Mikey said he would sneak out when the choir was leaving the stage.
-
-**Emilia**：Then, it's time for the principal to give that same old speech that goes on and on. So, let's say 15 minutes, but we might need more time than that. Do you think we can make it?
-
-Lucas stands up and brushes the dirt from his palms.
-
-**Lucas**：C'mon Emilia, don't sweat it! You know the old man'll keep blabbing on for at least half an hour.
-
-**Lucas**：We've still got plenty of time. Just think about it: once the summoning array's done, the three of us will be free.
-
-**Lucas**：I mean out-of-the-school free.
-
-**Emilia**：...
-
-The little girl tenses visibly.
-
-**Emilia**：Out of the school, really?
-
-**Emilia**：Do you know what it's like out there? The instructor said there's a war going on. It could be dangerous.
-
-**Lucas**：Are you kidding? They just said that to scare us.
-
-**Emilia**：But why are we doing it today of all days?
-
-**Lucas**：Because it's our last good chance for the whole semester. Everyone's at the ceremony, and the guards are busy either handling the crowds or showing the Inspection Team around. I heard there are some Committee members coming this time.
-
-**Lucas**：So, will you calm down already? This was your plan, remember? Everything's gonna go just fine.
-
-Emilia—the planner between them—says nothing. She turns her head to look up at George the Oak.
-
-The grandfatherly tree has nothing to offer but stern and noble silence.
-
-Year after year, new cohorts gather beneath his bright, green leaves as they wither and dry, until they're plucked from his head by the wind and become the soft mulch on which the new class treads.
-
-**Emilia**：...?
-
-**Emilia**：Someone's coming.
-
-**Lucas**：Could be Mikey. I'll go get him.
-
-**Emilia**：Wait. Let me double-check. My arcane skill isn't totally reliable.
-
-**Emilia**：Let me see. They sound like a girl's footsteps, a bit shorter than Mikey.
-
-**Emilia**：Wait. Now I hear two of them coming this way. Is there something wrong with my arcane skill?
-
-**Matilda**：Got you!
-
-The star investigator herself pops out from the bushes.
-
-**Lucas**：Shoot! It's a monitor assistant.
-
-**Matilda**：Merel, are you in position?
-
-**Merel**：I'm ready.
-
-**Emilia**：Ah, run!
-
-### Segment 2 · `script 101305`
-
-No match for the alumni, the two young students are soon caught and detained beneath the oak tree.
-
-**Emilia & Lucas**：...
-
-**Matilda**：Another two overconfident truants. This happens every year.
-
-**Matilda**：Fortunately, your little accomplice in the choir was exposed; otherwise, you would be running free outside the school right now.
-
-**Lucas**：Urgh, you're a big jerk!
-
-**Matilda**：Wh-What? Don't you realize you could have wound up in danger if the kindhearted and brilliant Matilda hadn't stopped you?
-
-Merel rises to her feet to examine their array, and a peculiar expression crosses her face.
-
-Hapless, yet knowing, like a chef realizing too late what their recipe needed.
-
-**Merel**：You know, this array wouldn't have worked anyway.
-
-**Lucas**：What? Liar! I found it in a book. It said it could summon a gryphon.
-
-**Merel**：Uhhh, Avian Critter Behaviors and Feeding Methods?
-
-**Lucas**：What? How did you know?
-
-**Merel**：You found this array on the blank page between chapter three and four, right? Drawn in invisible ink.
-
-**Merel**："Whosoever unlocks the secret hidden in invisible ink will discover an array which summons the legendary gryphon."
-
-The young boy's eyes go wide as he realizes just how far out of his depth he is.
-
-**Emilia**：You've read that book too, haven't you? And you found this array?
-
-**Merel**：That's right.
-
-**Emilia**：You mean you went to this school?
-
-**Merel**：Of course. What are you trying to say, exactly?
-
-**Emilia**：Then, you mean we really do get to go back into the world?
-
-**Merel**：We couldn't stay here even if we wanted to.
-
-**Emilia**：The instructors are hiding something. But if we'll find out one day anyway, why don't they just tell us now?
-
-**Emilia**：Miss, why can't you just tell us what's happening out there? I swear we'll keep our mouths shut.
-
-**Lucas**：Don't bother, Emilia. They're not gonna tell you anything.
-
-**Lucas**：They know. But even if they used to be students like us, they're just like them now.
-
-**Lucas**：They'll ignore us, just like the instructors do.
-
-**Merel**：I ...
-
-Her face flushes. Terrible secrets threaten to burst from her lips.
-
-**Merel**：War ... There's a war raging out there. Honestly, I wish I could stay here at the school where it's safe. And that's not even the worst part.
-
-**Matilda**：...
-
-**Instructor**：That must be them. This way. Hurry up!
-
-An instructor arrives flanked by school security guards, disrupting their increasingly dangerous conversation.
-
-**Instructor**：Lucas, Emilia! What do you think you're doing out here? Unbelievable!
-
-**Instructor**：You're both spending the rest of the day sitting in the guardhouse! Take them away!
-
-**Emilia**：No, no! There's worms in the walls of that place.
-
-**Instructor**：Exactly! Those Shamirs are there to give you troublemakers a lesson.
-
-**School Security**：Move it, you little terrors. No more tricks. I'm watching you.
-
-**Lucas**：Let me go!
-
-The flustered instructor regains her composure and offers the Security Assistance Team a polite smile.
-
-**Instructor**：Thank you for your assistance, investigators. Rest assured, I'll be giving these two a much overdue lesson on following rules and procedures.
-
-**Matilda**：You are most welcome, Instructor. Of course, we could escort them to the guardhouse if you'd like.
-
-**Instructor**：No need for that. I'm aware you have more important tasks to do while "the skies are clear."
-
-She seizes the little doves by their wings and escorts them back to the safety of their cage.
-
-Matilda and Merel stay in place, exchanging a look of resigned acceptance, powerless to change things as they are now.
-
-**Matilda**：These students are too young to handle the truth. They don't even know they're from different eras. Could you imagine what would happen if we told them about the "Storm"?
-
-**Merel**：I do understand. I mean, I know the school's only trying to protect them, but their punishment still seems a bit much.
-
-**Matilda**：Mhm. Which is why I, the Great Matilda Bouanich, will be changing things as soon as I gain power in the Foundation!
-
-**Matilda**：But for now, let's keep our eyes on the mission, alright? There's no time to wait for Sonetto and Vertin.
-
-**Matilda**：The nearest watchtower is the one in the northwest. Let's start from there.
-
-> **Title card：** Top Floor, Northwestern Watchtower
-
-**Matilda**：So, this is the Shelter Dove.
-
-Merel stands beside the blast door, looking frozen stiff from head to toe.
-
-**Matilda**：What are you doing standing back there? Come on, I'll show you how to use the tester.
-
-**Merel**：What? I thought you said you never used it before.
-
-**Matilda**：Perhaps not, but you underestimate Matilda the Magnificent! I already figured out how to use it well in advance.
-
-**Merel**：Oh, okay.
-
-Her stiff posture finally breaks as she walks over to accept the tester from Matilda.
-
-**Matilda**：Plug the tester in at the panel on the pedestal, turn the safety knob, and press the button on the side.
-
-**Merel**：The safety knob ... Am I turning it the right way?
-
-A slight buzz emerges from the device.
-
-**Matilda**：Okay. Now the lights on the panel will tell us whether the Dove is working.
-
-**Matilda**：Verifying ID, green. Power status, green. Immunity area, also green. Good. Stellar. Superb!
-
-She withdraws the tester with satisfaction.
-
-**Matilda**：That's all there is to it. Now we head to the next watchtower.
-
-**Matilda**：By the way, I'm quite curious: how did you know the gryphon array wouldn't work?
-
-**Merel**：Because I was the one who drew it, back in eighth grade.
-
-**Matilda**：Ah, uh, what? But, but, but that's, that's vandalism!
-
-> **Title card：** Hallway, St. Pavlov Foundation
-
-**Sonetto**：...
-
-The long corridor is like a riddle whose end connects to its beginning. It loops around the Committee Building, linking various floors and rooms with meticulously designed stairways.
-
-Somewhere within that winding riddle, Sonetto comes to a halt.
-
-**Vertin**：Is there something wrong, Sonetto?
-
-The soft words sound louder and sharper in the empty hallway. The bustle of the Foundation's Pre-Storm activity hasn't yet reached this corridor.
-
-**Sonetto**：That courtroom we just passed—Mr. Creius is in there answering the Committee's questions.
-
-**Sonetto**：It was his information that led us to the Amber Room and to Bereggrad. I'm just concerned ...
-
-**Vertin**：The Foundation hasn't quizzed me on anything since I submitted my report on the Don Operation.
-
-**Vertin**：I would be in there right next to Creius if they wanted to investigate us as well.
-
-**Sonetto**：I see.
-
-Sonetto suppresses her concerns. Footsteps echo over the marble again.
-
-**Vertin**：Here it is. Let's go.
-
-> **Title card：** Foundation Office
-
-The office behind the opening door is barren of any identity, a symptom both of the occupant's recent arrival and her curious nature.
-
-The woman in question lifts her head from the neat stacks of files on her desk.
-
-**Ms. Stranger**：Long time no see, Timekeeper, Sonetto.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Homecoming Day
 
@@ -1722,8 +1467,6 @@ Improved Invisible Ink Formula
 
 \[A note in childish handwriting.\] Find a way to replace the ingredients with things that are easy to get from within the school. Ritual Offering—This sacrificial food is mostly made of flour. Maybe a handful of dry pasta will do the trick? Roaring Root—Fortunately, this main ingredient can be found right here at school. Spotted a few growing near the tree roots by the lake last week. The spell calls for Milled Magnesia—some salt from the canteen should work. Trembling Tooth—Theoretically these should be molars from small to mid-sized omnivorous arcane animals, but judging by size and pneuma content, the baby teeth collected by Ms. Tooth Fairy at the clinic might be the best option. I could take cold showers for a couple of days, then if I get sick, I'd have an excuse to visit ... but should I ask her directly or just quietly steal one ...
 
-- Description：True genius lies in finding another way.
-- Action：Read it
 
 
 ---
@@ -2194,8 +1937,6 @@ The Foundation's Medical Record Archive
 
 Classification: High Patient Codename: Moth Medical Record: Examination reveals that the patient, having returned from the Antarctic Operation, performed repeated identity overwrites throughout her long-term undercover assignment, exceeding the safe iteration threshold. The patient's Phototaxis now shows multiple unstable segments, which may affect overwrite efficacy and increase the risk of personality collapse. Brainwave activity shows an increase in fast waves, indicating compensatory neuronal overload. Neurotransmitter concentrations are imbalanced: dopamine levels have dropped to 60% of the normal range, and serotonin synthesis efficiency has decreased by 28%. Physical damage is present in the medial prefrontal cortex, with mild edema in the limbic system ... ... The patient also overextended her use of arcane skills during the Antarctic Operation, resulting in prolonged pneuma depletion. Recovery prospects are not encouraging. Strict limits must be placed on her arcane skill usage in the near term to prevent irreversible damage. During psychological evaluation, the patient exhibited mild self-perception disorder ... ... Diagnosis: The patient's brain damage is largely within controllable limits. Although a deep personality overwrite should be performed upon completion of the undercover assignment, given the critical enemy intelligence and knowledge obtained during this infiltration of Manus Vindictae, an unconventional approach has been approved: the Phototaxis overwrite will be suspended for the time being. The patient will instead receive regular injections of neural repair peptides to maintain brain function. During this period, the patient's psychological state must be closely monitored to confirm the results of cognitive anchoring.
 
-- Description：Can the sum of the mind and the spirit be reduced to scientific data?
-- Action：Read File
 
 
 ---
@@ -3389,8 +3130,6 @@ Running Out of Disks
 
 **A Brief Overview of Teleport Disk Usage in the Current Era** **1. General Situation** Headquarters's teleport disk supply across all departments is critically low. As a single-use item with a limited capacity per teleportation, emergency rationing remains in effect based on current inventory. Priority is given to frontline and core mission units. Requests for additional supplies will not be approved outside of special emergencies or critical needs. **2. Cause and Background** The only known source of the primary materials for teleport disks is located in the core conflict zone of the ongoing war. Extraction operations have been fully suspended, and supply routes remain blocked. As a result of these uncontrollable factors, teleport disk production has dropped significantly, inventory continues to decline, and resupply remains uncertain. **3. Conclusion** Due to the disruption of material supplies, teleport disk stocks have entered a critical shortage. The Laplace Scientific Computing Center is actively researching substitute materials. Headquarters requires all departments to strictly adhere to rationing standards and optimize usage strategy. All combat objectives must be carefully evaluated, with disks reserved for critical junctures capable of turning the tide of battle, in order to manage current and future supply pressures.
 
-- Description：Soldiers, time to tighten our belts!
-- Action：Check Notice
 
 
 ---
@@ -4480,8 +4219,6 @@ The Wearable Equilibrium Umbrella is a compact version of the standard Equilibri
 
 3. Armed units are advised to request backup Wearable Equilibrium Umbrellas and a number of standard Equilibrium Umbrellas when submitting their application, in case of emergencies.
 
-- Description：This product has not been field-tested in the "Storm." Handle with care.
-- Action：Read
 
 
 ---
@@ -5759,8 +5496,6 @@ Manus Vindictae Leaders
 
 \[A flowing handwritten note; faint scale powder clings to the paper.\] **Taira** His true form is a crab that latches onto the faces of others. Through his arcane skills, he can control the movements of his host. The death of the host does not harm him. Always be wary of the crab. **Lyra** She can control—or amplify?—emotions through song. Her voice is highly mobile, and her wind-based arcane skills are wide-reaching and difficult to guard against. **Ustrina** The medium of her arcane skills is possibly a shadow in the shape of a sickle. She can use it to inflict mental damage, though her victims show no visible physical wounds or signs of pain. Evade the sickle, and use mental defense arcane skills if possible. **Hypothetik** He takes the form of a giant stitched puppet. His arcane skills allow him to implant emotions, beliefs, or fragments of consciousness into the minds of others—most commonly fear. Counter him the same way you would against Ustrina. **İlmek** No arcane skills have been observed, but her strength and endurance far exceed ordinary limits. Avoid engaging her up close. **Prima** Skilled in hypnosis and torture, and known for her brutal nature. Her mother, Animus, was a Manus Apostle and died during the Antarctic incident. ... No deeper contact has been made with the remaining leaders. Physical descriptions of suspected leaders are recorded in the appendix.
 
-- Description：Those still fresh—and those you've grown tired of.
-- Action：View the List
 
 
 ---
@@ -6429,8 +6164,6 @@ Igor and his Gryphon Legion have rescued the Foundation's support convoy. I need
 
 Don't ask. I never agreed to take part in this operation, and I still oppose the attack on the school. Pointless fighting and bloodshed do no good for the future of arcanists ... But I still have my duty to fulfill. Whatever comes, we must give everything we have to Her cause. That's all—I'm only here to deliver this message. Don't come looking for me. I'll be gone soon. \[The sweet fragrance and the faint voice fade together.\]
 
-- Description：Honey, tears, and whispers flow from the heart of the flower.
-- Action：Sniff Carefully
 
 ### Trail · Secret Communication
 
@@ -6444,8 +6177,6 @@ Burn After Reading
 
 \[A quill grows hot without warning. Drawn from a uniform coat pocket and set upon blank paper, it begins to move on its own, leaving lines of scorched writing.\] SPDM is under attack by Manus Vindictae. I'm on my way to assist. The attack came without warning. Amid the Foundation's admitted persons expansion, headquarters is crowded with unfamiliar personnel. I suspect Manus Vindictae's plans run deeper than this. Share any relevant intelligence if you have it. Fewer than three hours remain until the "Storm." Stay cautious. \[As the admiral reads the final word, the quill's glow dims. The writing catches fire along with the paper, consuming it in an instant, leaving not even ash.\]
 
-- Description：Allies always need a way to communicate in secret.
-- Action：Take Out the Quill
 
 
 ---
@@ -7115,6 +6846,10 @@ Ten seconds pass. Then, a little blackbird clumsily flies from the library's nor
 <!-- reader-body:start -->
 Foundation Office
 
+
+
+> **Title card：** Thorny Thicket
+
 **Soldier I:** Have you lost your mind? Get out from under there, now.
 
 **Registrar:** I ... I ...
@@ -7426,326 +7161,7 @@ She smiles and hands over a mask that Ms. Stranger is all too familiar with.
 **Ms. Stranger:** Your warning is appreciated, truly, Researcher Marguerite.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Life finds a way, as it always has.
-
-### Segment 1 · `script 101322`
-
-> **Title card：** Thorny Thicket
-
-> **Title card：** Foundation Office
-
-**Soldier I**：Have you lost your mind? Get out from under there, now.
-
-**Registrar**：I ... I ...
-
-He trembles in his checkered uniform, frozen in a corner. The paleness of his face is rivaled only by his white knuckles as he grips a stack of papers for dear life.
-
-**Soldier I**：Forget your bloody paperwork. Just get somewhere safe.
-
-**Registrar**：Those things out there ... Are-Are they ...
-
-**Soldier I**：Yeah. Nowhere's safe anymore. Welcome to reality, sunshine.
-
-**Soldier I**：Now get on your feet and help me move this table outside. We need to barricade this place.
-
-**Registrar**：Wh-What about those monsters? What do we do about them?
-
-**Soldier I**：We put a bullet through their heads, if we're lucky.
-
-The soldier pauses, realizing in that moment the reason for the young man's terror.
-
-**Soldier I**：For Pete's sake, don't tell me this is your first time seeing the Manus up close.
-
-The terrified young man nods. Years of experience and long tenure in the Foundation's bureaucracy count for little in this moment.
-
-**Soldier I**：Well, I'll be damned. I fight these things every day, and half of you checkerheads haven't even seen one in the flesh!
-
-**Soldier I**：Listen, if all you're going to do is stand there shaking, then I'm leaving without you. I've got to try to find my team.
-
-**Registrar**：No, wait, wait! Please, don't leave me here.
-
-**Soldier I**：Alright, then what are you going to do?
-
-The registrar finally pries himself up from the corner.
-
-**Registrar**：I'll come with you. Let's move this table outside.
-
-> **Title card：** Fourth Floor, Committee Building
-
-**Soldier I**：Just a little more.
-
-**Registrar**：Ugh!
-
-Outside the office, staff dressed in checkered uniforms flit around like a startled flock of birds, their "wings" flapping without any clear direction.
-
-**Irinei**：Non-combatant staff must evacuate to higher floors immediately. Clear the main stairwell—military use only.
-
-**Foundation Staff Member I**：No, no. Don't jump. This is the fourth floor.
-
-**Foundation Staff Member II**：Out of the way. Soldier, find me a weapon.
-
-**Irinei**：Enough. We don't need file clerks wasting ammunition. Just find somewhere safe with the rest of your colleagues.
-
-Amid the flurry of documents stand several operation team members, calm and composed.
-
-**Operation Team Leader I**：Looks like you're free for now, Creius.
-
-**Creius**：For the moment, yes. The trial will start up again once this all blows over, assuming we're still alive.
-
-**Creius**：Where's my squad?
-
-**Operation Team Leader I**：They're with the Quick Reaction Force that was sent to the SPDM. We've lost contact with all our operatives in the field.
-
-**Creius**：I suppose that makes me the sole member of the "XII," then.
-
-**Operation Team Leader II**：We've attempted to reach "Razor" and the others, but so far we've got nothing. They may have gotten cut off downstairs.
-
-**Creius**：What's the ETA on reinforcements?
-
-**Constantine**：Fifteen minutes.
-
-Constantine hasn't left her post yet, but the front line creeps closer to her door each moment.
-
-**Constantine**：Inform everyone you can reach: air support is on its way.
-
-**Creius**：With respect, ma'am, you ought to at least be giving your captains the hard truth.
-
-**Constantine**：Forces are an hour out, maybe more. Until then, we hold the line. Understood?
-
-**Creius**：Understood. Reinforcement ETA: 60 minutes.
-
-**Z**：Ma'am, we have representatives from the House of Integratus waiting. They request a brief meeting.
-
-**Constantine**：I'm on my way. Best of luck, soldiers.
-
-**Z**：Godspeed, officers.
-
-With that, the gathered politicians hurry away.
-
-**Operation Team Leader II**：Plan's simple. We let them push up, layering out a defense in depth, giving ground as necessary to conserve ammo and avoid exposure to the "Storm."
-
-**Operation Team Leader II**：Priority for now is to buy time for all non-combatant staff to reach the top floor. If reinforcements don't come in time to save our necks, then at least we'll die standing.
-
-He pats Creius's shoulder.
-
-**Operation Team Leader II**：The Dispatch Center will be coordinating our teams to focus on the Manus's arcanist troops. You coming with us, Creius?
-
-**Creius**：The "XII" Squad always stands ready, even if I'm the only one left.
-
-**Creius**：Let's move out.
-
-Their team moves through fleeing bureaucrats and takes the stairs down toward the ever-nearing battle.
-
-> **Title card：** Third Floor, Committee Building
-
-**Foundation Security**：Get down!
-
-Thick cement manages to block a fatal incantation.
-
-Crouching low behind cover, Creius makes his way to the commander's side.
-
-**Creius**：We're from Special Operations. What's the situation here?
-
-**Foundation Security**：We've lost the second floor. The Manus are pushing up the main stairs.
-
-**Foundation Security**：We've got nothing reliable on their numbers or composition, sir. At this rate, I doubt we can hold the third floor for long.
-
-**Foundation Security**：Dispatch told us reinforcements are coming. What's their ETA?
-
-**Creius**：Um. We need you to hold on for 15 minutes. Understood, soldier? Spread the word.
-
-**Foundation Security**：Fifteen minutes. We can manage that.
-
-The defenders steel themselves and fight with renewed vigor. Their flagging morale is centering on a single clear goal: 15 minutes, hold the line. That's it.
-
-At the far end of the room, a Manus soldier leaps out of cover. Both sides are close enough to make out each other's expressions.
-
-**Krutov**：They're stalling for time. Push through.
-
-**Krutov**：We have numbers on them. They won't hold. Units Two and Three, probe for any weak points in their defenses.
-
-**Manus Soldier I**：Yes, sir.
-
-Krutov's soldiers push forward with a discipline far exceeding that of normal arcanists.
-
-**Krutov**：We're behind schedule. These Foundation dogs have finally found their footing.
-
-**Krutov**：Where is İlmek? She was supposed to be leading the vanguard. Late? Or simply proving herself useless again?
-
-**Krutov**：What is it now?
-
-The tremors were not part of the plan, but Krutov has grown used to his fanatical arcanist troops acting of their own accord.
-
-**Krutov**：Whose arcane skill was that? Imbeciles! If there can be anything said for humans, at least they can follow a plan.
-
-He storms out of cover, two arcanists leaping with him to serve as his bodyguards.
-
-Krutov arrives at the outermost corridor, planning to find the source of the tremors for himself.
-
-**Krutov**：Whoever's doing this, I will—
-
-**Krutov**：...!
-
-A thick branch smashes through the Committee Building's wall.
-
-**Soldier I**：Wha—huh?
-
-**Druvis III**：No need to be alarmed, soldiers. This thicket will provide you cover.
-
-**J**：We figured you guys could use a couple arcanists on your side. Pretty sweet, huh? Hold on. Recoleta? What're you doing here?
-
-**Recoleta**：At first, I only planned to observe and record the noble deeds and heroes of this great fight.
-
-**Recoleta**：But I've had a change of heart.
-
-**Recoleta**：I will join you in this fearless all-or-nothing adventure. I'll fight, just like everyone else. Please, let me stand by your side.
-
-**APPLe**：Caution, everyone. Please clear a space around the light beam as quickly as possible.
-
-**Soldier II**：Light beam?
-
-**Soldier II**：Wait, there's something flying straight at us. Missile incoming.
-
-**Soldier I**：You heard the apple. Move it!
-
-**Nautika**：Ah!
-
-**Nautika**：Did I ... Did I land right? Everyone okay?
-
-**Marsha**：That was unlike any transport I've ever ridden before, Nautika.
-
-Marsha suppresses the momentary exhilaration of the flight and focuses her mind on the battle.
-
-**Marsha**：Don't worry. No injuries. Everyone moved away from the window. Excellent timing, Mr. APPLe. Now, do you remember what I said?
-
-**Nautika**：Y-Yes, disrupt the enemy's coordination.
-
-**Manus Soldier I**：A Chimera. It's the one from Antarctica. Then the rumors were true.
-
-**Krutov**：If I hear another word from you, coward, I will personally put an end to you. That beast there is nothing more than an easy target.
-
-**Krutov**：Now take her down!
-
-### Segment 2 · `script 101323`
-
-Manus Vindictae's assault begins to slow as the Foundation's troops establish strong points along their lines.
-
-**Foundation Security**：We can't thank you enough. You really saved our bacon back there.
-
-**Druvis III**：There's a path down to the lower floor under this tree trunk. We can use it to move between floors behind enemy lines.
-
-**Foundation Security**：Excellent news. Now we can send down teams to look for weapons and ammo.
-
-**Marsha**：On that subject, we've brought supplies from Laplace. Nautika?
-
-**Nautika**：Oh, right! I've got everything here.
-
-Nautika shakes several silver packages from her back. A tin box clatters to the ground alongside them.
-
-**Tin Box**：Ahem. Ahem.
-
-He picks up the talking tin box.
-
-**Foundation Security**：What's this?
-
-**Tin Box**：Hi there, whoever you are, this is a prerecorded instructional message from X.
-
-**Tin Box**：Now, allow me to walk you through the specifications of the equipment. First up: the semi-automatic construction arm.
-
-The aftershocks of the battle for the third floor reverberate through the building, shaking both the higher and lower levels.
-
-**Ms. Stranger**：Ms. Druvis has checked in. They've made it upstairs and joined the fight. I'm ready to set out for my mission as well.
-
-**Ms. Stranger**：I'll be going behind enemy lines in an effort to find out how they breached our security. With any luck, I might find a way to close it and isolate their forces here.
-
-**Ms. Stranger**：Researcher Marguerite, I'll leave the rest to you here.
-
-**Lorentz Butterfly**：Not so fast. It's finally just the two of us. A good chance to speak face-to-face, don't you think?
-
-The words momentarily take her away from thoughts of the battle ahead.
-
-**Lorentz Butterfly**：Let's set aside this little "saving the world" matter for the moment and talk about what really matters. I've been waiting for this since the day I joined the "boon" research team.
-
-**Ms. Stranger**：If this is about my past with the Manus ...
-
-**Lorentz Butterfly**：No, no. I have no interest in that.
-
-**Lorentz Butterfly**：Does the name "Loop Laboratory" ring a bell?
-
-**Ms. Stranger**：You know about the Amber Room.
-
-The color drains from her face.
-
-**Lorentz Butterfly**：The secret lab built after the second "Storm" in collaboration between Zeno and the Foundation. Yes, I know about the Amber Room.
-
-**Lorentz Butterfly**：I also know that, for years, Zeno has been tracking down soldiers reversed by the "Storm," labeling them as "deserters," and sending the Hush Troopers to ferry them to that very laboratory.
-
-**Lorentz Butterfly**：And I know that using the same theory and reasoning behind the vessel ensoulment experiment, they developed a new technique.
-
-**Ms. Stranger**：Phototaxis.
-
-**Ms. Stranger**：A complex technique used to engrave a subject's skin and cerebral cortex with countless arcane incantations ...
-
-**Ms. Stranger**：Enhancing their performance, resilience, and guaranteeing their unwavering loyalty.
-
-Joy, terror, pain—the emotions stir in her mind like a deadly poison.
-
-**Lorentz Butterfly**：Caring Cecilie, sweet Kayla, Grace the Specimen Enthusiast ... The Foundation has always kept you moving from one identity to another.
-
-**Ms. Stranger**：There are many things I regret doing under those stolen names.
-
-**Lorentz Butterfly**：But somehow your true self was never lost, not like with the others. I've been keeping my eye on that laboratory and its subjects. Most collapsed under the weight of their identities. But not you.
-
-**Lorentz Butterfly**：It's no exaggeration to say you are the laboratory's finest work, a perfect specimen for Constantine's needs.
-
-**Ms. Stranger**：That's quite enough. What do you want to say?
-
-**Lorentz Butterfly**：There's a puzzle I've been looking to solve all these years. And only someone who survived that system can give me its final piece.
-
-**Lorentz Butterfly**：You, Ms. Stranger, are the key to solving this mystery.
-
-**Lorentz Butterfly**：I'd like to examine your brain to see whether it can rebuild your original self after the "Storm" washes it away.
-
-A prolonged silence. But what breaks it isn't dispute, isn't indignation or concern. It's a light, almost sarcastic chuckle.
-
-**Ms. Stranger**：...
-
-**Ms. Stranger**：I'm afraid you'll be disappointed, Ms. Marguerite. The Phototaxis is no longer in me.
-
-Lorentz Butterfly is caught at a rare loss.
-
-**Lorentz Butterfly**：Luck mocks me once again. But if that's so, then tell me: Who removed it?
-
-**Ms. Stranger**：Arcana. She freed me from it in our confrontation earlier.
-
-**Lorentz Butterfly**：She does seem quite taken by you, doesn't she? Her little pet. Maybe the Foundation should have let you stay by her side.
-
-**Ms. Stranger**：It wasn't an act of kindness. She takes pleasure in the thought of me losing my mind, a mad dog off her leash, or collapsing once there's nothing left to hold me together.
-
-**Ms. Stranger**：She let me live only to savor my misery.
-
-**Ms. Stranger**：I suppose I should feel lucky to have regained my freedom, but it has come at a price—an emptiness that gnaws at me every waking moment.
-
-**Lorentz Butterfly**：So, you have your freedom, yet you're still acting as if you're under the Foundation's control. Why is that, I wonder?
-
-**Ms. Stranger**：I hate what they made me do—stealing people's names and lives. The guilt of it sits in my chest. But today, my choice is my own.
-
-**Lorentz Butterfly**：You are a strange one, Ms. Stranger. You mean to say you're risking your life for the Foundation by choice?
-
-**Lorentz Butterfly**：All the same, you've satisfied my curiosity, in a way. I suppose I should offer you something in return.
-
-She smiles and hands over a mask that Ms. Stranger is all too familiar with.
-
-**Lorentz Butterfly**：A friendly warning: this may corrupt you, and without the Phototaxis's protection, its effects could be permanent.
-
-**Ms. Stranger**：Your warning is appreciated, truly, Researcher Marguerite.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · An Unexpected Conversation
 
@@ -7777,8 +7193,6 @@ She smiles and hands over a mask that Ms. Stranger is all too familiar with.
 
 END OF DIALOGUE
 
-- Description：See? Learning a new language always pays off sooner or later.
-- Action：Listen to the Conversation
 
 ### Trail · Disagreement
 
@@ -7814,8 +7228,6 @@ END OF DIALOGUE
 
 END OF DIALOGUE
 
-- Description：Three heads—one turns left, one turns right, and one doesn't move at all.
-- Action：Listen to the Conversation
 
 
 ---
@@ -8474,8 +7886,6 @@ Then, with a flick of her wrist, Arcana sends Nautika and all the people, object
 
 Dear and wonderful Ms. Nautika, Laplace Scientific Computing Center has taken a keen interest in your new body. We are writing in hopes that you will agree to participate in our experiments and research. Rest assured, we remain fully committed to humanitarian care and professional research ethics—which is why you are welcome to check off only the projects you are willing to take part in. The research projects regarding "Mythical Body" are listed below: ✓ **1. October 13 - December 20, Research Theme: Biotic Force Field and Arcane Cell Compatibility in "Mythical Body"** Projects: Blood draw (a significant volume of blood samples is required—you are welcome to decline if you are sensitive to pain), lab analysis, Picrasma Candy sensitivity test, triathlon comparative study (humans as control group), epidermal cell stress test, unknown mucus DNA sequencing ... ✓ **2. November 4 - January 29, Research Theme: Psychological Study of Self-Identity and Special Socialization Based on the Reconstructed "Mythical Body"** Topics: Social anxiety assessment in the tiered lecture hall, avoidance-attachment relationship test in the auditorium (you are welcome to share your mythological archaeology), physical coordination test in Uluru Stadium, emotional and psychological clinical evaluation ... ✓ **3. December 15 - January 30, Research Theme: Spatial Compatibility of the Photon Dynamic Holographic Dress with "Mythical Body"** Content: Human-form photon holographic dress design study, personal aesthetic preference research (we're very curious!), compatibility study of photon dress materials with mucus and bone, cell photosensitive spectrum determination range study, height measurement, weight measurement, arm—or wing—span measurement ...
 
-- Description：Don't let the white coats and good manners fool you—those people are absolutely mad!
-- Action：Check Form
 
 
 ---
@@ -10309,8 +9719,6 @@ Queenside Attack
 
 **\[Opening: French Defense\]** ... 25. White: Queen d2 | Black: Queen e4 \[Black breaks through White's queenside.\] Krutov: "Those Foundation office rats don't know the first thing about combat. Keep the pressure on the front lines! Push forward!" 26. White: Queen xg5+ | Black: Queen g6 \[Black's kingside is exposed—White's queen strikes.\] Krutov: "What in the hell are those people in the back doing with their arcane skills? ... Never mind them—more firepower! Tear a hole in this line!" 27. White: Rook xg6+ | Black: fxg6 \[White presses the attack against Black.\] Krutov: "Hold the line until reinforcements arrive ... What are the 'orchestra' and those 'gatekeepers' doing?" **\[Middlegame: Kingside Storm\]** ... 31. White: Bishop xg6 | Black: Knight d5 \[White clears the queenside—the tide turns.\] Krutov: "Where are the reinforcements? Where the hell are they?!" 32. White: Queen xb7 | Black: King xg6 \[White's pieces strike back at Black.\] Krutov: "Say that again—what do you mean, 'The traitor has destroyed the main channel of our network'?! Where the hell are Lyra and that pile of scrap metal?" 33. White: Queen xa8 | Black: Knight xc3 \[Black's pawns make a desperate last stand.\] Krutov: "Where do you think you're going?! There's no retreat! Stick to the plan! Break through their last line of defense!" **\[Endgame: Battle for the Post\]** ... 46. White: Queen b2 | Black: King d1 \[Black risks it all on promotion.\] Krutov: "There's nowhere to go but forward—so fight like your lives depend on it! Keep tearing through these Foundation scum!" 47. White: Queen xc3 | Black: c1=Queen \[Black pawn promotes to Queen.\] Krutov: "She will come for us! Hold the line!" ...
 
-- Description：Black and white pieces land; the scales of attack and defense change hands.
-- Action：Check Battlefield
 
 
 ---
@@ -10638,6 +10046,8 @@ Sonetto can't see anything in the empty hall around them.
 > Even the untouchable has a texture.
 
 <!-- reader-body:start -->
+> **Title card：** A Peek into Fate
+
 **Sonetto:** Then the attack on the SPDM was a diversion. They wanted to pull Foundation forces away from headquarters.
 
 **Sonetto:** Right now, Arcana has found her way into the Foundation, and the "Storm" is closing in on SPDM.
@@ -10945,320 +10355,7 @@ She casts aside her now-useless pistol and everything else weighing her down. Al
 She rushes into the rain.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Even the untouchable has a texture.
-
-### Segment 1 · `script 101333`
-
-> **Title card：** A Peek into Fate
-
-**Sonetto**：Then the attack on the SPDM was a diversion. They wanted to pull Foundation forces away from headquarters.
-
-**Sonetto**：Right now, Arcana has found her way into the Foundation, and the "Storm" is closing in on SPDM.
-
-**Sonetto**：And here we are stuck in whatever this place is, doing nothing.
-
-Her low muttering makes the corridor feel all the more desolate.
-
-**Vertin**：...?
-
-Brushed by a fingertip, the golden threads begin to drift through the air. Their knotted forms tremble in the darkness.
-
-Somewhere within the body, an innate ability, mysterious and distant, is quietly waking.
-
-**Vertin**：I think I've found a path. Let me try something.
-
-**Vertin**：Sonetto, this way. This is our way out.
-
-**Sonetto**：But you're pointing out the window.
-
-Her mind tries in vain to make sense of what her eyes are taking in.
-
-**Vertin**：Then we need to jump out of it. Just trust me.
-
-**Sonetto**：Of course.
-
-She opens the window. Below them lies the garden that the Foundation so carefully tends to its trademark austere perfection.
-
-Conviction and trust conquer her innate fear of heights.
-
-She climbs onto the windowsill first and crouches there, then offers her hand.
-
-**Sonetto**：Please take my hand. Slowly, please. Careful.
-
-**Vertin**：Let's get out of here.
-
-The labyrinth created by the "boon" is silent and void of any traces of life.
-
-But in free fall, the wind's howl still passes through the ears.
-
-**Vertin**：Sonetto!
-
-At some point, the tightly clasped hands loosen as the two plunge into darkness.
-
-**Vertin**：Mmm?
-
-The fall has stopped. The body is upright, feet pointed down, no longer adrift in the void.
-
-**Vertin**：My sight's restored. I can see again.
-
-**Vertin**：No. This isn't right.
-
-**Vertin**：...
-
-**Vertin**：These threads, the woven net ... I've seen this before.
-
-The golden threads drift against the fingertips, like the strings of an instrument waiting to be played.
-
-**Vertin**：What are they? I can touch them, even pluck them.
-
-**Vertin**：Why are they revealing themselves to me?
-
-"You know the ways of time and fate."
-
-**Vertin**：...
-
-The palm presses onto the sand table, which is nearly submerged in the black torrent.
-
-**Vertin**：...!
-
-The black tide recedes, and in its wake, it leaves an unstable seed.
-
-**Vertin**：Is this another game of yours, Arcana?
-
-The tower of threads, gnawed full of holes, sways as if built on shifting sands.
-
-Right before it crumbles, the hand instinctively reaches out and catches this precarious destiny.
-
-**Vertin**：One day, I will uncover its secret.
-
-**Lucas**：The door's open again.
-
-**Merel**：The thing we're after should be right behind it.
-
-Merel presses a hand to the somehow unlocked door and pushes it open a crack to peer inside.
-
-**Merel**：...!
-
-Merel pushes the children back before slipping inside.
-
-She pulls the door shut.
-
-**Merel**：Stay back. Don't come in.
-
-**Lucas**：What? What's wrong? What's in there?
-
-**Merel**：It's ... It's better if you don't see.
-
-She turns around and locks the door, locking the children away from the sight that now confronts her.
-
-**Merel**：...
-
-At last, an explanation for the missing teachers and guards, dreadful as it may be.
-
-**Merel**：All the instructors, the guards, even the principal ...
-
-**Merel**：Ugh!
-
-She forces back the bile rising in her throat at the sight.
-
-Yet despite the carnage, she feels almost calm.
-
-**Merel**：Alright, Merel. You can't mess this up.
-
-The SPDM's last line of defense against the "Storm" has fallen from its perch. The Dove's body, split into two, lies bloodstained and battered on the floor.
-
-**Merel**：Shelter Dove's gone. But there should still be spares somewhere.
-
-She kneels and pushes a corpse aside, searching for an intact Shelter Dove.
-
-**Merel**：Come on, now. They're only dead people. They can't hurt you.
-
-**Merel**：You've seen worse. With Charon, remember? I wonder what he'd do if he were here.
-
-She blinks. With mechanical movements, she turns over another instructor's lifeless body.
-
-**Merel**：...!
-
-Sheltered beneath the body lie several Shelter Doves, mercifully undamaged.
-
-**Merel**：Ms. Fogel ...
-
-Memories of her flood through Merel's mind, but one thing she refuses to do is think on the anger she once felt at her for sending her to detention all those years ago.
-
-She wipes away the tears welling in her eyes with a shaky hand, then gathers the Shelter Doves in her arms.
-
-**Emilia**：Merel? Are you okay in there? It's getting dark outside.
-
-**Merel**：Y-Yes. I found it. Just a minute. Stay right there.
-
-The solemn shutting of the door behind her feels like shoveling the last bit of dirt over a grave.
-
-**Lucas**：So, inside there ...
-
-**Merel**：Your teachers and the guards did everything they could to protect you. That's all you need to know.
-
-The students can read the overwhelming sorrow on her face, but they remain silent, unsure of what to say.
-
-The clouds heralding the "Storm's" arrival have blotted out the sun, and the loss of power has plunged the school into darkness. The Doves she holds are their only source of light.
-
-**Merel**：Take these.
-
-She hands the Shelter Doves to the students, keeping one tucked into her own arms.
-
-**Emilia**：Glowing doves?
-
-**Lucas**：You came all this way for some dove sculptures?
-
-**Merel**：Yep. Now, we need to get these to the library. They're our only chance to survive the "Storm."
-
-She's given up on concealing the "Storm" from them, protocol or not.
-
-**Emilia**：But what about the monsters? They could still be on the first floor.
-
-**Merel**：Leave them to me. I'll get you out safely.
-
-Merel leads them back to the second floor. The blast door leading to the first floor is just as they'd left it—locked.
-
-She presses an ear to the door and frowns when she hears footsteps behind it.
-
-**Merel**：Listen carefully. You two hide in the air vent.
-
-**Merel**：I'll go first and draw the monsters upstairs. You go down the vent to the ground floor and run as fast as you can to the library.
-
-**Lucas**：But what about the monsters outside? How-How can Emilia and I get past them?
-
-Lucas's bravado disappears, and the terrified child remains.
-
-**Emilia**：I know exactly what to do.
-
-**Emilia**：We use your invisibility grenade before we get out of the vent. Then we just have to get to the library before it wears off.
-
-Emilia details her plan with confidence.
-
-**Merel**：Brilliant, Emilia. You do exactly that. Take the Dove to the library to save your friends. Assistant Monitor Lavender will be there. I'm sure she'll be impressed.
-
-**Emilia & Lucas**：...
-
-**Merel**：...!
-
-A powerful burst of arcane energy blasts a hole through the door.
-
-**Merel**：No. That glow ... I've seen it before.
-
-**Merel**：So, there's more than one of those things.
-
-Another beam cuts through the hole, this time striking the wall just above the vent.
-
-Rubble falls and blocks the vent's entrance, but the impact also blasts a hole in the watchtower's wall.
-
-**Merel**：Emilia? Lucas? Are you alright?
-
-**Emilia**：I'm fine. We're fine.
-
-**Lucas**：It-It tore a hole through the wall, just like that.
-
-**Manus Disciple**：...
-
-A familiar, intact head peeks through the hole in the door.
-
-**Merel**：Bloody!
-
-**Merel**：Move, now. Through the opening. I'll help you land with a levitation incantation.
-
-**Emilia**：What about you?
-
-**Merel**：I'll be right behind you. Remember, once you land, run straight to the library. Watch out.
-
-The door, unable to withstand further damage, falls to the ground.
-
-**Merel**：Go! Now!
-
-Merel hoists them up and pushes them through the hole.
-
-**Emilia & Lucas**：Ah!
-
-**Merel**：Ŝvebi   Stay!
-
-**Emilia**：Merel!
-
-**Merel**：I'll see you at the library.
-
-**Merel**：...!
-
-She turns and dodges as an energy beam carves through the wall behind her and continues into the "Storm"-wrecked sky.
-
-The disciple lowers its hand and approaches the opening in the wall, intent on breaking through it.
-
-**Manus Disciple**：...?!
-
-**Merel**：Not so fast. You'll have to get through me first.
-
-**Manus Disciple**：...
-
-The disciple's head sways as if pondering a choice. Finally, it turns to face its enemy.
-
-Merel loads her last clip and takes a deep breath.
-
-**Merel**：I've killed your kind before. I know just where to aim.
-
-**Merel**：Even if I'm on my own this time—
-
-**Merel**：I'm more than enough to take you down!
-
-### Segment 2 · `script 101334`
-
-**Manus Disciple**：...
-
-Soft tissue flows from its cracked skull.
-
-**Merel**：That's for breaking my Dove. Ugh!
-
-A sharp pain shoots up her leg.
-
-Merel lowers her gun and looks to the Shelter Dove in the corner—damaged mid-combat.
-
-**Merel**：Could be worse. Just need to remember what Marsha showed me.
-
-She slumps down against the wall, tears off part of her coat, and begins bandaging her wound.
-
-The pain spikes again as she tightens the cloth around it.
-
-**Merel**：Imagine her face. Urgh, if she could see me now. Tch!
-
-**Merel**：Not just Marsha, all of them—Charon, the "XII," Vertin ... I'll tell them—urgh! That should do it.
-
-With the wound now dressed, she lifts herself to her feet. She can walk, but each step comes with a wave of pain.
-
-**Merel**：I'll tell them I didn't run away this time.
-
-She finds herself at the watchtower's base and leans onto its doorframe. The world outside looks as though it's burning.
-
-Rainwater gathers to form a puddle in a nearby crater.
-
-**Merel**：That must've been Emilia's grenade. I knew you could do it, kid.
-
-The raindrops begin to rise.
-
-**Merel**：The "Storm" ...
-
-**Merel**：I've got to get back to the library. I have a promise to keep.
-
-She casts aside her now-useless pistol and everything else weighing her down. All that's left in her arms is the dimming Shelter Dove.
-
-**Merel**：I really hope there won't be any more battles after this.
-
-**Merel**：Now, come on. After everything I've been through ...
-
-**Merel**：I can survive this!
-
-She rushes into the rain.
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -11907,8 +11004,6 @@ He turns toward the window.
 
 END OF DIALOGUE
 
-- Description：Heroes, unite! Raise the flag—it's time to fight back!
-- Action：Listen to the Conversation
 
 ### Trail · Blame Game
 
@@ -11960,8 +11055,6 @@ Let's move, Ustrina. It's not worth dwelling on.
 
 What are you lollygagging for, imbecile! Use a key or your arcane skill, I don't care, just lock the damned thing—unless you want the enemy to find us?!
 
-- Description：Failure never lacks for explanations. Don't worry—they'll always find a scapegoat.
-- Action：Listen to the Conversation
 
 
 ---
@@ -12456,8 +11549,6 @@ A Hint of Unease
 
 **Arcana Incursion Assessment Report** The following details the strategic analysis and operational assessment of the recent incursion by Arcana: **I. Assessment of Strategic Intent** Arcana's recent incursion was not aimed at territorial or resource expansion; rather, it functioned as a strategic probe. Her core objectives are assessed as follows: 1. To flush out the Pax House and force it to expose its operational movements under duress. 2. To test the Core Guard's combat effectiveness and collect critical data on our primary security assets. **II. Current Situation and Response Evaluation** The Core Guard has demonstrated exemplary loyalty and effectiveness, but its deployment into direct combat has resulted in the following consequences: 1. Premature exposure of strategic assets: The Core Guard's true capabilities and tactics have likely been compromised. 2. Partially ceded strategic initiative: We now face the threat of targeted countermeasures, while the enemy retains undisclosed reserves. **III. Conclusions and Recommendations** This confrontation has allowed Arcana to partially achieve her strategic objectives. Consequently, we recommend the following: 1. Reassess the threshold for deploying the Core Guard to prevent the attrition of strategic reserves against low-cost enemy probes. 2. Implement tactical deception protocols for the Core Guard—projecting a dummy profile alongside the active one to confound the enemy. 3. Establish a tiered response framework that clearly defines the escalation order of the Foundation's defense forces, Zeno forces, and the Core Guard. ...
 
-- Description：Humanity has always known how to survive adversity.
-- Action：Check Report
 
 
 ---
@@ -13079,6 +12170,8 @@ Constantine doesn't continue her questioning. She pauses, reflecting on her subo
 > Walk free from the maze of lies and find a treasure as light as breath.
 
 <!-- reader-body:start -->
+> **Title card：** Her Reward
+
 The Committee Building's southern garden has, for the most part, been restored to its pre-battle state.
 
 The occasional staff members hurry across it, sending shivers down the branches of the newly planted saplings.
@@ -13242,178 +12335,7 @@ The board has been reset. A new game has begun.
 **Creius:** If the Timekeeper won't work with us, then we proceed in our own way.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Walk free from the maze of lies and find a treasure as light as breath.
-
-> **Title card：** Her Reward
-
-The Committee Building's southern garden has, for the most part, been restored to its pre-battle state.
-
-The occasional staff members hurry across it, sending shivers down the branches of the newly planted saplings.
-
-**Vertin**：They've already finished rebuilding here.
-
-**Ms. Stranger**：The garden was easy. All it took was transplanting a few plants. I hear the gardeners have been enjoying experimenting with the local flora from the new era.
-
-**Ms. Stranger**：But that can't be said for everywhere. Building 5 will take some time.
-
-**Vertin**：I've heard the Foundation is borrowing offices from Laplace just to keep things running.
-
-**Ms. Stranger**：Yes. A development I doubt Laplace is thrilled with—giving up office space and facing a near-certain budget cut next season.
-
-She smiles genuinely, no longer hindered by double meanings hanging off the corners of her lips.
-
-**Vertin**：Oh. I remember you mentioned you were looking for ideas for a new name? Any luck so far?
-
-**Ms. Stranger**：I was flipping through one of those baby name books earlier. I found a few contenders, but I couldn't decide.
-
-- **Choice：** Something elegant is best.
-  - **Ms. Stranger**：Hmm, like Astrid, Seraphine, Eleonora, or Ingrid.
-
-  - **Ms. Stranger**：They all sound lovely, if a little over the top.
-
-
-- **Choice：** Something simple is best.
-  - **Ms. Stranger**：Like Alva, Ísól, Ella?
-
-  - **Ms. Stranger**：But none of them feel like me. I suppose I have a right to be picky this time.
-
-
-- **Choice：** Do you have any preference?
-  - **Ms. Stranger**：They're all nice, I suppose, with deep meaning and presence. I just don't know which suits me best.
-
-
-**Ms. Stranger**：In a way, the idea of having a new name is kind of strange, exciting, but frightening at the same time.
-
-**Ms. Stranger**：And I worry there isn't any kind of name that will ever feel right.
-
-**Ms. Stranger**：Perhaps I'll stay a stranger. A stranger can be anyone, after all.
-
-**Vertin**：...
-
-**Ms. Stranger**：What is it, Vertin?
-
-**Vertin**：Oh. Nothing. I just sensed something different about you.
-
-**Ms. Stranger**：Something wrong, you mean?
-
-**Vertin**：No. Quite the opposite. You seem more alive than ever.
-
-**Ms. Stranger**：...
-
-She averts her eyes only to catch Madam Z's approach.
-
-**Z**：Leaving already?
-
-**Vertin**：Yes, ma'am. There's no use waiting around here. We should head out and explore the era.
-
-**Z**：On the topic of exploring, you never said what you were hoping to find.
-
-**Vertin**：Merel.
-
-**Vertin**：I've seen so many people vanish in the "Storm," but this time it was different. I saw a golden thread just before she disappeared.
-
-**Z**：You have my permission to head out. But we must talk more on that when you have time.
-
-Ms. Stranger decides to insert herself into the conversation.
-
-**Ms. Stranger**：Madam Z, is there any news about my application?
-
-She raises this question with some anxiety.
-
-**Z**：Yes. The vice president and I have spoken.
-
-**Ms. Stranger**：...
-
-**Z**：Considering the sensitivity of your role in the Foundation, if you leave your post, your record here must be entirely erased.
-
-**Z**：All your past achievements and contributions will be expunged from our records, including the sacrifice you made in closing the "Windweave" portal.
-
-**Ms. Stranger**：That all means nothing to me.
-
-She senses some room for negotiation in Madam Z's tone and broaches the topic with a spark of hope.
-
-**Ms. Stranger**：After everything I've done for the Foundation, this is the only thing I want in return.
-
-**Z**：You do understand the Timekeeper's team is still part of the Foundation? Vertin reports to me.
-
-**Ms. Stranger**：Of course. I don't expect to be cut loose entirely. Working with the Timekeeper is more than enough.
-
-**Ms. Stranger**：I just want to live my own life, as an arcanist under the Timekeeper.
-
-**Z**：I see.
-
-**Z**：Then it's settled. From this day on, you're a member of Team Timekeeper.
-
-**Ms. Stranger**：...
-
-**Vertin**：Thank you, Madam Z.
-
-**Z**：I'm not in a position to speak on behalf of the Foundation, Ms. Stranger.
-
-**Z**：But if only for myself, I'll never forget what you did for us.
-
-**Creius**：Gone? All of them?
-
-**Irinei**：I'm afraid so.
-
-Irinei sinks into his seat, avoiding matching his eyes with Creius's.
-
-**Irinei**：The First Squad never reached the school and hasn't returned since.
-
-**Irinei**：There's been no sign of them since their last report before the "Storm." The entire convoy just vanished.
-
-**Creius**：And my squad?
-
-**Irinei**：Gone too.
-
-**Irinei**：Our preliminary reports suggest they encountered an ambush in the mountain pass and that Igor's troops were present. It's possible they were captured. That, or they defected.
-
-**Creius**：Igor ... I have to go after them.
-
-Irinei turns his head, at last willing to look at him.
-
-**Irinei**：The Foundation has postponed your trial, Creius, given your prompt response during the attack and, frankly, the Foundation's manpower shortage.
-
-**Irinei**：The Committee has also decided to sustain your command of the "XII" Squad. Though at present, it only consists of your medic.
-
-**Irinei**：We leave you to your discretion to plan your next move, which might include, for instance, searching for the rest of your team.
-
-**Creius**：Don't say it like you're doing me a favor. This was a part of our deal.
-
-**Creius**：I take the blame. You keep me free.
-
-**Irinei**：Of course. It's all reciprocity.
-
-**Irinei**：One more thing: Our tracking devices haven't been able to locate our "subjects" in this era.
-
-**Irinei**：In other words, the tracking serum has failed. And it appears the vessel ensoulment reagent didn't work on your rookie either.
-
-**Irinei**：The Timekeeper is setting out soon. She seems confident she can find Merel.
-
-**Creius**：The Timekeeper has ways to locate her even without the tracking serum?
-
-**Irinei**：Her abilities are far from ordinary. You should know that by now.
-
-He shakes his head. Creius sees the gesture for what it truly is: nerves.
-
-**Irinei**：Listen. You're at liberty to search for your soldiers however you like, but you must remain on the tracking serum project.
-
-**Creius**：I aim to do precisely that. I never leave a soldier behind. In the meantime, I'll try to make contact with the Timekeeper—
-
-**Irinei**：You may want to reconsider that, Creius. She's unlikely to be an ally in our goals.
-
-The board has been reset. A new game has begun.
-
-**Creius**：The attack may have thrown us off stride, but we'll regain control within the Foundation before long.
-
-**Creius**：If the Timekeeper won't work with us, then we proceed in our own way.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Memorial Service
 
@@ -13465,8 +12387,6 @@ Investigation Report from Ms. Stranger
 
 \[Top Secret | Authorized by the Pre-Storm Dispatch Center & Ad Hoc Investigation Committee\] \[Case ID: ███-██-████\] \[Date: █-█-█\] **Case Briefing and Jurisdiction Statement** This report documents the attack carried out by Manus Vindictae (hereafter "the Attacker") against Foundation headquarters and the SPDM (hereafter "the Targets") prior to the 11th "Storm." The investigation was conducted by the Pre-Storm Dispatch Center and the Ad Hoc Investigation Committee under the relevant clauses of the Emergency Defense Code of St. Pavlov Foundation to analyze and determine the attack's route of entry and the cause of the internal defense's collapse. ... **III. Attack Method and Scene Reconstruction** The Attacker used an unregistered arcane array (technical codename: "Windweave") to bypass all surveillance and defensive measures at the target site, striking directly at the facility's interior. Phase 1: A small advance unit led by "Lyra" arrived at the target site and began infiltration, lowering the guard of personnel inside through the following means: 1. False Support: A Manus Vindictae member (suspected to be "Lyra") used a false identity to approach multiple Foundation members and their close contacts, earning their trust. During the "Storm" countdown, she successfully manipulated several headquarters staff and individuals with prior refugee experience into following her instructions and opening access to the facility. Manus Vindictae members also used arcane skills to attack the personnel and facilities of the defense surveillance department, rendering the surveillance systems inoperative. 2. Defense Breach: Under arcane control by Manus Vindictae, captured personnel were turned and used as inside operatives, guiding the Attacker past the main defensive network and destroying the base defense systems, weapons stocks, and alarm systems. 3. Temporary Line: The advance unit and inside operatives set up the "Windweave" array within the target interior, completing preparations for the second wave of attack. Once the array was in place, the main force of Manus Vindictae arrived at the target ... ... **IV. Witness Testimony and Evidence Record** Witness #09 Testimony (Engineering Department, Senior Researcher): "I saw Nancy Sur standing in the doorway. It wasn't her shift, so I went over to ask about it. She started saying things like, 'Such beautiful weather, and yet we're still here—history really did get it wrong,' and 'Rewrite the score, sound the anthem, welcome humanity's rebirth' ..." Witness #47 Testimony (Human Resources Department, Clerk): "These traitors were among the finest when it came to justice and order ... but then again, maybe that's why they'd rather admit they were guilty than admit that surviving was just luck." ...
 
-- Description：The fastest way to breach a fortress is to open the gate from the inside.
-- Action：Check Report
 
 
 ---
@@ -14193,8 +13113,6 @@ Glyndŵr flies low with Rhiannon still in his grasp. Together, they soar off int
 
 END OF DIALOGUE
 
-- Description：One rule of clever conversation—never say what you mean directly.
-- Action：Listen to the Conversation
 
 ### Trail · A Loss of Civilization
 
@@ -14242,8 +13160,6 @@ The tracking priority for this batch of historical relics is classified as "Low.
 
 Appendix: Lost Era Relics Inventory
 
-- Description：Beautiful, useless things are always the most fragile and fleeting.
-- Action：Check records
 
 
 ---

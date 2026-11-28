@@ -248,8 +248,6 @@ The seal has an unusual shape and texture, with the outline of rolling waves and
 
 The moment the fingers brush it, a fierce, scorching wave surges into the mind.
 
-Sonetto: Timekeeper!
-
 **Sonetto:** Timekeeper!
 
 The flames burn out, and the blazing vision disappears at once.
@@ -542,8 +540,6 @@ Repeated Report
 
 Report on the Behavior of Arcane Creatures in the Waters of ■■■■■■■■■■ ... Recent monitoring has noted Scyllas gathering in the waters concerned, accompanied by persistent shrieking. Some specimens have attacked passing vessels. In addition, several sailors passing through the area report hearing tremendous sounds of unknown origin. Witnesses describe them as bearing some resemblance to the roars of large beasts. Local folklore surrounding ■■■■■■■■■■ tells of various monsters from myth, including bull-headed humanoids and nine-headed Hydras with enormous eyes. Such creatures may be connected to the Scyllas' abnormal behavior and the mysterious roars. In summary, the Foundation should dispatch personnel to conduct a further investigation. **Response:** The report concerning the waters of ■■■■■■■■■■ has been received. Two earlier reports describe similar phenomena. Analysis suggests that temporary magnetic disturbances caused by fluctuations in arcanum energy may be responsible. Conditions remain complicated after the "Storm." As jurisdiction over these waters has long been disputed, direct Foundation intervention and a large-scale investigation are inadvisable at present. Investigators are to continue close observation and submit regular reports.
 
-- Description：Expect no solution from the bureaucracy until you've filed the same report another four times.
-- Action：Read Document
 
 
 ---
@@ -841,8 +837,6 @@ Ninety Thousand Whys: Arcanist Taxons
 
 ... What is a Nymph? "If you hear singing while at sea, carnivorous Merfolk are coming for you!" Everyone who grows up by the sea has heard stories like these, told to frighten children, but few have ever seen one of these Merfolk for themselves. Merfolk are an arcanist race originating in the deep sea who call themselves "Children of the Ocean." They are said to have a tradition of feeding on humans and other arcanists, though this is not true of every community. Nymphs are a docile branch of Merfolk whose diet is primarily vegetarian. Small and slender, they bear traits of sea dragons and seahorses, while their fins closely resemble leaves and branches. These distinctive features have inspired many legends of Mermaids. Nymphs are found mainly in the seas, lakes, forests, and valleys across Europe, with branches including Sea Nymphs and Spring Nymphs. Sea Nymphs live in coastal waters and often travel alongside dolphins and seahorses, though humans have found them increasingly difficult to observe in modern times. Spring Nymphs, meanwhile, prefer freshwater. Records indicate that they entered into an alliance with a powerful arcanist family and withdrew to an island, where they have continued to thrive. Other Nymph communities have integrated into human society and even taken part in various industries. ...
 
-- Description：An educational tome for young readers, beloved the world over. The publisher claims it contains everything there is to know about arcanum.
-- Action：Open the Book
 
 
 ---
@@ -1480,8 +1474,6 @@ Schedule for a Past Joint Tournament
 
 Competition Schedule Venue: Uluru Stadium Floor Ritual, Days 1-6 Pig Toss, Days 4-10 Lunar-Phase Archery, Days 3-9 Water-Ball Relay (League Special Event), Days 7-12 ... Venue: Ephaistonos Beach Sea Beast Domination, Days 2-7 (Note: The Sacred Flame suggests renaming this event "Sea Beast Taming," which sounds more like a proper competition. She would also like to add a 500-Meter Sea Monster Steeplechase to the events at Uluru Stadium.) Aquatic Flight, Days 4-10 Fiery Duel (League Special Event), Days 2-8 ... Hastily scrawled comment: The Sacred Flame says the Uluru Games are an annual festival where arcanists come to enjoy themselves. They are all-around competitors, while we specialize in aquatic events, so a league would be just the thing for testing our skills against each other! Hah!
 
-- Description：A dust-covered fragment records a friendship left on pause.
-- Action：Brush Away the Dust
 
 
 ---
@@ -2192,8 +2184,6 @@ The messenger extends a welcoming hand toward the passing heroes.
 
 **Staff I：** Haha! Good one. Anyway, work calls. Got some cultures to monitor.
 
-- Description：At the very least, everyone is entitled to dream.
-- Action：Listen In
 
 <details>
 <summary>Client transcript</summary>
@@ -2237,8 +2227,6 @@ Here, Life Is a Game
 
 Citizens of Ephaistonos, the annual sacred ritual is upon us! The winners of the games will be appointed to new posts! The following games have been added this year: Wine Cellar Keeper - Big Sip, Little Sip Each contestant receives a large goblet of wine. Contestants play rock-paper-scissors, and the winner of each round takes a sip from their own goblet. The first to finish their wine wins, while the contestant in last place is appointed to the post. (Because they've proved they aren't a drinker and have dreadful luck.) Council Scribe - Brain Cells at Full Tilt A set of meeting minutes will be displayed on a whiteboard. Contestants must memorize as much important information as possible within the allotted time. Once viewing time is over, they must reproduce in writing everything they can remember. After four rounds, the contestant with the highest accuracy wins and is appointed to the post. Shell Cutter - Caveman with an Eye for Beauty The organizers provide assorted seashells and conches. Contestants must bring their own tools, bore holes in the shells, and string them into necklaces with silk thread. A panel of five master shell artisans will score the necklaces for beauty and decide the winner. Note: Power tools are not permitted. For more positions and more games, inquire in person at Bar Helicon. Come join the games and decide for yourself how you will live in the year ahead!
 
-- Description：Life is a game. Come, spin the wheel of players before the final curtain falls!
-- Action：Pick Up the Poster
 
 
 ---
@@ -2490,8 +2478,6 @@ Ephaistonos Temple Work Log
 
 ■/■ ... Seventeen days remain before Lady Hedone's prophetic ritual. We have laid in plenty of wine and goblets. What an exhausting business, with so many casks! The golden goblets are no trouble. Lady Hedone's treasury contains everything one could need, though they must all be inventoried and put in order ... ■/■ ... Nine days remain before the ritual. We were supposed to have the necessary snake and bird ready, yet today they presented me with ... a seagull! We can't even stop it from flying toward the food! Gods above, I must find an eagle before the ritual begins ... ■/■ ... Five days remain before the ritual. There is still so much to prepare, and the Prophet is still distracted with helping people interpret their oracles? I imagine most of them concern personal matters such as "Know your limits" and "Follow your heart." I understand that an oracle is a rare gift, and that life's great turns—good deeds rewarded, victory in the Games, escape from danger and the like—are indeed worthy of interpretation. But should the prophecy concerning the island's future and the fate of everyone upon it not take precedence ...? What if something goes wrong with the ritual and we cannot foresee the future, or worse, we bring disaster upon ourselves?! Of course, I am not criticizing the Prophet for spending time interpreting people's oracles. I only hope the ritual proceeds without incident ... A different hand continues the entry: Give yourself a rest, Delino. Even the Prophet isn't half as nervous as you are! Why not come to the bar with us tonight and play a few rounds of pinochle to calm your mind?
 
-- Description：Do you ever get the feeling you're the only person in the world who cares about this job?
-- Action：Read the Journal
 
 <details>
 <summary>Client transcript</summary>
@@ -2835,8 +2821,6 @@ The arrow she loosed at the very beginning falls from the sky and lands perfectl
 
 **Ulu：** Also, be careful. She loves a good challenge, but she isn't accustomed to losing.
 
-- Description：Coming up next: summer, surf, a grand athletic spectacle, and expert commentary. Stay tuned!
-- Action：Listen to the Conversation
 
 
 ---
@@ -4647,8 +4631,6 @@ A Certain Someone's Solo-Living Challenge Log
 
 Foreword The King of Ithaca returned home with no one at his side. Another hero completed his twelve labors without a companion. Still others turned the tide of battle single-handedly ... A great many tales have been written by lone heroes, and thus I have decided to begin a challenge of my own: to see how far I can travel the road to heroism by myself. Challenges Dine alone - Complete Take a walk alone - Complete Drink alone - Complete. I know my limits. Practice archery alone - Complete. My aim is respectable. Hold a conversation alone - Complete. No one enjoys the subjects I raise more than I do. Compete alone - Complete. I need only keep breaking my own records. ... Conduct a prophecy ritual alone - Incomplete. This is a difficult one, as I am not a prophet. Sail the open sea alone - Incomplete. First, I need a ship. Build a ship alone - Incomplete. It appears I shall need a separate challenge plan for shipbuilding. ... Conclusion Although this challenge began with a sudden flash of inspiration and has been laughed at more than once (let them laugh—I don't care!), it has brought me a great deal of pleasure. More than that, I have made new friends along the way. They never make trouble and have kindly suggested additions to my plan (for which I thank them). Yet now that I have reached the conclusion, these days must naturally be drawing to an end. My old friends, who have been traveling beyond the island, have written to say they will return soon. With them beside me, I suppose this challenge will have to be put on hold for a while.
 
-- Description：And some will push that stone to the summit, alone if need be.
-- Action：View the Plan
 
 
 ---
@@ -5454,8 +5436,6 @@ In answer to the concerns you and 37 raised in your previous letter, all remains
 
 In addition, thank you for sharing the latest research into the "Emanation" and news of 37. My thoughts are as follows ...
 
-- Description：The Games draw to a close, and right on cue comes a letter from an old friend, carrying the scent of the sea.
-- Action：Open the Letter
 
 
 ---

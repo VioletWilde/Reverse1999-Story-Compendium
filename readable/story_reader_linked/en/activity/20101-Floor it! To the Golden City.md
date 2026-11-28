@@ -721,8 +721,6 @@ Returned to Sender
 
 April 3rd Hey, I heard you just arrived at the old headquarters of the St. Pavlov Foundation I bet you're disappointed by how they put on airs while talking so crass, ha-ha. How have you been? Everything alright? Talk soon, waiting for your good news, kiddo. April 20th Hollick is saving up to open a repair shop; the guy's finally coming to his senses. I still haven't got your reply, Polly. If you threw my letter in the trash or burned it, let the mailman know so I don't have to keep wasting paper. Are they keeping you so busy that you're at your wit's end? The restaurant's always ready to have you back. Take care of yourself, kiddo. …………
 
-- Description：A few simple letters, cleared of dust. The underlying concern is evident, but there are also hints of restraint.
-- Action：Pick up and look
 
 ### Trail · Cosmic Zen
 
@@ -772,8 +770,6 @@ April 3rd Hey, I heard you just arrived at the old headquarters of the St. Pavlo
 
 END OF DIALOGUE
 
-- Description：What is pneuma? What is the cosmos? Perhaps the answer can only be found within our own hearts and minds.
-- Action：Begin Conversation
 
 ### Trail · Hollywood Shenanigans
 
@@ -815,8 +811,6 @@ END OF DIALOGUE
 
 END OF DIALOGUE
 
-- Description：While not everyone enjoys the fourth sequel, everyone can agree that they like the original.
-- Action：Begin Conversation
 
 ### Trail · "We Will Survive"
 
@@ -830,8 +824,6 @@ END OF DIALOGUE
 
 Just leave, all of you. Please turn around right now. Since you have a new life. You don't like a single brick of Haight Street. Is that my fault? You think Haight Street can't survive without you? Oh no, we will survive. We will survive like a big family. We will live better lives. Even if we must struggle, we will go on living. We will survive …
 
-- Description：A legendary song, with lyrics updated for the times.
-- Action：Sing it
 
 ### Trail · This Is Hard
 
@@ -863,8 +855,6 @@ Just leave, all of you. Please turn around right now. Since you have a new life.
 
 END OF DIALOGUE
 
-- Description：Is your favorite celebrity's new look so different that they're unrecognizable? It happens all the time.
-- Action：Begin Conversation
 
 ### Trail · Dance of Rings
 
@@ -880,8 +870,6 @@ Dance of Rings
 
 The boss has recently become obsessed with chakras, yes, those seven rainbow-colored things that everyone supposedly has. This is a great chance to please the boss, so take this money and go buy some gifts at the market. ...... I told you to get some mystical trinkets from the New Age Market, not steel rings, idiot! Chakrams and Chakras are not the same thing, moron! Keep an eye on these iron pieces. I'll handle finding a buyer, just don't let anyone else know about this mess. ...... No one wants to buy this many steel rings. Go get some barrels of gasoline, and remember, gasoline, not paint. I know you have reservations, but if we don't do this, we won't be able to balance the books. If the boss finds out we've been secretly siphoning money for this nonsense, you and I will end up wearing concrete shoes. Or you can pray for a thief to clean out the warehouse overnight. Then we can blame the thief for the whole mess.
 
-- Description：I heard a random gang got a new batch of stuff that can "send you up into the sky." We can't just do nothing about that.
-- Action：Do Some Work for Customs
 
 ### Trail · Victory Feast
 
@@ -893,8 +881,6 @@ The boss has recently become obsessed with chakras, yes, those seven rainbow-col
 
 Another victory, another celebration.
 
-- Description：Another group of Order of Enlightenment thugs is approaching the neighborhoods near Haight Street. We need to remind them whose turf this is.
-- Action：Drive Them Away
 
 ### Trail · What Does S Stand For?
 
@@ -906,8 +892,6 @@ Another victory, another celebration.
 
 They wisely leave, and Madam S is very grateful for that.
 
-- Description：Another youngster pretends to be drunk in the restaurant and tries to leave without paying ... time to send in the boys.
-- Action：Sober 'Em Up
 
 ### Trail · Paulina's Diary
 
@@ -921,8 +905,6 @@ Paulina's Diary
 
 I got a very cute stuffed animal for Christmas once when I was five years old, I think. Oh, if I remember correctly, there should be an old photo! I was sitting next to the Christmas tree with snowflakes on my head and a big grin on my face. Next to me was a particularly well-behaved little bear with a tail longer than any other teddy bear's. It was incredibly cute and I took it with me wherever I went. On every sleepless, hungry night, on every night my parents fought, on every night when the cold was unbearable, I'd hug it tightly because it was so warm and soft. As long as I could hold it, everything didn't seem so bad. It was so important to me; I always thought it was my first and last friend. Until the day my mom held my hand and led me, nervous and fidgety, through the doors of the Velvet Restaurant. It was then that I realized I might have something just as important as the bear in my arms—a delicious cake, a soft, thick blanket, a home that sheltered me from the wind and rain. Today is the eighth Christmas of my life, and unlike past years, I received another carefully prepared Christmas gift. Even though I know that the bow on the wrapping paper wasn't tied by the big guy himself, I'm still very happy! He gave me a blue scarf, saying it matched the color of my eyes. Considering how pretty the scarf is, I'm willing to forgive his cluelessness in not knowing blue from green. But who asks someone what they want for Christmas next year? No sense of romance at all. Of course, I already know what I want for next Christmas! A bigger, warmer home that can fit a bigger family, one that's even bigger than Haight Street!
 
-- Description：Genuine emotions remain hidden, locked away in a drawer. They retain their warmth, despite being unspoken and unexpressed.
-- Action：Open the Diary
 
 ### Trail · Age of Aquarius
 
@@ -936,8 +918,6 @@ Age of Aquarius
 
 Ostrich Radio: And that was "The Golden City" on Ostrich Radio. My dear listeners, remember that true beauty can only be found in music. We all yearn to escape, wishing we could hop on a badass motorcycle and ride off into the sunset without a care in the world, leaving behind the corrupt politicians and bullies, the endless noise and chaos. Ostrich Radio: Fear not, my friends, for this is the end of the "Age of Pisces." We are about to enter the "Age of Aquarius," a time of mutual understanding and trust. A utopia where there is no more hypocrisy, sarcasm, misinterpretation or resentment. Ostrich Radio: But enough talk, let's listen to this amazing new album "Another Era." My sweethearts, my little brats, let's all start grooving together! "We yearn for a place of pure comfort, where communication flows effortlessly and our bodies can truly unwind." "It's not just an illusion. It's the light peeking through the keyhole, it's the pulsing rhythm of a wild dance floor, it's a potent mix of gin and lime." "And most importantly, we have faith that one day it will be a reality."
 
-- Description：A time of peace, a time of liberation—it is the type of era that everyone longs for.
-- Action：Late-Night Radio
 
 ### Trail · Where It All Began
 
@@ -993,8 +973,6 @@ Ostrich Radio: And that was "The Golden City" on Ostrich Radio. My dear listener
 
 END OF DIALOGUE
 
-- Description：It's never too late to start over.
-- Action：Begin Conversation
 
 ### Trail · "Let the Match Begin"
 
@@ -1006,8 +984,6 @@ END OF DIALOGUE
 
 In the end, Becket bought a total of ninety burritos and paid J all at once in just one day.
 
-- Description：This is J's first time in the underground boxing ring. The big guy before him flashes his well-polished fake teeth, throws a few shadow punches, and swings an uppercut.
-- Action：Start the Match
 
 ### Trail · Behind the Cameras
 
@@ -1059,8 +1035,6 @@ In the end, Becket bought a total of ninety burritos and paid J all at once in j
 
 END OF DIALOGUE
 
-- Description：Who cares how many seasons this sitcom has run?
-- Action：Begin Conversation
 
 ### Trail · The First Companion
 
@@ -1072,8 +1046,6 @@ END OF DIALOGUE
 
 A mannequin dressed in an expensive suit is crumpled on the ground, with critter fur clinging to its face. J has never seen a more forlorn sight. After all, mannequins are meant to represent people too.
 
-- Description：On street corners, it's not uncommon to see critters mingling with the trash. Oh, I wasn't talking about you, buddy. No offense intended.
-- Action：Drive them away
 
 ### Trail · Beyond Healing
 
@@ -1113,8 +1085,6 @@ A mannequin dressed in an expensive suit is crumpled on the ground, with critter
 
 END OF DIALOGUE
 
-- Description：The true essence of healing can often transcend time, place, and resources.
-- Action：Begin Conversation
 
 ### Trail · Notes of Dissonance
 
@@ -1126,8 +1096,6 @@ END OF DIALOGUE
 
 The shadows disperse, the sun breaks through, perfect weather for a motorcycle ride with a stylish babe on the back—one from Damascus, of course!
 
-- Description：Shadows, much like a damaged guitar or a vinyl record covered in dirt, only create disharmonious melodies.
-- Action：After Them!
 
 ### Trail · San Francisco Memories
 
@@ -1143,8 +1111,6 @@ The shadows disperse, the sun breaks through, perfect weather for a motorcycle r
 
 "I return home, sit on the balcony, and watch the lights that never go out in the distant skyscrapers, observing the city's yesterday and today." "The '90s will be a brand new era, entirely different from the past. People will either become part of the future or be forever left behind in the past." "We're all stuck here. Stuck in '90s San Francisco—a place of vibrancy and melancholy, progress and decay, wealth and poverty coexisting in a void." "Look out the window, whether it's the homeless old beggars on Haight Street, the nonsense crystal healers at the New Age Market, the mystical chanting of the black-robed people, or the idiots who can't even wear their pants properly and just keep swaying under the disco ball—everyone's beyond saving!" "I don't like discos. To tell you the truth, I never have." "But screw it all, I don't care anymore, man, I don't care at all."
 
-- Description：An unpublished report, a surge of emotion swept away by the wind, landing on a Critter's head near a trash can.
-- Action：Drive out the Critters.
 
 ### Trail · New Beginnings
 
@@ -1156,8 +1122,6 @@ The shadows disperse, the sun breaks through, perfect weather for a motorcycle r
 
 Peace returns, but the story of Tang's Restaurant is far from over; it will continue until the day San Francisco is no longer called San Francisco.
 
-- Description：As one person departs, another arrives. The bar at Tang's Restaurant is a gathering place for old and new acquaintances alike.
-- Action：Drive them away
 
 ### Trail · The Coolest Cosmic Disco Ball!
 
@@ -1193,8 +1157,6 @@ Peace returns, but the story of Tang's Restaurant is far from over; it will cont
 
 END OF DIALOGUE
 
-- Description：This round, shimmering, smooth, cold object ... could it be?
-- Action：Begin Conversation
 
 ### Trail · Ripples of Energy
 
@@ -1238,8 +1200,6 @@ END OF DIALOGUE
 
 END OF DIALOGUE
 
-- Description：A ripple, a genuine heart, is present. It's right there, untainted, unvarnished, and unchanging.
-- Action：Begin Conversation
 
 ### Trail · A Brand New Age
 
@@ -1255,8 +1215,6 @@ A Brand New Age
 
 As the New Age Market awakens, And the Order of Enlightenment fades into obscurity, Embrace the raw, unadulterated cosmic energy, This is not a mere faith, but a true knowing. Release the shackles of societal norms, Savor the liberation of self-reliance, You need not conform to any doctrine, For peace shall guide us with celestial grace, And let love and the universe be our compass.
 
-- Description：The ideas of the Order of Enlightenment have not resonated with the people of Haight Street. A new age is approaching, and it may bring about another radical change.
-- Action：Sweep Away the Old Life
 
 ### Trail · Dawn of the Living Dead
 
@@ -1268,8 +1226,6 @@ As the New Age Market awakens, And the Order of Enlightenment fades into obscuri
 
 Praise be to cosmic energy, we found the lady.
 
-- Description：The fates will bring you to the lady when it is meant to be; in the meantime, trust in the power of cosmic energy.
-- Action：Search the Entire City
 
 ### Trail · The Pursuer and the Pursued
 
@@ -1301,8 +1257,6 @@ Praise be to cosmic energy, we found the lady.
 
 END OF DIALOGUE
 
-- Description：She is completely focused and has only one goal on her mind.
-- Action：Begin Conversation
 
 ### Trail · Small Goals, Big Goals
 
@@ -1350,8 +1304,6 @@ Becket: ... Does a disco ball get such great benefits?
 
 Gio: ... Do they really?
 
-- Description：Our ultimate objective is to break free from the solar system. But for now, let me get a look at your hands!
-- Action：Receiving the Signal
 
 ### Trail · The First Companion
 
@@ -2243,8 +2195,6 @@ Market Diviner: In any case, they're generous customers, so whatever they're loo
 
 Market Diviner: So as long as they line our pockets with cash, that's all that really matters.
 
-- Description：They look around, they whisper ... People love to keep secrets, to suspect and gossip.
-- Action：Listen Carefully
 
 
 ---
@@ -5994,8 +5944,6 @@ From time to time, she glances back, trying to spot the toy on him ...
 
 Relying on the help of Ms. Maich, a citizen of the New Age Market, the support team successfully entered the "Underground Market." During the investigation, smoke from a fire suddenly rose from a forest 1.3 miles away from there. At the site, we found an injured Foundation investigator (Matilda Bouanich), a critically injured adult male arcanist (Joe Brown), a male human corpse (Harvey Hollick), and a female enemy suspected of belonging to Manus Vindictae (identity unknown). This woman's mystical abilities far exceeded our expectations. The spells she used were extremely dangerous and difficult to understand. We were engaged in an unprecedentedly fierce battle ... Fortunately, we can confirm that the battle with Matilda Bouanich, Joe Brown, and their group had significantly drained her energy; otherwise, we might have faced a deadly confrontation ... After a second round of attrition, her arcane skills weakened, and with the help of the people summoned by Joe Brown, we gained an initial advantage. We planned to carry out a feasible capture plan to extract important information about Manus Vindictae. However, Manus Vindictae retreated much faster than usual, leaving behind a few mindless followers who hindered our plan. Additionally, due to the fog and some unknown rare incantations, the tracking arcane skills we had prepared in advance were rendered ineffective at the site ... "Razor" Squad Reporter: Todd Smith
 
-- Description：The more dangerous it is, the more praises it brings ...
-- Action：Have a Look
 
 
 ---

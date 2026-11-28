@@ -297,8 +297,6 @@ She narrows her eyes, satisfied with Centurion's willingness to cooperate.
 
 END OF DIALOGUE
 
-- Description：A familiar box, now smarter but less friendly.
-- Action：Observe
 
 ### Trail · Absolute Luck
 
@@ -312,8 +310,6 @@ Witch for a Day's First Mexico Tour
 
 The beautiful, passionate young woman. The Universal Star kissed by a lucky coin. Witch for a Day's most beloved old friend—Ms. Centurion—will be in Mexico City on the fifteenth of this month. You'll find her at Plaza Garibaldi during the day, chatting with street musicians and sharing drinks with hungover drunks. She remembers everyone's name, every unfulfilled wish, and every unfinished adventure. She brings the very best stories to the show. When night falls, she'll appear at the gambling tables. If you spot her tossing a coin into a drain near the Zócalo, don't worry—it's part of the routine. It always comes back. During the tour, she'll make a brief stop in Xochimilco to mix "the most challenging cocktail of the century" with hot sauce and apple juice. From there, she'll head to the lakeside to make her death-defying leap. As the locals scream, the legend of the girl with the golden coin will reach unprecedented heights. Of course, we can't rule out the possibility that she'll hop aboard a passing train and turn it into an impromptu adventure show. Note for the Audience: After the show, if you've lost all sense of what "luck" even means, take that as proof you've fully enjoyed her performance.
 
-- Description：There's a 50% chance the coin will land on the face you want, but she wins every time.
-- Action：Check the Flyer
 
 ### Trail · Festival Visitors
 
@@ -327,8 +323,6 @@ From El Semanario Heraldo de México
 
 Yesterday afternoon, a foreign diplomat arrived in Mexico City. His motorcade proceeded along Bucareli Street into the city center, making a brief stop at the Zócalo. Streetcar bells echoed through the streets as vendors laid out bundles of marigolds ahead of Día de los Fieles Difuntos. The gentleman is said to be no stranger to Aztec mythology, the Sun Stone, and the origins of the festival. Later in the day, he visited the Academia de San Carlos, where he commented briefly on the public murals that have recently drawn attention. His interest, however, extended well beyond the academy walls. At a quiet corner of La Merced Market, the guest paused before several shop windows, taking in the prints, candy skulls, and papel picado on display. Though simply crafted, each piece carried a rich emotional weight. One piece held his attention above all others—a calavera figurine engraved with satirical verse. He turned it over repeatedly, praising it without reserve, and offered no reply even as his entourage urged him onward. No further details regarding the diplomat's remaining itinerary have been released. Nevertheless, during this festival when the dead return and the living rejoice, our distinguished visitor has proven himself far more than a passing observer. Mexico City may soon count among its guests an uncommon connoisseur of the arts. Reported by Fitzwilliam
 
-- Description：A newspaper left behind on the balcony.
-- Action：Read
 
 
 ---
@@ -676,8 +670,6 @@ No ... You broke it!
 
 END OF DIALOGUE
 
-- Description：They all look forward to the days ahead.
-- Action：Listen to the Conversation
 
 ### Trail · Surprise Formula
 
@@ -717,8 +709,6 @@ END OF DIALOGUE
 
 END OF DIALOGUE
 
-- Description：A cocktail no one can replicate. Every sip is a new adventure.
-- Action：Taste It
 
 
 ---
@@ -964,8 +954,6 @@ The City and the "City"
 
 After the "Storm," the Vigiles Bureau returns to every "important city" following the same pattern—an unremarkable office at first, then a few Vigils, and before long, people simply grow accustomed to its presence as though it has always belonged there. According to official records, the Vigiles Bureau exists to investigate complex cases involving arcanum. It operates independently of the government, each fulfilling its own mandate without interfering with the other's affairs, though the two maintain steady communication. At the same time, the criminal underworld enters what the press calls the age of "modern crime." The most dangerous example of which is known as "El Automóvil Gris" or the Grey Car Gang, driving in their eponymous automobiles with matching grey attire. Their increasingly organized robberies and violence have given them a steady spot in the crime columns. Their methods have been dissected and debated at length, yet no amount of analysis softens the reality of what they are. People have begun to realize that violence and plunder are becoming more organized and more efficient. Crime is no longer a matter for the police alone—it has become a reality the whole of society can no longer afford to ignore. Of course, the Grey Car Gang alone is not enough to shake the order of an entire city. The local police know the limits of their authority, and the Vigiles Bureau understands how to avoid raising questions outside its jurisdiction. The underworld and the authorities share the same map—they simply disagree on how to read it. This seemingly harmonious coexistence does not eliminate conflict, only confines it. Police, Vigils, and grey cars pass through the same streets, fully aware of one another. They all understand the same unspoken truth—when the sun rises, the streets return to normal. Everything dissolves into the daylight, folding back into the city's shadow.
 
-- Description：Everyone knows exactly what to avoid.
-- Action：Ask Around
 
 ### Trail · Beneath the Dust
 
@@ -979,8 +967,6 @@ The Muralism Movement, Part I
 
 In early twentieth-century Mexico, no art form is more woven into everyday life than the art of the mural. Too large for any private collection, they occupy stairwells, courtyards, and corridors. It is for this reason that the muralism movement sparks continuous debate—about art itself, about who gets to decide how art is presented, and about how long these works can remain in public spaces. There was a time when the government dictated the direction of aesthetics. Only when the old order collapses do suppressed traditions find new life. Public buildings become canvases. Images naturally take on the role of narrative and expression. Murals spread across corridors and courtyards, functioning less like paintings meant to be admired and more like street signs or door plaques. Across different works, the same gestures appear again and again—heads raised, hands at labor, bodies in motion. Learning to read these images becomes part of life in the city and beyond. Through this art, Mexicans begin to build an entirely new sense of identity. In technique, most of these works take the form of frescos. The painter works against the drying plaster. Pigments sink into the wall and allow almost no revision once set. Over time, colors gradually fade and outlines disappear beneath dust. Countless people pass beneath them, look up briefly, and walk on. Yet the walls remain, still bearing the traces. Perhaps the mural's true significance lies not in its form or technique, but in the emotion and memory it carries.
 
-- Description：The art and culture we're crying out for.
-- Action：Brush Away the Dust
 
 
 ---
@@ -1665,8 +1651,6 @@ The woman examines his face, then provides a simple, satisfied smile.
 
 END OF DIALOGUE
 
-- Description：Small talk during work is inevitable.
-- Action：Why not?
 
 
 ---
@@ -1918,8 +1902,6 @@ I need to be fully prepared for my trip to Mexico! Movies can certainly provide 
 
 ...
 
-- Description：Everything's here—what interests you and what doesn't.
-- Action：Join the Discussion
 
 
 ---
@@ -2181,8 +2163,6 @@ Memorandum on the 1936 Depths of Myth Incident
 
 **Depths of Myth** The "Archive of Imagery," the "anima mundi," the "shared dream," the "sea of collective unconscious." All living things connect here ... right? **Laurent Roseau** Parapsychology researcher, revered professor, and mentor to many. Member of Manus Vindictae. Rather than using the "Storm" to struggle in a physical world destined to be flawed, he prefers to let the Depths of Myth shape every dream into reality. **1936** Two Parises, two French Blues, one experiment. One "Storm." **Brume** Female, taxi driver. Birth name: Adèle Tavernier. Witness to the incident caused by Manus Vindictae. During the fifth "Storm," she was brought to the sanctuary by Beryl Bouanich. Brume's testimony indicates that Beryl Bouanich has never had any contact with Manus Vindictae. The place where she grew up and everything she once knew were swept away by the "Storm." **Beryl Bouanich** Female, renowned diviner, crystal merchant. During the fifth "Storm," she brought Brume to the sanctuary. She has no connection to Manus Vindictae. In Bouanich's visions, everything is already written.
 
-- Description：Take a moment ... Reel in some memories ...
-- Action：Check Note
 
 ### Trail · A Window
 
@@ -2242,8 +2222,6 @@ Online Neighbors
 
 **Aleph:** And Amalfitano ... is still breaking apart.
 
-- Description：The conversation can start and end at any time. Every question gets an answer.
-- Action：Check records
 
 
 ---
@@ -2467,8 +2445,6 @@ The "Necessary" Guide to Exorcism
 
 1. Agave Handling Note: **Mind your hands around the large leaves. They're sharp.** Practical Uses: Commonly used in brewing, medicine, and rituals. Its fermented sap produces pulque, a drink Mexicans call "the lifeblood of the land." Exorcism Uses: Smear the sap on door frames and floors after a space has been "cleansed" to shut out any "unseen presences." 2. Epazote No special handling notes. Practical Uses: Aids digestion and can expel or kill intestinal parasites. Exorcism Uses: After an exorcism, if "their presence" still lingers in the room, sprinkle some epazote. Let's just say it smells as **"special"** as it sounds. 3. Rue No special handling notes. Practical Uses: Commonly used to ward off evil. Can be worn on the body, brewed as tea, or sprinkled on the ground. Exorcism Uses: The final step of an "exorcism," it helps with sealing against future incursions. 4. Copal Caution: **Make sure the smoke spreads throughout the entire room.** Practical Uses: A natural resin native to Central America, used in sacred rituals since the time of the Aztecs and the Maya. Now widely used during Día de los Fieles Difuntos as a medium to connect the living with the dead. Exorcism Uses: As copal smoke rises, "they" find their way back to where they belong. 5. Rosemary **For the living only.** Practical Uses: Healing. Exorcism Uses: If the "scene" feels wrong, or you're dealing with a survivor who's lost control, a little rosemary helps you find yourself again faster.
 
-- Description：First rule: don't mistake an agave for a pineapple, especially as a snack.
-- Action：Check Note
 
 
 ---
@@ -2638,8 +2614,6 @@ The Story of the Sun Stone
 
 The Aztec Sun Stone is often called the "Aztec Calendar." But it's really more of a cosmic map carved in basalt—or, as the Aztecs understood it, a guide to how the world works. The stone was unearthed in Mexico City in the 18th century. It measures over 3.5 meters across and weighs more than 20 tons. The center of the Sun Stone is Tōnatiuh, the god of the sun. His gaze is stern, his outstretched tongue carved to resemble a Tecpatl. The message is clear: offer the sun your most precious gift—your blood—or receive nothing in return. The concentric rings around Tōnatiuh record the four "suns" that came before—one transformed into a jaguar and devoured the people, one engulfed the world in a hurricane, one rained fire from the heavens, and the last drowned the world in a massive flood. Each sun's reign ended in an apocalypse, and none of their subjects survived. Moving outward, you'll find religious symbols, patterns marking the cycle of day and night, and colors representing celestial bodies ... They unfold layer by layer, like a cosmic machine disassembled and laid bare—precise, ancient, orderly. Together, they capture the Aztec understanding of the world: the universe resets, all things are reborn, and humanity is nothing more than a speck of dust within it.
 
-- Description：Will we see the sixth sun?
-- Action：Listen to the Legend
 
 
 ---
@@ -2901,8 +2875,6 @@ A faint noise emerges from the pile of notes.
 
 He's done for! Move! —————————————————————————— Shut it. Your life ain't worth a cat's \*\*\*. —————————————————————————— I grabbed three thousand f\*\*king pesos from that place. —————————————————————————— I offed that f\*\*k! —————————————————————————— Crawl back to your hole. It's only cleaner than the governors' spit. —————————————————————————— Playing tough, huh? Everyone knows your life ain't worth a single peso. —————————————————————————— Grab the stuff and go, who gives a damn! —————————————————————————— You a\*\*hole! —————————————————————————— I'd rather chew on a rusty pipe than listen to that moron and his cat-\*\*\*-licking mouth for three hours.
 
-- Description：Notes left behind the screen.
-- Action：Open the Cipher
 
 
 ---
@@ -3624,8 +3596,6 @@ A Smuggling List
 
 Calvaire - 1920.10.06 Ledru-Rollin - 1920.10.10 Richard Lenoir - 1920.10.13 Fitzwilliam - 1920.10.19 Taira - 1920.10.21 Larisa - 1920.10.21 Diggers - 1920.10.23
 
-- Description：If you harbor any prejudice toward artists, by all means, hold on to it.
-- Action：Confirm the List
 
 
 ---
@@ -3899,8 +3869,6 @@ Encrypted Telegram
 
 **Classification: Top Secret** **From: Zeno Headquarters** **To: Zeno Branches** Research confirms that the truth behind the "Storm" is very likely tied to a high-value target known as "Urd." Our primary objective is to locate and make contact with this individual—note: we are seeking the "original her," prior to any influence from the "Storm." The identity of any presently existing individual holds no research value. High command has established a facility known as the Loop Laboratory along the Don River, codename: "Amber Room." Its existence is classified at the highest level and is to be exempt from external inquiry of any kind. The Loop Laboratory has achieved structural immunity to the "Storm." Per orders, "deserters" have been transferred to the facility to undergo arcane experiments. All procedures are to be directed, documented, and overseen by our personnel only. All branches are hereby notified of the following resource allocations: ... Reminder: The Loop Laboratory is of the highest-priority. Any intelligence concerning the target Urd must be reported immediately. **——End of Telegram——**
 
-- Description：Beyond the spinning wheel, dust spins into a single thread.
-- Action：Intercept the Classified Report
 
 
 ---
@@ -4203,8 +4171,6 @@ Laplace Rehab Center Medical Record
 
 Name: Ludwig Department: Laplace Staff Committee Reason: Out-of-body Experience (OBE) **Summary:** The patient recently suffered a severe episode of OBE during his research on Holiday Language. His consciousness has since fully recovered. However, his soul has now repeatedly transferred to his familiar without warning, accompanied by short-term memory loss, a weakened sense of reality, and distorted time perception. Prior records indicate the patient lacks sufficient awareness of the risks tied to OBE. Ongoing supervision and intervention are required. He also reports consuming an unidentified arcane substance resembling "honey." Its composition remains unknown and requires further analysis. **Symptoms:** Abnormal self-perception: disordered sense of time and gaps in memory. OBE Duration: Episodes can last several hours, typically followed by short-term memory loss. **Experiment and Intervention Record:** Picrasma Candy (complementary medicine) No significant improvement observed. The patient's only feedback concerned the taste. **Risk Assessment:** Relatively high, though the patient is showing signs of improvement. Ongoing observation is recommended, with particular attention to recurrence of the following: 1. Depersonalization-derealization disorder 2. Speech and language impairment 3. Assaulting colleagues without conscious awareness **Recommendations:** 1. Extend medical observation period until symptoms subside. 2. Keep systematic records of the time, duration, and patient descriptions of each OBE. 3. Restrict the patient from high-intensity psychic research for the duration of the observation period. **Doctor's Note:** The patient has come to regard his OBE as perfectly normal. His nonchalance and near-total disregard for treatment lead me to believe that the rehab center's coffee machine, which requires weekly repairs, may actually be more "stable" than he is.
 
-- Description：Don't mess with bees—especially the arcane ones.
-- Action：Shoo the Bees Away
 
 
 ---
@@ -4960,8 +4926,6 @@ Murals and Turning Points
 
 This is a land where traditions are told through murals. After the revolution, the young government turned to its artists. This newborn Mexico had so many stories to tell, so many to shape—and paintings adorning the walls of its buildings became the perfect medium. In the 1920s, the muralist movement swept through the country. Look, this was an art form both ancient and brand new. It no longer lived in auction houses, galleries, or the private collections of the wealthy. Instead, it unfolded across vast walls open to the public. On those walls, artists spoke of justice, of freedom, of this nation's history and memory. Imagine it! A new country, a new canvas, and so many stories to tell! From the very beginning, these murals were inseparable from politics. The brush was the artist's voice. They spoke for their ideals, for beauty, for all the suffering people of the world ... But voices are difficult to harmonize. And they can turn harsh. As the 20th century entered its third decade, cracks began to appear—between artist and artist, between artist and state. Should the murals depict suffering or glory? Whose praises should they sing? Which path forward? Rivera, Orozco, and Siqueiros—three names that once symbolized hope, our "Los Tres Grandes"—held different visions for the future of both their art and their country. The rifts only deepened. In the small "Midnight Kitchen," young painters listened to this "fight of the century."
 
-- Description：We gather, we part—all because of a single word.
-- Action：Browse information
 
 
 ---
@@ -5137,8 +5101,6 @@ Our journey, our dreams, and the future we can't reach ...
 May they rest down in the silent, lightless depths ...
 
 ***
-
-Lorentz Butterfly: The spirits followed the marigolds all the way from the mansion in Roma to the People's Library, a final touch to complete the mural. Quite a night.Lorentz Butterfly: I've got you now.Muriel: Ah!
 
 **Lorentz Butterfly:** The spirits followed the marigolds all the way from the mansion in Roma to the People's Library, a final touch to complete the mural. Quite a night.
 
@@ -6280,8 +6242,6 @@ Several mice work hard to lug over a cleaned painting and place it at her feet.
 
 END OF DIALOGUE
 
-- Description：Say goodbye to your new friends. Set out with your new friends.
-- Action：Listen to the Conversation
 
 
 ---

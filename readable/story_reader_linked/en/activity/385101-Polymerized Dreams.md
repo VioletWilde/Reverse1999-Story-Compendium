@@ -205,8 +205,6 @@ The Huygens-Fresnel Interferometer produces sufficient chaos particles to genera
 
 We are aware that introducing a new variable to the system could result in even more chaos and complexities, but we predict that the outcome will be beneficial for our research.
 
-- Description：A new adventure into chaos, with "controllable risks."
-- Action：Read
 
 ### Trail · News Broadcast
 
@@ -220,8 +218,6 @@ News Broadcast
 
 ... a major agricultural achievement, these wheat seeds developed in the Vavilov Complex have received widespread adoption. At this stage, increasing crop yield is but a rudimentary goal. Our nation's scientists are now working on improving crop adaptiveness to eliminate hunger on Earth and bring us one step closer to terraforming Mars. Note that a large number of Bumblebee drones will be delivering new farm machinery and organic polymer to the croplands today. Please mind your safety when using aerial transportation. That's all for today's morning news. Thank you for listening. Have a nice day!
 
-- Description：Hunger and poverty still haunt the world today.
-- Action：Listen
 
 ### Trail · International Polymer Summit
 
@@ -235,8 +231,6 @@ International Polymer Summit
 
 Dear friends, researchers, and comrades who care for the well-being of humanity, welcome to the International Polymer Summit! We sincerely invite you to visit our complexes, the Soviet Union's most advanced scientific facilities. You will discover the most cutting-edge technologies of our era and witness how they are integrated into everyday production and life to truly benefit every learner and worker. From genetic engineering in agriculture to robotic automation in industry, from the transmission of knowledge and experience to breakthroughs in thought and computation, the great foundation behind all of these achievements is the central focus of this summit—polymer. We are delighted to share and promote these technologies for the benefit of humanity across the world. Visitors are kindly requested to collect a vehicle activation key from the nearest Rafik and travel by Turbine to the summit venue. We look forward to your arrival.
 
-- Description：We stand ready to bring these technologies to the world, for the betterment of humankind.
-- Action：Read the Brochure
 
 ### Trail · Objection
 
@@ -250,8 +244,6 @@ Objection
 
 As the representative of the Politburo, I have serious concerns about the safety of Comrade Sechenov's proposal. Not all innovations are beneficial to our country and institution. We have learned from history that technologies—especially the most advanced technologies—can cause enormous disasters if left unsupervised. Do we fully understand the technologies involved in this proposal? Is there a regulatory body to provide proper oversight? Is Comrade Sechenov able to take responsibility for the possible consequences? Until these questions can be answered, this proposal should remain in the laboratory. I believe what we currently have is enough to serve our country and society. —Yegor Timofeyevich Molotov Date: ■■■■/■■/■■
 
-- Description：Who proposed this? Who can prove its feasibility? Who will be responsible for the consequences?
-- Action：Read Meeting Minutes
 
 ### Trail · Lebedev's Notes
 
@@ -265,8 +257,6 @@ Lebedev's Notes
 
 The auto weapon factory, aka the repair vendor, is complete. To increase its functions, I have added a variety of algorithms to its thinking module, making it a genuine artificial intelligence. I am sure the entire Mendeleev Complex will be proud of this achievement because it—or should I say she?—has developed her own emotions! We have not figured out whether this is simply imitation, but all the scientists in the lab are excited about it. Perhaps we should give her a feminine name, a lovely one with an innocent feel ... Yes, NORA. That's a good name.
 
-- Description：She will be an innocent, lovely girl.
-- Action：Read
 
 ### Trail · The Twins' Update Logs
 
@@ -280,8 +270,6 @@ The Twins' Update Logs
 
 Input: Released a mixture of cis-3-Hexenal, 2-Acetyl-1-pyrroline, linalool, and α-Pinene. Reaction: Identified as "spring." No further reaction. Input: Displayed a painting of a tilted white square covering 40% of the canvas, with medium saturation and low brightness and contrast. Reaction: Identified as "Suprematism." No further reaction. Input: Played certain audio tracks. Reaction: When The Nutcracker was played, heads lifted slightly before returning to original posture. Conclusion: No abnormalities. Mental fluctuations within standard range.
 
-- Description：Wherever her soul goes, it leaves a trail.
-- Action：Read
 
 ### Trail · An Unfinished Letter
 
@@ -295,8 +283,6 @@ An Unfinished Letter
 
 Archived Conversation #■■ Date: ■■ From: D. Sechenov To: ■■ ... the future of humanity. I used to believe that with robots freeing humans from all the dangerous and repetitive work, we would spend more time pursuing scientific and artistic breakthroughs, which would accelerate the development of human civilization. But I overlooked the fact that most humans are born sinners; their greed and sloth are magnified by technology, hindering our advancement to a better world. Therefore, we must start a new project to change this situation, excise the negative aspects of human nature, and bring true freedom to the world ...
 
-- Description：True greatness lies in what pushes humans beyond their limits.
-- Action：Read
 
 ### Trail · Classified File
 
@@ -320,8 +306,6 @@ Polymer Analysis: (Empty)
 
 Authorized by: The Politburo
 
-- Description：What happened and disappeared in history.
-- Action：Read
 
 
 ---

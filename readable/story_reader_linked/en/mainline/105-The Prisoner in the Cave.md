@@ -41,6 +41,10 @@
 > Be it the Thames or the Aegean, one must navigate carefully.
 
 <!-- reader-body:start -->
+> **Title card：** The Prisoner in the Cave
+
+> **Title card：** Bon Voyage
+
 **Regulus:** Hold tight!
 
 **Lilya:** S\*\*t! There's nothing we can do!
@@ -160,140 +164,13 @@ Vertin: Well, she did try her best to pick the music.Vertin: Though no one is in
 **Vertin:** We need to slightly twiddle this knob.
 
 **Vertin:** To ... 1913.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Be it the Thames or the Aegean, one must navigate carefully.
-
-> **Title card：** The Prisoner in the Cave
-
-> **Title card：** Bon Voyage
-
-**Regulus**：Hold tight!
-
-**Lilya**：S**t! There's nothing we can do!
-
-**Lilya**：We have another ten minutes tops before this ship sinks like a stone!
-
-**Sonetto**：… 60% of the left cabin has been flooded, as well as 75% of the right cabin.
-
-**Sonetto**：The ship cannot survive such a ferocious storm. Timekeeper, we should get ready for evacuation.
-
-**Vertin**：Hm. Prepare the Teleport soft disk.
-
-**Regulus**：Wait, what're you talking about? Are we going to abandon the ship?!
-
-**Regulus**：These are just some breezes and ripples! Won't last longer than a blink of an eye! Just hold on to the wheel, and we'll …
-
-Here comes a big wave.
-
-**Sonetto**：Hmm. That sounds like the turbine just cracked.
-
-**Lilya**：Great, so only two minutes left.
-
-**Regulus**：A true captain will never abandon her ship!
-
-**Regulus**：I have sworn to live and die with Rockin' APPLe, the second of its name!
-
-**Lilya**：Then why is it the "second"?
-
-**Regulus**：...
-
-From behind her sunglasses Regulus's gaze drifts into the distance.
-
-**Regulus**：D**n it! Sotheby just bought us this ship.
-
-**Regulus**：I racked my brains to think of all the assurances I could give to get that governess off my back!
-
-**APPLe**：I think it's better for us to embrace the fact that all things would come to an end, Captain.
-
-**???**：Sometimes, deserting is to leave for another battlefield.
-
-The rain washes the radio shell. The flower on top, which was once well cared for, now droops with weariness.
-
-Regulus stares at that flower blankly. Then, her eyes widen as she suddenly realizes something.
-
-**Regulus**：Oh, you are one to talk about deserting!
-
-**Regulus**：If it wasn't for you, we wouldn't have ended up like this in the middle of the ...
-
-**Sonetto**：Timekeeper, we have an emergency.
-
-**Sonetto**：The Teleport soft disk can't be activated.
-
-**Sonetto**：I've tried other contingency teleport incantations, but none of them worked in this area, neither did the communicator.
-
-**Sonetto**：It's as if something is jamming the signal.
-
-**Vertin**：I see.
-
-**Vertin**：I have a question for you, Sonetto.
-
-**Sonetto**：Please, Timekeeper.
-
-**Vertin**：Hmm.
-
-**Vertin**：In the Field Mission Evacuation Instructions, apart from the part about "asking the Timekeeper for help" …
-
-**Vertin**：Is there anyone else we can reach out to for rescue?
-
-**Sonetto**：...
-
-**Lilya**：Er, seriously, Vertin?
-
-**Regulus**：Hahahaha!
-
-Without hesitation, Regulus pounces on Ms. Radio immediately.
-
-**Regulus**：I see what's going on now. This is a trap!
-
-**Regulus**：And you are behind all these! It is you who played that nonsense travel note from 1999 ...
-
-**Regulus**：... and lured us into this random sea, in order to torture us, afflict us, and now feed us to the fish!
-
-**Regulus**：Go ahead. Give us the wicked villain laugh, you Manus mole! Quit playing innocent here!
-
-**???**：I, I don't know. I mean no harm!
-
-**Regulus**：Ahahah, nice try! See what else you got to say when this Pirate opens your battery cover and finds "Made in Manus" there!
-
-**???**：Please do not shake me *@#...
-
-**???**：If ... If I broadcast How to Clean Kitchen Appliances for you now, will it brighten up your mood?
-
-**Regulus**：Like hell, it will! Can't you see? My ship is going down! Along with my record collection and your battery cover! To the bottom of the sea! For good!
-
-**Regulus**：Even John Lennon can't do anything about it now!
-
-**???**：I'm terribly sorry. I can't see. I could only touch, hear, and imagine ...
-
-**???**：How about this program, Lesson 101: The Express Route to Heaven One Shouldn't Miss? I think it would serve you better.
-
-**Regulus**：Aaarrh! I can't stand this anymore!
-
-**Regulus**：My records, my Dr. Pappers, my pirate radio, my Rockin' APPLe Ⅱ!
-
-**Regulus**：For crying out loud, what have I done to deserve this!
-
-A soothing song comes on the radio.
-
-**Vertin**：Well, she did try her best to pick the music.
-
-**Vertin**：Though no one is in the mood, I think this piece is not bad.
-
-**Vertin**：As to Regulus's question ...
-
-**Vertin**：We need to slightly twiddle this knob.
-
-**Vertin**：To ... 1913.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Deck Decoration Group
 
@@ -307,8 +184,6 @@ Deck Decoration Group
 
 Just One Song Rock Around the Ship Please Please Sotheby ------------ Deck Cleaning and Maintenance  Tuesday!   Friday!!  Sunday ------------ **Crew Strength Ranking** First Place  Breaker of Bonds, Guardian of the Forest Plaza Landscaper, Leader of the Rebellion  —— The Elegant Lady Oak Salute to you, friend! Second Place  Communications Saboteur, Nightmare Crusher, Security Guard Nemesis  —— Cruising Witch The coolest guy who brings us roasted pork knuckles. The absolute coolest. Third Place  Rebel Spokesperson, Mighty War Proclaimer  —— Great Navigator with Excellent Musical Taste  Of course, also a Pacifist.
 
-- Description：A decorative cluster that was carefully grown under the captain's care, now wilted on the ground due to the storm.
-- Action：Pick up
 
 
 ---
@@ -320,6 +195,10 @@ Just One Song Rock Around the Ship Please Please Sotheby ------------ Deck Clean
 
 <!-- reader-body:start -->
 Joint Committee of SF
+
+
+
+> **Title card：** Treasure Hunt
 
 **Vertin:** This is ...
 
@@ -507,6 +386,10 @@ Regulus halts and hesitates. Slowly, she turns her head.
 
 Everyone, be careful!
 
+
+> **Title card：** TO BE CONTINUED…
+
+
 ***
 
 COMBAT:
@@ -514,204 +397,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Secrets are hidden in the seams. Stretch out your hand, a bit further.
-
-> **Title card：** Treasure Hunt
-
-> **Title card：** Joint Committee of SF
-
-**Vertin**：This is ...
-
-**Z**：The official letter of appointment from the Foundation.
-
-**Z**：Congratulations, Vertin. After the long evaluation period and the re-examination ...
-
-**Z**：The Storm Reformation: Manpower and Discipline has been officially approved by the Pax Security Council.
-
-**Z**：Team Timekeeper is now a legitimate independent department.
-
-**Z**：You are now granted more flexible autonomy and independent budget.
-
-They’ve been waiting in the suitcase for this document for far too long.
-
-**Regulus**：What was that? Did you say budget?!
-
-**Regulus**：Does that mean the Foundation will buy … assign me a new ship?
-
-**Z**：Unfortunately, "independent" means "doesn't rely on others."
-
-**Vertin**：I can apply for a ship for you, but it's not guaranteed.
-
-**Regulus**：Tsk, misers!
-
-**Regulus**：Fine. Not that I wanted an obsolete ship painted in grayish shepherd check.
-
-Regulus mumbles and walks away. She has entirely lost interest in this conversation.
-
-**Z**：However, the price of passing that bill is to let the Foundation keep its authority to discipline unregistered arcanists.
-
-**Z**：The arcanists who have been and will be assigned to Timekeeper's team will be put through a risk assessment procedure carried out by the Foundation.
-
-**Z**：Those who are in lower-risk categories only need to receive primary artificial somnambulism training, while the high-risk ones will go to the School of Discipline.
-
-**Z**：But I will make sure they will be registered as members of Team Timekeeper when they enroll.
-
-**Vertin**：I see. I have only one question.
-
-**Vertin**：Are you still our point of contact for the Foundation, Madam Z?
-
-**Z**：Yes, of course.
-
-**Vertin**：Then I have no further questions.
-
-A smile breaks on Madam Z's lip.
-
-**Z**：Meanwhile, Team Timekeeper can apply for secondment from the Foundation, Laplace, and Zeno, if necessary.
-
-**Z**：You can check this file for more details.
-
-Ms. Z hands over a supplemental clause of considerable thickness.
-
-Fortunately, there are other things in more dire need of being checked for now.
-
-- **Choice：** What's our mission?
-
-**Z**：It stays the same—keep investigating the "Storm" and Manus Vindictae.
-
-**Z**：You can make your own plans of action. The Foundation only needs a monthly report on the result.
-
-**Z**：You are the first-in-command, Vertin.
-
-**Vertin**：Okay.
-
-**Z**：You already have a target, I assume?
-
-**Vertin**：That base the Manus used to keep its Olitiaus four years ago. It has never been reversed by the "Storm."
-
-**Vertin**：I'd like to investigate that place again.
-
-**Z**：So you've been there many times.
-
-**Z**：Well, that'd make a good start for Team Timekeeper.
-
-**Z**：I'll arrange for some people to meet you at the base.
-
-**Z**：Heh heh ... I think you'll have a great time together.
-
-> **Title card：** Olitiau Base
-
-**Regulus**：Oh. The fog is thick here. A-choo!
-
-The mist hangs heavy in the valley, and the temperature is somewhat uncomfortable for those accustomed to the suitcase.
-
-**Vertin**：It used to be the nest of Olitiaus, a kind of creature resting in valleys with abundant water resources.
-
-**Vertin**：What's more, it's winter now.
-
-The leaves are indeed covered with a thin skin of frost.
-
-Regulus clicks her tongue and eyes the fog-shrouded Gate of Zeno.
-
-**Regulus**：So, why do I have to be the errand girl? The Foundation wasn't even planning to give me a ship!
-
-**APPLe**：Ms. Sonetto is going through the procedures in the headquarters to transfer herself to Team Timekeeper.
-
-**APPLe**：Ms. Druvis and Sotheby are on a break, for they have spent much time and energy clearing the woods and repairing the Foundation's square.
-
-**APPLe**：Ms. Lilya has been given an administrative penalty because she broke into the Rehabilitation Center not long ago.
-
-**APPLe**：This leads us to the current situation, where only the Captain and this APPLe are able to act freely.
-
-**Regulus**：What?
-
-**Regulus**：So in the end, was I, the renowned rocking pirate, the only one who didn't cause any damage to the Foundation buildings?!
-
-**Regulus**：Ugh! I have never felt so humiliated in my life!
-
-**Vertin**：You're not planning on destroying this place now, are you, Regulus?
-
-**Regulus**：No, no. Emm?
-
-**Regulus**：Hey, see who's here! Lilya and a stranger!
-
-Next to the rusty iron door, Lilya squats on her hunkers, looking extremely bored.
-
-**Lilya**：What took you so long? Fell into a gutter?
-
-A graceful stranger is standing next to her.
-
-**???**：Hello, Timekeeper.
-
-**Ms. Moissan**：My name is Moissan. My employee ID is SF27602191908238X. I believe Madam Z has told you about me.
-
-**Ms. Moissan**：I am now an official member of your team.
-
-**Vertin**：Ms. Moissan, welcome to the team. Madam Z said you're an excellent tutor in arcanum.
-
-**Ms. Moissan**：She's too kind to say so. In fact, I have a lot to learn from you.
-
-**Ms. Moissan**：Also, thank you for taking good care of Ms. Sotheby.
-
-**Regulus**：Hold on, you know Sotheby?
-
-**Vertin**：According to Madam Z, Ms. Moissan used to be Sotheby's private teacher.
-
-**Ms. Moissan**：It is a long story.
-
-**Ms. Moissan**：Let Ms. Lilya give us an introduction to the base first. As the field operator, she knows this place better.
-
-Ms. Moissan smiles toward the flying witch beside her, who has started to yawn.
-
-Someone clearly has grown tired of this humdrum small talk.
-
-**Lilya**：Hah! After I got promoted and transferred to the headquarters, those exciting outbound missions have been removed from my schedule.
-
-**Lilya**：In short, although it's called the base ...
-
-**Lilya**：The only place unaffected by the "Storm" is a narrow, 20-meter-long corridor, no larger than a hunter's lodge.
-
-**Lilya**：My former fellows had already searched this place from top to bottom.
-
-**Lilya**：Those Laplace dudes had even sent in their lab dogs to search here inch by inch. Found nothing but some excrement of the Olitiaus and the dogs' own poop.
-
-**Vertin**：There might be some clues that are invisible.
-
-**Vertin**：Regulus is a specialist in optical arcane skills, maybe she can find something.
-
-**Regulus**：A specialist? Ahem ... Well, I'll take that as a compliment.
-
-**Regulus**：But for the record, compared to searching, hiding treasures is more of a pirate's lot!
-
-**Regulus**：So if it were up to me to hide treasures in this place ...
-
-Regulus walks into the depths of the river valley.
-
-**APPLe**：Please hold on for a second, Captain Regulus.
-
-**APPLe**：The fog seems abnormally thick.
-
-Regulus halts and hesitates. Slowly, she turns her head.
-
-**Regulus**：Whaaa! Ambush! Ambush! These prats nearly shot my hat off!
-
-**Lilya**：Lucky you. They hit the jackpot right away.
-
-**Lilya**：Hmm. There shouldn't be any ambush in this place.
-
-**Ms. Moissan**：Easy, Ms. Regulus. Please carefully retreat to my side!
-
-**Ms. Moissan**：Ms. Timekeeper, please cover us!
-
-- **Choice：** Unknown attackers. <br>Everyone, be careful!
-
-> **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -1074,8 +760,6 @@ Ms. Moissan's Personal Notebook
 
 **October 9, 19██** Ms. Sotheby seems to have lost some weight. The Foundation's diet is perhaps a bit monotonous ...  Nuts & Cheese Crisp / Raspberry Protein Crisp Pudding 260g light cream, 45g sugar, 100g milk, 150g raspberry jam, 3 eggs, 1 vanilla pod, 15g gelatin sheets **October 16, 19██** Mission: Germany Branch ▪  Arcane Materials Catalog  ▪  Inventory of Remaining Arcane Goods  ▪  Inventory of Remaining Arcane Equipment  ▪  List of Senior Technical Personnels  Contact: Ms. Mary Smith New Identity: Nola Ward **November 5, 19██** Arrived at the branch. Is the number wrong? There were some problems getting on board. Ms. Smith is missing, and my name is not in their HQ contact book. The letter of introduction allayed some of their suspicions, but I still need to wait for the contact to confirm my identity with HQ. **\[A letter clipped to the log book\]** Ms. Moissan, The list and reports have been received; thank you for your efforts. The number of missing persons is fifteen percent higher than we expected. I will report this and might need your assistance in investigating this matter with HQ. I noticed Martin Moore is not on the list sent back this time. He is a top talent in the Germany Branch's drug research project, and I'm afraid we will need you to travel to Bavaria to find out the situation. Z From Foundation HQ **November 14, 19██** The German Branch can no longer provide aerial vehicles. **November 19, 19██** Ceramic workshop. I was probably only a few years old when I moved away ... but I still remember this spruce tree. They didn't recognize me.
 
-- Description：A notebook with elegant handwriting, accidentally left behind by someone.
-- Action：Pick it up
 
 
 ---
@@ -1498,7 +1182,6 @@ Analysis Report on the "Storm" Sample
 
 4|Four years|four years|4 year|4 years|Four Years|four-year|４
 
-- Description：No one is spared from the scourge of time, yet some still dare to try. How many years has Vertin been walking in the "Storm"?
 
 
 ---
@@ -2302,8 +1985,6 @@ When and Where
 
 Now you may continue with your conversation uninterrupted.
 
-- Description：Dolphins, curious about terrestrial creatures' communication, try to join the confrontation.
-- Action：Repel again
 
 
 ---
@@ -2670,8 +2351,6 @@ Villiers W5 Strategic Razor (Enhanced Version) Instructions for Use
 
 **I. Preparation** The Villiers W5 Strategic Razor (Enhanced Version) is issued to the Foundation Special Operations Teams (FSOT) and will be distributed along with other equipment during your initial gear issuance. Please carefully check the equipment receipt list to confirm that you have received the correct model and number of items. The Villiers W5 Strategic Razor (Enhanced Version) is developed by the Laplace Scientific Computing Center (LSCC). Designed for the daily mission needs of human team members, it does not require Arcane skills to operate. Before official use, proficiency in the correct use of this equipment is required, and the user must pass related practical training assessments. **II. Awakening and Linking** When first equipping the Villiers W5 Strategic Razor (Enhanced Version), please manually awaken and link the weapon by performing the following operations: ▪Sit with eyes closed and perform deep breathing in 10-second intervals until the body reaches a meditative state; ▪After opening your eyes, silently count to 5 seconds, then grasp the handle of the equipment with both hands. Release your hands after feeling a slight vibration, at which point the Villiers W5 Strategic Razor (Enhanced Version) will be awakened and successfully linked to you. **III. Parameter Setting** When first equipping the Villiers W5 Strategic Razor (Enhanced Version), please follow these steps and wait for the weapon to adjust its parameters according to your body data: ▪Grasp the handle of the equipment with both hands, quickly clench, and relax, repeating 3 times; ▪Place the equipment upright, with the tail end against the tip of your right foot, raise your chin, and wait for the razor to buzz once; ▪Place the equipment horizontally, lift the razor to shoulder height, turn your head left and right once each, and wait for the razor to buzz once; ▪Read clearly in a moderate voice: "Entities should not be multiplied unnecessarily." Wait for the razor to buzz once. **IV. Equipment Maintenance** The maintenance cycle for the Villiers W5 Strategic Razor (Enhanced Version) is 3 months. If you believe the weapon is exhibiting abnormalities, please contact the customer service personnel at the LSCC. Follow the instructions of the customer service personnel to send the weapon to the Computing Center, so that the center's technicians can check and debug your weapon's performance.
 
-- Description：Related to one of the most advanced armaments in a bygone era.
-- Action：Read
 
 
 ---
@@ -3271,8 +2950,6 @@ Long and dead silence.
 
 Abruptly, someone starts to clap.
 
-Sonetto: Huh!!Order comes first, and opinion comes second.The mission matters the most.This is what she has been trained to believe and do.Sonetto: Regna sereno intenso ed infinito！
-
 **Sonetto:** Huh!!
 
 Order comes first, and opinion comes second.
@@ -3501,7 +3178,6 @@ Yet the apparition has gone.
 
 Enter right, exit left|right, left|right and left|enter from right, leave from left|enter right, leave left|right left
 
-- Description：The island's precepts must be memorized. When entering and leaving the assembly hall, from "which side do you enter, and on which side do you leave"?
 
 
 ---
@@ -4844,8 +4520,6 @@ Just the Right Pause
 
 Yes, yes, the deserved victor.
 
-- Description：A splendid debate between numbers.
-- Action：Think back
 
 
 ---
@@ -5142,8 +4816,6 @@ Bacchus's Poem
 
 This wording is hasty and reckless, Yet no offense is meant to your extraordinary spirit (yes, you naturally know), You know, along with the many, many Countless blind admirers, I am deeply attracted to Your imposing breadth of mind, That makes you eloquent even facing a stone wall. Oh, how astute! Only by avoiding labor can one prevent mental fatigue, Eloquence triumphs over facts, And wit refutes truth, Truly, a genius in your own right. In the team, everyone is equal, The wise argue with the mediocre, the mediocre chatter confidently, Sincere praise (truly sincere!) For your joy in sharing with everyone, So considerate and comprehensive, yet so broad and not specialized. And you lead us in the dance! And to Draw a circle, then smear it randomly, For logic is all a play, And wakefulness is all sleep.
 
-- Description：More like random scribbles to vent emotions than poetry. A mockery written in jest.
-- Action：Discern words
 
 
 ---
@@ -5636,7 +5308,6 @@ Mediator's Fate
 
 In the fable of the sun, Sunlight is always rhythmic, Never to be dampened, Not to be an umbrella, a ship, or shelter in a downpour, Not to be a shore, a reef, To be battered, to be worn down against the waves, Not to be a cause of capsizing, grounding, lingering, surviving, Nor to stop moss, Nor nurture the buds, To harmonize all colors, but not to pour into each one. Before the rain veils the sunlight, Before the clouds swallow the faint shadows, There remains one last question, One last answer, One last way to dissolve conflicts, One last neutral party, One last bystander.
 
-- Description：A dark, narrow cavern with strange echoes stirring within. It demands a token from you and promises a fable in return.
 
 
 ---
@@ -6135,8 +5806,6 @@ Various Scraps of Colored Waste Paper
 
 ◎ The Great Revolution: Transforming the prison of numbers into an artistic utopia. ◎ Begin Investigation: 5:30 AM! The sun has just risen! Incorrect island schedule; urgently needs correction. ★★★★★ ◎ \[A rough doodle of a man with an expressionless face\] Loose hair, free-spirited and discerning. Needs a bit of dishevelment. ★ Tough headband. Perhaps expresses individuality and defiance. Monotonous clothing colors, no tassel decoration, poor taste. ★★ ◎ Room: Neat, bed rolled up, not even a trace of having been slept in. Collective lack of imagination and creativity. ★★★ ◎ Doctrinal studies, terrifying regulations, a stranglehold on the soul. ★★★★★ Location: Plaza — Beach Method: Lecturing — Art Salon Transformation Style: Dreamy, cozy, passionate \[A rough doodle of a beach party scene\] ◎ Honey bread and vegetable salad. Vegetarianism. No leftover food on the plate. Environmentalism. A beautiful utopian prototype. ◎ Boring and lengthy Q&A sessions. Sleep-inducing. ★★★★ Frowning, contemplation, frowning, frowning, contemplation, not a single smile. Harmful group activity. ★★★ ◎ Walk in the fields. Makes me hungry. What's for dinner? ◎ \[A rough doodle of a little girl with long hair, fierce expression, and exaggeratedly waving arms, like some kind of artistic process\] Terrifying pursuers! Stubborn enemies of the great revolution! Beware!!!  ◎ No meat. Reminder: Sometimes, peace must give way to the stomach. ★★★ Ten people per table, suitable for exchanging creative ideas and inspirations. Reciting poetry! Yeah, high art. No meat. \[A rough doodle of grilling meat\]
 
-- Description：The masked heads want to escape from the classroom of truth again... Stop them!
-- Action：Help 37
 
 
 ---
@@ -6467,8 +6136,6 @@ IDM Maintenance Records
 
 **November 8** Replaced punched paper cards. No equipment abnormalities. **November 9** Shutdown for 30 minutes to check the connector board. Inspection results: some wires slightly aged; no leakage or poor contact was detected. Reported and added wires to the monthly off-island purchase list. **November 10** Shutdown for 30 minutes to check the motor drive. Inspection results: performance good. **November 11** Shutdown for 30 minutes to check the indicator device. Inspection results: the needle of meter a1G4 was stuck; upon troubleshooting, the internal gears of meter a1G4 were corroded. Reported and added the indicator meter to the monthly off-island purchase list. **November 12** Replaced punched paper cards. No equipment abnormalities. **November 13** No equipment abnormalities. **November 14** No equipment abnormalities. **November 15** Shutdown for 1 hour 15 minutes to replace the meter. Also obtained a new type of connector board from off the island, scheduled to be replaced the next day. **November 16** Replaced punched paper cards. No equipment abnormalities. **November 17** Replaced the new connector board. Shutdown for 3 hours, replacement completed. **November 18** No equipment abnormalities. Disposal of the original connector board: I gave it to my daughter, Sophia, who is quite fond of studying these. The disposal has been approved. **November 19** No equipment abnormalities. **November 20** Replaced the punched paper cards. No equipment abnormalities.
 
-- Description：A page torn from a machine maintenance log, creased from having been repeatedly unfolded and folded.
-- Action：Check records
 
 
 ---
@@ -7749,8 +7416,6 @@ But 37 has walked away.
 
 Now she can return home with peace of mind.
 
-- Description：Bizarre monsters block the captain's path. More... More Abraxas?
-- Action：Clear the path
 
 
 ---
@@ -8426,8 +8091,6 @@ A fleet in black is breaking the waves and sailing toward the island.
 
 They drop the treasure they found and scatter.
 
-- Description：Speculators gather on the beach, trying to dig shiny objects from the sand. Those things don't belong to them.
-- Action：Drive them away
 
 
 ---

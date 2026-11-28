@@ -43,6 +43,10 @@
 > You've had it before. The silent, old and familiar black.
 
 <!-- reader-body:start -->
+> **Title card：** El oro de los tigres
+
+> **Title card：** An Old Umbrella
+
 **Druvis Ⅲ:** ...!
 
 **Druvis Ⅲ:** Vertin ...
@@ -168,146 +172,13 @@ Familiar and unfamiliar ones bustle around in the hallway, holding proposals tha
 **Medical Staff I:** Your friend is waiting for you in the rehab center. Mesmer Jr., remember?
 
 **Medical Staff II:** Let us take you there, so you guys can catch up.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** You've had it before. The silent, old and familiar black.
-
-> **Title card：** El oro de los tigres
-
-> **Title card：** An Old Umbrella
-
-**Druvis Ⅲ**：...!
-
-**Druvis Ⅲ**：Vertin ...
-
-Through the window, she sees a beam of light penetrates the statue suspended in time.
-
-**Druvis Ⅲ**：I saw ... Vertin ... by the "Storm" ...!
-
-**Druvis Ⅲ**：... No.
-
-**Druvis Ⅲ**：It's just a nightmare.
-
-**Druvis Ⅲ**：...
-
-The slender figure gets up. The lobby is as spacious as it used to be, but she's the only being walking across it now.
-
-**Druvis Ⅲ**：A nightmare overly real.
-
-**Druvis Ⅲ**：Is it because I haven't seen them for so long?
-
-Rarely this place would be in such serenity.
-
-Since their return to the Foundation, each one of them has been invited to a one-on-one talk with the Foundation's personnel.
-
-**Druvis Ⅲ**：Vertin ... was the first to leave.
-
-**Druvis Ⅲ**：She said she was going to talk to Madam Z about which department we would belong to. I haven't heard from her since then.
-
-**Vertin**：Yes. Here are their background reports I wrote for your perusal.
-
-**Druvis Ⅲ**：Then, Sotheby.
-
-**Druvis Ⅲ**：Her boredom was swept away by the invitation. She departed in such a haste that her beloved doll was left behind on the carpet.
-
-**Vertin**：This is Sotheby. A well-educated lady born in a traditional arcanist family.
-
-**Vertin**：She comes from an extremely privileged background. Her family had a special influence around the world.
-
-**Vertin**：Besides, she has limited social skills and scientific knowledge. It will be difficult to assimilate her.
-
-**Druvis Ⅲ**：Compared to Sotheby, Mr. APPLe was apparently not very happy to be invited. When he left, he turned a little green.
-
-**Vertin**：Mr. APPLe, under his modest and gentle appearance, lies a sharp perception by nature.
-
-**Vertin**：Being so erudite, he always has his own views of our historical intelligence.
-
-**Vertin**：As far as I know, he remains upset about Captain Regulus's involuntary affiliations with the Foundation.
-
-**Vertin**：While Regulus has never been truly accepted by the Foundation.
-
-**Vertin**：She has missed out all the education and training a member of the Foundation should have received. The influence left by the outside world on her is like a banner among the ordinary staff in the Foundation. A banner way too salient.
-
-**Vertin**：Once the banner was held up, new arguments were raised, and thus exacerbated the factional conflict inside the Foundation.
-
-**Z**：Factional conflict? There ought to be no factions in the Foundation. All of us share one common goal. You should know that well.
-
-**Vertin**：But the conflict has been there all the time.
-
-**Vertin**：And it only grows.
-
-**Z**：...
-
-**Vertin**：The group that believes in "mankind supremacy" is splitting the Foundation's belief apart.
-
-**Z**：... So, time isn't the only thing you've been observing these years.
-
-**Vertin**：The conflicts cannot be covered by regulations anymore, Madam Z.
-
-**Vertin**：The "Storm" has been here for 8 years. None of the people who are left behind can shake off the influence it brought.
-
-**Vertin**：Human technologies are being reversed, while arcanum is blooming.
-
-**Vertin**：The unexpected first "Storm" brought more than half of the Foundation's elite members away from us. The number of staff of the House of Integratus and the Committee cannot compare with that of their heyday even now.
-
-**Vertin**：In order to contend against Manus Vindictae, we have kept absorbing arcanists from the outside world ... However, the dissenting voices have only grown louder ...
-
-**Vertin**：Loud enough to be heard, and have become a faction that couldn't be shaken—the Mankind Caucus.
-
-**Vertin**：Beyond their control, these new arcanists only brought fear. They demand an unchallengeable power to make decisions and a harsher control of arcanists.
-
-**Vertin**：Madam Z, I don't want my friends or me to be the sacrifice of this conflict ... As we were four years ago.
-
-**Z**：...
-
-**Z**：That's why you handed in the background reports of those arcanists as the evidence for your proposition in the negotiation.
-
-**Z**：Vertin, what do you want?
-
-**Vertin**：A neutral, safe, and legitimate place for us.
-
-**Z**：What if I'm also on the side of Mankind Caucus?
-
-**Vertin**：I don't know whose side you are on. But I believe the future you pursue doesn't end up with the Foundation being split apart by factional conflict.
-
-**Z**：...
-
-**Vertin**：That's what I learnt from that stormy night.
-
-**Vertin**：Your eyes told me ...
-
-**Vertin**：... you didn't belong to that chess game.
-
-**Z**：... You may leave the reports. I need some time.
-
-**Vertin**：No matter what your decision is ... thank you.
-
-In the middle of the office stands solely the lady in white.
-
-She flips through the files, sighs, and then picks up the phone.
-
-**Z**：Please put me through Delegate Mark.
-
-The long hallway is located between the Committee and the House of Integratus, forming a bridge between the two loci of power.
-
-Familiar and unfamiliar ones bustle around in the hallway, holding proposals that only have a one-in-ten chance of passing.
-
-**Medical Staff I**：Hey, Vertin!
-
-**Vertin**：Hello.
-
-**Medical Staff I**：Your friend is waiting for you in the rehab center. Mesmer Jr., remember?
-
-**Medical Staff II**：Let us take you there, so you guys can catch up.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① Wet Letter
 
@@ -321,8 +192,6 @@ Wet Letter
 
 Dear Z, the last person from who I'd expect a letter, I am glad to hear from you. About what you wrote to ask, I didn't find anything. No one in the France branch knows about the "Storm," including the leader and some of the senior officers. I think you have to give up on this one. But we need to know more about the "Storm," so do those big shots. That's why the Foundation is desperate for a source of information and values the "Timekeeper" so much. That being the case, we are back to the beginning ... How ridiculous. I don't think there is anything else I can do for you or her. The good news is, my business trip to the France branch has been smooth, and I'm estimated to be back in the headquarters tomorrow afternoon (I'm writing this before my way back so I can use the beautiful special stamp I got here). Maybe we can have another game by then. The people here are not good at ping-pong, so things became boring after I had beaten everyone I saw. By the way, congratulations on your promotion. I'm glad to know you have already adapted to the style of communication and the work in the Foundation. Clever as you are, we all know you were still thinking and acting the "scientist" way. Anyway, the time no longer goes forward, but it didn't stop. It has brought us to this mess and we have to do something. One more thing— keep the black umbrella you mentioned. You don't always get to find a rain gear used by someone that witnesses and braves the "Storm." Yours, Katz From the France branch
 
-- Description：A letter with lovely stamps wet by dews.
-- Action：Open it
 
 
 ---
@@ -333,6 +202,8 @@ Dear Z, the last person from who I'd expect a letter, I am glad to hear from you
 > Under the bricks and stones, few plants can vegetate here.
 
 <!-- reader-body:start -->
+> **Title card：** The Outsider
+
 **Foundation Staff:** Ms. Druvis, we are waiting for your response.
 
 **Druvis Ⅲ:** Now ... I am the last to be invited.
@@ -438,124 +309,13 @@ Constantine: You, who accidentally and rather luckily escaped from the "Storm" i
 **Constantine:** But ...
 
 **Constantine:** Don't keep me waiting for too long.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Under the bricks and stones, few plants can vegetate here.
-
-> **Title card：** The Outsider
-
-**Foundation Staff**：Ms. Druvis, we are waiting for your response.
-
-**Druvis Ⅲ**：Now ... I am the last to be invited.
-
-**Foundation Staff**：Is there anything else that concerns you, Ms. Druvis?
-
-**Druvis Ⅲ**：When will my friends come back?
-
-**Foundation Staff**：They are waiting for you outside the suitcase, just as we are. All we want is an opportunity to talk to you face to face.
-
-**Druvis Ⅲ**：...
-
-**Druvis Ⅲ**：Please wait a moment.
-
-There is no time to feel attached to the past.
-
-She looks at the brown granules in her palm. These are seeds of trees.
-
-As she wags the fingers, the seeds are sprinkled on the ground by the stairs. They quickly roll and disappear in the gaps and crevices.
-
-> **Title card：** SPDM Library
-
-Her friends are not here, of course.
-
-**Druvis Ⅲ**：May I ask ... where we are?
-
-**Constantine**：The library, a place where people let down their guards.
-
-**Constantine**：Trust always facilitates cooperation, don't you think?
-
-**Druvis Ⅲ**：... But I don't even know your name.
-
-**Constantine**：The name is Constantine. I'm the vice president of the Joint Committee of the Foundation.
-
-**Constantine**：Please allow me to extend a welcome on behalf of the Foundation.
-
-She taps her pen on the table and calls out a thin pile of documents. The signatures are left blank on the paper.
-
-**Constantine**：We have sent this document into that suitcase days ago. I should assume that you have read it.
-
-**Constantine**：What's your conclusion then, Ms. Weyerhaeuser?
-
-**Druvis Ⅲ**：Are you referring to ... inviting Sotheby, Mr. APPLe and me to join the Foundation?
-
-**Druvis Ⅲ**：We need to discuss this with Vertin before we give you a proper response.
-
-**Druvis Ⅲ**：We don't know much about the Foundation. As far as I'm concerned ... I do not yet intend to join any organization.
-
-**Constantine**：That is to say, you are inclined to turn down my proposal.
-
-**Druvis Ⅲ**：...
-
-**Druvis Ⅲ**：My apologies ... Vertin has not only been of great help to us, but also saved us from the "Storm."
-
-**Druvis Ⅲ**：I cannot accept the invitation without her opinion, neither can I make decisions for others.
-
-**Constantine**：Fair enough.
-
-Constantine gets up on her feet and walks to the other side of the table.
-
-There stands an unfinished card tower.
-
-**Constantine**：You, who accidentally and rather luckily escaped from the "Storm" in 1929 and now seek refuge from the Foundation—Weyerhaeuser, Sotheby, and APPLe. You are the spire of the tower.
-
-**Constantine**：Between you and the Foundation, the storeys in the middle, are our investigators who go out to rescue the wandering arcanists and humans.
-
-**Constantine**：Vertin, is one of them.
-
-**Constantine**：Merely a drop in the ocean.
-
-**Druvis Ⅲ**：...!
-
-**Constantine**：Vertin indeed is the key to connect you and the Foundation.
-
-**Constantine**：But let's not forget, only an entity as massive and powerful as the Foundation can provide you with long-lasting protection.
-
-**Constantine**：Without the Foundation's supplies, manpower, and technology, even Vertin can barely sail against the great tides of history, let alone the ordinary people, whose fate is doomed to struggle in the endless hazards of time.
-
-**Constantine**：Open your eyes and take a look ...
-
-**Constantine**：We, are the unshakable fortress you should rely on.
-
-**Constantine**：Do you still wish to talk to Vertin first?
-
-**Druvis Ⅲ**：...
-
-**Constantine**：She is receiving a treatment from us.
-
-**Constantine**：Which means she won't make it back by your side before any decision is made.
-
-**Druvis Ⅲ**：...
-
-**Constantine**：Her suitcase will also be retrieved for research purposes after the meeting. As compensation for your displacement, we will arrange you a more decent room.
-
-**Constantine**：Ms. Z will show you around the headquarters tomorrow.
-
-**Constantine**：Go walk around and meet some people ... Perhaps it will help you see what the most beneficial choice to all of us will be.
-
-**Constantine**：I will wait for your answer.
-
-**Constantine**：But ...
-
-**Constantine**：Don't keep me waiting for too long.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -1451,8 +1211,6 @@ Someone has hit the nail on the head.
 
 At the meeting this morning, MP Callaghan and his great-grandson Dr. Callaghan Jr. submitted the research report On Zebra Crossing, Lemon, Snow Leopard Pattern, and Transportation and Teleportation Arcanum Rituals in joint names. In the report, they mentioned an innovational point of view on the relations between zebra crossing and the crisis in human subconsciousness, and that between horse herds and the feeling of levitation. Supported by a considerable amount of experiment data, they were granted series D funding of level 1-11 by the LSCC Funding Channel. In the same meeting, Tchangues 1-07 Stable Release was displayed, which were given rounds of applause in the room for 17.8 seconds. There is no doubt that the display has won was a great success. It was a pair of artificial lower limbs. Its skin and blood vessels crafted through cell reproduction and monkey brain transplantation, and the bones and muscles made with branches, white crystal powder, woolen threads and golden privets from the southeast of France. It is capable of all kinds of movements including walking, running, jumping, and gymnastics moves. It could even spider-walk on the wall for 120.7 seconds. Just as its inventor Ms. Perotti said, "Centered on the rationality and efficiency, we learn from human civilization when we harness the unstable, everchanging arcanum technology, so we can provide real, stable help for more people." There is no doubt Tchangues is a good example of LSCC's core philosophy. Yes, this is the Laplace Scientific Computing Center. I think I am going to enjoy working here. 11:21, 09/19, Mesmer Jr. Laplace Minute Book M - Volume 01 - Page 01
 
-- Description：A neat, detailed note shows one's longing.
-- Action：Read it
 
 
 ---
@@ -2158,8 +1916,6 @@ The oaks march on like waves. Their bud scales keep growing, extending, chasing,
 
 Following the hissing noise of machine, the screen lights up.
 
-- Description：To sort out the mess takes certain patience.
-- Action：Fix it
 
 
 ---
@@ -2478,8 +2234,6 @@ Snacks of the New Era and the Rockin' Pirate
 
 ◎ Rigabit: Yogurt Bullets Pink yogurt from Michigan which pops out like a bullet. **"Not so good as I thought it would be, but does feel novel ...** **Hmm, well, mmm ... 5.6 out of 10."** ◎ K&K: Oatmeal Breakfast Bars Actually a candy bar with little oatmeal. **"Not bad, I'll give it an 8."** ◎ Kjeldson!!! Logger Cookies!!! Known for the rich butter within, it has a rough flavor of the logger style which is exactly the opposite of the royal style. **"What does logger style mean, dry as sawdust?!** **I will put in on the Prohibited List of my ship and it's never getting removed! 1 out of 10!"** ◎Pota-ta-tato: Face Chips There are all kinds of facial expressions. I may look the same when deep fried. **"Too many crumbs. Can't taste the flavor of potato. BARBECUE WITH MUSTARD FLAVORED ...** **Well, acceptable. 4.5 out of 10."** ◎ Cheetahs Cheetahs! Amazing Seeds! Puffed snack. CHEESE SURINAME TOAD JAM FLAVORED. **"When your product is buried in soil but can't grow into anything after 3 days of watering, 24 times in total by the way, you'd better not put the word 'Seed' in its name! 0!** **CHECK, OUT, THIS, BIG, ZERO!"**
 
-- Description：You are surrounded by the clerks. Maybe they didn't catch your words just now.
-- Action：Say it out
 
 
 ---
@@ -2491,6 +2245,10 @@ Snacks of the New Era and the Rockin' Pirate
 
 <!-- reader-body:start -->
 The meeting room
+
+
+
+> **Title card：** Both Sides of the Table
 
 **Committee Member Ⅰ:** There is no need to hold an emergency meeting for this.
 
@@ -2589,120 +2347,13 @@ Constantine strides into the meeting room, throwing her folder on the table.
 **Constantine:** I can see you all have a great interest in this draft proposal.
 
 **Constantine:** Hope I didn't miss too much.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Divide a circle into half, each curve has its own direction.
-
-> **Title card：** Both Sides of the Table
-
-> **Title card：** The meeting room
-
-**Committee Member Ⅰ**：There is no need to hold an emergency meeting for this.
-
-**Committee Member Ⅰ**：Such "declaration of war" without tactic or plan B is typical example of arcanist behavior.
-
-**Committee Member Ⅰ**：The area they controlled has no value at all, no matter in terms of the size or the influence.
-
-**Committee Member Ⅱ**：Well, the administration department has not taken official actions yet.
-
-**Committee Member Ⅱ**：I heard the plan was to dispatch a team to escort them to the School of Discipline.
-
-**Committee Member Ⅰ**：Problem solved then.
-
-The books of case files are closed. As the chairs squeakily scratch the floor, the attendants of the meeting stand up.
-
-**Z**：Next time, if Vertin brings back more unregistered arcanists ...
-
-**Z**：Will the same thing happen again?
-
-Madam Z stands still where she was.
-
-The committee member stops by the door, and slowly turns back to her.
-
-**Committee Member Ⅰ**：I don't understand.
-
-**Committee Member Ⅰ**：It's not a shame to join the Foundation, is it?
-
-**Committee Member Ⅰ**：By signing the agreement, arcanists will enjoy the right to use arcane skills in human society and be bestowed great honor.
-
-**Committee Member Ⅰ**：The human resource department could have used a whole floor to hold the applications a dozen years ago!
-
-**Committee Member Ⅰ**：Not even the New Age Movement could challenge the Foundation's authority in the international community!
-
-**Committee Member Ⅰ**：And these shortsighted exceptions ... They aren't even worth being made a topic for the meeting.
-
-**Z**：Yet ...
-
-**Z**：They're not here for the St. Pavlov Foundation.
-
-**Z**：They're here for Vertin. They choose to follow her out of their own will, because of their admiration for her.
-
-**Z**：That is the essential difference between them and our former recruits.
-
-**Committee Member Ⅱ**：You mean ... it's not important at all for them to join the Foundation.
-
-**Z**：I'm afraid so.
-
-**Z**：But we can't expel them.
-
-**Z**：We both know that the Foundation now requires new members to form a stronger force.
-
-**Committee Member Ⅰ**：What are you trying to say, Ms. Z? Skip to the point.
-
-She returns to her seat, sits down, and opens the folder again.
-
-**Z**：Today, the House of Integratus has resubmitted the revised draft of Storm Reformation: Manpower and Discipline.
-
-**Z**：I think it's time to decide if this draft can be adopted and then start the debate.
-
-**Committee Member Ⅱ**：You're asking for troubles, madam ...
-
-**Z**：Please turn to page 21, section 3.
-
-**Z**："External personnel recruited by the Timekeeper should be placed within the Timekeeper's department."
-
-**Z**："The Timekeeper has the duties of education and discipline to them and should be responsible for their follow-up behaviors."
-
-**Z**："Personnel within the Timekeeper's department, subject to the Foundation's Staff Code, will take orders from the Timekeeper and are not required to take direct orders from the Foundation."
-
-**Z**：This section allows those unregistered arcanists to have more autonomy and develop a stronger sense of identity as a part of the Foundation.
-
-**Z**：Meanwhile, by giving orders to the Timekeeper, the Foundation still has the military right to deploy them.
-
-**Z**：It can solve the current problem.
-
-**Committee Member Ⅰ**：Which means we'll be working with some uncontrollable mercenaries.
-
-**Z**：I'll say it's the reserve service for wartime.
-
-**Committee Member Ⅰ**：It's not going to work. What happened when the arcanists were not under control?
-
-**Committee Member Ⅰ**：Massacres, tyranny, endless revenge ... History is nothing but a sewer to them, where they vent their excessive energy and deceive those in power with a speech of ignorance.
-
-**Committee Member Ⅰ**：The reality has proven that.
-
-**Committee Member Ⅱ**：Exactly. What's more, there has never been a reform as such in the history of the Foundation.
-
-**Committee Member Ⅱ**：During the unexpected "Storm," reforming in a rush will only increase the ri- ...
-
-**Constantine**：Sorry for being late.
-
-Constantine strides into the meeting room, throwing her folder on the table.
-
-**Constantine**：Quite a heated discussion.
-
-**Constantine**：I can see you all have a great interest in this draft proposal.
-
-**Constantine**：Hope I didn't miss too much.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① A Determined Visitor
 
@@ -2714,8 +2365,6 @@ Constantine strides into the meeting room, throwing her folder on the table.
 
 At the moment, you are not too keen on accepting any invitations. You feel comfortable and free in the woods.
 
-- Description：The guardians wandering around the edge of the woods won't give trying to invite you back to the big white house.
-- Action：Reject them
 
 ### Trail · A Ride on the Toboggan
 
@@ -2796,6 +2445,8 @@ A Ride on the Toboggan
 > Ears low, tail down, she sidles back to the shadow of the house.
 
 <!-- reader-body:start -->
+> **Title card：** A Wandering Dog
+
 **Committee Member Ⅰ:** We are on page 21, section 3.
 
 **Committee Member Ⅰ:** Ms. Z insists on adopting this draft.
@@ -2973,198 +2624,13 @@ She looks up at Constantine, seeking confirmation from the look on her face.
 The stenographer quickly regains her composure and starts typing.
 
 "Pass"
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Ears low, tail down, she sidles back to the shadow of the house.
-
-> **Title card：** A Wandering Dog
-
-**Committee Member Ⅰ**：We are on page 21, section 3.
-
-**Committee Member Ⅰ**：Ms. Z insists on adopting this draft.
-
-**Committee Member Ⅰ**：Ms. Z, please walk Madam Constantine through this section.
-
-**Constantine**：No need for that. I have read the stenographer's report.
-
-**Constantine**：In fact, this is the second time I'm addressing this proposal. Considering the Integratus has been very determined to its submission, I believe many delegates must have a burning interest in the case.
-
-**Constantine**：At least it's worth some discussions.
-
-**Constantine**：Pedra, why do you oppose it?
-
-**Committee Member Ⅰ**：The rise of Manus Vindictae has caused the arcanum world to gradually break free from the Foundation.
-
-**Committee Member Ⅰ**：Therefore we need to monitor what our arcanists think and control what they do in a stricter manner, in case they go too far.
-
-**Committee Member Ⅰ**：Manus Vindictae has a subversive slogan. Their influence has been getting bigger since the first "Storm," so has the scale of their infiltration.
-
-**Committee Member Ⅰ**：In The Walden incident in 1929, we were given away in advance. It probably had something to do with the infiltration.
-
-**Constantine**：Very well, a point worth discussion.
-
-**Constantine**：But it is not relevant to our subject here and now.
-
-**Constantine**：Stenographer, please take down the point Mr. Rosa just made. That will be the subject of our meeting in the third week.
-
-**Constantine**：Katz, what do you think?
-
-**Committee Member Ⅱ**：The expectations of our constituencies are on our shoulders.
-
-**Committee Member Ⅱ**：Fear of the arcanists has grown due to the attacks by Manus Vindictae in many regions.
-
-**Committee Member Ⅱ**：It's not ideal for us to implement the "Peace Policy" and promote the arcane technology.
-
-**Committee Member Ⅱ**：To maintain the Foundation's reputation, we have to start with the registered arcanists. Strengthen the regulations, and show the public that arcanists are reasonable and trustworthy.
-
-**Committee Member Ⅱ**：That is why I am opposed to the draft.
-
-**Constantine**：... Inspiring.
-
-She stands up, pacing around in the meeting room.
-
-**Constantine**：However, what a shame, none of you have realized the key factor in this subject.
-
-**Constantine**：What is the key element that decides whether this proposal will be approved or not?
-
-**Constantine**：Manus Vindictae?
-
-**Constantine**：The constituents?
-
-**Constantine**：No. It's far simpler than those.
-
-**Constantine**：It's Vertin.
-
-**Z**：...
-
-**Constantine**：According to the proposal, Vertin will become the only tie between these unregistered arcanists and the Foundation.
-
-**Constantine**：As the number of Vertin's field missions increases, she will inevitably get in touch with more and more unregistered arcanists.
-
-**Constantine**：That is to say, outside the Foundation's jurisdiction, a group of people is getting stronger each day—an armed force.
-
-**Constantine**：Her attitude towards the Foundation will be the key to all the issues.
-
-**Z**：Vertin received her education in SPDM from an early age. She has a clear tendency.
-
-**Constantine**：Yes, that's what I think.
-
-**Constantine**：That's also why I have asked someone who can provide a valid argument on the issue to join us.
-
-**Constantine**：You may come in, Sonetto.
-
-**Z**：...!
-
-The door is pushed ajar.
-
-Sonetto enters the room, humbly and prudently. Her uniform seems to have changed a little.
-
-**Sonetto**：... Good day, Madam Vice President. Greetings to all committee members. May the peace be with us.
-
-**Constantine**：The Timekeeper is still in treatment. Before she is restored to health, I appoint you to take care of all the relevant matters on her behalf.
-
-**Sonetto**：Copy that.
-
-**Constantine**：Now, I will ask you some questions. Please answer them truthfully.
-
-**Sonetto**：Clear.
-
-**Constantine**：Based on your observation, do you or do you not think the Timekeeper has been loyal to the Foundation?
-
-**Sonetto**：...!
-
-**Sonetto**：Of, of course!
-
-**Sonetto**：All the students of the School of Primary Defense of Mankind are devoted to the peace of mankind. We have pledged lifelong allegiance to the Foundation that leads the cause.
-
-**Constantine**：Heh heh, that's not what I'm asking.
-
-**Constantine**：Let's put it differently. Why do you think Vertin would provoke other students to rebel when she was in school?
-
-**Sonetto**：I ... I do not know ...
-
-**Sonetto**：I am sorry.
-
-**Constantine**：After the incident of the "Storm," why would Vertin show reluctance to invite the unregistered arcanists to join the Foundation?
-
-**Sonetto**：Because ... Emm ...
-
-**Constantine**：At one point in her negotiation with the Manus Vindictae, Vertin has agreed to join them. What do you think her true intention was?
-
-**Sonetto**：I ...
-
-**Constantine**：That'll be enough. I believe we all have our answers by now.
-
-**Sonetto**：Madam Vice President! A-According to our investigation of the event in 1929 and Timekeeper's report, it is highly possible that Arcana of Manus Vindictae has the arcane power to influence the sanity and consciousness of others from a certain distance.
-
-**Sonetto**：She is able to exert an irresistible psychic influence on others through short conversations. Timekeeper ... Timekeeper was under huge threats at that time.
-
-**Sonetto**：I think all of her responses were out of her survival instinct.
-
-**Sonetto**：This is also one of the survival strategies that have been taught in Chapter 1, Book 3 of Introduction to Strategy edited by the School of Primary Defense of Mankind.
-
-**Constantine**：I see. You may leave the room now.
-
-Sonetto's eyes turn red.
-
-**Sonetto**：I ...
-
-**Constantine**：We appreciate the information you just added. You have always been an excellent student. We are very proud of you.
-
-**Constantine**：Now it's time to leave and rest.
-
-**Sonetto**：... Copy that.
-
-She leaves the room as instructed.
-
-**Committee Member Ⅰ**：...
-
-**Committee Member Ⅱ**：...
-
-**Z**：...
-
-Silence fills the room.
-
-**Constantine**：What a controversial issue.
-
-**Constantine**：What's your view on this, Ms. Z?
-
-Madam Z stands up. She takes her time before speaking.
-
-**Z**：In my point of view ... Vertin does have doubts about current system.
-
-**Z**：But doubts don't mean disloyalty.
-
-**Z**：In fact, if we want to further expand the staff to contend against the Manus Vindictae...
-
-**Z**：We need flexible management.
-
-**Z**：Apply customized standards to arcanists with different backgrounds and different training objectives.
-
-**Z**：Through this, not only can we remove the doubts of Vertin, but also ease the tension between the Foundation and other unregistered arcanists.
-
-Constantine squints at her.
-
-**Constantine**：You have been very thoughtful.
-
-**Constantine**：Carry it out then.
-
-The stenographer pauses out of surprise.
-
-She looks up at Constantine, seeking confirmation from the look on her face.
-
-The stenographer quickly regains her composure and starts typing.
-
-"Pass"
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① A Troublesome Neighbor
 
@@ -3176,8 +2642,6 @@ The stenographer quickly regains her composure and starts typing.
 
 The woods cannot shelter everyone. Some have to seek themselves a new home.
 
-- Description：They are noisy, aggressive and many.
-- Action：Ask them to leave
 
 
 ---
@@ -3189,6 +2653,10 @@ The woods cannot shelter everyone. Some have to seek themselves a new home.
 
 <!-- reader-body:start -->
 Guest Room, St. Foundation
+
+
+
+> **Title card：** Sailing at Night
 
 **Matilda:** Silver divination stand, white silk, pearls soaked in night dew ...
 
@@ -3493,322 +2961,13 @@ The door is carefully closed behind her.
 **Matilda:** ...
 
 **Matilda:** !%$#...&\*...
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** I've seen you when we were two boards, side by side, drifting on the sea.
-
-### Segment 1 · `script 100412`
-
-> **Title card：** Sailing at Night
-
-> **Title card：** Guest Room, St. Foundation
-
-**Matilda**：Silver divination stand, white silk, pearls soaked in night dew ...
-
-**Matilda**：Hmm, what else lunar materials do I need ...
-
-**Matilda**：Alright! Let me see how much frankincense and myrrh are left ...
-
-**Matilda**：Cool, just the quantity I need.
-
-Matilda immerses herself in the work on the desk. She checked the installment of the curtains repeatedly, making sure the moonlight will precisely shed on the orb.
-
-A low noise is growing in a vessel not far away from her.
-
-But she has no clue at all.
-
-**Matilda**：Okay, all set. Incense basin, my incense basin ...
-
-She turns around.
-
-**Matilda**：Ahhh!
-
-The incense basin falls, making a hollow sound on the Soumak.
-
-**???**：~♪
-
-A pair of pointy ears emerge from behind the basin.
-
-**Matilda**：You again! Annoying divination sprites!
-
-**Matilda**：You are not stealing anything from me this time!
-
-**???**：~♪~♪
-
-Her attitude doesn't bother these transparent creatures at the moment.
-
-Unlike any ordinary critters who always act in a group, only one or two of them are more than enough to get people in trouble.
-
-Their thin, slim hands grab hold of the edge of the silver incense basin. They are flying towards the window.
-
-**Matilda**：Hey! Where are you taking my basin?! Stop it!
-
-She jumps up the windowsill and grips the other edge of the basin.
-
-**Matilda**：Ugh ... Looks like you need a good lesson to understand why you shouldn't do this!
-
-**Matilda**：Wait and see. I'll let you know the consequence of messing with Ms. Matilda Bouanich!
-
-### Segment 2 · `script 100413`
-
-The silver basin falls to the floor, knocking a shallow crater on it.
-
-**Divination Sprite**：× ... ×!
-
-The sprites are crawling under the window, looking flabby and weak. Apparently, they have taken quite a shock.
-
-Matilda picks up the basin and wipes out the dust.
-
-**Matilda**：Ha, he who laughs last, laughs best! It's me, ME!
-
-**Divination Sprite**：♮♭♮♯♭♯♮♯♭!
-
-They burst out an incomprehensible curse, sneaking away from the window with drooping wings on their backs.
-
-**Matilda**：Ugh ... these troublemakers. I'm exhausted.
-
-**Matilda**：It's kinda late ... Oh! Thank goodness, I didn't miss the high tide!
-
-Hurriedly, she starts to restore the order on the desk.
-
-**Matilda**：Set the props ...
-
-**Matilda**：I can't be distracted again. Divination takes my full attention and energy ...
-
-However, there's a knock on the door.
-
-**Matilda**：...
-
-**Matilda**：Ahem! The high tide caused by the moon is coming. Let me see, estimated to start at 20:45.
-
-**Matilda**：Three minutes to go.
-
-**Matilda**：Gotta purify the orb when the high tide starts to make sure the divination is correct ...
-
-The knock comes again.
-
-Matilda frowns.
-
-**Matilda**：Calm down, calm down. This is the key moment ... Whoever it is, I must not be distracted!
-
-**Matilda**：Alright ... Focus, focus.
-
-**Matilda**：Eyes closed ... Focus ... Imagine my body rising and falling alongside the tide under the blessing of the moon ...
-
-**Matilda**：And she is on the other side of the sea ... waiting for me to find her ...
-
-**Matilda**：Time to burn the incense ...
-
-**Matilda**：Show yourself in the orb, Sonett- ...
-
-**Sonetto**：Matilda, are you there?
-
-**Matilda**：...?!
-
-**Matilda**：Wh-what is ... going on?
-
-**Sonetto**：I am sorry, but I think I heard your voice.
-
-**Sonetto**：I need to ask you ... a favor.
-
-Her voice sounds different. Exhausted, almost rusty, as if it were coming out from an old cassette.
-
-**Matilda**：C-coming! Um, w-wait a minute!
-
-**Matilda**：I'm, uh, busy! W-Wait there and be patient!
-
-In a great panic, she pulls up the silk, covers the orb, and sticks the both of them into a corner of the couch.
-
-The door opens.
-
-They both stand inside the door frame, toe to toe, blocking each other's way. As they awkwardly try to move, they go up and retreat in the same direction, as if this were a tango tutorial.
-
-Matilda eventually steps back and lets Sonetto in.
-
-**Matilda**：Now tell me your request! Wh-what brings you to the bright and intelligent Ms. Bouanich at this time?!
-
-**Sonetto**：...
-
-Sonetto forces a smile on her face.
-
-**Sonetto**：Could you please read the future for me?
-
-Matilda sees something she has never seen before on Sonetto's face.
-
-They sit down by the orb.
-
-Myrrh is quietly burning next to them.
-
-**Matilda**：Alright. Now is a good time to ask the moon for help ...
-
-**Matilda**：Clean your hands in the silver pot, and put them on mine.
-
-**Matilda**：Okay. Now sit opposite me, and gaze into the orb.
-
-**Sonetto**：Okay.
-
-She does what she is told. She sees nothing but a clear whiteness in the orb.
-
-**Matilda**：Are you here to confess, to interpret a dream, or to seek the prophecy of the crystal?
-
-**Sonetto**：I am here to confess ... and to seek the prophecy.
-
-**Matilda**：Tell me about the vision in your heart.
-
-**Sonetto**：The vision ...?
-
-**Sonetto**：Hmm ...
-
-She looks at the orb. The shape of the sphere becomes blurry and gradually fades out in her sight.
-
-**Sonetto**：I ...
-
-**Sonetto**：See myself falling ...
-
-**Sonetto**：There are two broken decks ... They were originally one piece.
-
-**Sonetto**：Every time I get closer to one deck, the other one sinks.
-
-**Sonetto**：People on it will fall with it.
-
-**Sonetto**：I can feel the coldness of the deep water, and the pains when they struggle.
-
-**Matilda**：Are you sad about it?
-
-**Sonetto**：... I ...
-
-**Sonetto**：I feel fear.
-
-**Sonetto**：...
-
-**Matilda**：I see ... Which deck would you like to approach intuitively? Can you recognize the people on them?
-
-**Sonetto**：I ...
-
-**Sonetto**：There is something bright on that deck, just like ... Timekeeper and Druvis ... It is warm there.
-
-**Matilda**：... You are attracted to it subconsciously. It guides the way of your heart.
-
-**Matilda**：What about the other?
-
-**Sonetto**：The other deck ... makes me feel comfortable, as if I have spent a long time there.
-
-**Sonetto**：I can trace back every step I take.
-
-**Matilda**：Perhaps that symbolizes your senses.
-
-**Matilda**：Sonetto, are you having trouble making a choice?
-
-**Matilda**：I can see the conflict ... between your instinct and senses.
-
-**Sonetto**：...
-
-**Matilda**：I heard you attended the committee's meeting today.
-
-**Matilda**：Anything happened?
-
-**Sonetto**：I said something wrong.
-
-**Sonetto**：I was not properly prepared ...
-
-**Sonetto**：I was unable to help Timekeeper and Druvis; instead, I created a deeper misunderstanding.
-
-**Sonetto**：What choice should I make ... to resolve their conflict? Stalemate like that ... really scares me.
-
-**Matilda**：...
-
-Matilda can't find a word.
-
-She sits there frozen, covering Sonetto's wrist with her palms.
-
-**Matilda**：The bright deck ... seems closer and larger.
-
-**Matilda**：Have you ever thought about following your heart?
-
-**Sonetto**：...
-
-**Matilda**：Sonetto, maybe you can try following your instinct for once.
-
-**Matilda**：Maybe something unexpected will happen.
-
-**Sonetto**：...
-
-**Sonetto**：I tried.
-
-**Sonetto**：... Four years ago.
-
-**Sonetto**：I let them go ... That was the worst decision I have ever made.
-
-**Matilda**：...!
-
-Sonetto's hands are on the orb again.
-
-**Sonetto**：I am ready. Please tell me the right choice.
-
-**Matilda**：... Okay.
-
-As the chaotic snowflakes disappear, the shape of the orb is becoming blurry again.
-
-Crystals emerge in thin air ...
-
-... One after another, they build up a symmetrical and balanced ship.
-
-Everything has its trace to follow, its logic to function.
-
-**Matilda**："The reality has shown itself."
-
-**Matilda**："Take the path you have already taken, walk the way you have already walked."
-
-**Matilda**："You shall benefit from listening to the voice in your mind, as it is not yet time to dock."
-
-**Sonetto**：Listen to the voice in my mind ...
-
-**Sonetto**：I see.
-
-**Sonetto**：I should not have hesitated.
-
-**Sonetto**：Thank you, Matilda. Your divination is very helpful ... My mind is very clear now.
-
-**Matilda**：You're ... Ha, of course you should thank me!
-
-**Matilda**：You should have known the resourcefulness of Ms. Matilda Bouanich much earlier.
-
-**Matilda**：For your information, those seeking my help must make an appointment at least 15 days before the divination, otherwise, they won't even get to see me!
-
-**Sonetto**：Haha.
-
-**Matilda**：...!
-
-**Matilda**：...
-
-**Sonetto**：You were very serious during the divination ... Even your tone was different from usual.
-
-**Sonetto**：However, I am more familiar with the way you talk now ... It reminds me of our time at school.
-
-Matilda stands there, transfixed.
-
-Sonetto waves at her and walks out of the room.
-
-**Sonetto**：Thank you for making time for me, Matilda.
-
-**Sonetto**：If you need my help next time, please let me know.
-
-**Sonetto**：Good night.
-
-The door is carefully closed behind her.
-
-**Matilda**：...
-
-**Matilda**：!%$#...&*...
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Divination Beginner
 
@@ -3820,8 +2979,6 @@ The door is carefully closed behind her.
 
 Maybe it is a glimpse of what will happen in the future. Or it is just another shadow in the orb.
 
-- Description：You see blurry silhouettes in the crystal orb.
-- Action：Read the sign
 
 
 ---
@@ -4372,8 +3529,6 @@ Sightings of the "Nameless Angler"
 
 **Sunday 07:21** Angelina of the Field Operation Squad passed by the east side of the Foundation Square and saw someone in white by the fountain. This is the earliest sighting of the target. **Same Sunday 15:10** Mary of the Medical Department took stock of the Picrasma Extract III in the warehouse, behind which she found a rubber fishing bucket with 3 suckermouth catfishes inside which were 3-4 inches long. **Same Sunday 15:22** Mary left the warehouse and the fishing bucket was gone. There were water spots and a little granite rubble left on the ground. **Monday 06:30-08:30** A cleaner found some abandoned fishhooks near the fountains as well as by multiple water sources (streams, estuaries). Most of the fishhooks were hung below treetops. **Same Monday 22:33** A patrol squad found a set of fishing gears near reception area 13. The gear set includes a carbon fishing rod with woolen core, a foldable rubber fishing bucket, a comfortable folding chair, and three buckled boxes of baits made with Carbuncle's tooth pulp. It is now taken to the Lost and Found. \* \* \* All right, it seems to be a "Nameless Angler" in the Foundation. We have collected some basic information after the first inquiry, but a lot still remain unknown. What does he want? Where does he come from? Is he a ghost? A spy sent by other political organizations? Or an arcane puppet made by someone that plans to wipe out all the suckermouth catfishes because they have a problem with the appearance of the race? Everything, everything remains unknown ... Hah! Let's move on to the next inquiry!
 
-- Description：Whispers could be heard everywhere. Someone has collected and written them down.
-- Action：Find it out
 
 
 ---
@@ -4384,6 +3539,8 @@ Sightings of the "Nameless Angler"
 > Its creases and folds are smoothened carefully. The writer's seriousness and sincerity could be read between the lines.
 
 <!-- reader-body:start -->
+> **Title card：** A Letter
+
 Committee member Pedra walks out of the changing room.
 
 He sees Delegate Mark sitting in front of a mirror and shaping his sideburns into sharp summits with pomade.
@@ -4519,154 +3676,13 @@ It looks like a simple, usual letter.
 "Sincerely, Sonetto"
 
 **Z:** Good news.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Its creases and folds are smoothened carefully. The writer's seriousness and sincerity could be read between the lines.
-
-> **Title card：** A Letter
-
-Committee member Pedra walks out of the changing room.
-
-He sees Delegate Mark sitting in front of a mirror and shaping his sideburns into sharp summits with pomade.
-
-A tie, ablaze with bright colors, is around his neck.
-
-**Committee Member Ⅰ**：Isn't that scarf a bit too high-profile?
-
-Mark stops his beauty procedures and looks at Pedra in the mirror.
-
-**Delegate**：I think it fits me just well.
-
-**Delegate**：You chose a grey shirt. Wise decision.
-
-**Committee Member Ⅰ**：...
-
-**Committee Member Ⅰ**：Looks like you're fully prepared.
-
-Mark doesn't answer that question. Instead, he pulls out a volume of files and starts to draw and write on them.
-
-**Debate Moderator**：Ladies and gentlemen, allow me to introduce the first debater of the day, Pedra Paul Gonzalez Rosa.
-
-**Debate Moderator**：Graduated from the Law School of the University of São Paulo, he is a member of the committee and more importantly, the challenger of the debate.
-
-Pedra lifts the curtain and steps onto the stage.
-
-**Debate Moderator**：The other debater of the day is the delegate of the House of Integratus, Mark Hal. Over the past ten years, he has served the Foundation by drafting countless acts and conventions.
-
-**Debate Moderator**：The topic of the debate today, Storm Reformation: Manpower and Discipline, is exactly a work of his.
-
-> **Title card：** Foundation Chamber
-
-Not one seat has been left empty around the debate stage.
-
-Madam Z's eyes follow Mark as he walks into the lights on the stage with a big smile.
-
-The people on the stage are greeting each other. Madam Z takes off her glasses and wipes them again.
-
-The chamber is filled with noises. The confrontation between the two sides in her blurred vision is a scene she has seen many times.
-
-**Debate Moderator**：Alright, both sides are seated.
-
-**Debate Moderator**：Before we start the debate officially, I suggest we give Mark the draft writer an opportunity to introduce the draft.
-
-**Debate Moderator**：Would you please, Mark?
-
-**Delegate**：With pleasure.
-
-**Delegate**：Storm Reformation and its advocators believe in such a goal:
-
-**Delegate**：In this ever changing environment smitten by the "Storm," this draft will help the Foundation win the trust of a considerable number of arcanists who have different backgrounds and abilities, in a more efficient and stable way.
-
-**Committee Member Ⅰ**：That is exactly where I must raise an objection.
-
-**Committee Member Ⅰ**：The draft has a huge risk which Mark Hal has not realized at all.
-
-**Delegate**：No, sir. I totally understand what you're trying to say.
-
-**Delegate**：You have put forward several questionable arguments to prove Vertin's suspicion of disloyalty.
-
-**Delegate**：In response to that, please allow me to invoke the following cases to prove Vertin's competence for leading the unregistered arcanists.
-
-**Delegate**：Please turn to page 373 of Vertin's personnel file. As you can see, since Vertin became the Timekeeper, the number of unregistered arcanists she has rescued so far is, 63.
-
-**Delegate**：That is a number unmatched by that of anyone present. If that's not enough to prove her loyalty, let's continue ...
-
-**Committee Member Ⅰ**：I have to say, Mark, you have completely misunderstood my point of view.
-
-**Committee Member Ⅰ**：I don't care what Vertin has done.
-
-**Committee Member Ⅰ**：But the feasibility of the draft.
-
-**Committee Member Ⅰ**：According to the existing regulations, the duties of educating and disciplining unregistered arcanists are taken by the School of Discipline.
-
-**Committee Member Ⅰ**：While you suggested in the draft that Timekeeper's personal teaching would replace the current collective training ...
-
-**Committee Member Ⅰ**：Have you ever thought about the budget that we could possibly spend on it?
-
-**Committee Member Ⅰ**：The Foundation spends an alarming sum of money on education every year, and there is no way we pay extra for personal training.
-
-**Delegate**：What, budget?
-
-**Delegate**：Um, I don't see why we're talking about budget all of a sudden.
-
-**Delegate**：Did you really read the draft? I didn't mention a word about budget ...
-
-**Committee Member Ⅰ**：Of course you didn't, which exactly proves you have never realized the risk I just mentioned.
-
-**Debate Moderator**：Oh, it seems the real topic of the debate has just surfaced.
-
-**Debate Moderator**：I believe everyone in the hall is looking forward to where it goes. So Mark, in terms of this point, we would like to know your real thoughts ...
-
-**Z**：...
-
-She gets up, walking towards the entrance.
-
-This is already a composition which the White would like to see.
-
-**Z**：The Black stone is left there alone. That last move is also a defense in panic.
-
-**Z**：If I were the player...
-
-She gazes into the air, lost in her thoughts. She doesn't feel the gaze cast upon her from another direction.
-
-Constantine is watching Madam Z from her corner.
-
-As Madam Z walks to the entrance, somebody stops her.
-
-A white item is handed to her.
-
-And then ...
-
-She disappears as soon as she steps out of the hall.
-
-Constantine averts her eyes and looks back at the two debaters on the stage.
-
-As soon as she has left the hall, Madam Z takes out that white note.
-
-**Z**：What is it?
-
-**Secretary Sharon**：Sonetto asked me to give it to you personally.
-
-It looks like a simple, usual letter.
-
-"Dear Madam Z, <br>With this letter I send you my best regards."
-
-"I have been instructed to manage affairs on behalf of Timekeeper during her treatment."
-
-"Please let me know if there are any missions to alleviate the situation. I will do my best to meet your expectations."
-
-"Sincerely, <br>Sonetto"
-
-**Z**：Good news.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① Artificial Somnambulism Guidance
 
@@ -4682,8 +3698,6 @@ Artificial Somnambulism Guidance (V2.0.16)
 
 — **Welcome Panel - 00101PL** — Welcome to the dream, arcanist. ... To enter the examination dream **\[Investigator's Stamina & Athletic Performance\]** ... Touch the tip of your nose with your left forefinger, and press the spot above your heart with your right ring finger and middle finger. Hold the position for 3 seconds. When you feel heat in your throat or the middle part of your spine, press the start button. **\[0/0\]** ... To enter the examination dream **\[Investigator's Practice of Arcanum Knowledge & Incantations\]** ... Press the tip of your tongue against the roof of your mouth and imagine something that makes your anxious or worried as specifically as possible. When there are goose bumps on your skin, press the start button. **\[0/0\]** … To enter the training dream **\[Custom Mental Stability\]** ... Clench your fists 3-5 times, push the green button upwards by 1 notch, and press the start button. **\[0/0\]** … To enter the status simulation dream **\[Conventional Insight Tour\]** … Hold the afflatus medium or the relevant books you need, swallow the vanilla mint provided by the device, and press the start button. **\[0/0\]** — **New Feature Panel - 00102PL** — How to use the joint training dream \[Tactical Cooperation\]: 1. Make sure the distance between the two joint training devices is less than 25m and they are not separated by any aluminium wares; 2. Make sure the two devices have the same mode, enemy number, weather and terrain; 3. ... 4. ... ... 6. **Choose a reasonable mode according to your conditions.**
 
-- Description：The clerks have come with an new idea. They set up many equipment around the plaza.
-- Action：Stay put
 
 
 ---
@@ -5139,6 +4153,8 @@ She waves at her and leaves without looking back.
 > The good news is, 10 more moves to go.
 
 <!-- reader-body:start -->
+> **Title card：** All-or-Nothing
+
 **Delegate:** We are falling behind even further. A vote or two won't help us turn this around ...
 
 **Z:** I know.
@@ -5244,126 +4260,13 @@ The room is in complete silence except for the slight noise of flipping pages.
 **Z:** I have a meeting with her on Friday ...
 
 **Z:** This may lead us to a win-win situation.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** The good news is, 10 more moves to go.
-
-> **Title card：** All-or-Nothing
-
-**Delegate**：We are falling behind even further. A vote or two won't help us turn this around ...
-
-**Z**：I know.
-
-**Z**：The move to D9 was indeed useless.
-
-**Delegate**：The arcanists that were on our side have defected.
-
-**Delegate**：I misjudged the situation in the debate ...
-
-**Delegate**：I was going to seize the opportunity ... and the initiative ...
-
-She doesn't respond to him, only pacing back and forth in the room.
-
-**Z**：To seize the initiative ...
-
-**Z**：... may bring us the chance.
-
-Thirty-eight lines go across the board in horizontal and vertical directions, crossing one another in 361 intersections as orderly as the stars.
-
-**Z**：That is to say, don't pull back, don't jump ... even when they're attacking ...
-
-**Z**：But to focus on the bigger picture, to win strong positions ...
-
-She seems to have a sudden flash of insights, and reaches out one of her hands without being aware of doing so.
-
-**Z**：The Black ... tsuke.
-
-**Z**：Then ... the White hane. And the Black counter hane here. The White stand, the Black ...
-
-**Z**：Osae.
-
-**Z**：...!
-
-**Z**：Through these moves ... I see.
-
-**Z**：The move to D11 can save us more than ten moku of stones.
-
-**Z**：We can still win within ten moves.
-
-**Z**：Mark.
-
-**Delegate**：Yes? Are there any other things we can do?
-
-**Z**：We need an influencer. A leader who can win us more than ten votes.
-
-**Z**：Get me the files of the uncommitted leaders, including those who weren't neutral about this issue in the beginning.
-
-**Delegate**：... Okay.
-
-He seems perplexed, but still quickly retrieves the files and starts browsing them on the chair.
-
-The room is in complete silence except for the slight noise of flipping pages.
-
-**Delegate**：Barzel.
-
-**Z**：No. Too young to be convincing.
-
-**Delegate**：Nonie, head of the Natural Resource Committee.
-
-**Z**：There are only three of them in the group.
-
-**Delegate**："Center" Bernard, leader of the Mankind Caucus ... Ugh, forget it.
-
-**Z**：Bernard?
-
-**Z**：Yes, he can be our man. He is eloquent and leads a group of 11. All of the 11 are his loyal followers.
-
-**Z**：Why is he uncommitted? I thought he would be the first to vote.
-
-**Delegate**：Perhaps they believe it's a sure bet ...
-
-**Z**：Find out what he's been up to.
-
-**Delegate**：But Madam Z, are you sure you want to cooperate with him? This doesn't make any sense. We don't even serve the same group.
-
-**Z**：Mark, we are all serving for the Foundation's future.
-
-**Z**：I just want to know what he needs now.
-
-**Delegate**：...
-
-**Delegate**：The office in Chicago, U.S.
-
-**Delegate**：He is trying to cover that region with his influence.
-
-**Delegate**：Bernard believes the employees there are guilty of serious dereliction of duty: they discriminate against humans of different classes and are suspected of committing electoral fraud in collusion with the local capitals.
-
-**Delegate**：The Supreme Court's investigators have already intervened.
-
-**Delegate**：But they cannot go out due to the "Storm" right now ... so the case is pending investigation.
-
-**Z**：Chicago office ... I've read the reports on there ...
-
-**Z**：I see.
-
-**Z**：Great. Exactly what we can help with.
-
-**Delegate**：Through what?
-
-**Z**：Through Sonetto.
-
-**Z**：I have a meeting with her on Friday ...
-
-**Z**：This may lead us to a win-win situation.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① The Hardest Mode
 
@@ -5375,8 +4278,6 @@ The room is in complete silence except for the slight noise of flipping pages.
 
 This is the victory you deserve.
 
-- Description：Don't waste such a chance. Hardest mode it is.
-- Action：Press the button
 
 ### Trail · Legwork
 
@@ -5419,6 +4320,8 @@ Legwork
 > Be burnt, be torn, be hidden in the corner, then be pecked up by a bird.
 
 <!-- reader-body:start -->
+> **Title card：** From the Ashes
+
 **Follower I:** Best wishes for the upcoming victory!
 
 **Follower II:** It will be the final vote soon. It's a stunning victory for us ... Cheers!
@@ -5534,136 +4437,13 @@ He raises one eyebrow.
 Madam Z holds the hand waiting in front of her.
 
 **Z:** Good luck making a better Chicago office, Bernard.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Be burnt, be torn, be hidden in the corner, then be pecked up by a bird.
-
-> **Title card：** From the Ashes
-
-**Follower I**：Best wishes for the upcoming victory!
-
-**Follower II**：It will be the final vote soon. It's a stunning victory for us ... Cheers!
-
-**Bernard**：Cheers! May the peace be with us!
-
-The group is fully immersed in the joy brought by the collective glory.
-
-**Z**：You're in a good mood.
-
-**Follower I**：...!
-
-**Bernard**：Z?
-
-**Follower II**：You must be in the wrong room.
-
-**Follower II**：You can't find those friends who tell balderdash here.
-
-Bernard stops them with a wag of a hand. He pushes his way through the crowd and comes up to her.
-
-**Bernard**：What brings you here, our honorable committee member?
-
-**Z**：May I have a word with you, Bernard?
-
-**Bernard**：Let me check my watch again. Hmm, it's three in the afternoon. I don't think I've drunk that much.
-
-**Bernard**：Could you repeat that again?
-
-**Bernard**：You want me, to canvass, for you?
-
-**Z**：To be more precise, to form a partnership.
-
-**Bernard**：My my, what a creative idea.
-
-**Bernard**：What can you offer?
-
-**Bernard**：Not supporting such a stupid draft next time?
-
-**Bernard**：Or recruiting new arcanists for our caucus?
-
-**Z**：What about a witness for the case of Chicago office?
-
-**Bernard**：...
-
-He instantly frowns.
-
-**Bernard**：Who is it? Give me the name.
-
-**Z**：I will if you collaborate with me.
-
-**Z**：Or talk to me with a better attitude.
-
-**Bernard**：... I'm sorry.
-
-**Bernard**：Our philosophies have always been different, and that led to prejudice.
-
-**Bernard**：But being mysterious won't show us sincerity for each other, right?
-
-**Z**：A staff of mine is willing to testify as a witness. Her report can prove your point.
-
-**Bernard**：Strong enough to prove their negligence?
-
-**Z**：It depends on the special prosecutor.
-
-**Z**：But the evidence is strong enough to prove that you're innocent from setting up others out of your personal interest.
-
-**Bernard**：...
-
-He can't help breaking into laughter.
-
-**Bernard**：Looks like you've got your own little bird.
-
-**Bernard**：The management there sucks. They don't serve humans or arcanists. They are just puppets manipulated by money.
-
-**Bernard**：I wanna bring order back to that place.
-
-**Bernard**：And I've collected quite a lot of evidence against them.
-
-**Bernard**：Yet the most ridiculous thing happened: in the second week after I submitted the investigation application to the Supreme Court ...
-
-**Bernard**：The evidence was gone.
-
-**Bernard**：My men found their charred pieces in the garbage room ... Someone threw them into the shredding incinerator.
-
-**Bernard**：It was like I could do nothing but surrender.
-
-**Z**：You have a wolf by your ears ... I understand.
-
-Bernard takes a deep breath before he starts to talk again.
-
-**Bernard**：But you're asking for too much.
-
-**Bernard**：Eleven votes? We're on the opposite side. I can never persuade all of them to vote for you.
-
-**Bernard**：Besides, the court session of the Chicago case starts later than the final vote ...
-
-**Bernard**：Don't tell me you want the service before you pay for it.
-
-**Z**：Don't worry. You can vote after testifying.
-
-**Bernard**：How are you gonna do that?
-
-**Z**：I will do what I can, in my power.
-
-**Z**：The vote won't start so soon.
-
-He raises one eyebrow.
-
-**Bernard**：I can try for nine votes ... or ten.
-
-**Bernard**：For the appreciation of your political resourcefulness.
-
-Madam Z holds the hand waiting in front of her.
-
-**Z**：Good luck making a better Chicago office, Bernard.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -5674,6 +4454,8 @@ Madam Z holds the hand waiting in front of her.
 > Friendship first, my friend.
 
 <!-- reader-body:start -->
+> **Title card：** Contact Point
+
 Unlike the other days, Constantine isn't by her desk today.
 
 The light in the room stays off.
@@ -5805,148 +4587,13 @@ Committee Member Ⅱ: Heh heh ...Committee Member Ⅱ: I didn't expect you to co
 **Committee Member Ⅱ:** You have my vote, Madam Z.
 
 **Z:** Heh heh ... A vote is not the only thing I need, Katz.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Friendship first, my friend.
-
-### Segment 1 · `script 100421`
-
-> **Title card：** Contact Point
-
-Unlike the other days, Constantine isn't by her desk today.
-
-The light in the room stays off.
-
-She has her back to the door, facing the window. Daylight slowly permeates into the dark room through the rigid marble windows.
-
-**Committee Member Ⅰ**：It's Pedra.
-
-**Constantine**：Come in.
-
-**Committee Member Ⅰ**：I'm here to report the situation so far.
-
-**Committee Member Ⅰ**：Some neutral parties have tilted in favor of the draft.
-
-**Constantine**：How many?
-
-**Committee Member Ⅰ**：Not a lot of them, but enough to make the votes even.
-
-**Committee Member Ⅰ**：They have always pursued revolution in the Foundation. Looks like Mark has finally persuaded them.
-
-**Committee Member Ⅰ**：I heard Ms. Z has been working hard on canvassing, too.
-
-**Constantine**：...
-
-**Committee Member Ⅰ**：But the number of the conservatives remains the same. We don't have to worry about that.
-
-**Committee Member Ⅰ**：I believe we will still prevail in the final vote days later.
-
-**Constantine**：What about the other groups?
-
-**Committee Member Ⅰ**：Still functioning as usual, nothing special.
-
-**Committee Member Ⅰ**：By the way, Bernard and his men paid a visit to SPDM. I didn't get to talk to them.
-
-She turns back to face the window.
-
-**Constantine**：Thank you for the report.
-
-**Committee Member Ⅰ**：...
-
-**Constantine**：She has never been so persistent.
-
-**Constantine**：Do you know why she's been so different this time, Pedra?
-
-> **Title card：** Sports Field of the SPDM
-
-**Committee Member Ⅱ**：I didn't realize you had time to invite me to play table tennis.
-
-**Committee Member Ⅱ**：Or ... are you actually here to lobby, Madam Z?
-
-**Z**：Heh heh ... I'll say both, Katz.
-
-**Z**：Back then when I was a student, I'd often invite my classmates to play ping-pong after we left the laboratory.
-
-**Z**：A cold shower after getting soaked in sweat is a piece of memory I can't forget.
-
-**Committee Member Ⅱ**：Heh heh ... you remind me of the old days in the table tennis varsity.
-
-**Committee Member Ⅱ**：You're the only one I can practice with here.
-
-**Committee Member Ⅱ**：Serve it, Madam Z.
-
-**Committee Member Ⅱ**：Let's compete.
-
-### Segment 2 · `script 100422`
-
-**Committee Member Ⅱ**：Hahaha ...! Backhand chop? Great, great.
-
-She nimbly picks up the white ball and bows.
-
-**Committee Member Ⅱ**：Again. Ready to go!
-
-**Z**：Hey!
-
-**Committee Member Ⅱ**：Nice shot!
-
-Madam Z strikes. The little ball flies over the net in an extremely low parabola, and goes into the unguarded corner of the table.
-
-Katz turns her body to one side, striking the ball back confidently.
-
-**Z**：We're planning to revise some articles in the draft.
-
-**Committee Member Ⅱ**：Which articles?
-
-**Z**：The articles about strengthening the control of registered arcanists.
-
-**Z**：You're right. We do need to improve the credibility of the Foundation in the outside world.
-
-**Committee Member Ⅱ**：Tell me more.
-
-**Z**：The Timekeeper's power to discipline should be transferred back to the School of Discipline and the Foundation.
-
-**Z**：The Foundation will conduct a unified risk assessment on arcanists.
-
-**Z**：To ensure this team is always under control.
-
-**Committee Member Ⅱ**：But in fact it still belongs to the Timekeeper, right?
-
-**Z**：That is our minimum requirement and it will not change.
-
-**Committee Member Ⅱ**：Heh heh ...
-
-**Committee Member Ⅱ**：I didn't expect you to compromise.
-
-**Z**：It's not a compromise. It's a reasonable amendment to the draft.
-
-**Z**：Transferring the power of education and discipline to the Foundation will help lower the budget and reduce the pressure on Vertin.
-
-**Committee Member Ⅱ**：And you would even lobby an opponent, me, for this amendment.
-
-**Z**：A reasonable appeal shouldn't be rejected just because it is raised by a different faction.
-
-**Z**：The Foundation needs solidarity, not contradiction.
-
-**Z**：If the draft is meant to pass, I will do whatever I can to make it meet most expectations.
-
-**Z**：Just like this ping-pong game …
-
-**Z**：Friendship first, competition second.
-
-**Z**：Legislation shall serve the people.
-
-**Committee Member Ⅱ**：You have my vote, Madam Z.
-
-**Z**：Heh heh ... A vote is not the only thing I need, Katz.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ① Ball Game
 
@@ -6020,8 +4667,6 @@ Ball Game
 
 You received applause and admiration.
 
-- Description：A few clerks stop and watch by the table. The game is about to start.
-- Action：Pick up the racket
 
 
 ---
@@ -6403,6 +5048,8 @@ Dances with Fire
 > Footprints. Muddy, determined footprints in lines on the white marble floor are easily recognizable.
 
 <!-- reader-body:start -->
+> **Title card：** Road of a Puppy
+
 **Sonetto:** As witness?
 
 **Z:** Yes. Your report means a lot to him.
@@ -6636,194 +5283,13 @@ White, hard, and of a skin texture different from any creature's.
 **Special Prosecutor:** Have you heard of the Supreme Court?
 
 **Special Prosecutor:** You should come when you are free.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Footprints. Muddy, determined footprints in lines on the white marble floor are easily recognizable.
-
-### Segment 1 · `script 100424`
-
-> **Title card：** Road of a Puppy
-
-**Sonetto**：As witness?
-
-**Z**：Yes. Your report means a lot to him.
-
-**Sonetto**：I ... I can provide the report, but I have no experience in court hearings ...
-
-**Sonetto**：If I say something wrong, will it affect the special prosecutor's decision?
-
-That's an unexpected question. Madam Z's voice turns gentle and soft after a moment of speechlessness.
-
-**Z**：Sonetto, testifying is not taking exams. The court doesn't need a skillful witness.
-
-**Z**：Just honestly tell them what you saw. Focus on the point and don't distort the facts.
-
-**Z**：The Supreme Court ... they value the sense of justice of the youth.
-
-**Sonetto**：Sense of justice ...
-
-**Z**：And that's a noble quality you have.
-
-**Sonetto**：I will do my best, Madam Z.
-
-> **Title card：** The meeting room
-
-**Special Prosecutor**：Call the witness.
-
-Entangled by the crowd, Sonetto walks into the court.
-
-In front of her, the special prosecutor has an almost godlike solemn look on her face.
-
-**Sonetto**：Greetings. May the peace be with us.
-
-**Special Prosecutor**：May the peace be with us.
-
-**Special Prosecutor**：Sonetto, as informed by the subpoena, you have been called forth by the accuser, Bernard Wilson, to testify as the witness in court. Could you specify the relationship between you and the accuser?
-
-**Sonetto**：We did not know each other. I heard of him at work, but we rarely worked together.
-
-**Special Prosecutor**：Then why did he call you?
-
-**Sonetto**：I was one of the parties involved in the 1929 "Storm" incident. I submitted a detailed report of that. He searched the database and found the report, so he made a request for access to my supervisor, Madam Z.
-
-**Sonetto**：Then, Madam Z asked if I would be willing to provide the report and attend court as witness.
-
-**Special Prosecutor**：Could you tell me the reason why you agreed to testify?
-
-**Sonetto**：I ... My immediate supervisor is having a long-term treatment, and there are more time slots available on my schedule.
-
-**Sonetto**：I am happy to be able to make a difference during the time, and defend the established facts.
-
-**Sonetto**：More importantly ...
-
-Sonetto musters her courage and presents a box of files on the desk.
-
-**Sonetto**：I, personally, believe that there is still much room for improvement for the Foundation's office in Chicago in the United States.
-
-The special prosecutor seems slightly surprised.
-
-**Special Prosecutor**：What is this? Ms. Sonetto.
-
-**Sonetto**：This is a record of all my travels from the time I received the promotion order in the research center to go to the office in Chicago in the United States, to the time I went back to the headquarters of the Foundation when the "Storm" came.
-
-**Sonetto**：This is the field report and diary I wrote about the "Storm" in 1929.
-
-**Special Prosecutor**：What point do you make?
-
-**Sonetto**：I would like to prove that the Foundation's office in Chicago in the United States violated the declaration "Fight for the Peace and Order of Mankind" and the rights of some humans and arcanists.
-
-**???**：You are tarnishing our reputation!
-
-Someone leaps to his feet on the other side of the table.
-
-He is the assigned director of this constituency, the defendant of this court.
-
-**The Defendant**：I request a debate duel. I won't allow her to distort the truth like this.
-
-**Special Prosecutor**：Mr. Seth, I haven't checked these files yet.
-
-**Special Prosecutor**：Silence, please.
-
-**The Defendant**：Your Honor, you can examine the files one by one while we're having the debate duel.
-
-**The Defendant**：I can't bear to see the long history of our office slandered in this way by a newcomer. I demand a duel with her.
-
-**Sonetto**：...
-
-**Special Prosecutor**：Sonetto is an investigator with rich combat experience. There is no good dueling with her.
-
-The special prosecutor turns to Sonetto.
-
-**Special Prosecutor**：Do you accept the debate duel?
-
-**Sonetto**：I have no objection, madam.
-
-The defendant's neck has turned scarlet out of anger.
-
-The special prosecutor stands up and raises both of her arms.
-
-**Special Prosecutor**：Please, to the stage, duelists.
-
-**Special Prosecutor**：The debate during your duel will be faithfully recorded.
-
-**Special Prosecutor**：Three defeats in the debate of one side will end the duel.
-
-**Special Prosecutor**：You have the floor now.
-
-### Segment 2 · `script 100432`
-
-**Sonetto**：Schneider ... a friend we met in Chicago.
-
-**Sonetto**：She once chose to join the Foundation under the pressure of both the "Storm" and Manus Vindictae.
-
-**Sonetto**：But instead of offering any solution or help, you just gave her a rejection letter.
-
-**Sonetto**：I found this letter in her suit pocket.
-
-**Sonetto**：It had a small line written on it, "Paupers f**k off."
-
-**The Defendant**：I-I had completely no idea what this was about ...
-
-**The Defendant**：Not to mention the fact that no one at the office had ever heard of the "Storm" ... What help could they offer?
-
-**Sonetto**：In this particular case, you should have reported to the headquarters or to the investigators out there, instead of doing nothing but leaving an insult.
-
-**Sonetto**：I do not understand ... why there was such wording on it.
-
-**Sonetto**：Was it because she did not pay enough "shelter fee" to qualify for sheltering?
-
-**Sonetto**：Or was it because the wand she used was transformed by arcanum, which made you think she was an arcanist?
-
-**Sonetto**：Does not the Declaration of Peace say "Everyone, strong or weak, rich or poor, of any race, deserves a helping hand so that the existing peace and order shall be maintained"?
-
-**The Defendant**：...
-
-**Sonetto**：They were humans. If only they had made it to the headquarters sooner ... maybe … they …
-
-**Sonetto**：...
-
-**Special Prosecutor**：In the particular circumstance at present, it's impossible for the headquarters to take in humans from all over the world.
-
-**Special Prosecutor**：But you bring out a possibility, a possibility better than anything that happened.
-
-**Special Prosecutor**：Thank you very much for your testimony, Ms. Sonetto.
-
-**Special Prosecutor**：And also for the debate, Mr. Seth.
-
-The special prosecutor and the jury get up, gathering the papers on the desk.
-
-Sonetto's ears are gradually cooling off.
-
-**Sonetto**：I seemed to be ... too emotional just now ...
-
-She passes the hallway, feeling completely lost.
-
-She feels the court session is not over, and she is still in the middle of the storm.
-
-**Special Prosecutor**：Ms. Sonetto.
-
-The special prosecutor stops her from behind.
-
-**Special Prosecutor**：You brought us a great debate.
-
-In the bright daylight in the hallway, Sonetto finally takes a good look at the special prosecutor.
-
-This is quite an extraordinary face.
-
-White, hard, and of a skin texture different from any creature's.
-
-**Special Prosecutor**：Have you heard of the Supreme Court?
-
-**Special Prosecutor**：You should come when you are free.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Trail ①
 
@@ -6837,8 +5303,6 @@ Déjà Vu
 
 An undefiled scale, Sitting high up in the hall of judgement, with the listening ears, the sniffing nose, the watching eyes, the raising brows, and the speaking mouth. Being the well-polished, the bright, the spacious, it is the dazzling daylight itself. It is the carrier of a noble virtue, as untouchable as the feathers on a bird's throat, as unsullied as the unexplored snowy ground, as undisturbed as the ripple-less milk in the glass. I trust myself, that I have encountered such whiteness before, sometime, somewhere.
 
-- Description：A familiar color catches your eyes.
-- Action：Stop and watch
 
 
 ---
@@ -6849,6 +5313,8 @@ An undefiled scale, Sitting high up in the hall of judgement, with the listening
 > After a life-long moment of waiting, two pieces are carefully placed here.
 
 <!-- reader-body:start -->
+> **Title card：** A Corner of the Board
+
 **Constantine:** I was told you have something important to share?
 
 **Chairwoman:** Yes, the filibuster is about to end.
@@ -6958,130 +5424,13 @@ So strange that she is almost certain that she is watching Constantine place a p
 **Z:** No. It's not the time to relax.
 
 **Z:** Just two more hours. Hang in there. It will end soon …
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** After a life-long moment of waiting, two pieces are carefully placed here.
-
-> **Title card：** A Corner of the Board
-
-**Constantine**：I was told you have something important to share?
-
-**Chairwoman**：Yes, the filibuster is about to end.
-
-**Chairwoman**：Z told me they are going to end the speech and apply for the official vote at noon.
-
-**Chairwoman**：If you are going to continue with the debate, don't forget to send your men.
-
-Constantine doesn't reply. She glances at the delegates on their seats.
-
-**Constantine**：Do you see Bernard over there?
-
-**Chairwoman**：Yes.
-
-**Chairwoman**：Quite a lot of his men attended today.
-
-**Chairwoman**：They have remained uncommitted to Storm Reformation so far. I thought they wouldn't bother to attend ...
-
-**Chairwoman**：The opposition side doesn't need a dozen more votes to win, after all.
-
-**Constantine**：But the advocates of the draft do.
-
-The chairwoman casts an eye on her, perplexed.
-
-Yet Constantine doesn't intend to explain.
-
-She looks weary.
-
-**Constantine**：There will be a new draft given to you in two hours.
-
-**Constantine**：I brought together a revision group last night with some hired experts. We have adjusted some of the articles in the previous draft.
-
-**Constantine**：I will need you to present it to everyone when the time comes.
-
-**Chairwoman**：What for?
-
-**Chairwoman**：Is their draft going to be adopted?
-
-**Constantine**：...
-
-The chairwoman looks ghastly. She can't help but ask again to confirm her suspicion.
-
-**Chairwoman**：The draft is going to be adopted, isn't it?
-
-**Constantine**：... There are things that even I cannot manoeuvre.
-
-**Constantine**：All I can do is bring benefits to as many people as possible.
-
-**Constantine**：I have specifically made some amendments to the clearance to educate and discipline unregistered arcanists in section 3 on page 21, as well as the duties and obligations of the Timekeeper's special team in section 1 on page 40.
-
-**Constantine**：Every arcanist assigned to the Timekeeper's department will be put through the Foundation's risk assessment and graded accordingly.
-
-**Constantine**：Ordinary arcanists only need to receive primary Artificial Somnambulism training. The more extraordinary ones will be sent to the School of Discipline for re-education.
-
-**Chairwoman**：Delegate Mark also submitted another edition which was quite similar to this one.
-
-**Constantine**：Is that so?
-
-She chuckles. It is a half-relaxed and half-bitter smile.
-
-**Constantine**：Heh heh, well ... very well.
-
-**Constantine**：I'm pleased we have reached a consensus even before we meet.
-
-**Constantine**：Here are more things we have revised.
-
-**Constantine**：Given their resistance to the "Storm," the Timekeeper's special team will take up more work related to Manus Vindictae.
-
-**Constantine**：The Foundation will utilize their abilities.
-
-She sits down on her chair.
-
-**Constantine**：We have also fine-tuned the details.
-
-**Constantine**：They will be given more executive power, while the Foundation retains control over all things.
-
-**Constantine**：Remember, we have to make everyone aware of these changes before the voting starts.
-
-**Constantine**：We have to make sure THIS version of the proposal is the one that gets the final approval in the end.
-
-**Chairwoman**：Understood.
-
-The chairwoman looks up. Lights shed on her reading glasses and give out a bluish white color.
-
-**Chairwoman**：Can't believe this is happening ... Heh ...
-
-**Chairwoman**：The first revolution targeting arcanists in the past decades ...
-
-**Chairwoman**：Don't forget my stamps for this quarter, Constantine.
-
-The right side of the hall is where the most eloquent people gather—the lecture area.
-
-Madam Z stands on the podium. After the long speech lasting for days, she feels herself physically struggling to go on.
-
-But her mind is getting clearer and clearer, more and more excited. Every cell in her body is ready to wake up at the very moment the voting starts.
-
-She looks at the rostrum. Constantine is sitting next to the chairwoman calmly.
-
-That is a strange calmness.
-
-So strange that she is almost certain that she is watching Constantine place a piece on the bottom-right corner of the board.
-
-**Z**：...
-
-**Z**：Am I so tired that my eyes are failing me?
-
-**Z**：No. It's not the time to relax.
-
-**Z**：Just two more hours. Hang in there. It will end soon …
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · IMPORTANT NOTICE
 
@@ -7095,8 +5444,6 @@ Supreme Court's Response to Use of Filibusters
 
 Based on the current circumstances, this interpretation is hereby given in accordance with the relevant regulations and laws, in order to ensure the debates in the legislative process are carried out to serve its designated purpose, and the rights of the parties and interest groups involved are respected in the process. Article 1 During the legislative debates, any member of the Joint Committee of the St. Pavlov Foundation who has doubt on the bill itself and requires explanation has the right to request an open debate from the chairperson. The chairperson in charge of the matter is obliged to accept this request. ... ... Article 12 Within the 60 days of the legislative process and on the premise that all the parties are in compliance with the universally ratified Code of Conduct in the legislative period, both parties are entitled to an unlimited number of debates before the official voting on the bill and have the right to give up and withdraw from the debates. Article 13 Termination of speech by either of the two parties will be considered as their withdrawal from the debate. The debate will hence end and the voting on the bill will be initiated. If the other party requests to continue with the speech, the Supreme Court will approve the proceeding of the debate. The debate will then last until that party requests voting or withdraw from the debate. Article 14 Had no conclusion been drawn within 60 days, the Supreme Court shall determine the bill to be repealed. Any repealed bill will not be allowed to re-enter the legislative process within the next 5 years. Article 15 In 10 days after the debate starts, both parties involved will be allowed to request voting to end the debate. ... Article 20 The filibuster is a special legislative process established for controversial issues. Any bill being put through the filibuster process will require two thirds of the votes of the Committee members' to pass. The Supreme Court will determine the bills which has less than two thirds of the votes to be repealed.
 
-- Description：Here are the rules about the Filibuster. It may come in handy one day.
-- Action：Read it through
 
 
 ---
@@ -7932,8 +6279,6 @@ A Clipping of Old Newspaper
 
 **What Does Abstained Vote Mean And The Necessity of Abstention Ballot Box** Abstained Vote is one of many forms of protest votes. It usually turns up next to an empty seat, inside a dustbin, between the washing machine and the wall, in the middle of a book, or in one of the inner pockets of an old jacket. It is the invalid vote cast because the voter has abstained from voting, and thus would not be counted into the election result. Different from other reasons which caused failure to vote, voters cast abstained votes because they neither approve nor disapprove of the available options of the voting. They may have swung between different answers, or even were once slightly more in favor of one motion/candidate over the rest of them, or hold a pessimistic opinion to all the options provided; whatever the reason might be, in the end, they decide to not support any motions/candidates in the election. Many have also argued that abstention from voting is, in fact, an action guided by a clear awareness of their given rights. As the subjects of rights, voters are entitled to the freedom not to vote. It is also argued by the same group of scholars that, when the voters are requested to choose between unfavorable options, it takes courage and determination to stay true to their own ideas and become the dissidents in this case. Such action is worthy of praise. They are individual thinkers who know what they need and are strong enough not to compromise. The Abstention Ballot Box is specially set up to count the votes of this group of people. It stands for a new possibility, a new way to the yet unknown solution to the problem, a relatively bumpy path compared to the easy way. Those who know its value and seek for the difficult path will eventually find their way in, and along which they shall find places they truly belong to. The New York Daily Jan 19th, 1961 Written by: John Greymirror Brown
 
-- Description：An article about the abstention ballot.
-- Action：Read it
 
 
 ---
@@ -8376,8 +6721,6 @@ The Song of A Puppy
 
 I once looked down at a brave young dog, It was gallant, the most courageous of all. It wears a hat in piebald, and has eyes of emerald. The first-magnitude stars sprinkle on its spine. Its tail was as green as the moss. It was once asleep, once hungry, once afraid, once in tears, once an umbrella, once a tree, once a jumping coat rack and a ship Oh, but then, but then -- It's again the brave young dog. Loyal and gutsy, it walks among the hearts of gold.
 
-- Description：A lively song praising the courage of a puppy.
-- Action：Listen to it
 
 
 ---
@@ -8465,8 +6808,6 @@ She opens the refrigerator and takes out a plain cake under the cold light.
 With a tight pull, the lamp turns off.
 
 The room quiets down again.
-
-Happy birthday to you, happy birthday to you.May the good luck go with you. Happy birthday to you.\*blows out the candle\*
 
 Happy birthday to you, happy birthday to you.
 

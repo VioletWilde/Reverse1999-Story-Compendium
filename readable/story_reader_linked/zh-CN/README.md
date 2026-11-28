@@ -12,6 +12,8 @@
 
 [2026-11-28 阅读文字修订](../../../structured/story_reader_proofreading_20261128/README.md)
 
+[2026-11-28 重复收录修订](../../../structured/story_reader_repetition_20261128/README.md)
+
 ## 主线 (18)
 
 - [301 · 此即明日](mainline/301-%E6%AD%A4%E5%8D%B3%E6%98%8E%E6%97%A5.md) — 6 · 0

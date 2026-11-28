@@ -689,6 +689,10 @@ Yet Another War
 <!-- reader-body:start -->
 Trenches
 
+
+
+> **Title card：** Old Boots
+
 Soldiers lay a corpse on a dry wooden plank, making an effort to place their fallen comrade in something resembling a peaceful pose.
 
 The plank, formed from dismantled ammo crates, has been formed into a makeshift sledge complete with a small set of wheels.
@@ -932,258 +936,7 @@ After reading it, she looks northeast. Beyond the treeline lie the ruins of Mont
 **???:** Today.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** They once belonged to an unfortunate soul, but perhaps they will grant you better luck.
-
-### Segment 1 · `script 101102`
-
-> **Title card：** Old Boots
-
-> **Title card：** Trenches
-
-Soldiers lay a corpse on a dry wooden plank, making an effort to place their fallen comrade in something resembling a peaceful pose.
-
-The plank, formed from dismantled ammo crates, has been formed into a makeshift sledge complete with a small set of wheels.
-
-**Charon**：...
-
-The handler stands resolutely by the body at the edge of the trench, his tattered cloak making him look the part of a grim reaper.
-
-He kneels, prying off the soldier's dog tag, and pockets the bottom half.
-
-Franz Schreyer.
-
-**Wilhelm**：This is all we could find. Can you take care of him, Charon?
-
-**Charon**：Naturally. He will be given a proper burial.
-
-**Rudolph**：I thought they said this war would end before the winter came.
-
-A now familiar gloom seeps out from behind Rudolph's thick glasses, like tears.
-
-Franz lies still, indifferent to the scene.
-
-**Erich**：Heh ...
-
-Another soldier shoves his way through their small crowd, puffing with frustration, places another leg on the board, completing the set.
-
-Then without a word, he removes the boot from the corpse's other leg—matching it with another.
-
-**Erich**：Now he'll be ready for the march home.
-
-**Wilhelm**：You sure that was Franz's leg?
-
-The kind-hearted Captain Wilhelm looks at his soldier in horror.
-
-**Erich**：Better be. I risked my life up there grabbing it. He promised I could have his boots if he got scraped off.
-
-**Wilhelm**：My God. I remember when he said that.
-
-He starts to say something but swallows it back.
-
-The soldiers huddle together in the narrow bend of the trench.
-
-**Charon**：But ...
-
-Charon's words come out in a slow drip, seemingly unaware of the conversation around him.
-
-**Charon**：Andreas went missing in the last attack. The body will be impossible to move off the frontlines without him.
-
-**Erich**：Eh, your pony? Good bet it's worm food.
-
-**Wilhelm**：Shut up, Erich!
-
-**Charon**：Please, don't worry. There will be somewhere quiet nearby, but it may take a while to find it.
-
-**Wilhelm**：Take your time, Charon. The weather's cool these days.
-
-Wilhelm attempts a pat on Charon's shoulder.
-
-Not far away, Major Eberhard Braun, the company commander, sits on an empty water drum. His eyes fixed coldly on the trench wall ahead.
-
-He drops a cigarette butt and stands.
-
-**Major Braun**：Charon, come here.
-
-**Charon**：Yes, sir.
-
-He responds to his superior.
-
-**Major Braun**：You remember Montpaix? The town near our rear?
-
-**Charon**：Certainly. We fought there in the warmth of summer. Our Lieutenant Colonel died in that battle.
-
-**Charon**：You were in charge of a company, until you were injured and sent to recover. There were many graves to be dug, but the days were warm and dry.
-
-**Major Braun**：It was a hard fight to drive our enemy from that town, a damn good one. Even if our lines have only moved a short distance past it since.
-
-**Charon**：But why this talk of Montpaix all of a sudden?
-
-**Major Braun**：Army Command has decided to attend a parley held by the Foundation in Montpaix. Colonel Hirschfelder will be present on behalf of our nation.
-
-**Major Braun**：We've handed it over to the Foundation. Pfft, they're calling it a "safe zone."
-
-**Charon**：Many hope that peace will come before the winter.
-
-The major's response is blunt.
-
-**Major Braun**：The only end to this war I can accept is victory—total victory over our enemies.
-
-**Major Braun**：They say we've broken through on the eastern front; we only need to push our advantage, and they'll collapse. Once we've freed up all that manpower and material, we'll be able to crush our enemies here too.
-
-**Charon**：We may run ourselves dry of ammo and blood before then, sir. No cries of victory are loud enough to wake the dead.
-
-**Major Braun**：Winning here is a part of something far bigger than you could understand.
-
-**Charon**：Is it? When you returned to the front after your injury, you came with eyes red as a furnace. You wore an old face, a mask of war.
-
-**Charon**：You haven't worn that mask in many years, since before our first taste of battle and blood.
-
-**Charon**：A whole class volunteered. Nothing more than schoolboys, we marched obliviously into the killing field. You should rest.
-
-The major's already-thin lips press together into a sharp, blade-like line.
-
-**Major Braun**：Enough with the poems, soldier. I called you with an order. You must go to Montpaix.
-
-**Major Braun**：Mr. Mühlenberge sent us a package, and I need someone to fetch it for me.
-
-**Major Braun**：I know you'll do your duty for the fatherland, my friend. Take as many bodies with you as you can; we can't leave them rotting in the trenches.
-
-**Major Braun**：Dismissed.
-
-The major gets up and moves down the trench.
-
-"Montpaix looks like it had been a nice little town before the war. Now, its old streets and laneways are pocked with craters and crumbling buildings—cruel reminders of the brutal battles that raged through it."
-
-"Silent screams still echo to me from its laneways, <br>a reminder that a man who has seen war will only find peace when he is dead and buried."
-
-> **Title card：** Foundation Safe Zone
-
-**Charon**：...
-
-The town has seen the worst of the war, but with the sudden influx of traffic and activity, it seems to breathe new life.
-
-The streets, barely cleared, are swarming with uniforms, some military, and others checkered gray-and-white.
-
-**???**：Are you looking for help, sir?
-
-**Charon**：...?
-
-His head creaks in the direction of the voice, finding a young woman, likely a medic.
-
-Her golden badge marks her as the Foundation's employee, but even more striking is the armor layered over her coat.
-
-**Marsha**：Hold on, soldier. I'm Nurse Marsha. Please show your face so I can verify your identity.
-
-**Charon**：Good day, sister. What lies beneath this mask will not give you the answer you seek. Here, let this serve for identification.
-
-He rummages out a notebook from his coat, retrieving a folded ID card from within.
-
-**Charon**：Major Eberhard Braun is waiting on a package from Montpaix. He sends his NCO to collect it. He did not say from whom.
-
-She receives it, studying the card.
-
-**Marsha**：I see. Your name is Paul ...
-
-**Charon**：Charon. That is the name the soldiers use, and the one you should use as well. The name you see there doesn't belong to this war any longer.
-
-**Marsha**：I've heard your name before.
-
-She returns the document, then scans around as she wrings her hands.
-
-**Marsha**：You'll find plenty of packages here. Go ahead and look for whichever one belongs to your Major Braun, but there'll be more paperwork to sign before you can leave with it.
-
-**Marsha**：If you're willing to wait, things will get moving again once the parley has finished.
-
-**Charon**：Time is a resource the dead have in abundance.
-
-He looks back at her, his body seeming almost rooted to the spot.
-
-**Marsha**：Are you certain you're alright, soldier?
-
-**Charon**：The war has taken its toll, but there is nothing you can do to fix these old wounds.
-
-**Charon**：You said that you are a medic, Sister Marsha. Is that why you ask?
-
-**Marsha**：Yes, of course. Ordinarily I would be at the clinic, but I was asked to lend a hand here.
-
-**Charon**：Where are the dead from your clinic laid to rest?
-
-She reflects on his words.
-
-**Marsha**：We don't have any yet, by the grace of God. Though, I don't expect that to remain the case.
-
-**Marsha**：There is a bare slope just outside of town; I noticed it when we first arrived here. It could serve that purpose were someone to die ...
-
-**Charon**：That is good to hear.
-
-**Marsha**：That someone might die?
-
-The delayed reply leads to misunderstanding.
-
-**Charon**：Ah, no. The slope.
-
-**Charon**：A quiet place is needed. Many of us from the frontlines could find rest there.
-
-**Marsha**：You mean your brothers in arms?
-
-**Charon**：All who need burial are my brothers in arms. Though they may have once fought on different sides.
-
-**Charon**：Should there be any in your clinic that need it, they will find rest there too. In a coffin under a marker to remember their place, as is fitting. If you will allow it.
-
-**Marsha**：So be it. You're offering them more decency than most others would. I'll show you the spot.
-
-> **Title card：** Forest Outside the Safe Zone
-
-The outskirts of Montpaix.
-
-Dense woods conceal most obvious traces, yet small sounds are amplified.
-
-**Soldier?**：Who's there?
-
-**???**：You've run late.
-
-**Soldier?**：I barely made it. This whole area is under heavy guard.
-
-The soldier squints, eyes narrowing at the gray-blue uniformed figure ahead.
-
-**Soldier?**：Where's Hector? He never mentioned you. Give me the countersign.
-
-He raises his weapon, framing the stranger in his sights.
-
-**Soldier?**：You hear me? Who the hell are you?
-
-Yet his target is unfazed.
-
-**???**：Two paths lie ahead for you.
-
-**Soldier?**：W-What are you talking about?
-
-**???**：In one, you lead me to your commander. In the other ...
-
-She lowers her rifle and bows her head in a motion almost like prayer. It stuns the soldier for a moment.
-
-**???**：You are led into perdition.
-
-### Segment 2 · `script 101103`
-
-The final gunshot rings through the thick forest, then fades away.
-
-She crouches, retrieving a pouch from the fallen enemy.
-
-In the mess of documents and maps, she finds the note she needs.
-
-**???**：Foundation, parley, Hirschfelder ...
-
-After reading it, she looks northeast. Beyond the treeline lie the ruins of Montpaix.
-
-**???**：Today.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Best Wishes
 
@@ -1197,8 +950,6 @@ The Soldier "Back from the Dead"
 
 ████, Being stuck in recovery is boring, but at least it keeps you from getting shot on the battlefield. By the time your knee gets better, this damned war might finally be over! Assuming I make it—which is a strange thing to say—my first stop would be to come see you. Maybe, if we're lucky, we could even go home together. Let me share the recent news. There's a soldier that everyone claims "came back from the dead"—whether that's true or people invented the story doesn't really matter to the officers—he has been reassigned to the front as a sergeant under Major Braun. Why would he accept such a posting? Why even go back to the front at all? I know your mind would be swimming with these questions, but nobody can figure out his motives. He turned down a safe position with the press bureau but has refused to ever pick up a rifle again. He's only interested in retrieving the bodies of the fallen from the field. Can you believe that? Personally, I'd rather be a dressed-up press puppet over ducking artillery shells any day of the week, even if it meant encouraging young men to march to their deaths ... ... Mein Gott, ████, as I write this, it finally dawns on me: I've always known why he refused them after all. I just never thought anyone would have the courage to make that choice.
 
-- Description：Rumors? Entertainment? Seemingly trivial or deeply meaningful outpourings?
-- Action：Read the Letter
 
 
 ---
@@ -1769,8 +1520,6 @@ Chaos drowns out all else.
 
 Paravyan​​ - "Beagle" Age: 19 Race: Human Background: Graduated from Zeno Arms Academy, served as a Vigil Officer within the Vigiles Bureau under the direct command of Creius, and contributed to the resolution of multiple critical cases. Later transferred to "XII" Squad. The most devoted member of Creius's circle. He combines passion and bravery with a concerning level of idealism. This squad's morale would undoubtedly suffer if that loyalty were betrayed. Yermolai​​ - "Hound" Age: 37 Race: Human Background: Civilian, previously brought into Vigiles Bureau via Creius's personal recommendation, served as a Vigil Officer and participated in several classified operations. Later transferred to "XII" Squad. He has an extensive criminal background. It's no surprise that Creius keeps him on a tight leash. I wouldn't want to be the one who decided on his callsign. Merel - "Blackbird" Age: 16 Race: Arcanist Background: A "Storm" orphan taken in by the Foundation, educated at SPDM, and upon graduation, invited by Creius to intern at Vigiles Bureau. Later transferred to "XII" Squad. SPDM? He's never had much patience for rule-followers. Seems even Creius knows "XII" needs arcane talents. Though judging by her grades ... his standards aren't exactly demanding. P.S. Leave a few recruitment slots open for "XII."
 
-- Description：Before assigning crucial tasks to your subordinates, it is essential to do thorough background checks.
-- Action：Make a copy
 
 ### Trail · Flexible Review
 
@@ -1784,8 +1533,6 @@ Internal Review Report​​
 
 Lieutenant Lilya's escape during the São Paulo incident was facilitated by Moldir, a key figure among the rebel forces. \* For full details, see the appendix containing the report submitted by Lieutenant Lilya. ... Following the completion of Zeno Arms Academy's internal restructuring, we have initiated a thorough review of its special personnel to clarify the circumstances surrounding the rebellion and to prevent other "incidents." Under these circumstances, it is advised that Lieutenant Lilya remain at Foundation headquarters for further investigation rather than joining Team Timekeeper's Australian deployment. ... \* This month's interrogation transcripts are included as attachments. This month's interrogations show Lieutenant Lilya's growing impatience with the process, though she continues to provide necessary cooperation. When comparing statements from Zeno's special personnel files with the interrogation records, there are still multiple inconsistencies that require further verification. ... \* This month's interrogation transcripts are included as attachments. Conclusion: No further action recommended on Lieutenant Lilya's file. Summary: None. ------------------------------------------------------------------ This review has been terminated unexpectedly, and I must emphasize that no additional explanations will be provided regarding this decision. I append this note solely to remind all reviewing officers that our responsibility ends with following the directives—nothing else matters. Your dedication during this two-month process is appreciated. This document will be securely disposed of following initial internal distribution.
 
-- Description：There is room for flexibility when conducting reviews.
-- Action：Read the report
 
 
 ---
@@ -2693,8 +2440,6 @@ Field Hospital Conversations​​
 
 "Have you heard about the 'Sentinel'? I saw her that night. Before anyone could react, old Noah was already down. The shot was unbelievable!" "Did you get a clear look at her?" "It was too dark to see much, just a figure wearing a cloak. But I'm almost certain she was carrying a Lebel rifle; she's probably on our side!" "I wouldn't be so sure. They say she's the one that took out General Mathis two weeks ago. Might be someone playing both sides." "Either way, having that warmonger gone is good for us all—ow! That hurts!" "Bear with it, I'm almost finished." Marsha soaks a towel in cold water and wrings it out. The wounded soldier's fever still hasn't broken. Her eyes move from one amputee to the next, checking each stump for signs of infection. "Listen," another soldier cuts in, his face wrapped in bandages with only one eye visible. "The 'Sentinel' doesn't take sides because she isn't human. That's no rifle; it's a javelin or a spear. And she's got wings, silent as a bat. During the day, she turns into a stone statue. You could walk right past without noticing. But at night, she comes alive and hunts. Ever seen those church Gargoyles? That's exactly what she looks like." "Maybe those wings were just her cloak," the first soldier insists. "It's more than that. My comrade saw bullets hit her, but she didn't even flinch, like they were hitting a solid rock. Hey, Johnny, isn't that right? Johnny?" Marsha pauses before looking up. "Johnny died just after dawn this morning."
 
-- Description：In times of war, unreliable information spreads faster than truth, making it impossible to separate fact from fiction.
-- Action：Listen in
 
 
 ---
@@ -4246,6 +3991,10 @@ He removes his glasses and rubs his eyes.
 <!-- reader-body:start -->
 Depths of the Forest
 
+
+
+> **Title card：** Paths Crossed
+
 Night falls, and creatures stir.
 
 **Sentinel:** ...
@@ -4459,204 +4208,7 @@ This might be our only chance, Marsha!
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Whispers of movement lost beneath the clamor of calamity.
-
-> **Title card：** Paths Crossed
-
-> **Title card：** Depths of the Forest
-
-Night falls, and creatures stir.
-
-**Sentinel**：...
-
-Not far away, there is another shadow hiding in the forest. Under the cover of night, perhaps he would be taken for a withered tree trunk.
-
-But Gargoyles belong to the night. They recognize one another with ease in the dimness.
-
-**???**：A man is proclaimed guilty, and for this he is condemned to death, denied even the justice of a trial. His execution came as a wind, silencing him ere he might utter a word of repentance.
-
-**???**：And this thou wouldst call righteousness?
-
-**Sentinel**：Leave me be, Ladislas.
-
-She shrugs the heavy question off.
-
-**Ladislas**：Hast thou reflected on thine actions? Meeting eye for eye and tooth for tooth. Is it justice or vengeance still?
-
-**Sentinel**：Do you think so little of me? That I would call it "justice" even were it not so? Blame me then, cousin. Damn and condemn me. I care not.
-
-**Ladislas**：Never would I damn thee, cousin. For it is thy soul for which I am most concerned. I fear it doth wither with every act of malice.
-
-**Ladislas**：Hark and listen well. Dost thou forget the nature of our unholy ancestry? We art the kin of demons. A thousand years hence, and their malevolence yet floweth thickened in our veins, and their whispers pricketh still our ears in the silence.
-
-**Sentinel**：Then answer me this question, dear cousin. You stand before the scales of a balance. On one pan, the lives of ten men, and on the other, a hundred. If you had the power to shift its weight to save the many, would you?
-
-**Ladislas**：A question that is heavy-laced with blasphemies. Hast thou already bent thine ear to the devils' lies?
-
-**Sentinel**：Answer me, cousin. Elsewise, there is nothing more that needs be said.
-
-Ladislas furrows his brow and lowers his head, lips motioning the words of a prayer.
-
-**Sentinel**：Silence? Are you truly so naive? The scales are lain far heavier for those in the throes of war, yet you have not even the courage to answer a simple question. I'm afraid you have mistaken your weakness for virtue.
-
-**Sentinel**：Go back to the monastery, Ladislas. This is war, red in tooth and claw, and your heart proves too quick to kindle.
-
-Ladislas vanishes into the dark with a sigh, his form melting into the night.
-
-The Gargoyle soldier leans against a tree for a brief rest. In the crook of its branches, she begins to slowly turn to stone.
-
-You are again at odds, it seems.
-
-A voice rings in her ears. It speaks without a source, coming from neither place nor person.
-
-**Sentinel**：'Twas not a battle I sought.
-
-Our cousin is more learned than either of we two, but he lacks in courage compared to thee—most daring of us all.
-
-**Sentinel**：I do not deny his learnedness. But there are neither letters nor prose that might aid my mission.
-
-Thou burnest too short a wick, and the flames of perdition rise to meet thee. I fear for thee, <br>Marie. That thou go forth to a battle that will consume thee, whether in defeat or in triumph.
-
-Massel, Anthoine, and Yvonne ... They once promised to return as thou didst. <br>Yet they fell all the same, each after the last. Yvonne was taken before she had even tasted battle.
-
-**Sentinel**：Let remorse consume me if it must. But God willing, I will see the end of this war first. Ere then, the fear of regret will not stay me.
-
-**Sentinel**：Not now.
-
-**Sentinel**：And perhaps, on that day when peace finally comes, you will return to us?
-
-The voice vanishes in the night's breeze. She would not hear it again this night.
-
-**Sentinel**：...
-
-She shakes off the scales of stone and resumes the march toward her next lead.
-
-Paravyan lays out a local strategic map over the table.
-
-Creius picks up a handful of bullets, placing the first on Montpaix.
-
-**Creius**：Major Braun was able to recall some of the locations that may have been used by the Manus. His coordinates aren't what anyone would call precise, so we'd best start searching ASAP.
-
-**Creius**：Chester, you'll take the forest. Caspa will be expecting you on the edge.
-
-One bullet stands upright on a spot marked as forest.
-
-**Investigator I**：On it.
-
-**Creius**：Camila, Lee, you'll search from here and move along the river.
-
-**Investigator II**：Will get it done, sir.
-
-Each new order is marked by another round placed upright on the table.
-
-**Creius**：Charles, Amanda, you're on Hill 299. You'll need to cross no man's land to get there. Make sure you establish your identity with both sides in advance to avoid friendly fire.
-
-**Investigators**：Understood.
-
-...
-
-The crowded room empties order by order, bullet by bullet, until only the last round remains.
-
-**Creius**：Paravyan.
-
-**"Officer"**：Yes, sir.
-
-**Creius**：I want you on this village. Take Marsha with you. She's a skilled combatant as well as a medic. You can count on each other.
-
-**"Officer"**：Yes, sir.
-
-Paravyan exits, leaving one person remaining without orders.
-
-The young soldier locks eyes with her superior, an unspoken relief written on her face.
-
-**Merel**：So, does that mean I'll remain on standby in Montpaix?
-
-**Creius**：Yes. I need someone coordinating the defense of this town should the Manus attack.
-
-**Merel**：Oh. Uhm ...
-
-Relief turns into dread.
-
-> **Title card：** Abandoned Village
-
-**"Officer"**：Is this it?
-
-**Marsha**：I believe so. Let's get on with it.
-
-The village around them still carries the signs of lush wilderness and gentle fields. A place of abundance and safety, once.
-
-**"Officer"**：Watch my six.
-
-The two draw weapons and enter from the side.
-
-The investigators are not stopped in any way, and if they hadn't been instructed to do so, they would have just treated this place as another forgotten remnant of better days.
-
-**Marsha**：This place is empty. It's heartbreaking to see it so quiet.
-
-**"Officer"**：We're ahead of schedule. Let's start by checking the houses one by one.
-
-**Marsha**：Good.
-
-**Marsha**：Find anything?
-
-**"Officer"**：Only some letters I can't read. I guess they didn't have time to post them before they left.
-
-**Marsha**：There were some small arms in the basement, all of them older models and rusty. The ammo was damp.
-
-Marsha holds her gaze on an empty warehouse.
-
-**Marsha**：This place had to have been looted more than a few times. The only valuables left are the ones too heavy to move.
-
-**"Officer"**：So, basically, there's nothing here. What do the Manus want it for?
-
-She shakes her head in frustration.
-
-**Marsha**：I was rushed through the investigator training before being sent to Montpaix.
-
-**Marsha**：It's possible I missed something.
-
-The young man tries to console her, but his smile is stiff.
-
-**"Officer"**：Don't worry. You're doing fine. Mr. Creius always says training is no match for experience.
-
-**"Officer"**：Blackbird is a prime example, I mean Merel. You met her back in Montpaix.
-
-**"Officer"**：She's been through all the training the Foundation could throw at her, but she still isn't ready for the battlefield. I probably shouldn't say, but she nearly went mental during the Antarctic operation.
-
-**Marsha**：The battlefield is crueler than ordinary people can imagine. A few weeks of military training just isn't enough.
-
-Paravyan follows the topic and broaches a question he's long been holding back.
-
-**"Officer"**：So, what's your deal? I know you came from some Order with special arcane training.
-
-**"Officer"**：You can "freeze" your fear and pain—emotional stuff—during battle until you feel safe?
-
-**"Officer"**：I only skimmed through the briefing. Is that right?
-
-**Marsha**：It's more complicated than that. But I'm not sure I'd like to get into it now.
-
-**"Officer"**：Yeah, sure. Sorry.
-
-**Marsha**：No need to apologize. Just ... do you think we missed anything?
-
-**"Officer"**：Well, let's take a minute.
-
-**"Officer"**：What could they even possibly hide here? Arms, chemical weapons, secret files, or gear smuggled back from the future?
-
-**Marsha**：I don't know much about Manus Vindictae or the future.
-
-There's a sudden ear-splitting pop, followed by a thundering explosion as rocks spatter across her armor.
-
-**Marsha**：Incoming!
-
-**"Officer"**：Armored vehicle, 200 meters northwest of the village! Take cover!
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · The Last Turnip Stew
 
@@ -5397,8 +4949,6 @@ Arcane Support Company Special Regulations
 
 1. Respect all comrades equally, regardless of classification. 2. Execute orders exactly; no changes based on divination. 3. Do not neglect conventional science; bullets often outkill arcane powers. 4. You are fully accountable for entities you summon. 5. No mental surveillance, influence, or manipulation of personnel without authorization. 6. No arcane modification of issued equipment without authorization. 7. Conduct spirit contact only with another member present; limit to three minutes. 8. Know the alternative forms of your comrades. 9. Report and secure approval before using large rituals or high-level incantations. 10. Expect enemy arcanists and other supernatural threats during operations.
 
-- Description：Adherence to military regulations is mandatory for all soldiers, including arcanists.
-- Action：Recite them
 
 
 ---
@@ -6009,8 +5559,6 @@ Gargoyle Research Notebook
 
 It was during the Merovingian dynasty that the Bishop of Rouen successfully subdued the first known Gargoyle. This Gargoyle and his descendants then formed a unique lineage devoted to protecting churches across generations. However, in recent times, many younger Gargoyles have chosen to abandon this ancient tradition, leaving their dark church perches for the light and glamour of the modern world. Based on my recent observations, this generational conflict continues to cause significant distress among elder Gargoyles. \* It's worth noting that the younger generation's departure also relates to modern churches being unable to provide adequate sustenance, reflecting broader societal changes. This aspect warrants further historical analysis. Gargoyles have some unique arcane skills. First, their arcane ability allows them to petrify their own body parts—a formidable defensive mechanism during the age of close-quarters combat with bayonets and spears, though considerably less effective against modern artillery bombardments. Additionally, Gargoyles possess exceptional visual capabilities, with particularly remarkable night vision. This trait complements their natural stealth abilities, enabling them to both detect hidden threats with ease and execute perfectly timed ambushes. \* I must admit, it's surprising such impressive combat abilities were historically limited to the protection of churches—though my lack of religious knowledge may explain this confusion. · Your theological ignorance is indeed astounding. Mandatory religious studies await you. \* While I object to you reading my research notes without permission, I'll concede that compared to your piety, I'm clearly the irreligious one—just a pure biologist. · Who said I'm not a "pure biologist"? Gargoyles carry a curse. While the origins of their curse remain shrouded in secrecy, people are open about its manifestations: excessive bloodshed appears to corrupt them. This corruption takes the form of mental instability, progressing from rejecting to completely abandoning their faith. · Well, my "pure biologist" friend, your Gargoyle research now necessitates the very religious study that you say you have no interest in. \* This notebook clearly requires a sturdier lock.
 
-- Description：These researchers consistently exceed all expectations.
-- Action：Read their notes
 
 
 ---
@@ -7347,8 +6895,6 @@ Class 3 Students
 
 **Dieterich Becker** ​died from shelling on 1916/4/27. **Baethke Zimmermann** ​died from shelling on 1916/4/27. **Simon Miller** was reported missing on 1916/6/11, then was confirmed dead. Miller's tag has been found. **Friedrich Bauer**​ died from machine-gun fire on 1916/8/12. ... **Finn Wagner** died from infection on 1916/11/7. **Elvin Neumann** died of trench fever on 1916/11/8. **Felix Zimmermann** ​died from shelling on 1916/12/8. **Julian Kruger** ​died from infection after being shot on 1916/12/13. **Ben Becker** died on 1916/12/14. Cause unclear. ... **Walter Schmidt** died from shelling on 1918/1/12. **Paul Haumann** died on 1918/3/11. ... **Eberhard Braun** died on 1920/11/10.
 
-- Description：What once represented new beginnings now only heralds an end.
-- Action：Listen to the past
 
 
 ---
@@ -7795,8 +7341,6 @@ A Letter from Home​
 
 My Dearest Cousin Ladislas, How oft thou art in my prayers. I trust with all my heart that Italy hath already begun to feel as home unto thee. I am told the folk there are warm of spirit and generous of hand; I can well believe thou hast found many a kindly friend upon thy path. Marianne and I do prepare for a journey into Austria, and our hearts are full of longing. For there lieth, as thou hast spake so oft, the very heart of the new art. I yearn to lift mine eyes unto the golden tracery crowning the Secession Building, whilst Marianne doth dream of wandering through the galleries and little shops of the Wiener Werkstätte. We have set our minds also upon the Karlskirche—Fischer von Erlach's great Baroque church. They say its nineteen stained-glass windows shine as jewels and its nave holdeth a majesty not soon forgotten. Should any sketches from our travels serve thy studies, it would delight me to send them forth. Our past words dwell yet within me. Marianne telleth me ever of the new age dawning—of electric light supplanting the gentle glow of candles, and of the darkness of our nights fading away. Yet, dear Ladislas, I still feel the nearness of the old ways. This age of machines hath left many unsettled and without refuge; soon they shall crave a quiet place wherein to kneel and seek God's comfort and counsel. Then do I call to mind thy words, and my heart is moved—that our prayers must rise above the clamour of industry. And so do I begin to dream, with thee in my thoughts, of a church for this new century, yet still a haven for the soul. Though our cousin smileth at such fancies, her words have sown new imaginings in me, and I have begun to set them down in drawings. Mayhap to raise such a place would take ten, even fifteen years; yet it comforteth me to picture thee by my side when the time cometh, helping to bring our vision to life. Thou art ever in my thoughts and ever in my prayers. With all my love, Agnès April 2, 1914
 
-- Description：People, then as now, nurtured dreams worth sharing.
-- Action：Open the Letter
 
 
 ---
@@ -8802,8 +8346,6 @@ A Recent Report on Manus Vindictae​​
 
 Reports continue to arrive from across the globe concerning arcanists operating under Manus Vindictae (a complete list of names and locations can be found in the attached appendix). These individuals have been gathering in coordinated cells, their training evident. Given the efficiency and precision of their attacks against human military forces, it is no longer accurate to call them merely an "organization"; they are, in effect, an army. Each morning I open what feels like ten thousand urgent messages clamoring for my attention, with still more pleas for reinforcements. Our office has been working without pause. Fatigue has dulled even my anger; nothing surprises me anymore—not even reports of skirmishes between warlords in the eastern territories. At times, I am tempted to reply that they needn't fret; east or west, it makes little difference. The entire world is sliding into chaos. ... The contingency plan drafted by Creius has now been submitted to the committee for review. It addresses the escalating threat posed by Manus Vindictae. Should they succeed in building a large-scale regular force—or if their attacks continue to spread disorder—the proposal urges the Foundation to form its own standing military rather than rely on Zeno. Creius sets forth what he claims is the most efficient approach: recruiting and reorganizing both human and arcanist soldiers already at the front. This is madness. Does he intend to make the Foundation a rival to every government on earth—an entity viewed with still deeper suspicion? Creius has always been radical, but war elevates such voices. He shows no concern for how the world might react, arguing instead that "we live in an age the Storm could erase at any moment, so we are not obliged to heed their protests." Only recently would such words have been unthinkable. His position is plain: if Manus Vindictae declares open war, governments will have no choice but to align with the Foundation. Yet should we follow his plan, we begin the most perilous of games.
 
-- Description：Can you hear it? The low hum that comes before a great change.
-- Action：Plunge into chaos
 
 
 ---
@@ -10177,8 +9719,6 @@ Formula Excerpts
 
 **Living bone buds, withered mandrake leaves, owl feathers, turpentine. Burned in an airtight container.** Oily volatile liquid carrying a moss-like scent. Weakly soluble in water but readily absorbed by animal fat. Causes immediate nervous system damage, including tremors, aphasia, mania, delirium, and muscle paralysis. In rare instances, it may temporarily increase arcane abilities. **Jack jumper ants, Inchman ants, sulfur. Processed in acid-treated belladonna juice, using mithril as a catalyst .** Colorless gas with a faint garlic smell that often gets hidden by other odors. Slightly acidic, easily soluble in water, and potentially explosive at high concentrations. Causes acute liver and kidney injuries and mucous injuries, with particularly strong effects on humans. **Suriname toads, bloodroots, brown algae, shed snake skin. Heat to 180℉ while adding chlorine gas.** Deep purple gas with a sharp, irritating smell. Slightly soluble in water, slightly denser than air, and easily decomposes when exposed to light. Causes lacrimation and coughing. Pulmonary edema occurs within 2–3 minutes of inhalation. Both humans and arcanists may experience hallucinations after exposure.
 
-- Description：We take a strong stance against the abuse of alchemy on the battlefield, especially those that have not undergone thorough experimentations.
-- Action：Turn in the cases
 
 ### Trail · Your Excellency, There's Nothing We Can Do
 
@@ -10192,8 +9732,6 @@ An Undelivered Letter​​
 
 ████, It has taken me a long time to write this letter, though my mind has never ceased its vigilance. You know, as well as I, that I have spent my life mastering the concealment of intent, approaching even the unknown with a scholar's patience. You know, too, why I have worked to prevent conflict—not from idealism, but because I have seen what war truly leaves behind, long before the Foundation, long before the "Storm" rose. My principles have often led me to aid or forge alliances with adversaries. I have long sought to create a balance between humans and arcanists. I firmly believe that Force is a tool, nothing more, and its misuse brings only chaos. While we may bear a fraction of the consequences, ordinary lives carry the rest. I have acted with care, and for that I have been called a Dove—a label I dismiss. My concern has never been for titles or comfort, only for what must endure. Zeno's defection is largely credited with the rise of the Hawks. Committee members, wary and distrustful, sought to establish a military force directly under Foundation control. Meanwhile, the "Storm" has transported us back to a time dominated by warfare. Creius's philosophy runs contrary to our values and the traditions that preserve a fragile equilibrium. His contingency plan would not only threaten security but also collapse it. Should we provoke governments, forsake our mediating role, or coerce allegiance—how could the Foundation survive the "Storm", Manus Vindictae, or the world itself? And yet ████, I cannot deny that Creius has succeeded—though his triumph chills me more than it reassures. Hill 299 is secured. Eight divisions have been withdrawn from the frontline trenches. Soldiers untrained against arcane assault survived where they would otherwise have perished. Nearly one hundred thousand lives were spared. All achieved under the shadow of his contingency plan. None can dispute the effectiveness of his actions—but effectiveness is not wisdom. The currents he has unleashed will embolden the reckless. Those who were once cautious may now lean toward the Hawks. The balance we have preserved hangs by the thinnest of threads. When the battlefield dispatches arrived, I understood the inevitable: people will now march willingly into chaos, blind to the storm gathering beneath their feet.
 
-- Description：Naturally, no one who wields power imagines themselves as a child playing with knives.
-- Action：Read the Letter
 
 
 ---
@@ -10204,6 +9742,8 @@ An Undelivered Letter​​
 > Coffee, pastries, family, memories of simpler times, and an ominous chain.
 
 <!-- reader-body:start -->
+> **Title card：** The Pardon
+
 After yet another night passes, the hidden chapel once again welcomes the light of day.
 
 Time passes, reaching near to midday, and the grassy courtyard holds its quiet with a patience born of humility.
@@ -10367,178 +9907,7 @@ The metal hangs in her hand; its weight feels far greater than its size would me
 **Sentinel:** Until the true conflict is brought to an end.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Coffee, pastries, family, memories of simpler times, and an ominous chain.
-
-> **Title card：** The Pardon
-
-After yet another night passes, the hidden chapel once again welcomes the light of day.
-
-Time passes, reaching near to midday, and the grassy courtyard holds its quiet with a patience born of humility.
-
-**Sentinel**：...
-
-The awaited figure finally appears at the forest's edge. She's spent the night tending to her wounds.
-
-**Female Gargoyle**：My, Marie, thou hast returned!
-
-She holds back the urge to embrace her family—her arms are filled with a silver tray of coffee and pastries.
-
-**Sentinel**：Coffee?
-
-**Female Gargoyle**：Yes, just to thy liking—no milk, no sugar. There are also vanilla macarons and Mont Blanc besides.
-
-The bright colors of the pastries feel all the more surreal for the darkness she has gone through.
-
-Sentinel takes the warm coffee from her aunt's hands and takes a small sip in disbelief. Of course, it's far from the quality of a Parisian café, but at this moment, it is more than enough.
-
-**Sentinel**：Where did you get these desserts?
-
-The woman clasps her hands together, wearing a faint, bittersweet smile.
-
-**Female Gargoyle**：Look, who is here, my sweetie.
-
-Sentinel takes notice of the tall figure stepping into view—a face she has not seen for a long time.
-
-**Immanuel**：Marianne.
-
-**Sentinel**：Father.
-
-**Sentinel**：What brought you here?
-
-**Immanuel**：A pardon hath been issued by the president. Thou art free.
-
-**Immanuel**：As for Ladislas, he is gravely ill. His stubbornness was ever bound to lead to trouble.
-
-He ends the topic with mild discontent.
-
-**Immanuel**：Hmph. To answer thy question: I am here to gather ye. We are to depart.
-
-**Sentinel**：So, you are now the leader of the clan?
-
-**Immanuel**：Verily. After all we have suffered under this war, someone must lead the Ténébrun family's reconstruction. I seek to re-establish contact with those of our kin with whom we have lost fellowship.
-
-**Immanuel**：The hand of Manus Vindictae has not yet fallen upon Paris. I have purchased a number of dwellings in Montmartre. They are to be our temporary homes until the conflict between the Manus and the Foundation reaches its end.
-
-The Ténébrun patriarch makes an imperturbable gesture as he turns to face Agnès.
-
-**Immanuel**：Agnès shall be sent to our cemetery in Rouen.
-
-**Sentinel**：Cemetery?
-
-She cannot—or will not—accept the words.
-
-**Sentinel**：But Agnès is not dead; she's simply ... Ladislas said there was a reason behind her—
-
-Marianne raises her eyes and meets her father's mournful gaze.
-
-**Immanuel**：This is what comes of disrespecting tradition, Marianne. Thou wert too easily swayed by Ladislas's maddened words.
-
-**Sentinel**：He lied to us?
-
-**Immanuel**：Nay. I believe not that such was his intent. He was simply too fervent in his pursuit of Gnosis.
-
-**Immanuel**：There is no record in the family archives that suggests any sort of prophecy should befall our kin in so strange a form.
-
-**Immanuel**：Agnès's condition is the result of a tragic accident, nothing more. There is no divine meaning behind it whatsoever.
-
-**Immanuel**：Her fear of the war was too great. She simply faltered in the casting of her arcane skill and petrified her body to the core.
-
-**Immanuel**：That is all.
-
-**Sentinel**：...
-
-**Immanuel**：I know well that Agnès meant a great deal to both Ladislas and thee, but she was only an ordinary child. She was not an angel descended from heaven.
-
-**Immanuel**：Though it doth bring sorrow for me to say, we must all come to accept that no miracle shall ever come to Agnès—she will forever remain a statue.
-
-He reaches out to take his daughter's shoulder, already bearing too many burdens.
-
-Their conversation falls away into a pensive silence before the "statue" of Agnès.
-
-He is the first to leave, attending to more pressing matters—several moving trucks are already parked outside the church.
-
-Trembling chains pierce the air.
-
-**Sentinel**：...?
-
-**Ladislas**：Marianne, thou hast returned. How ...?
-
-He staggers forward, as if pushed by some invisible force, drawing closer to Sentinel.
-
-In his palm lies a chain that glints coldly in the sunlight.
-
-**Sentinel**：S**t, I thought Father was only ... Have you truly fallen ill?
-
-**Ladislas**：That I have. But what of thee, Marianne? Art thou not in a condition far graver than my own? Or art thou simply too blind to see it?
-
-He babbles on. With every word, his madness grows. There seems to be no trace of his old humility left.
-
-**Ladislas**：Thy soul is stained with the wickedness of sin! Thou art as miserable as I ... O Lord, I-I can smell the stench of hell upon thee ...
-
-**Ladislas**：Thou hast passed through the gates of hell and returned, Marianne ... How wretched ...
-
-**Sentinel**：You are ill, Ladislas. Gravely so.
-
-**Sentinel**：Take a moment's rest in the quiet of a sanatorium upon reaching Paris, won't you? It ought to do you good.
-
-Ladislas squints like a child sharing a secret.
-
-**Ladislas**：Perhaps I shall. But thou wilt not return with us, wilt thou?
-
-**Sentinel**：I am yet undecided. Perhaps I will ...
-
-**Ladislas**：Nay. Nay. Thou must not! Thou must never return!
-
-**Sentinel**：Why?
-
-**Ladislas**：I see that which others cannot, and I see it in thee. Thou art not who thou once wast! Inside thee, there is ...
-
-**Ladislas**：A demon, the demon which doth linger in our veins. It hath opened its eyes, its wretched eyes!
-
-**Ladislas**：Aaagghh!
-
-Ladislas howls in pain, his body shaking violently. The chain in his hand clatters and rings.
-
-**Ladislas**：Thou cannot return—cannot turn back! For there is no path left for thee ...
-
-**Ladislas**：But ... but I desire naught more than to aid thee, my dear cousin. Yea, I shall help us all, but most especially thee—to atone for my transgressions ...
-
-The shaking stops, and all at once, he bows with a gesture of utter submission, presenting the chain before her.
-
-**Sentinel**：Ladislas?
-
-**Ladislas**：These shackles are a soul-binding chain—a cage, yea, but I beg thee accept them.
-
-**Ladislas**：And I shall devote my life to prayer over thee—both night and day—that thy soul shall not be shaded in eternal darkness.
-
-**Sentinel**：...
-
-**Ladislas**：May thy blood be washed clean one day. May it nourish the soil when thou art laid to rest. May thy journey to hell yet be graced by God's mercy.
-
-Another not-so-light burden to serve as a constant reminder of the limits of evil.
-
-**Sentinel**：And if I refuse these shackles?
-
-**Ladislas**：It mattereth not. I shall pray for thee still, as I have ever done.
-
-A sudden impulse moves her to look at the statue of Agnès.
-
-**Ladislas**：...
-
-At last, she takes the chain.
-
-The metal hangs in her hand; its weight feels far greater than its size would merit.
-
-**Sentinel**：Tell my father that I will not return.
-
-**Sentinel**：Until the true conflict is brought to an end.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Heartfelt Blessing
 
@@ -10552,8 +9921,6 @@ To Marianne
 
 Marianne,​​ I hope you'll understand why I couldn't say goodbye properly, as I understood when you did the same. By the time I finally learned where you had gone, you were already deep underground, facing poisonous gases. Anyway, I just want this letter to reach you safely. The "XII" required a medic, and although I sensed there was something distinct about this squad, I accepted; it would keep me on the front lines longer, and Mr. Creius's invitation could not have been more timely. Of course, this means I had to leave immediately with the squad. We're moving to the Eastern Front soon, where some of my comrades are reportedly stationed. While I'm now part of the "XII," I've been granted permission to operate independently in the eastern region for a while. I'm hoping to locate some of my former comrades from my order to see if any might be interested in joining the Foundation. Marianne, I know your family has an unusual constitution, and you might think overly cautious, but I have to say this: after prolonged combat in poisonous gas conditions, you really should get a full medical examination. Wishing you all the best. Marsha
 
-- Description：How would you calculate the distance between two reuniting parties?
-- Action：Read the letter
 
 
 ---
@@ -11156,8 +10523,6 @@ Burn After Reading
 
 Due to unexpected circumstances, I had temporary access to an incomplete report. While the information it contained was too fragmented to understand the complete situation, it did reveal one fact: Zeno and the Foundation have been secretly working on "Storm" research. This work is entirely separate from any known research and lies beyond the scope of security clearance. What is particularly concerning is that the majority of Foundation staff and Laplace personnel appear completely unaware of these covert operations. The mere existence of such hidden activities is, in itself, deeply concerning.
 
-- Description：Intelligence may be priceless, but it never comes free.
-- Action：Check "intelligence"
 
 
 ---

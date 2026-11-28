@@ -74,8 +74,6 @@ Yes. Today is the day when multiple breaking news is published in the newspaper.
 
 A wave of street culture, the conflict between the new and old order, and a young artist desiring to step onto the stage under the spotlight …
 
-???: Heh heh ...???: That will be a fantastic plot to start the story.
-
 **???:** Heh heh ...
 
 **???:** That will be a fantastic plot to start the story.
@@ -498,8 +496,6 @@ The passionate speaker has noticed that it's a perfect chance to escape other th
 
 {p}At that time I was groping for my glasses on the floor. When I look up, I saw it. The ominous, fleeting shadow. I also found an evidence of its appearance on the floor: a dark animal hair, different to humans'. Undoubtedly, our thief is a black animal, or some kind of a flying dragon. I've read about them from the books, they like shiny objects, like jewels or nicely decorated glasses. —A friendly tourist who has high myopia {p}According to my theory, the thief is an adult male who has very poor manners. He has a bewildered black beard which falls out easily. He has strong hands though, strong enough to knock over a robot. —An awkward detective trying a bit too hard to convince his listeners As it turns out, the security robots are far from reliable. These tin heads can never replace us. They are clumsy, and use up a lot of oil, which is hardly environmentally friendly, isn't it? The big men in the parliament should really look into this company and see if there is anything fishy. That's why we poor securities voted for them ... —An aggrieved security guard (former){img}
 
-- Description：The smudged part of an copy of abandoned newspaper.
-- Action：Read
 
 <details>
 <summary>Client transcript</summary>
@@ -1429,8 +1425,6 @@ A STATEMENT OF APPRECIATION
 
 {p}Klaus, the cutest bulldog of all London, and I were separated when we walked by Kensington High Street. I looked for him in many places, but he was nowhere to find. When we got home, a handsome border collie showed up at our door. In this good gentleman's mouth there was Klaus' collar, and our Klaus was standing next to him. It would have made us very happy if this clever black-and-white border collie stayed longer with us. Sadly, he left our house quietly when we went to check Klaus. We hope to find this dog and his owner, and send them 10 extra large boxes of "Chewing Fun" cookies as a thank-you. Please let us know if you know them. Thank you!{img}
 
-- Description：The Missing People's Listing mistakenly printed at the advertisement section on the second page of the newspaper. However, it's not quite a "Missing People's Listing" either.
-- Action：Read
 
 
 ---
@@ -1642,216 +1636,13 @@ Either of them has to lose the game, sadly.
 **APPLe:** What?
 
 **Regulus:** "The Worst Beginning and the Best Ending—To Our Forever Ragged Lad"
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** You see, everybody can be world-famous for 15 minutes.
-
-### Segment 1 · `script 200106`
-
-The farce in Regent Street seems to finish as the siren alarms. The street returns to its quiet status as usual.
-
-Except for a sneaking figure who tries to escape from the fire engine.
-
-**Police Officer**：Freeze! Routine check.
-
-**Police Officer**：Your fire engine driving license, please.
-
-He eventually turns around.
-
-**Diggers**：Hello, Mr. Officer.
-
-**Police Officer**：Again?!
-
-**Police Officer**：Within a month, you visited the police station 13 times, stirring the pointers of Big Ben, doodling at 10 Downing Street, dyeing Tower Bridge with waterproof paints ...
-
-**Police Officer**：This time, you threw a messy street party, didn't you?
-
-**Diggers**：Ahem! It was not a mess, police officer.
-
-**Police Officer**：You are suspected of breaking traffic laws. It's reasonable for us to arrest you right now!
-
-**Diggers**：Oh, wait, police officer! Wh-What I did is legitimate.
-
-**Diggers**：I've applied for the use of fire engine to the sergeant and got approved.
-
-Diggers shows the note in his hand.
-
-**Diggers**：Please feel free to check, Mr. Officer.
-
-**Police Officer**：...
-
-**Police Officer**：Humph! I can't believe the sergeant would approve such a ridiculous application.
-
-**Diggers**：That's what he approved.
-
-**Police Officer**：But how are you gonna justify those weird bubbles?
-
-**Diggers**：Which one are you referring to?
-
-**Diggers**：The Laser Bubble that reflects people's dreams?
-
-**Diggers**：It caused all the people at the square to fall into a deep sleep for two whole days. They experienced the most unexpected but best holiday ever. Honestly, I really envy them.
-
-**Police Officer**：...
-
-**Diggers**：Or, you mean the classic work of mine, the Revery Bubble?
-
-**Diggers**：If it's convenient to you, could you please disclose the feedback of other officers? I need some inspiration to revise my formulas.
-
-**Diggers**：What did those officers see when they enjoyed my bubbles, surrendered criminals or a promotion announcement?
-
-**Police Officer**：Enough! This time, we will absolutely find out the odd ingredients in the bubbles.
-
-**Police Officer**：You can't deceive all of us.
-
-**Diggers**：Only if you guys can open the water tank.
-
-Diggers points at the fire engine surrounded by police cars.
-
-**Diggers**：At least up to now, you don't have enough evidence, Mr. Officer.
-
-**Police Officer**：...
-
-**Police Officer**：Fine, I now ask you to cooperate with our investigation as the witness.
-
-**Diggers**：Ugh ...
-
-**Diggers**：Alright, I'll stay here till you find new evidence.
-
-**Police Officer**：Eye on him.
-
-**Policeman**：Yes sir.
-
-**Diggers**：...
-
-The police officers start to investigate the fire engine. Diggers suddenly bends down and clutches his belly.
-
-**Diggers**：Hiss ... Ahhh ...!
-
-**Policeman**：What the hell are you doing? Get up off the floor.
-
-The young and naive police officer rudely pulls Diggers up, but he fails to notice a bubble with a reflective surface forming behind him.
-
-**Diggers**：Huffff!
-
-**Policeman**：Ugh ...
-
-**Diggers**：Nighty night.
-
-He is sneaking to the end of Regent Street and attentively counting his steps—the steps away from the siren, the steps towards freedom.
-
-But it seems that he totally ignores the approaching engine sound and the anxious warning of a pirate.
-
-**???**：Back off!
-
-**???**：Get out of my way!
-
-The shiny motorcycle draws a beautiful parabola in the sky and eventually lands precisely in the gap between the flower bed and the wall.
-
-The rock girl on the motorcycle crashes into the liberty-seeking suspect.
-
-**???**：Ouch ...
-
-**Diggers**：Hiss ...
-
-At least they have arrived at their common destination, Carnaby Street.
-
-**Diggers**：Whoa! Are you a first-time driver?
-
-**???**：Ahhh! You ruined my game! Boy!
-
-**Diggers**：It's you ...
-
-**Diggers**：Regulus! That rock pirate fraudster!
-
-**Regulus**：You know me?
-
-**Regulus**：Damn it. I knew I had to watch out for you undercover cops lying in ambush around the track!
-
-**Diggers**：What makes you think I'm an undercover cop? This is stigmatization!
-
-**Regulus**：Uh, well, you're right. Cops shouldn't be wearing such ragged clothes.
-
-**Diggers**：What? This ... this is a demonstration against the materialistic life, the code of freedom!
-
-**Diggers**：Ahem. Though you didn't mistake me with those stupid cops, I still suggest you better distinguish us.
-
-**Regulus**：Haha, a humorous suggestion! Ragged lad.
-
-A red globe gently falls down next to Regulus.
-
-**APPLe**：There are some slight scratches on the coat, the transmission system functions well, the braking system is not very well ...
-
-**Regulus**：Mr. APPLe?! You're back.
-
-**APPLe**：... Your vehicle looks fine.
-
-**APPLe**：Captain, are you alright?
-
-**Regulus**：No, I'm not!
-
-**Regulus**：I could have won this, but it all went to pot. The ragged lad ruined my game, my chance to be a podium winner. He ruined a rising racing star!!!
-
-**Diggers**：Ahem.
-
-**Diggers**：I need to warn you again that any defamation might cause a lawsuit.
-
-**Regulus**：Hmph!
-
-**Regulus**：It was your fault! You broke into the track, ragged lad!
-
-The chaos here arouses the attention of another batch of people.
-
-**APPLe**：Sir, the lawsuit you were talking about ... Are you referring to those who are approaching?
-
-**Diggers**：What? Bloody hell! They found me!
-
-The police officers are getting closer.
-
-**Police Officer**：Carnaby Street, call for backup.
-
-**Police Officer**：According to the latest update from Sergeant William, his seal has been stolen.
-
-**Police Officer**：The suspect, Diggers, is suspected of committing a series of crimes, including illegally using fire engines, forging police ID, attacking police officer ...
-
-**Regulus**：Ugh!
-
-**Police Officer**：We also found someone illegally held an MRR competition on the street, and the suspect is likely Regulus, the rock pirate on the wanted list.
-
-**Diggers**：Ugh!
-
-**Police Officer**：You two, freeze! Cooperate with our investigation.
-
-**Regulus & Diggers**：Whoa! Run!
-
-### Segment 2 · `script 200107`
-
-Someone escapes, while someone unfortunately gets arrested.
-
-Either of them has to lose the game, sadly.
-
-**APPLe**：Is he alright?
-
-**Regulus**：Maybe, if all his statements are to be believed.
-
-**Regulus**：Do you remember what he said at the end?
-
-**APPLe**：He told us to read tomorrow's newspaper, the headline.
-
-**Regulus**：Is that an obituary or something? Mr. APPLe, I'm going to add a special session for Rock Radio tonight.
-
-**APPLe**：What?
-
-**Regulus**："The Worst Beginning and the Best Ending—To Our Forever Ragged Lad"
 
 > **Title card：** TO BE CONTINUED ...
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · "The Aperitif "
 
@@ -1867,8 +1658,6 @@ PIRATE INVADED RADIO ROCK INTRUDED LIFE
 
 {p}Now, everyone has heard of the renown pirate captain, the one who got away from our "Purge of Radio Programs" Movement. She is the owner of many popular tapes and records, a swaying red ship, and the eagle-like eyes which allows her to spot the police from distance. {p}One will not deny her charm if you can set aside your prejudice against this rebellious public figure. You would be touched by her Pirate Radio and the ideas she has been fighting for till this day, if you listen to her "filthy" music and what she has to say. However, this newspaper feels obliged to state that extreme actions such as hijacking other radio frequencies, taking over public broadcast station, or stealing oil from police vehicles should be condemned. For some stubborn rebels, punishment is still necessary. London Review, Opinions, 1966, 09(25B):58{img}
 
-- Description：The Rockin' Pirate is no stranger to the topic list of social criticism. But be careful, she is not some usual public figure. If you want to have a taste of this rock n' roll cocktail, don't shake the bottle before opening up—the advice is to enjoy it while it is in a relatively stable state.
-- Action：Read
 
 <details>
 <summary>Client transcript</summary>
@@ -1894,8 +1683,6 @@ Now, everyone has heard of the renown pirate captain, the one who got away from 
 
 Lesson One: The Inappropriate Application of the Formula Sometimes Is Also Acceptable
 
-- Description：There is no model answer for a Great Thief's test. Notes: "Seize the opportunity" is written in the text book 101, no need to read it out loud.
-- Action：Solve it
 
 
 ---
@@ -2280,8 +2067,6 @@ BREAKING NEWS
 
 {p}At 12pm today, the London police announced the new travel regulation Ban for Sailing on Thames(Temporary) is now going into effect. The ban was imposed to reduce the noises on the river and stops offenders from escaping on water. (Note: The ban has also clearly stated measures to deal with ships in red-and-white.) {p}The host of the Flurry Puppy Games has confirmed the Games will take place in Hyde Park. We have also learned that the number of athletes is unusually high and their breeds are also exceptionally distinctive. At the moment, every training field close to the Park has been occupied; the athletes are enthusiastically preparing for the game. The first Give-Away shop in London has started business today. The shop is located in the alley at the back door of No. 17 Regent Street. Customers may find various of goods there, including Inspiration Bubble Water, the book Silent Spring, Pop Art signs. {img}
 
-- Description：A copy of newspaper that have been folded carelessly. Maybe its former owner is a hothead, you can tell from so many creases on the newspaper.
-- Action：Read
 
 <details>
 <summary>Client transcript</summary>
@@ -2441,154 +2226,13 @@ Diggers leaves with excitement. The newspaper is tossed into the air, signaling 
 A well-trained pup will never miss a single chance to catch a flying ball.
 
 Of course, the newspaper in the air is included.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** It all leads to the same answer.
-
-**Newsboy**：Extra! Extra! The event about to change London!
-
-Someone suddenly appears from behind him and taps him gently on the shoulder.
-
-**Regulus**：Hey, Tommy! Long time no see.
-
-**Newsboy**：Regulus?! Why are you here!
-
-**Newsboy**：I met you the day before. You show up so often these days.
-
-**Newsboy**：Did you get rid of those scouts?
-
-**Regulus**：Ha! They don't have time for me right now.
-
-**APPLe**：Yesterday, Captain Regulus encountered a weirdo.
-
-**Regulus**：Right. Ragged lad claimed to have left us his last words in the newspaper.
-
-**APPLe**：Captain, I'm afraid what he said was "surprising note."
-
-**Regulus**：Oh, never mind. It doesn't matter! Tommy, what's on the front page today?
-
-**Newsboy**：Here, see for yourself!
-
-He gives Regulus the crumpled newspaper that has been looked over by many people.
-
-**Regulus**："The Rimet Cup Exhibition starts today. Carnival for Fans!"
-
-Mr. APPLe suspends his new research on the translator and drifts to Regulus.
-
-**Regulus**："New Humans has announced to undertake the Rimet Cup Exhibition. More security robots will be put into use to replace human jobs ..."
-
-**Regulus**："If all goes well, the security system will be introduced to the police after the exhibition. London will embrace real peace."
-
-**Regulus**："Far more reliable than humans, meticulous enforcers, and all-round urban security landscape."
-
-**APPLe**：It seems London will tighten the regulations. The government plans to launch security robots.
-
-**Regulus**：Stubborn tin monsters?!
-
-**APPLe**：Yes. According to the description on newspapers, those robots can block out mobile signals and change the regional magnetic field.
-
-**APPLe**：I'm afraid our broadcast will be affected.
-
-**Regulus**：Can we still "borrow" others' radio waves?
-
-**APPLe**：Huuhh! Of course, we can't.
-
-Regulus crumples the newspaper in her hand.
-
-**Regulus**：Ugh! Crap!
-
-**Regulus**：What kind of surprising note is this! If the robots take over London, my plans for a pirate's gig will go down the drain!
-
-**Regulus**：New Humans ... Oh, I get it. Ragged lad is part of the robots team, or maybe even a badass boss trying to take control of London!
-
-**Regulus**：No wonder he seems to have a problem with the cops. Ugh!
-
-**Newsboy**：Blimey! This one is huge!
-
-**Newsboy**：Are you going to provide your first hand to the press? They must be interested.
-
-**Regulus**：Never mind. He saved us once, after all. A friend will persuade him to abandon this evil plan.
-
-**Regulus**：Captain Regulus will never forget friendship for profit!
-
-**Newsboy**：Damn shame. That's a heap of dosh. You could even get your cycle some fancy equipment.
-
-**Regulus**：...
-
-**Regulus**：Tell me first. How much do they pay?
-
-**APPLe**：Captain.
-
-**Regulus**：Ahem! I-I was just curious! Just kidding!
-
-Regulus gives the crumpled newspaper back to Tommy.
-
-**Regulus**：I have to go and do something more important now.
-
-**Regulus**：Cheers, Tommy.
-
-**Newsboy**：Bye! I'm here if you change your mind!
-
-The brand new newspaper is crumpled into a ball by Diggers and is then suddenly unfolded.
-
-**Diggers**："Breaking! Gemini 8 Conducted First Manual Docking in Space."
-
-**Diggers**："Fifth Fluffy Sports Meeting is coming. Interested candidates, please sign up with your pet."
-
-He flips the newspaper over and over.
-
-Thank God. He finally finds what he's hoping to see in the gap between the two pages of news.
-
-**Diggers**："Police Notice: A man controlled a watering car with special means and deliberately violated public transit. He will be detained for three days as a punishment."
-
-**Diggers**：How come?!
-
-**Diggers**：Party theme, the key points of my speech, host, future trend of art ...
-
-**Diggers**：None are mentioned!
-
-**Diggers**：Hahh! A brand-new world was born yesterday, but most people don't have a chance to celebrate.
-
-**Diggers**：Gloomy clouds haunt the sky of my Utopia. Shame on London! Shame on the world!
-
-**Diggers**：We need to change! Radical change!
-
-Diggers pounds his chest with indignation and lifts the newspaper high. He paces back and forth, just like an ambitious poet.
-
-**Diggers**：We won't be corrupted by entertainment. The bell of art will break the shackles of the stubbornness.
-
-**Diggers**：London has been trapped in a long and dreadful night. What it needs is the sun, not the dull stars.
-
-After turning around twenty-seven times and a half, he finally stops.
-
-**Diggers**：The deserted street won't attract many people.
-
-**Diggers**：They have been used to following the crowd. They can only spot the noticeable objects!
-
-**Diggers**：We must throw a grand party of art, to topple the mainstream, to blow more people's minds!
-
-**Diggers**：And it shouldn't be contained only to streets ...
-
-**Diggers**：I get it! I get it! The eye-catching exhibition hall of the Rimet Cup will become the unprecedented, the craziest, and the perfect stage!
-
-Diggers leaves with excitement. The newspaper is tossed into the air, signaling the start of a good show.
-
-**Wendy**：Woof! Woof!
-
-**Wendy**：Woof woof!
-
-A well-trained pup will never miss a single chance to catch a flying ball.
-
-Of course, the newspaper in the air is included.
 
 > **Title card：** TO BE CONTINUED ...
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Mayor Holding A New Event
 
@@ -2600,8 +2244,6 @@ Of course, the newspaper in the air is included.
 
 There is no denying that accidents exist.
 
-- Description：A record of the interview to the Mayor.
-- Action：Fill in the blanks
 
 
 ---
@@ -3080,8 +2722,6 @@ The Art And Its Artist
 
 To those reading this right now, I wish you would find pleasure in this novel world. As secondary education has become more and more universal, more and more people started to enrich their life with better entertainments, and that's when pop art came into focus. The younger generation no longer cared that much about the abstract art. Instead, they fell in love with lines, colors, and the manifestation of art on the streets. This is the beginning of a new art. If you are willing to put up with some overly avant-garde persons in this new trend, or you can get over with the soap bubbles, art will win on the streets. Of course, one has to take this to heart: always stay close to the art, but stay away from its artist. London Review, Opinions, 1965, 12(31A):11{img}
 
-- Description：An clip of earlier news, smells like alphabet spaghetti and gin.
-- Action：Read
 
 ### Trail · Advanced Opportunism
 
@@ -3093,8 +2733,6 @@ To those reading this right now, I wish you would find pleasure in this novel wo
 
 Lesson Five: Patience and Emergency Plan Are Humanity's Two Great Inventions
 
-- Description：Observe, prepare and wait. When you don't have enough variables for the formula you've learnt before, seize every moment before you act.
-- Action：Solve it
 
 
 ---
@@ -3654,6 +3292,10 @@ Regulus avoids the attacks in a rush.
 
 **Manus Believer:** Urrrrrgh ... Stooooonnne ...
 
+
+> **Title card：** TO BE CONTINUED ...
+
+
 ***
 
 COMBAT:
@@ -3661,114 +3303,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** She decides to change the tone. Things could be brighter, more exciting, like Rock  n' Roll.
-
-Regulus's ship can sail everywhere she wants.
-
-Except where there is a security fence.
-
-**APPLe**：Captain, isn't our destination supposed to be the exhibition hall of the Rimet Cup?
-
-**Regulus**：Of course!
-
-**APPLe**：I think we just missed the front gate at the junction we passed just now. Where we are now looks like a deserted back door.
-
-**APPLe**：And there is a "No Entry" sign.
-
-**Regulus**：Ahem! Ahem!
-
-**Regulus**：It's not important.
-
-**Regulus**：It's not good for the fan-favourite disc jockey to appear in the crowded areas. I don't want to make a noise!
-
-**APPLe**：Oh, I see.
-
-**APPLe**：I thought it was because Captain didn't have enough budget.
-
-**Regulus**：Ahem. That's a complete misunderstanding!
-
-**Regulus**：Our aim is to convince the ragged lad to expose the evil plans of those tin monsters!
-
-**Regulus**：Of course, we can't just walk in.
-
-She searches her pocket but fails to find any of her ideal, lovely coins.
-
-It's as empty as a desert.
-
-**Regulus**：Mr. APPLe, do you remember Tommy's offer of a generous reward?
-
-**APPLe**：He hopes we can divulge a sensational secret.
-
-**APPLe**：Captain, it seems you really want that bonus.
-
-**Regulus**：Of course not. The righteous street Pirate has a warm heart.
-
-**Regulus**：We should do Tommy a favour.
-
-**Regulus**：And we should accept a friend's quality thanks.
-
-**APPLe**：I get it, Captain.
-
-**Regulus**："The great rock pirate saves the day ... The cocky, ragged lad is no longer astray ..."
-
-**Regulus**："The big hero who saves London takes a series of exclusive interviews ..."
-
-**Regulus**：Endless bonus. Hahaha!
-
-**APPLe**：Captain.
-
-Captain Regulus seems to have foreseen a bright future. However, it doesn't seem to help her get rid of the barbed wire standing in front of her.
-
-Not even deal with the strange people who suddenly appear.
-
-**APPLe**：Captain, watch out!
-
-**Manus Believer**：Arrrrrrgh!
-
-**Regulus**：Whoa! No violence!
-
-**Manus Believer**：Arrrrrrgh!
-
-**Regulus**：Are you guys from the government? I've done nothing bad! At least not yet.
-
-**APPLe**：The skin hardness, the voice, and the liquid released from the wound have nothing to do with humans. I am afraid they are ...
-
-**Regulus**：Ah! I get it! They're the security robots in the newspaper!
-
-**APPLe**：Well, it ... might be.
-
-The black boss is indifferent to Regulus's questions, only swinging the hammer over and over mechanically.
-
-Just like some kind of war machine programmed to work.
-
-**Manus Believer**：Arrrrrrgh ... Giiiiiive ...
-
-**Regulus**：Ugh! The slime! The noise! The weird tone! Is that their new way to "keep order in London"?
-
-**Regulus**：Oh, those fuddy-duddies don't have their beards in their heads, do they?
-
-Regulus avoids the attacks in a rush.
-
-**Regulus**：We'll have to change the plan.<br>London must not be taken over by these ugly tin monsters!
-
-**Regulus**：We need to expose the security robots to the public for what they really are—they are violent, rude, and extremely dangerous!
-
-**APPLe**：This APPLe will fight by your side till the very end.
-
-**Regulus**：No. You have a more important mission, Mr. APPLe.<br>Captain Regulus asks you to take over the nearest radio station!
-
-**APPLe**：Roger that.
-
-**Manus Believer**：Urrrrrgh ... Stooooonnne ...
-
-> **Title card：** TO BE CONTINUED ...
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Meeting of St. Pavlov Foundation London Branch
 
@@ -3780,8 +3315,6 @@ Regulus avoids the attacks in a rush.
 
 Get over it. You have seen things like this before.
 
-- Description：A meeting has been archived on the Foundation document.
-- Action：Fill in the blanks
 
 
 ---
@@ -5004,8 +4537,6 @@ A COLLAGE MADE OF OLD NEWS
 
 {p}Doctor Introduced Lobotomy Won Nobel Prize The Little Known Dada work Race Relations Act Received Royal Assent The British Museum Is Falling Down {p}{img}{p} {p}Ramirez Declared Bankruptcy Police Starts Investigation on Cracker Incident at Big Ben, Suspect Remains At Large Pirate Radio Goes to Ban List "Tomorrow Has Arrived"
 
-- Description：A popular collage credited to an anonymous artist which takes up half of the newspaper page. The sections surrounding it are left empty, like [the absent mind.]
-- Action：Read
 
 <details>
 <summary>Client transcript</summary>
@@ -5504,8 +5035,6 @@ The old fuse that was deliberately installed is finally blowing as the temperatu
 
 {p}The Funniest Game is in town! Thousands of fluffy athletes from hundreds of streets in dozens of blocks will gather here for the most exciting pet contest! {p}The Flurry Puppy Games has been held 4 times since 1961. From only hundreds of athletes of 3 suburbs taking part in the first Game to today's thousands of athletes from more than 28 suburbs showing up, great change has taken place. The Flurry Puppy Games has become an important event to promote pet sports and friendship. If you wish to donate or sponsor the game, please contact 01-723 6691.{img}
 
-- Description：An ad which doesn't appear in the ad section. It's written passionately, like telling a soft, smooth, cloud-like dream.
-- Action：Read
 
 <details>
 <summary>Client transcript</summary>
@@ -5641,8 +5170,6 @@ Those "bullets" and tranquilizers flying towards Melania suddenly explode.
 All people are drowned in the halo of the fireworks. The puppy dashes fearlessly towards Iverson's remote control.
 
 **Pickles:** Woof! \<Now!\>
-
-This is a parting gift after all the failures.Melania: Eroj Exchange!Melania: Sorry, but it's better to destroy the remote control that will place our security at risk as early as possible, okay?
 
 This is a parting gift after all the failures.
 
@@ -5822,8 +5349,6 @@ FALLEN OF "RAMIREZ"
 
 {p}A company born of imagination. It fits the description of anything but a traditional security company — creative, unique, novel or unconventional. But personally, I'd choose the words "fancy bubbles". {p}"Sticky balls" hidden above the ceiling, a tunnel dug inside the chimney that goes right into the cage, and a blanket can refract light to create optical illusion ... All these fancy tricks came from their astonishing imagination. People need some occasional surprises to brighten their dull life, just like blowing a huge colorful bubble in the park at the weekend. But every bubble will break eventually,won't they? London Review, Opinions, 1962, 29(12A):23-34.{img}
 
-- Description：A piece of news from an earlier time. It's broken, stained, giving off a bitter taste of obsolete sarcasm.
-- Action：Read
 
 <details>
 <summary>Client transcript</summary>
@@ -5849,8 +5374,6 @@ A company born of imagination. It fits the description of anything but a�
 
 Lesson Nine: Congratulations. You Are A Qualified Thief Now
 
-- Description：Every experienced thief who are also an opportunist should know to improvise.
-- Action：Solve it
 
 
 ---
@@ -6266,8 +5789,6 @@ On the other side of the hall, someone else is crying.
 
 Let's hope they get what they want.
 
-- Description：An investigation report which has been left aside due to its insufficient sample size. Although no one really cares about the result, its one-time participants are keen to giving their opinions on it.
-- Action：Fill in the blanks
 
 
 ---

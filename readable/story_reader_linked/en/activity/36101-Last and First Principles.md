@@ -463,8 +463,6 @@ Some pragmatists may laugh at you for taking this class. Why deal with a fantast
 
 I am a human, but you are an arcanist. I hope you understand my pursuit of a perfect concept, Ms. Zhang.
 
-- Description：During her university days, not even the Grand Unified Theory could predict that a graduate would become a politician.
-- Action：Reminisce
 
 
 ---
@@ -877,8 +875,6 @@ Read Before Opening
 
 Step 1: Swear you are more than six years old or at least no longer have a habit of putting toys in your mouth. Step 2: Place the toybox upright on a firm surface, with my handsome faces facing up. Step 3: Make sure no cats are around. Step 4: Make sure you have at least one friend to play with—multiple personalities count as friends too! Step 5: Chant this happy little incantation: "With arcanum comes endless imagination! The Musae Museum, right before your eyes!" Musae III reserves the right to final interpretation of this product.
 
-- Description：After all, you may not even know how to play with toys at all!
-- Action：Read
 
 ### Trail · Aftermath
 
@@ -892,8 +888,6 @@ Step 1: Swear you are more than six years old or at least no longer have a habit
 
 0001 Anonymous No.00000001 ▶ The "language disorder" badly damaged our servers. Much of our historical data was corrupted into garbled text and couldn't be recovered. There was nothing I could do except format the servers. 0002 Anonymous No.00000012 ▶ So this is what wanting to turn back time feels like ... I almost want to join Manus Vindictae. 0003 Anonymous No.00000038 ▶\>\>00000043 Whatever. A whole year's worth of my experimental data got turned into gibberish. How could things get any worse? 0004 Anonymous No.00000043 ▶ \>\>00000038 Becoming Enigma. 0005 Anonymous No.00000056 ▶\>\>00000067 What if we throw all the servers into the "Storm"? How likely are we to get a server from before the "language disorder"? 0006 Anonymous No.00000067 ▶ \>\>00000056 The data says the chance is so small that even an astronomer would ignore it. But if we made the "Storm" affect all of Laplace ... 0007 Anonymous No.00000073 ▶ Someone's evil index has surpassed Medicine Pocket's. I've contacted security. 0008 Anonymous No.00000081 ▶\>\>00000083 What a disaster. You know, one hexadecimal John Titor is already enough trouble. 0009 Anonymous No.00000083 ▶\>\>00000090 \>\>00000081 I heard she spoke almost only English the whole time during the "language disorder." 0010 Anonymous No.00000090 ▶\>\>00000113 \>\>00000083 What?! Sweet Madam Lucy! Did that really happen? 0011 Anonymous No.00000113 ▶\>\>00000125 \>\>00000090 Maybe. Maybe not. Rumors about her are always like that. 0012 Anonymous No.00000125 ▶ \>\>00000113 I'd like to join Manus Vindictae too. It's honestly worth considering. 0013 Anonymous No.00000128 ▶ That's it, folks. Laplace is done for.
 
-- Description：The internet is less reliable than you think.
-- Action：Reboot
 
 
 ---
@@ -2079,8 +2073,6 @@ Sequel
 
 After that, the "Storm" brought the world to the 1990s. Ms. Isolde readily accepted treatment. Ms. Kakania has been traveling the world, striving to change it. She quickly adapted to the new era and read many books. I also gave her plenty of recommendations. It is worth noting that after the Vienna incident, Ms. Semmelweis became a vampire. This came as a massive surprise to everyone, but it also fascinated me—like reaching the payoff for a story's foreshadowing. After making many sincere requests, I got permission to read the beginning of her story. It is a complex tale, one that leaves you pondering incessantly about how it ends. However, if I were to retell the whole story here, this book would end up three times thicker. I would like to thank my mentor, Madam Hofmann, for showing me how to keep things concise in situations like this. ... The world has traveled to 1920, but the war has not ended. It all feels like a continuation of that chaotic day. I heard Ms. Kakania was dejected the whole day, but she quickly returned to her mission from the Field Agent Administration. Even after crossing two eras, her tenacious spirit has not dampened at all. It seems that spirit has affected me, too: I find myself constantly thinking about what I can do. Thus, I have decided to write this book to organize my thoughts, in the hopes that I will find a conclusion before the final draft. ...
 
-- Description：Writing a book is sometimes akin to having a conversation with yourself.
-- Action：Turn to the First Page
 
 ### Trail · Researcher Onboarding Guide
 
@@ -2100,8 +2092,6 @@ The main difference between the Vigenère and Caesar ciphers is that in the Vige
 
 However, if you don't have much text, this can be difficult. In these situations, you should use other methods to guess the key. The personality, past, and writing habits of the person who made the code are important clues. Here is a list of people at Laplace who are very likely to play pranks with ciphers: Adler, Ulrich, X, Richard, Dawkins, Victor ... If you encounter a prank, consider these suspects first. If you can't crack the code, confront the suspects directly and ask them to stop the prank. If a suspect denies involvement, try to force them to decode it for you. It doesn't matter whether they're really the culprit or not.
 
-- Description：The more eccentrics there are, the more guides there are.
-- Action：Read
 
 
 ---
@@ -2888,8 +2878,6 @@ Afterward, due to busy schedules, development of the Pre-Storm Emergency Protoco
 
 After the tenth "Storm," new anomalies began appearing within the toybox. Researchers Ulrich and Adler disagreed on how to handle the toybox, each submitting separate research reports. These reports are currently being compared and evaluated; specific details are expected in future publications.
 
-- Description：This tech is not yet ready to help the world.
-- Action：Read
 
 
 ---
@@ -4135,8 +4123,6 @@ Missing Bird Poster
 
 **Name:** Ludwig **Race:** Arcanist **Characteristics:** His head resembles that of a raven. **Arcane Skill:** Ludwig can use language to influence people's thoughts. If you hear him use an imperative sentence directed at you, cover your ears immediately. Do not listen to him. You cannot realistically resist its effects unless you can think without using words. **Time of Disappearance:** Officially confirmed missing during personnel checks after the ninth "Storm." If you find Ludwig, or a raven that might be him, please contact the nearest chief-level personnel.
 
-- Description：Beware. The dangerous bird may still be at large.
-- Action：Read the Poster
 
 
 ---
@@ -4328,8 +4314,6 @@ the true nature of the divide. It was bloodline. It was reason. It was a flash o
 
 and an imaginary wall.
 
-- Description：If you tear down the walls you've built, you may grow.
-- Action：Listen to the Poem
 
 
 ---
@@ -5159,8 +5143,6 @@ Notice on Today's Party
 
 To everyone on the Space Monitor Project team: There's a celebration party this Saturday! Don't forget to wear your best clothes! —Hissabeth Medicine Pocket has invented a new Picrasma Candy dessert! It has a beautiful circular shape! Everyone is welcome to try it! —37 Due to a venue conflict, this week's "Nautika Meet-and-Greet" has been moved from Saturday 15:00 - 17:00 to Friday at the same time. —Ezra The study On Picrasma as a Coffee Substitute Safe for Human Consumption has been uploaded to the database. —X Ms. Windsong is taking me out to buy proper clothes for the party. The office will be empty today from 14:00 to 18:00. Please don't make a wasted trip. —Kiperina ... I didn't expect it to be so formal. Alright, I will be there on time. —Name Day My appointment as director of the LSCC will officially take effect this Saturday. —Adler Regarding the Space Monitor Project team's celebration party, just remember to come. The dress code is just another one of Sylvie's flights of fancy. —Pointer
 
-- Description：Remember, the best clothes for a party are the ones that fit in.
-- Action：Check the Notice
 
 
 ---

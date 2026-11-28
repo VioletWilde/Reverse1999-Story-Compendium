@@ -268,8 +268,6 @@ Spathodea: \*coughs\* ... Ughhh ...Spathodea: \*vomits\*Spathodea: M-Mom ...Spat
 
 You have completed the torch relay. The light of the flames illuminates the Laplace Reception Hall.
 
-- Description：This is a fire. It may signify a lie, or it may represent an incredible miracle.
-- Action：Pass the Torch
 
 ### Trail · The Nagger Weekend Special
 
@@ -285,8 +283,6 @@ The Nagger Weekend Special
 
 **Exclusive Exposé: Revival Squad and Bunny Girl Cause Commotion at City Hall! Civil Servants Suffer Mental Breakdown Due to Extreme Intimidation** The Uluru Games are on the verge of revival, igniting the flame of competition in arcanists everywhere. I'm sure many of you have heard the news already—perhaps you've even passed by the "Revival Squad" in the street, led by that precocious female student—and needless to say, everyone is very curious about them. They are, of course, a flame, a ninth-grade student, a fungus researcher, and a prominent public figure backed by the entire St. Pavlov Foundation, making for a motley crew fascinating enough to make anyone's heart burst with excitement. Just like the Bunyips, who have been seen lurking in the city's dark alleys recently, these denizens of society's dark underbelly have crawled out of the sewers and thrust themselves into the spotlight, and are fast captivating the entire nation's imagination and attention. **"Following closely behind a bunny girl, a mad scientist, giant brown mushrooms, and Pixel Emu in tow, does the Melbourne shuffle by the fireside."** Where could you possibly hope to see such a scene? In a science fiction movie? At the circus? In your dreams, perhaps? No—this all happened at Alice Springs City Hall. This scene of pure absurdity was also the first impression a bystander (who has asked to be referred to here as "Ms. Kate") had of the Revival Squad. **We... We have undertaken all manner of large events and functions, all on behalf of guests with etiquette and a sense of propriety. But they... they're just too much! They... Oh my goodness... My upbringing doesn't permit me to repeat the things they did, please understand."** The aforementioned chaos wrought by the Revival Squad completely destroyed "Ms. Kate's" day. When recounting this experience, she choked back tears multiple times and even broke out in incoherent sobs. Let us return to that glorious event and reflect on what our ancestors had to say about the "Uluru Games." Do we really need these games? Or did someone tell you that you need them to awaken the love for sportsmanship and fair competition lying dormant in your heart? What is the point of them? Selling tickets? Is this just another case of sensationalism gone mad? Go and take a look at the page you just tore out of your calendar this morning—as we stand at the end of the century, who truly wishes to exhume those long-dead and decadent traditions once again? Whose pockets are being lined with the money from these tickets that seem to be on sale everywhere you go? —**Yes, we have all the answers you've been looking for!** Reporter: Makower — Nagger Weekend Special Edition #136  **Australian Nagger — Your personal private eye!**
 
-- Description：Malicious rumors spread by local newspapers.
-- Action：Read
 
 ### Trail · Australian Journal of Biological Behavior
 
@@ -302,8 +298,6 @@ Australian Journal of Biological Behavior
 
 **A Study on the Effect of Changes in Water Temperature on the Bunyip's Lie Detection Mechanism** \[Experimental Samples\] 1. Twelve adult Bunyips, numbered YP-01 to YP-12, each approximately ten feet long, divided into two groups, A and B, with six in each group and with a balanced gender ratio. 2. Three human volunteers, numbered V1, V2, and V3. 3. Two large enclosed aquariums capable of accommodating a total of twelve Bunyips. 4. Three color picture cards placed in a sealed, unlit box depicting apples, bananas, and pears, respectively. \[Method\] 1. Place the 12 Bunyips from groups A and B into their corresponding aquariums while ensuring freshwater quality and oxygen quantity are consistent. Ensure that Group A's water temperature is set to 14 degrees centigrade and that Group B's is set to 32 degrees centigrade. 2. Direct V1 to enter the room and select one of the picture cards from the sealed box at random without showing it to the two groups of Bunyips. 3. V1 then describes the selected fruit on the picture card to the two groups of Bunyips. This description can be true or false. To avoid the personal traits of individual volunteers affecting the results, the voices of the volunteers must be altered and the volume unified. 4. Record the physiological responses of the two groups of Bunyips, including dorsal fin vibration frequency, heart rate changes, and body temperature. 5. Replace the volunteer and repeat steps 2-4. 6. Determine the authenticity of the content described by volunteers via hidden camera recordings. 7. Compare the differences in physiological responses to true and false descriptions between the two groups of Bunyips. \[Results\] 1. When volunteers provided authentic descriptions, both groups of Bunyips remained calm. 2. When volunteers provided false descriptions, dorsal fin vibration frequency and heart rate in both groups of Bunyips increased significantly. 3. Both groups of Bunyips could sensitively distinguish between the behavior of humans when lying and when telling the truth through physiological responses, and the higher the water temperature, the more sensitive the Bunyips became. \[Conclusion and Prospective Optimizations\] The individual YP-07 in Aquarium B showed significant physiological deviation in its responses. Through retrospective analysis, we found that regardless of whether the description provided by the volunteers was false or not, YP-07 was more likely to believe that the picture cards drawn depicted bananas. Whether this is because the individual concerned prefers bananas or because the high water temperature affected YP-07's judgment in a way that made YP-07 more willing to believe that the fruit on the card was of a tropical nature has yet to be determined. Follow-up research will expand and optimize the current experimental setup based on these two assumptions in order to study the correlation between them.
 
-- Description：A research report from a biology journal.
-- Action：Read
 
 ### Trail · Excerpt from Indigenous Sports
 
@@ -319,8 +313,6 @@ Excerpt from Indigenous Sports
 
 Running tracks, ball courts, and lawns—these places are where key memories in an individual's journey of growth are born. At every moment—every second throughout history—people have been competing, running, striking, and jumping somewhere in this land. It was through friendly competition and childish games, throwing stones and tree seeds, that children learned the basics of hunting. As they grew older, they would climb tree trunks to pick wild fruit and hone their nimble movements and footing. The youth walked upon redwood branches, placing stones on their knees, then sought to catch the most dazzling sparks from the fire. "Tree seeds, trunks, and branches. It is from the top of a eucalyptus tree that our lives can be seen." This is the old saying that accompanies the tradition of the arcanists. Arcanists journeyed through dense forests and rivers, hiking to reach the belly of the earth—Uluru.
 
-- Description：The front page of a local sports magazine.
-- Action：Read
 
 ### Trail · Uluru Games Compendium P7
 
@@ -336,8 +328,6 @@ Uluru Games Compendium P7
 
 **\*A photograph of Samantha Green in the 500-Meter Water Beast Steeplechase, 1921. Artificially colorized.\*** The world champion of the 500-meter water beast steeplechase defended her title for three consecutive events. The water beast yielded at her feet like a timid little kitten. But is it really possible for anyone to get along with water beasts this effortlessly? Does water beast blood in fact flow through her veins? All very good questions, but I'll tell you now, it's very likely. Note well, I'll be telling Mia the truth behind this secret next week. **\*A photograph of Sophie Rogers in the Incantation Duel, 1922. Well preserved.\*** Although there was some controversy over the refereeing in her retirement competition, it did not impede Sophie Rogers's smooth induction into the Hall of Fame. She pioneered the strategy of using levitation techniques and telekinesis incantations to launch defensive counterattacks, becoming an idol to the young generation at the time. **\*A photograph of Benjamin Stone in the Team Dressage Competition, 1918. Slightly damaged.\*** The Ocean Circus, led by Benjamin Stone, became the dark horse in this year's team dressage event. In the semi-finals, they toppled the dominant position of local frontrunners, the Kangaroo Mounted Rangers. Who would have thought they could reach such a seamless degree of understanding with their seahorses?
 
-- Description：A message left on a photo album's first page.
-- Action：Read
 
 ### Trail · List of Accompanying Sprays
 
@@ -353,8 +343,6 @@ List of Accompanying Sprays
 
 \[Formula\] Add a small amount of rough cocklebur extract and maidenhair fern powder to a chanterelle base. The soluble green pigment in the rough cocklebur's fruiting body gives the spray a bright green appearance, and its smell also helps to mask the slightly bitter taste of the maidenhair fern powder. \[Application\] Clinical use should pay attention to dosage control, as high doses may lead to excessive sedation, confusion, and sleep disorders such as drowsiness. The spray is also often used in specific spiritual rituals to achieve the purpose of deep meditation and relaxation. Being highly compatible, the addition of other nutrients can be considered according to the circumstances of usage and the patient's metabolic level to enrich its functional effects.  \[Formula\] The spores of umbrella jelly fungus are used as the main raw material. A suitable amount of lavender essence is also added to the formula. The fruiting body of umbrella jelly fungus contains fluorescein, while the aroma of lavender can soothe the patient's stress. \[Application\] The spray forms a layer of biofilm on the cotton filter, which generates a color reaction with the patient's exhalations. After chromatographic analysis, the patient's physical condition can be preliminarily identified, providing benchmark data for subsequent diagnosis, treatment, and observation. Commonly used in children, pregnant women, and patients with limited mobility due to trauma.  \[Usage Method\] Open the safety valve. Align with the source of the fire and press to spray. Foam will quickly form a mob of kangaroos to isolate the oxygen and extinguish the fire. \[Composition\] Each "foam kangaroo" is milky white in color and composed of small bubbles. Each charming kangaroo structure constitutes a complete bubble membrane. The "foam kangaroo" targets a fixed point at the flame's edge, thus making it suitable for indoor fires and complex building structures. \[Iterations\] The Kangaroo Foam No. 3 Fire Extinguisher is a standard public safety implement of the Australian branch of Laplace. The Kangaroo Foam No. 3 Fire Extinguisher demonstrates major strides in innovation with regard to the appearance of its "foam kangaroos" to avoid any risk of copyright infringement on the previous version. Compared to the previous versions 1 and 2, there is no significant difference in functionality.
 
-- Description：A list of spray products.
-- Action：Read
 
 ### Trail · Source of Rumors
 
@@ -366,8 +354,6 @@ List of Accompanying Sprays
 
 Forms, forms, and more forms. Faced with a barrage of red tape, the perfect human has come up with the perfect set of answers.
 
-- Description：A colossal and complex task of filling out documents.
-- Action：Fill Out
 
 ### Trail · Research Notes
 
@@ -383,8 +369,6 @@ Research Notes
 
 **Name:** White Milk Mushroom **Its introduction in the guidebook states that it is also known as the spicy milk mushroom. Is it really that spicy? I don't think I want to find out.** **Discovery:** This mushroom was discovered at the foot of the Dandenong Ranges, in the shade beside a stream. To prevent it from drying out, I placed it in a cloche and brought it home with me. **External Appearance:** The cap is semispherical in shape and has a diameter of approximately 3 centimeters. Its appearance is very unique, with soft gills and a cap and stem as white as snowflakes. Unfortunately, it only grows at the foot of the ranges, not on their sometimes snowy peaks. Beneath its cap lie many small spore sacs, which, when opened, reveal spores of a creamy hue. **Tissue Sample:** I cut off a small piece, and when observing it under a microscope, could see that the pileus was tender and the curved hyphae were thick and wavy or annular. The structure is very similar to other milk-caps, with differences mainly reflected in color and mycelial morphology. **Function:** 1. Edibility Being a wild mushroom, it can be eaten raw or used as a cooking ingredient. Even after being sliced, its milk-white juice retains its inherently spicy flavor, stimulating the appetite and thus making it suitable for use as a seasoning. **I'll take good care of it—whether for research or as an emergency food reserve, should the need arise.** 2. Medicinal Value White milk mushroom extract boasts anti-inflammatory and antioxidant pharmacological properties. Its polysaccharides and peptide components are used in anti-inflammatory drugs, and their inhibitory effects on tumor cells are also used in adjuvant therapy for malignant tumors. White milk mushrooms can enhance the body's immune system and enhance athletic performance. **\*Does this mean arcanists can use it as a nutritional supplement?** **I'll make a note of this—I need to gather more data.** 3. Environmental Indication The white milk mushroom is highly sensitive to its growing environment; thus, its growth status can provide a preliminary reflection of a forest's ecological health. This has caused it to become one of the ecological indicators for environmental assessment. **Humidity, nitrogen, and pH level are all indicators that correspond to the growth status of white milk mushrooms.** **\*This was an oversight on my part—I only recorded the growth location but forgot to test the environmental indicators. Treat this as a lesson and be more careful in the future.**
 
-- Description：A page of research notes on milk white mushrooms.
-- Action：Read
 
 ### Trail · Dusty Tickets
 
@@ -400,8 +384,6 @@ Dusty Tickets
 
 \*A crumpled ticket stub, covered in creases and water marks. The handwriting on the front of it has become blurred.\* Australian █████ Football Championship — Preliminaries ████ Sailors VS Hobart Lakers Match Time: Saturday 3rd █████ 19██ - 19:30. Ticket Type: B Seat ███216 Ticket Price: $19.99 Points for Attention: 1. Please keep your ticket safe and present it upon entry. 2. Dangerous and flammable materials are strictly prohibited from the venue. 3. Minors must be accompanied by ██████. 4. Before and after the competition, ██████████ and competition staff will guide spectators in entering and exiting the venue in an orderly manner. ███kets are available in limited quantities. Fortunately, ██████ \*The ticket stub was crudely torn off here.\*
 
-- Description：A ticket for an Australian rules football game.
-- Action：Read
 
 ### Trail · "A Chance Encounter"
 
@@ -417,8 +399,6 @@ As for what was said, there is no way to know.
 
 Plappy: \*raises its head\* Plappy: —Hoo-goo! Bunyip: \*raises its forelimbs and slowly approaches\* Bunyip: Hisss— Plappy: \*takes a step back, then stops and observes\* Plappy: Goo-goo! Bunyip: \*rolls sideways\* Bunyip: Groo— Groo-hoo— Plappy: \*flutters its wings\* Bunyip: \*lifts its front paws\* Bunyip: Woo-ha—! Plappy: \*tilts its head and touches the Bunyip's paw\* Plappy: —Goo. Bunyip: \*circles Plappy, shaking its head rapidly\* Bunyip: Hisss— Gaa.
 
-- Description：A chance encounter between Plappy and a Bunyip in the suitcase.
-- Action：Read
 
 ### Trail · A Plea of Innocence
 
@@ -464,8 +444,6 @@ It all began with a conspiracy theory article in a newspaper.
 
 END OF DIALOGUE
 
-- Description：A plea of innocence from extraterrestrial beings.
-- Action：Begin Conversation
 
 ### Trail · Pretrial Mediation
 
@@ -477,8 +455,6 @@ END OF DIALOGUE
 
 Tears, cries of pain, and hobbled steps. A letter of apology. A pair of broken, thin-framed glasses. Makower has paid the price.
 
-- Description：A letter of apology.
-- Action：Necessary Punishment
 
 ### Trail · An Era Remembered
 
@@ -534,8 +510,6 @@ It tells of a little chick with the determination to do anything, infinite possi
 
 END OF DIALOGUE
 
-- Description：A memory about a grandmother.
-- Action：Reminisce
 
 
 ---
@@ -685,8 +659,6 @@ Murmuring something, Desert Flannel unwillingly follows the team.
 
 You have completed the torch relay. The light of the flames illuminates the Laplace Surgery.
 
-- Description：People in silver uniforms spray kangaroo-like foam, the bane of all flames. Fortunately, this flame is not alone, and her companions protect her completely.
-- Action：Pass the Torch
 
 ### Trail · Lakeside Garden
 
@@ -698,8 +670,6 @@ You have completed the torch relay. The light of the flames illuminates the Lapl
 
 You have completed the torch relay. The light of the flames illuminates the Lakeside Garden.
 
-- Description：For the first time, they are so close—so close that each can touch the other's flames, and each can be illuminated.
-- Action：Pass the Torch
 
 ### Trail · The Torch Guardians I
 
@@ -711,8 +681,6 @@ You have completed the torch relay. The light of the flames illuminates the Lake
 
 The scorching flames burn it down.
 
-- Description：The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-- Action：Disperse them
 
 
 ---
@@ -1116,8 +1084,6 @@ Far faster than expected, the flame spreads over her, and her cry for help fades
 
 You have completed the torch relay. The light of the flames illuminates the Newsstand.
 
-- Description：The commotion caused by the flames that night was reported as a bizarre and comical tabloid story. From reflections by the campfire to the anecdotes of old newspapers, over a thousand years have passed, and the public remains eager to derive pleasure from fiction.
-- Action：Pass the Torch
 
 
 ---
@@ -1399,8 +1365,6 @@ A hideous smile forms on that floating face. Makower then disappears in the shad
 
 You have completed the torch relay. The light of the flames illuminates the Uluru Desert.
 
-- Description：Her guidance came from that which she had awakened long ago, and her protection came from that which she had once saved.
-- Action：Pass the Torch
 
 ### Trail · The Torch Guardians II
 
@@ -1412,8 +1376,6 @@ You have completed the torch relay. The light of the flames illuminates the Ulur
 
 The scorching flames burn it down.
 
-- Description：The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-- Action：Disperse them
 
 
 ---
@@ -1823,8 +1785,6 @@ On the choppy water, several buoy balls are connected together. They are floatin
 
 The scorching flames burn it down.
 
-- Description：The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-- Action：Disperse them
 
 ### Trail · "Out of the Darkness and Into the Light"
 
@@ -1868,8 +1828,6 @@ The fight against the fake ticket scandal begins with a request to gather inform
 
 END OF DIALOGUE
 
-- Description：The fight against the fake ticket scandal begins with a request to gather information.
-- Action：Try to Remember
 
 
 ---
@@ -2606,8 +2564,6 @@ In an instant, she hurries her pace and jumps into the fire.
 
 You have completed the torch relay. The light of the flames illuminates the Path to the Spring's Source.
 
-- Description：On the hidden path leading to the spring's mouth, she searched for flames, the past, and herself.
-- Action：Pass the Torch
 
 ### Trail · Research Springboard
 
@@ -2657,8 +2613,6 @@ He encourages a young researcher to continue pursuing the tale of the reincarnat
 
 END OF DIALOGUE
 
-- Description：A teacher shows his student the way.
-- Action：Begin Conversation
 
 
 ---
@@ -2920,8 +2874,6 @@ Desert Flannel grabs Spathodea's wrist and lifts it up like a referee, calling o
 
 You have completed the torch relay. The light of the flames illuminates the Mural.
 
-- Description：The paint's hues have faded, through clear lines remain engraved on the hard rock. Soon after, they found traces of the spring's mouth.
-- Action：Pass the Torch
 
 ### Trail · Sports Field Entrance
 
@@ -2933,8 +2885,6 @@ You have completed the torch relay. The light of the flames illuminates the Mura
 
 You have completed the torch relay. The light of the flames illuminates the Sports Field Entrance.
 
-- Description：Stepping through the magnificent gate, we now embark on a new journey.
-- Action：Pass the Torch
 
 ### Trail · Uluru Stadium
 
@@ -2946,8 +2896,6 @@ You have completed the torch relay. The light of the flames illuminates the Spor
 
 You have completed the torch relay. The light of the flames illuminates Uluru Stadium.
 
-- Description：They run excitedly, like guests drinking capriciously at a banquet, holding up their glasses to celebrate, but ending up hungover.
-- Action：Pass the Torch
 
 ### Trail · Vertin's Suitcase
 
@@ -2959,8 +2907,6 @@ You have completed the torch relay. The light of the flames illuminates Uluru St
 
 You have completed the torch relay. The light of the flames illuminates Vertin's Suitcase.
 
-- Description：You must leave the way you came. Familiarize yourself with the world after a thousand years, and understand how to master the flames.
-- Action：Pass the Torch
 
 ### Trail · The Torch Guardians IV
 
@@ -2972,8 +2918,6 @@ You have completed the torch relay. The light of the flames illuminates Vertin's
 
 The scorching flames burn it down.
 
-- Description：The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-- Action：Disperse them
 
 ### Trail · The Torch Guardians V
 
@@ -2985,8 +2929,6 @@ The scorching flames burn it down.
 
 The scorching flames burn it down.
 
-- Description：The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-- Action：Disperse them
 
 ### Trail · Event Program
 
@@ -3002,8 +2944,6 @@ List of Uluru Games Sporting Events (Provisional Version)
 
 **Arcanum-Themed Events** **\[Track and Field\]**  **\<400-Meter Dash\>** The use of arcane skills, such as vaporization, blink, and flying, is permitted. Potions and special vehicles are strictly prohibited. Requires implementable drug testing procedures to be designed. For example, random sampling before the start of the competition and standardized drug testing procedures for the top six athletes in each event after the competition.  The world record for this event was set by Carlos Castillo, the Cuban flying mouse, in 1924. By the time of his retirement, he was still unable to break his own record. **Mr. Pavia once surpassed this height in training—I witnessed it with my own eyes! I'm really looking forward to seeing him perform out on the field.** **\<10,000-Meter Vehicle Race\>** There are still uncertainties regarding the distinctions between certain vehicle drivers and the vehicles themselves, such as participants racing in vehicles like UFOs, wooden horses, and artificial satellites. The individual event rules will provide more detailed information on this situation to avoid any potential complications regarding the referee's decision-making duties. **\[Combat Events\]**  The competition venue needs to be set up next to a medical station. Guardrails and warning lines need to be placed around the arena to prevent excited spectators from entering the field of competition and disrupting the competition schedule. **\<500-Meter Water Beast Steeplechase\>** Competitors must tame strange water beasts, mount them, and race them. Druids will be allowed to participate. Algae needs to be planted at the water area's endpoint to maintain the physical condition and hemoglobin index of the beasts.
 
-- Description：A list of sporting events for the Uluru Games.
-- Action：Read
 
 ### Trail · The Sacred Flame of Legend
 
@@ -3041,8 +2981,6 @@ Among the many stories my grandmother shared with me, I'll never forget the one 
 
 END OF DIALOGUE
 
-- Description：Among the many stories my grandmother shared with me, I'll never forget the one she told me about fire.
-- Action：Listen
 
 
 ---
@@ -3218,8 +3156,6 @@ COMBAT:
 
 You have completed the torch relay. The light of the flames illuminate a corner of the city.
 
-- Description：What took place on this street corner became the defining moment of the entire story. Sparks flew as the fires of youth met on this spot.
-- Action：Pass the Torch
 
 ### Trail · Uluru Spring Source
 
@@ -3231,8 +3167,6 @@ You have completed the torch relay. The light of the flames illuminate a corner 
 
 You have completed the torch relay. The light of the flames illuminates the Uluru Spring Source.
 
-- Description：I know, I know—friction is inevitable. Conflict is the seed that sparks all growth.
-- Action：Pass the Torch
 
 ### Trail · The Torch Guardians VI
 
@@ -3244,8 +3178,6 @@ You have completed the torch relay. The light of the flames illuminates the Ulur
 
 The scorching flames burn it down.
 
-- Description：The torch relay comes to a halt here. The flickering flames have enraged the filth beneath the riverbed.
-- Action：Disperse them
 
 ### Trail · End of Rumors
 
@@ -3257,8 +3189,6 @@ The scorching flames burn it down.
 
 You ignite hope and take a step forward.
 
-- Description：The torch relay comes to a halt here. The spark has been ignited, and now a mouth spewing deceitful words opens, casting a veil over the eyes of all.
-- Action：Disperse them
 
 ### Trail · A Box of Fake Tickets
 
@@ -3274,8 +3204,6 @@ A Box of Fake Tickets
 
 **Counterfeit Ticket Seizure Information** **January 17th, 1991** Eucalyptus Brotherhood: 65 Tickets Seized **January 19th, 1991** Slicky: 80 Tickets Seized **Slicky was also remarkably unprofessional in this instance. Did they really think that printing "Employee Ticket" directly on the front of their counterfeits would make people think they were actually real? Moreover, the workmanship is of laughable quality.** **January 21st, 1991** Little Scissors Jerry: 240 Tickets Seized **An increasing number of fake tickets are floating around on the market, and all I can do is try my best to confiscate as many of them as I can to prevent them from making their way into the hands of unsuspecting spectators.** **The gangs have already put a target on my back. I need to make sure I draw less attention to myself next time.**
 
-- Description：A divide still exists among the street gang on the issue of selling fake tickets.
-- Action：Check
 
 
 ---
@@ -3649,8 +3577,6 @@ A Work Log
 
 When they gave me this civil service job, I never thought I'd end up working with an emu one day. Or perhaps I should say that when I was drowning in those irrigation project application forms I couldn't finish last month (there are always so many applications I can't seem to finish), I never thought an emu formed of pixels would be of any use to me... But... But "Plappy" really is something else. I'm not even sure if that's its name; I just heard that girl with the ponytail call it that. It's quiet, strong, and has a strangely trustworthy air about it, so when I noticed it flipping through unapproved forms and trying to help with them, I didn't think to stop it. To be honest, and I'm not sure if I'm just imagining this, but I think I can sense an aura of guilt radiating from Plappy. It's like the kind of guilt a mother clad in a polka dot skirt feels after her child's soccer ball smashes through a glass window—the sense of guilt felt by a grandmother wearing a woolen beret after her grandchildren ride their bicycles over a beautiful flowerbed. Anyway, I can always count on it to bring me a basket of golden apples, appearing at my door, then bowing down—all the way to the ground. I know this all seems a little over-the-top, but whether it's true or my imagination, I have managed to calm down the "Revival Squad" formed by those rambunctious children. Oh, that's right! I mustn't forget to return Kate's backpack. She left it at my house when she came to the housewarming party earlier. She took her sick leave immediately after and won't be at the office for two weeks straight. I saw her today—she looked good and seemed to be preparing for an interview... It's strange... Who would want to interview a civil servant? Maybe I should ask her the next time I see her.
 
-- Description：A work log for municipal employees.
-- Action：Read
 
 
 ---
@@ -4918,8 +4844,6 @@ Yes, the fact! The fact that is 100% true! You can't deny it ...
 
 **Spathodea:** I did say that. I take responsibility for every word heard in that photo!
 
-Spathodea: But people! Listen to me!
-
 **Spathodea:** But people! Listen to me!
 
 Spathodea: Those words are wrong, so am I. I am a fool, an idiot, the stinkiest rotten egg in the kitchen!Spathodea: I've seen countless humans on my way here, from Melbourne to Alice Springs, and then Uluru.Spathodea: I've met the construction team from Laplace, the receptionist at the City Hall, the considerate doctors, and ... and my first human friend, my good friend!Spathodea: In the past, I saw humans as "the other kind." I thought they were unreasonable, cruel people who deceive others with bureaucratic jargon …Spathodea: But now, when I think of humans, I'm reminded of …Spathodea: Of ...Spathodea: Of my friend, my gentle, brave, smart, selfless, clumsy human friend.
@@ -5061,8 +4985,6 @@ The flame is put out by her tears. The little Priestess stops running subconscio
 She falls forward to the ground.
 
 **Audience:** Flame! The Uluru Flame! It's ...!
-
-Audience: It's-It's the kid of Laplace!Ezra: ...!
 
 **Audience:** It's-It's the kid of Laplace!
 
@@ -5240,8 +5162,6 @@ Spathodea holds the weak Ulu gently while holding the boy in her arms.
 
 You have completed the torch relay. The light of the flames illuminates the Uluru Games Opening.
 
-- Description：Let's make this a day to remember. Sing for me, and sing for yourself, too.
-- Action：Pass the Torch
 
 ### Trail · Face Yourself
 
@@ -5253,8 +5173,6 @@ You have completed the torch relay. The light of the flames illuminates the Ulur
 
 You control the scorching flames. The finish line is within reach.
 
-- Description：The torch relay comes to a halt here. The flame is on the verge of losing control, but your hands are not as weak as they once were.
-- Action：Grip it firmly
 
 
 ---

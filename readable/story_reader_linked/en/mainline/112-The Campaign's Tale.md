@@ -589,8 +589,6 @@ Zeno Arms Academy Recording Restoration Report
 
 \[File Number: ΔZENO-201124\] Submitting Organization: The St. Pavlov Foundation (via the Timekeeper) Classification Level: IV (Non-Classified) File Status: Partial irreversible data loss Restoration Date: November 24, 1920 1. Technology Notes on Restoration The "Zeno Audio Restoration Technique" is based on hypotheses derived from the arcane theory of resonance particles. According to documented research, sound waves converted through the communicator leave microscopic arcane vibrations in surrounding media during transmission. When environmental materials (metal oxide layers, residual electric fields, or air density gradients) are reactivated, these disturbances can be reconstructed into audible signals through phase differences at extremely low frequencies. When portions of the signal exhibit semantic drift or narrative gaps due to disruption, the restored text represents a reconstructed version obtained through multiple iterative retranslations. Cross-referencing confirms the restoration achieves 99.97% accuracy compared to the original recording. 2. Restoration Report No. 00-1-1 "I've been on a mission on the Eastern Front, under the direct orders of Admiral Somme." No. 00-1-2 "Guess what I found, капитан?" No. 00-1-3 "A Zeno outpost without jurisdiction." No. 00-2-1 "As far as I'm aware, Zeno hasn't deployed any forces to this location. From the looks of it, I think it's the Igor rebels." No. 00-2-2 "Details remain unclear. I'll determine the next steps after consulting with the commander." No. 00-2-3 "If you're interested in Igor's movements, call me back as soon as you can." 3. Additional Notes Sound wave comparison results indicate a 96.34% match to Lieutenant Lilya's vocal sample in the Zeno Database, confirming the speaker's identity with high confidence. Analysis suggests the primary communicator experienced two sudden interferences. The nature of the interference remains undetermined.
 
-- Description：We've heard this old friend's voice before.
-- Action：Read the Report
 
 ### Trail · The Profit Frontline
 
@@ -604,8 +602,6 @@ A Conversation Among the Big Shots
 
 Inside a Foundation office, the sound of a ringing communicator interrupts a briefing. Irinei glances at the device—a direct line to Zeno headquarters. He nods, signaling the committee member to wrap up mid-report. Once the door closes, he picks up. "Somme here. According to Ivan's report, the cavalry has been harassed by bandits for weeks." "Oh? Are these bandits connected to the Manus?" "No evidence of that. More like a mix of local warlords and scattered gangs. Though a couple of the rapidly growing factions seem suspicious." "Have your people maintain surveillance. Contact the Foundation the moment anything develops—we'll send reinforcements." Irinei is rarely this cooperative, but Somme knows he can't stake the entire steppe's fate on so-called "reinforcements." "No need. Ivan has enough manpower." "Assuming the Cavalry Corps can be fully trusted—I looked into Commander Ivan. He was a trusted subordinate to that former admiral. Plus, I heard they're both from the Don River region ..." "I will handle him." Somme firmly cuts off his attempt at political maneuvering. "I hope you understand that the Don River region is a critical component of the Foundation's strategy. To ensure downstream stability and the safety of our new recruits, supporting the Cavalry Corps is our top priority." The leader of the Hawks leaves no room for argument. "Save it. Since 1999, I've dealt with more politicians like you than I've smoked cigarettes. The Don is just a crack in the dam. What really matters is the line of battle along the Black Sea and the Baltic Sea, right?" "Stay in touch, Admiral." After the call ends, Irinei straightens in his chair, drumming his fingers against the desk. He begins to ponder: could this small "crack" pose a risk of total collapse?
 
-- Description：Slide political interests between lines of pleasantries, like an eel slipping through kelp—that's how the big shots always talk.
-- Action：Listen In
 
 
 ---
@@ -1180,8 +1176,6 @@ A Poem Written on a Riverside Tree Trunk
 
 Weeping Wheat Glittering golden plains A gentle breeze passes, yet no grain dances The earth is like a misunderstood mother Again and again Reaching out her withered hands I see sunlight fall on the fields The wheat stands quiet and clean, almost cruel O weeping wheat! May you bear silent fruit, enough to sustain. Even if only enough to fill a child's smile —Anonymous poet, wandering along the Don
 
-- Description：Tragedy births poetry, yet he wishes there were no tragedies left to write.
-- Action：Read the Poem
 
 
 ---
@@ -1962,8 +1956,6 @@ A Tea-Scented Letter
 
 Dear Vertin, I hope this letter finds you well. I'm sorry I won't able to see you off—things have piled up due to factional disputes within the Foundation. We live in such chaos that even an organization as self-professedly rational as the Foundation cannot avoid being swept into the political whirlpool. I wish you safe travels to the Eastern Front. I've enclosed a copy of Commander Ivan Ivanovich Burakov's file. You're about to enter the jurisdiction of the Zeno Cavalry Corps. Ivan and Igor have known each other since childhood. Both come from an old village downstream of the Don, yet fate drove them apart along the same muddy roads. They once commanded two separate units within Zeno, nominally independent but with an unspoken understanding that lingered between them. Commander Ivan is difficult to gauge. According to the records, he's plainspoken and awkward in social settings, which has earned him Admiral Somme's high praise as a "loyal and trustworthy" man. However, I must caution you: don't place complete trust in him. Hearts rust in wartime, especially those of soldiers who've endured betrayal and hard choices. Moreover, the bond between Ivan and Igor may pose hidden risks. In times like these, you'll have to weigh trust and suspicion for yourself. Winter is coming to the Don. The damp cold settles heavily over riverside cities this time of year. Along with the file, I've included several packets of ginger tea. Steep it in hot water and drink—it helps ward off the chill. Stay in touch if you can. Safe travels. Zhang Zhizhi November 25, 1920
 
-- Description：Whether friend or foe, it never hurts to understand them first.
-- Action：Read the Letter
 
 
 ---
@@ -3299,8 +3291,6 @@ SPDM Library Card
 
 Fiddler Crab Shapeshifting for Dummies —Call Number: F-4312-A —Category: Shapeshifting - Marine Critter Biology Branch **Borrowing Record** Sonetto: Returned after 2 hours and 36 minutes. Hans Levis: Returned after one week. ... Cyril Aman: Returned the following day at the same time (abandoned practice, claiming to hear the sound of tsunamis in their nightmares). Lark von Stuhr: Returned after 5 days and 6 hours. Merel: Returned after 2 days and 3 hours. \*Librarian's Note: Aside from Sonetto and Merel, all returns showed claw marks along the spine and traces of salt residue. Going forward, this book may only be borrowed under teacher supervision.
 
-- Description：I sincerely hope returning time doesn't become some new form of competition.
-- Action：Check records
 
 
 ---
@@ -3957,8 +3947,6 @@ Ms. Galina's Wartime Recipes
 
 **Rye Bread** Aged flour, wheat husks, potato skins, a little salt. Dry and grind the potato skins, then mix them with the wheat husks into the aged flour. Add warm water and knead it into a dough, then bake beside the stove ashes. The Golden Famine leaves us short on oil and grain, so there's no oil for the bread. The baked loaf comes out hard and bitter, but at least it fills the stomach. Ivan loves smearing chilli paste on top—he says he's eaten it this way since childhood! I've made a note to prepare extra for him next time. **Smoked Fish** River carp, elm twigs, one old newspaper. Clean the fish, salt it, then smoke it with elm twigs and newspaper until the skin turns black and dry. The smell carries three houses down, but don't be greedy. Save the fish oil—freeze it for soup. **Grass Roots Soup** Ingredients: Wild grass roots, nettles, half a potato, a pinch of chili. Instructions: Boil the roots until soft, add chili, stove ash, and salted grass seeds to mimic borscht. The recipe came from a young man I met by the riverside wheat field. He claimed to be a nameless wandering poet. \*Missing Ingredients: Sour cream, carrots, and onions. Can't make proper borscht. Grass roots have been dug out nearly everywhere. I can only forage along the ditches now. **Jam from Neighbor Valia** Note: They hid two jars of real apple jam before the famine hit, and gave me one ... I've tucked it on the top shelf of the cupboard, wrapped in old cloth so the rats won't smell it. Her husband lost an entire wheat field's harvest ... May the Mother Earth bless this kind couple. \*I've told Ivan to stop bringing food home. The people at the front have it harder than we do. Besides, in the face of disaster, soldiers and civilians must be treated equally! Even with his position, I won't allow our family any special treatment.
 
-- Description：Mothers have a gift for turning imagination and a little miracle into a fine meal.
-- Action：Grace Before Meals
 
 
 ---
@@ -4507,8 +4495,6 @@ Sentinel Unit Internal Notice No. 47
 
 To all Sentinel Unit members: Intelligence confirmed that former chief of staff Captain Krutov deserted during the return voyage from the Antarctic Operation, taking critical documents and military equipment, including classified files and multiple communication devices. His whereabouts remain unknown. It is highly likely that he has defected to operate as an independent force or has entered into collaboration with Manus Vindictae. Admiral Igor has designated him as a top-priority threat. Any personnel who encounter Krutov during field missions or transit must report so immediately. Do not pursue or take unauthorized action. Additionally, according to the latest announcement from headquarters, Admiral Igor will personally lead elite forces to the Bereggrad region in the lower Don after completion of the Sanctuary's infrastructure. This operation involves coordination between the front line and the intelligence department. To prevent communication leaks, subsequent personnel assignments will be communicated under separate notice. Finally, in light of ongoing organizational restructuring, the Sentinel Unit will be renamed the "Gryphon Legion." We welcome alternative naming proposals. If you wish to submit one, please deliver your suggestion to Lieutenant Moldir within seven days. Note: Names must reflect our military ethos. Offensive, religious, or politically suggestive terms are prohibited. Issued by: Lieutenant Moldir Date: ██ ██
 
-- Description：The crumpled drafts in the bin prove how much thought she put into this.
-- Action：Claim Notice
 
 
 ---
@@ -4643,8 +4629,6 @@ The commander pauses to consider.
 
 **Commander Ivan:** We meet on the open plain, within striking distance of both sides.
 
-In that space between armies, the air seems to tighten under the antagonistic stares of the opposing sides.Tens of thousands of eyes are fixed on the few figures at the center of the valley. They walk toward each other across the open grassland.Vertin: ...
-
 In that space between armies, the air seems to tighten under the antagonistic stares of the opposing sides.
 
 Tens of thousands of eyes are fixed on the few figures at the center of the valley. They walk toward each other across the open grassland.
@@ -4776,8 +4760,6 @@ The admiral frankly admits the trouble his army is facing.
 **Commander Ivan:** ...
 
 Igor's words are like a shashka sunk into the mud, waiting for the other to pull it free.
-
-Across the plain, tens of thousands of soldiers still face one another in tense silence.Commander Ivan: Are you sure you know what you're doing?Igor: I'm sure. And I hope I have proven my sincerity.
 
 Across the plain, tens of thousands of soldiers still face one another in tense silence.
 
@@ -5083,8 +5065,6 @@ A Note From Sonetto
 
 Timekeeper, Regarding the slips of paper covered in unknown symbols that were tucked into Mr. Creius's letter—I spent some time analyzing them and eventually found relevant information in an old tome in the library. They follow an ancient and rarely used encryption method. I deciphered them and extracted several key fragments from the mass of meaningless character strings. I've transcribed them below: █ █∮Ω≈ Bereggrad Ψ∫λ∂∇█ █ █ █∮Ω≈ List Ψ∫λ Amber Room ∂∇█ █ █ █∮Ω≈ The Foundation Ψ∫λ Related ∂∇█ █ █ █∮Ω≈ Secret Ψ∫λ Experiment ∂∇█ █ █ █∮Ω≈ Urd Ψ∫λ∂∇█ █
 
-- Description：Words are like stones beneath the river, catching the sunlight and guiding the current.
-- Action：Decrypt
 
 
 ---
@@ -6336,8 +6316,6 @@ There is an almost pleading note in his voice.
 
 END OF DIALOGUE
 
-- Description：Winter is coming, yet under the Golden Famine, the long river runs pale and weak.
-- Action：Listen Quietly
 
 
 ---
@@ -6549,8 +6527,6 @@ A cloth-covered rider bounces limply on the horse's back. He carries a blood-sme
 The messenger does not grip the reins. He jostles and sways, like an ominous banner battered too strongly by the wind. But the black horse only gallops faster, pummeling straight for the gate.
 
 **Marsha:** That's ...
-
-By the time the messenger arrives, the cavalry have already formed ranks, guns trained on him.But the messenger reads no declaration of war, nor does he throw the bloodstained javelin.He only slides from the horse and crashes to the ground, his shattered form laid bare. The horse rears and lets out a mournful whinny.
 
 By the time the messenger arrives, the cavalry have already formed ranks, guns trained on him.
 
@@ -6924,8 +6900,6 @@ The Lost Diary of a Captive
 
 \[An old diary with black, viscous stains smeared across its cover. The corners are torn and dog-eared. It seems the owner abandoned it recently.\] **November 11** Every night since my capture, I've heard terrifying, fragmented whispers coming from outside ... and screams—not just one or two people, but many, shrieking and wailing in pain. I can also smell something burning and rotting. Damn it, are those Manus dogs burning corpses? Or performing some twisted ritual? ... **November XX** I've lost track of the date. Time and life hold no meaning in this godforsaken place. I once saved lives as a doctor ... now, they've used my medical instruments to brutally murder Boyaryshkin, Artyom, and Malyekhov right in front of me. I don't care anymore. If they're going to come for me eventually, they might as well hurry and end it now. ... **November XX** I don't know how to write this. I actually survived that nightmare—which feels like a curse in itself. We were herded onto an empty clearing where a koldunya in black robes was chanting a song. I could barely make out the words: "... Inculcator of Arcanum, let me manifest decay anew." She pulled away the shroud covering the corpse. As the black mist dissipated, a broken body lay before us. She handed me my old scalpel: "Dissect it." I looked down at the remains exposed to the air. Male, early twenties. Mottled, wrinkled skin. Ribs collapsed and fractured. I didn't know what I was doing—fear made me forget everything I once believed. Standing beside her, I raised the blade and started cutting. The scraping of bone was monotonous, but I freed that soul from its mortal prison. When I lowered the knife, I realized we were surrounded by a black fog reeking of death. All the other captives had died, their faces twisted in agony. The koldunya seized my filthy hand and laughed: "Thank you, Charon! You helped me unravel death and command it, master Death, and aid its power!" ... **November XX** Boyaryshkin, Artyom, Malyekhov—they came for me! I didn't mean to! I'm sorry, I'm sorry, I'm sorry ... \[The remaining text is obscured by black, viscous stains.\]
 
-- Description：This man has turned stiff, but the tears and stains on his notebook are fresh. Opening it sends a chill down your spine.
-- Action：Glance
 
 
 ---
@@ -7329,6 +7303,8 @@ Outside, arguments between the cavalrymen and citizens rise and fall along the s
 > Mounting their horses and clenching the reins, young men bid farewell and head to war—a story as old as time.
 
 <!-- reader-body:start -->
+> **Title card：** Farewell Letter
+
 **Sternova:** So, you're saying you devised this plan with Igor?
 
 Sternova stands opposite the commander, the map table between them. Agitated, she shifts the markers representing the military forces back and forth.
@@ -7558,244 +7534,7 @@ The commander remains standing, as if waiting for something to arrive. Soon, the
 **Commander Ivan:** That will be my only answer to the tribunal.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Mounting their horses and clenching the reins, young men bid farewell and head to war—a story as old as time.
-
-> **Title card：** Farewell Letter
-
-**Sternova**：So, you're saying you devised this plan with Igor?
-
-Sternova stands opposite the commander, the map table between them. Agitated, she shifts the markers representing the military forces back and forth.
-
-The commander glances up at her. Her words are minimal, but her stance is made clear.
-
-**Commander Ivan**：Put the gryphon down, Sabina. We're all in the same boat now.
-
-Sternova raises a hand and sweeps the wooden gryphon to the edge of the table.
-
-**Sternova**：I'm not questioning your orders, but I will state for the record that leaving our back wide open to Igor is too risky.
-
-**Sternova**：After dark, the cavalry will advance upstream with minimal gear to launch a surprise attack, cutting off Krutov's supply lines.
-
-**Sternova**：It makes sense. Our riders know the terrain like the back of their hand; this will allow us to capitalize on our superior mobility.
-
-**Sternova**：But we would be leaving the right bank, the forest, the sich, and even Bereggrad exposed.
-
-**Sternova**：We're throwing ourselves into the old lion's mouth and praying he won't bite!
-
-**Commander Ivan**：You're right. We'd be exposed. But a coalition without trust wins nothing.
-
-**Commander Ivan**：You've seen Krutov and his army. Neither the Cavalry Corps nor the militia can meet his air power or artillery.
-
-**Commander Ivan**：Bereggrad would be rubble if not for Igor's anti-air guns.
-
-**Sternova**：...
-
-Her thoughts drift to the poorhouse, its dome half-destroyed in a bomb dropped during their withdrawal from Bereggrad.
-
-**Commander Ivan**：The Gryphon Legion is well-equipped, but they're thin on numbers and supplies. They will hold cities and forests best.
-
-**Commander Ivan**：Let them guard the city. Our riders will flank the enemy by night. Both Igor and I agree on this.
-
-**Sternova**：But ...
-
-She knows the commander has reasons, yet the smoke of South America still hangs heavy in her memory, casting an inescapable shadow over this coalition.
-
-**Commander Ivan**：I hear your concerns, Sabina.
-
-He picks up the wooden gryphon and sets it down on the sich.
-
-**Commander Ivan**：When the operation begins, Igor will come to our sich. All his communication will be monitored.
-
-**Sternova**：How? I doubt our operators can tap his lines so effectively.
-
-**Commander Ivan**：There will be no such need. On our return from the city, I asked Igor to use only our lines for the operation.
-
-**Commander Ivan**：He agreed.
-
-**Sternova**：...
-
-Sternova nods hesitantly.
-
-**Sternova**：I see. Still, I'll be keeping an eye on him.
-
-**Igor**：Your scrutiny is welcome, Colonel Sternova.
-
-The rebel leader enters the tent, his presence tightening the already frayed nerves of the chief of staff.
-
-Under Sternova's piercing gaze, he places a document on the table.
-
-**Sternova**：What's this?
-
-**Igor**：All the information I have on Krutov: his background, academic record, military experience, psychological profile, and a registered list of his arcane skills.
-
-The information comes like rain upon a desert. Such clear proof of good faith silences Sternova's worries. She silently agrees to allow the collaboration to continue.
-
-**Commander Ivan**：Thank you. We know little of Krutov. I'll be sure to read this before we begin.
-
-Under the high noon sun, blurred shadows fall across the canvas wall of the tent.
-
-**Sternova**：Hm? Who's that gathering outside?
-
-**Igor**：I saw some officers discussing something in camp. It may be them.
-
-**Commander Ivan**：Let us hear what they have to say, Sabina.
-
-**Sternova**：This is ...
-
-Just as Igor predicted, there is a group of officers standing outside the tent.
-
-Their hands rest along the seams of their trousers, their faces each wearing a complicated, cautious expression.
-
-**Commander Ivan**：Why are you out here jabbering when you should be making preparations?
-
-The leader of the 5th Regiment takes a small step forward and delivers a textbook salute.
-
-**"Goat"**：Commander, I am here to make a request of you. On behalf of the men, sir.
-
-**Commander Ivan**：I'm listening.
-
-He draws a deep breath. The goatee upon his chin trembles slightly.
-
-**"Goat"**：As you know, many of our comrades have homes nearby—families. We formally request a half-day's leave to visit them.
-
-**"Goat"**：I swear to you, sir. Not a single rider will shirk their duties. We are Cossacks, true, ready to shed blood on the battlefield.
-
-**"Goat"**：We were born soldiers of the steppe, just as our fathers were, and theirs before them.
-
-**"Goat"**：We know that not all of us will live to see the rising of the sun tomorrow. So, if we have a chance to see our loved ones ...
-
-He clenches his teeth. Facing the commander, the speech he prepared seems to have slipped from his mind.
-
-So he simply remains silent. After all, the most important request has already been made.
-
-**Commander Ivan**：...
-
-The commander clasps his hands behind his back, his gaze sweeping over the rows of Cossack military caps.
-
-The soldiers follow his eyes. No one dares break the silence.
-
-Then, he waves a hand.
-
-**Commander Ivan**：A half-day. No more. Go see your families.
-
-A bittersweet cheer erupts from the soldiers.
-
-The feeling spreads quickly throughout the camp, the other soldiers soon learning of the commander's answer from the rising fervor.
-
-**Sternova**：Anyone who fails to return to the sich before nightfall will be branded as a deserter. Do I make myself clear?
-
-The cavalrymen disperse to the tune of "Yes, sir" and "Thank you, sir." The commander lets out a long sigh and meets Sternova's eyes.
-
-**Sternova**：Will you be paying a visit to Tamarovka?
-
-**Commander Ivan**：No.
-
-He shakes his head.
-
-**Commander Ivan**：There is much to prepare. Come. Let us return to it.
-
-The commander sets a pile of blank letter paper on the table and pushes it toward Sternova.
-
-**Commander Ivan**：Pass these papers to any soldier not going home. Tell them to write a letter if they wish.
-
-Sternova's gaze darkens. She glances at the commander, to Igor, and back again.
-
-Then, at last, she nods. She gathers the paper, turns, and leaves the makeshift meeting room.
-
-**Igor**：Not the wisest choice—sending them home just before a major operation. Their families will plead for them to stay.
-
-**Commander Ivan**：But they will return. All of them. You share their blood, Igor, you should know this.
-
-**Commander Ivan**：And a Cossack will do anything to protect their home and family. The embrace of those they fight to protect will only sharpen their resolve.
-
-The commander pours himself and his temporary ally a cup of dark tea spiced with pepper.
-
-**Igor**：Maybe you think you know them, but they know little of you and even less about what Zeno expects of them.
-
-**Igor**：They will be sent to other battlefields, away from their homes. Their homesickness will be a liability.
-
-**Commander Ivan**：They knew what service meant when they enlisted. Though, I cannot say if they are truly ready to leave their homeland behind.
-
-**Igor**：Homeland ... Every war is fought on someone's home, yet its name is used to forge the young into unbreakable soldiers. It seems you still understand this.
-
-**Igor**：But tell me, Ivan, why don't you go to Tamarovka? The roads should still be safe.
-
-**Commander Ivan**：...
-
-Ivan lifts his cup and takes a sip.
-
-**Igor**：Or is it that the Don of this era is no home to you? Are you afraid to tell your soldiers the truth?
-
-The commander adjusts the collar of his uniform, searching for a way to change the subject.
-
-**Commander Ivan**：Ha. I don't answer to you anymore, Igor. In fact, you're one of mine now. You should join them.
-
-**Igor**：Join them? What do you mean?
-
-**Commander Ivan**：Write a letter to your loved ones.
-
-The unexpected proposal renders Igor silent.
-
-**Commander Ivan**：Krutov bears a grudge against you. It is clear. If we fail, he will show you no mercy.
-
-**Commander Ivan**：So, anyone to bid farewell to? Or is this era truly just a fleeting wind to you?
-
-Igor drinks the hot tea in one gulp. He rises and pulls on his coat.
-
-**Igor**：I'll leave you to your work.
-
-**Commander Ivan**：After this battle, Igor, I hope never to see you again.
-
-Taking a few sheets of letter paper from the commander's desk, Igor steps out of the tent.
-
-The commander remains standing, as if waiting for something to arrive. Soon, the radio linked to headquarters chirps its alarming tone as expected.
-
-**Zeno Command Liaison Officer**：Vice Admiral Burakov, is the Timekeeper safe?
-
-**Commander Ivan**：Yes. She says her mission in Bereggrad is mostly complete.
-
-**Zeno Command Liaison Officer**：Good. We'll relay this to the Foundation Committee.
-
-**Zeno Command Liaison Officer**：With that settled, your orders are to pull the Cavalry Corps from the region, effective immediately.
-
-**Commander Ivan**：Immediately? We were given two weeks to secure Bereggrad.
-
-**Commander Ivan**：A warlord and his bandits, aided by Manus Vindictae, have been running rampant on the Don. We are working to neutralize this threat before redeployment.
-
-**Zeno Command Liaison Officer**：Manus Vindictae's forces are concentrated on the Western Front. Our manpower is already stretched too thin. We can't afford to hold the Don River, not while there are more important strategic goals.
-
-**Zeno Command Liaison Officer**：The decision is set. No two weeks.
-
-**Commander Ivan**：Five days, that's all I ask. We will resolve the threat here and ride to Hungary without delay.
-
-**Zeno Command Liaison Officer**：And how do you plan to "resolve the threat"? With Igor's rebels?
-
-**Commander Ivan**：...
-
-**Zeno Command Liaison Officer**：Did you really think you could hide your coalition with Igor and his traitors? Irinei only turned a blind eye for the Timekeeper's sake.
-
-**Zeno Command Liaison Officer**：But the Timekeeper has finished her work, and you are still collaborating with them.
-
-**Zeno Command Liaison Officer**：Are you prepared to face the Committee if they demand an explanation?
-
-**Commander Ivan**：...
-
-**Zeno Command Liaison Officer**：Vice Admiral Burakov, do you read me?
-
-**Zeno Command Liaison Officer**：Ivan Ivanovich, you understand what I'm saying, don't you?
-
-**Zeno Command Liaison Officer**：You'll obey orders, or you'll face the consequences, Ivan!
-
-**Commander Ivan**：To protect our home and kin. That is why I stand with Igor's rebels.
-
-**Commander Ivan**：That will be my only answer to the tribunal.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Mounting Procedure and Posture
 
@@ -7809,8 +7548,6 @@ Colonel Sternova's Operation Order Brief
 
 **Operation Order Brief** \[In accordance with Zeno Military Security Protocol, this brief has been encrypted.\] **Operation Orders: #Operation Frozen Horseshoe - Ω. "Spear" Light Cavalry Division 0500** **1. Mission** You are ordered to form a rapid strike team with the "Shashka" and "Shield" units, hereby designated "Ω". Strike Team "Ω" will coordinate with "Horse Hunter" forces and the "Old Citizen" unit to establish an "Ω Formation" battlefront. Advance upstream along the golden bank of the "Undercurrent" waterway to launch a surprise assault. Your core objective is to restrict enemy deployment space at all costs. **2. Enemy Intel** Our forces and "Horse Hunter" forces suffered infiltration attacks in "Southern Town." We have confirmed the enemy's new attack target. Enemy "Black Locust" forces are massing on the golden bank of the "Undercurrent" waterway. They are expected to cross in full strength and launch a general offensive against "Southern Town." According to reliable intelligence, enemy "Black Locust" forces are expected to mass for attack within the next 24 hours. However, the exact strength of the troops committed to the dark bank of the "Undercurrent" waterway remains unknown. **3. Execution** Rapidly ford the "Undercurrent" waterway. Before enemy forces complete assembly, execute a flanking maneuver from the narrow wing. Ambush and eliminate all encountered enemy units. Penetrate enemy rear positions and sever supply lines. All combat units must reach the Old Tree riverside sector and assemble before the autumn harvest. **4. Coordination** "Horse Hunter" forces and the "Old Citizen" unit have been integrated into the "Southern Town" defense network and will conduct diversionary attacks from the dark bank. "Long Tail" forces will provide supporting fire and clean-up. Following the extension of the offensive, your unit must immediately engage the enemy and coordinate with friendly forces for encirclement. If you encounter an enemy counterattack, you may request air support. Due to logistical constraints, the "Scout Shortsword" camp will assist in securing abandoned horses and equipment recovered during operations. **5. Command and Signals** Maintain "Status Quo" until next classified order is received.
 
-- Description：First Opening - Operation Order Brief - Top Secret.
-- Action：Accept Order
 
 
 ---
@@ -7821,6 +7558,8 @@ Colonel Sternova's Operation Order Brief
 > The fires of war burn ever nearer. Children of the Don, it's time to unite!
 
 <!-- reader-body:start -->
+> **Title card：** The Night Before War
+
 Sonetto steps outside, looking out over the endless grassland and to the sky beyond. The afternoon wind rushes from across the steppe, carrying an unseasonable dryness.
 
 It gently rustles through her hair. The weariness from her relentless schedule, the weight of the coming war, and the tension she bears from her responsibilities are, for a brief moment, faintly eased.
@@ -8046,240 +7785,7 @@ At the commander's order, the cavalry formations make their march, the scouts at
 The flames of glory burn bright, setting the curtain of history ablaze.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** The fires of war burn ever nearer. Children of the Don, it's time to unite!
-
-> **Title card：** The Night Before War
-
-Sonetto steps outside, looking out over the endless grassland and to the sky beyond. The afternoon wind rushes from across the steppe, carrying an unseasonable dryness.
-
-It gently rustles through her hair. The weariness from her relentless schedule, the weight of the coming war, and the tension she bears from her responsibilities are, for a brief moment, faintly eased.
-
-**Igor**：Greetings, Ms. Sonetto.
-
-**Sonetto**：Mr. Igor.
-
-Their greeting is awkward, yet it doesn't stop the tough old admiral from leaning against a tree not far away. He gently closes his eyes, as if listening for something.
-
-How long has he been standing there? Sonetto swallows the question before it reaches her lips.
-
-**Sonetto**：What are you doing out here?
-
-**Igor**：There's a sound as the wind brushes over the grasslands. I find it eases my mind.
-
-Sonetto focuses in on the same sound. After a moment, she resumes her questions.
-
-**Sonetto**：You're here for the Timekeeper, is that right?
-
-**Igor**：Is she still resting? What she saw in the Amber Room must have impacted her greatly.
-
-Aware of the old man's special status, Sonetto tightens her grip on the wand hidden behind her back.
-
-**Igor**：I only want to have a word with her. Nothing more.
-
-**Igor**：We're on the same side.
-
-Footsteps crunch through the dirt behind them.
-
-**Vertin**：For the time being, yes, until Krutov is defeated.
-
-**Igor**：I owe you an apology, leaving you in the Amber Room for so long. My troops needed their leader when Krutov attacked.
-
-**Vertin**：Think nothing of it. I was prepared for the risks. Besides, Sonetto and Marsha were there to help me.
-
-**Igor**：What did you see there, in the Room?
-
-An overt question.
-
-A fear older than memory floods her vision. After a few deep breaths, reason slowly returns.
-
-- **Choice：** Urd
-  - **Vertin**：I believe it was Urd. She seemed unsure of that herself. There were others there trying to convince her of her own identity.
-
-  - **Vertin**：She was being put through some kind of disturbing experiment, and for a brief moment, she caught sight of me. She walked towards me, then vanished.
-
-
-- **Choice：** An experiment
-  - **Vertin**：I felt like I'd been put into some kind of experiment. But it wasn't me. It was Urd.
-
-  - **Vertin**：They ran the experiment over and over, each time Urd suffering immense pain. It all seemed designed to transform her into someone else.
-
-
-- **Choice：** A white room
-  - **Vertin**：I saw a pure white room, a kind of white I've never seen before. And Urd ... She was sat in a chair at the center of it.
-
-  - **Vertin**：She was struggling, as if she were in pain. I wanted to help, but I couldn't reach her.
-
-
-**Vertin**：I saw other things, too, but they were blurry and fragmented.
-
-**Igor**：The video clips? Then they didn't take their devices with them when they evacuated after all.
-
-**Vertin**：No, whatever I saw wasn't footage.
-
-**Vertin**：I have to enter the Amber Room once more to make sense of what I saw.
-
-Igor falls silent for a moment, then shakes his head.
-
-**Igor**：I advise against it. There are still skirmishes being fought in the city. No one can guarantee the church will stay safe for long.
-
-**Igor**：The Cavalry Corps is preparing for a surprise assault tonight. Lieutenant Lilya is in the field trying to locate and destroy the Manus's rites. Your assistant will be your only protection.
-
-**Igor**：You're too important, Timekeeper. If your presence in Bereggrad were exposed, the Manus will throw everything they have into capturing you.
-
-**Igor**：I cannot afford to let anything jeopardize our battle plan. You must stay hidden from the enemy until it is safe.
-
-**Sonetto**：...
-
-**Igor**：Ms. Sonetto, I don't question your capability and devotion, but Bereggrad is a potential battlefield. It's too dangerous.
-
-**Vertin**：Good point. I'll be sure to return to the Amber Room only after you've defeated Krutov.
-
-**Igor**：It will be done soon.
-
-**Vertin**：A soldier came to me earlier today. He seemed to think a Foundation member would have a higher chance of surviving the battle and asked me to deliver a letter to his brother on the Western Front.
-
-**Vertin**：What about you, Mr. Igor? Did you write anything?
-
-Igor lets out a sigh so faint it almost goes unnoticed. Clearly he is trying to conceal something.
-
-**Vertin**：I know someone who would be deeply upset were you to die here. She intends to end your life with her own hands.
-
-Igor rubs his temples and gives a helpless smile.
-
-**Igor**：Lopera. Does the Foundation still keep her?
-
-**Vertin**：You could say that. She isn't allowed to return to her position as a soldier yet, not until Zeno's review is finished.
-
-Igor nods, signaling he wants to hear more.
-
-**Vertin**：She's made somewhat of a life for herself at the Foundation. Made friends and got into some trouble.
-
-**Vertin**：They've assigned her an instructor to work on her dice game obsession.
-
-**Igor**：Pera, so typical of her.
-
-**Vertin**：There's something I'd like to know, too.
-
-**Igor**：Ask away.
-
-**Vertin**：Commander Ivan invited me to his home in Tamarovka for a lunch. A lady hosted us.
-
-**Vertin**：He introduced her as his "mother," but something seemed off.
-
-**Igor**：She is indeed Ivan's mother.
-
-**Vertin**：Then, did Commander Ivan request shelter for her from the "Storm"?
-
-**Igor**：Yes, a request made not long after their reunion.
-
-Igor folds his arms across his chest, frowning.
-
-**Igor**：Not even the most capable diviners could have predicted the advent of the "Storm." As you suspected, Ivan's mother, like most at that time, was reversed during the first "Storm."
-
-**Igor**：Some time after that, Ivan rediscovered her. He told me that he knew it was her from the wrinkles on her face and her tender smile.
-
-**Igor**：He was certain that, by some miracle, his mother had survived the "Storm" and returned to him.
-
-**Igor**：An improbable scenario, don't you think, Timekeeper?
-
-**Vertin**：...
-
-A familiar coincidence.
-
-**Vertin**：One day, I'll uncover the truth about the "Storm," for everyone's sake, for my mother.
-
-Igor doesn't answer. Instead, he fixes his gaze on the rolling waves of grass.
-
-Night falls over the steppe.
-
-Amid the chaos of pounding hooves and shouting voices, Sternova lifts the tent flap.
-
-**Sonetto**：Colonel Sternova, is the Corps prepared to ride out soon?
-
-**Sternova**：Yes. Our forces are assembled. We're ready to go.
-
-**Sternova**：As for the Gryphons, three of their air defense squads have been stationed in Bereggrad, while the rest are heading to Vysokogorye, the mountain north of the city.
-
-**Vertin**：Is Igor marching with his army?
-
-**Sternova**：No, both Igor and Commander Ivan will stay at the command post in the sich.
-
-**Sternova**：I'm here to check on you at Lieutenant Lilya's request. She said you're good at slipping away and making people worry.
-
-Sonetto suppresses a laugh before deftly steering the conversation elsewhere.
-
-**Sonetto**：Three squads. That's all the city has for air defense?
-
-**Sternova**：That and the militia. With our reduced numbers and the danger of street battles, we have to rely on the support of armed citizens.
-
-Outside the tent, the agitation has only continued to build. The commander's orders ring out, half-lost in the swelling noise.
-
-**Sternova**：Timekeeper, for your own sake, I suggest you leave the Don. Or at least make sure you bunker down someplace safe.
-
-**Sternova**：I'll take my leave of you now. Commander Ivan is about to rally the troops.
-
-Beneath the night's sky, a hushed yet fervent atmosphere settles in. The soldiers' fighting spirits render them restless.
-
-**Zeno Cavalryman I**：To think I get to fight a real war! God! My hands won't stop shaking!
-
-**Zeno Cavalryman II**：Keep your head on straight, you idiot, or you'll get yourself killed. There's nothing romantic about war!
-
-**Zeno Cavalryman II**：I've fought alongside many soldiers like you. Dreaming of glory, victory, and the praise of our people when we returned home.
-
-**Zeno Cavalryman II**：But I returned alone. The rest died on some godforsaken battlefield, along with their dreams of glory. I visited their graves before I left. Hope their spirits are with me.
-
-**Zeno Cavalryman I**：I-I went home too, to see my girl.
-
-**Zeno Cavalryman II**：You didn't promise you were going to marry her after we win the war, did you?
-
-**Zeno Cavalryman I**：No, I ... I didn't say anything at all. I just looked into those beautiful eyes of hers. She understood the rest.
-
-**Zeno Cavalryman I**：We knew it could be the last time we'd see each other.
-
-**Zeno Cavalryman II**：Alright, that's enough, lover boy. Commander Ivan's about to give his speech.
-
-**Commander Ivan**：Attention all troops! Call the roll!
-
-Strong, unified voices rise from the formations, joined by the thunder of horses stamping the ground.
-
-**Sternova**：All soldiers have returned to their posts, sir. I knew there were no cowards in the Corps.
-
-**Commander Ivan**：I expected nothing less.
-
-**Commander Ivan**：Listen, riders! You've seen the ruin Krutov and his bandits have wrought.
-
-**Commander Ivan**：You've seen those black-hearted cowards burn Cossack homes and kill our kin.
-
-**Zeno Cavalryman I**：I'm going to cut off that clown's head and hang it in my backyard!
-
-The young voice sparks a burst of laughter. Then fists and shouts of approval are thrown into the air.
-
-**Commander Ivan**：You've seen them rob and trample our land, our people, and our dignity!
-
-**Commander Ivan**：You've heard them laugh as they slaughtered our people and our children wept!
-
-**Commander Ivan**：But today their villainy ends. Why, my brothers and sisters?
-
-**Commander Ivan**：Because we—the Cavalry Corps, riders of the steppe, children of the Don—will stop them in their tracks!
-
-**Commander Ivan**：We will grind them to dust and ride home victorious! For the steppe! For the Don! For Cossack children yet unborn!
-
-**Commander Ivan**：Today, we destroy the enemy and reclaim our home! Forward!
-
-**Soldiers**：Ura!
-
-This land, the great mother of the Cossacks, trembles beneath the vigor of her sons and daughters.
-
-At the commander's order, the cavalry formations make their march, the scouts at the front lifting their torches high.
-
-The flames of glory burn bright, setting the curtain of history ablaze.
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -8750,8 +8256,6 @@ A Disciplinary Decision Draft
 
 **Disciplinary Action for Vice Admiral Ivan Ivanovich Burakov's Violation of Military Regulations (Draft)** Ivan Ivanovich Burakov, holding the rank of Vice Admiral, currently serves as the commander of Zeno Arms Academy Cavalry Corps. He led forces in Operation Abadan, Operation Baikonur Cosmodrome, and others during the "Storm" war, earning numerous commendations for distinguished service. (Reply: Be clear on merits and demerits. List everything!) However, following the third "Storm," Vice Admiral Burakov deserted his post while on active duty and subsequently, on multiple occasions without authorization from superior command or consent from the individual, brought a human teacher Ms. Galina (Reply: Redact the name.) into Zeno Headquarters in Geneva. This conduct raised serious concerns among relevant human authorities, damaged the Cavalry Corps' reputation, and severely undermined peaceful relations between arcanists and humans. (Reply: Unnecessary.) Regarding Vice Admiral Ivan Ivanovich Burakov's unauthorized conduct in bringing a human into Zeno Arms Academy, following investigation by the oversight team and verification by the Military Discipline Department, the Zeno Arms Academy High Command has determined his actions constitute severe violations of the Latest Supplementary to Zeno Arms Academy Military Regulations (Draft). In light of Vice Admiral Burakov's repeated dereliction of duty and severe disruption of human life, having consecutively received three informal warnings, three formal warnings, and three severe warnings, Zeno High Command has decided to impose cumulative penalties sentence him to suspension without pay for twelve months. (Reply: Who authorized this? Are you desk officers going to command troops in the field?) The oversight team will dispatch personnel to supervise Vice Admiral Burakov's division to ensure compliance with this sentence. (Reply: Unnecessary. He follows orders.) Regarding Vice Admiral Burakov's violation of military regulations, all commanders and soldiers are urged to take this as a warning, strengthen their sense of duty, and strictly uphold Zeno military discipline. Zeno Arms Academy Office Signature: (Reply: I read it. Too much padding! Redraft for signature.) XX XX, XXXX
 
-- Description：Discipline and merit—two ends of the scale. As for where the weights are placed, who can say?
-- Action：Read Document
 
 
 ---
@@ -9414,8 +8918,6 @@ We were never meant to kill.
 
 END OF DIALOGUE
 
-- Description：The manual says nothing about treating traumatic brain injuries in field conditions.
-- Action：Help Search
 
 ### Trail · Open Channel
 
@@ -9429,8 +8931,6 @@ A Telegram to Cavalry Corps Headquarters
 
 **Subject: Enemy Nighttime Infiltration and Assault** **Summary: Beginning at dawn today, enemy forces infiltrated our southwestern defensive perimeter through unknown routes, intending to sabotage rear medical infrastructure. Our forces, with support from the Gryphon Legion, successfully contained and repelled the infiltrators.** **Operational Results and Loss Assessment:** —Southern District: The southern district medical supply warehouse was breached. 25 crates of medical supplies, including morphine and bandages were confirmed lost. The 7th Block Militia Company defending the facility suffered heavy casualties: 59 KIA. The facility is non-operational. —Eastern Part of the Western District: Our counterattack succeeded. With support from Cavalry Corps medical personnel, Pokrov Children's Hospital was secured. The following supplies were recovered from enemy forces: Surgical instruments and medications: 33 crates; Children's clothing and bedding (winter): 4 crates; Medical equipment: 3 crates of incubators, 10 crates of steam inhalers and other devices. During defensive and counteroffensive operations, the 3rd Street Militia Company sustained 23 KIA. Hospital medical staff sustained 10 KIA, and the Foundation medical personnel sustained 1 WIA (critical). —Southern Part of the Western District: Enemy assault repelled by Igor's Gryphon Legion and main militia forces. The Sanatorium remains intact. Medical assets and wounded successfully secured. Detailed inventory of recovered supplies is undergoing final verification; will be submitted with a supplementary report. **Current Status:** City defense elevated to maximum alert. All critical facilities have received reinforcements to security. **Request:** Militia forces urgently require resupply of lost medical materials, particularly analgesics and bandages. We respectfully request that Cavalry Corps command provide material assistance and facilitate logistical transport. **Signed:** ████
 
-- Description：The channel is open on the other end. Because in the empty air, there's nothing else.
-- Action：View Contents
 
 
 ---
@@ -9728,8 +9228,6 @@ Picrasma Tree Extract and Its Preparation Method
 
 **Project Title: Picrasma Tree Extract and Its Preparation Method** **Abstract** ... **Technical Field** This project concerns the Picrasma Tree extract "Picrasmine" and its preparation method. **Background** Picrasma is a deciduous medicinal tree, found in both wild and cultivated settings. Its roots and fruits possess medicinal value, with the primary active extract being a fat-soluble resin. The primary pharmacological agent in Picrasma is Picrasmine, which activates cell populations throughout arcanists' brains and bodies and has shown no observed dependency effects. The Laplace Scientific Computing Center Medical Technology Division has included it in the pharmacopeia. ... Experimental findings indicate that standardized Picrasma extract—Picrasmine—exhibits toxicity to tissue cells in both the brain and body of individuals with less than one-quarter arcane lineage. This toxic response may correlate with specific metabolic dysfunctions in such populations. Single high-dose administration or prolonged intake of Picrasmine carries a significant risk of severe cardiac failure. Consequently, this project's findings must not be applied to general potion development and are strictly prohibited for use in pharmaceuticals intended for humans or mixed-blood humans. **Technical Content** To achieve the project's technical objectives, primary extraction procedures are outlined below. A process flow diagram is attached. ① Material sorting; ② Washing; ③ Drying; ④ Grinding; ⑤ Primary purification; ⑥ Filtration; ⑦ Concentration; ⑧ Drying and grinding; ⑨ Secondary purification; ⑩ Concentration and pulverization of secondary extract. **Diagram Description** The attached diagram illustrates the process flow for this project. (diagram) **Implementation** Case Examples: ... Notice: The preparation method and procedures outlined in this project must strictly comply with regulations issued by the Pax Security Council and must not be applied to pharmaceutical development for humans or mixed-blood humans.
 
-- Description："No advancement in biotechnology shall come at the cost of researcher safety." (This has been blacked out)
-- Action：For Reference
 
 
 ---
@@ -10087,6 +9585,8 @@ The cold steel warms with blood as the gentle neighing of warhorses reaches thei
 > An eagle pierces through the thick black clouds of gunsmoke.
 
 <!-- reader-body:start -->
+> **Title card：** Casualty Report
+
 They all know this aged face. He is the one who brought the gunfire and the one who now guards them.
 
 The militia allows Igor to pass, even guiding him to where the Gryphons are now quartered.
@@ -10244,172 +9744,7 @@ The "enemy radio station" crackles to life. Faint gunfire sounds in the backgrou
 **Igor:** This is your commander. Report your status.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** An eagle pierces through the thick black clouds of gunsmoke.
-
-> **Title card：** Casualty Report
-
-They all know this aged face. He is the one who brought the gunfire and the one who now guards them.
-
-The militia allows Igor to pass, even guiding him to where the Gryphons are now quartered.
-
-**Igor**：I'm glad to see you still remember Zeno's teachings, Ptolemy.
-
-**Igor**：When facing a bombardment, we move all vulnerable units under—
-
-Silence. A row of bodies under white sheets.
-
-On each pair of eyes rest two sugar cubes pressing their lids shut. Ptolemy sits behind them, shrouded in a dark shadow.
-
-**Ptolemy**：Father ...
-
-**Igor**：How did they die?
-
-His son stares at the ground, unwilling to show his face. Only his trembling hands betray his emotion.
-
-**Gryphon Soldier**：Here's a written report. For your review, Admiral.
-
-Igor does not take the bloodied papers.
-
-**Igor**：I will hear it from him.
-
-**Igor**：Raise your head, Ptolemy. Tell me your course of action as the commander of the city operation.
-
-He speaks calmly, but it sends a chill through the room.
-
-**Ptolemy**：Y-Yes.
-
-**Ptolemy**：Around sixteen hundred hours yesterday, we coordinated with the militia and Cavalry Corps to eliminate several Manus infantry squads that had infiltrated the city.
-
-**Igor**：You already reported that during our last communication.
-
-**Igor**：And after the signal was jammed?
-
-**Ptolemy**：I ...
-
-**Ptolemy**：I dispatched an ad hoc squad to investigate the source of the signal interference. Five arcanist infantry troopers and two technicians. Yaroslav Levchuk was the squad leader.
-
-**Igor**：What else did you order them to do?
-
-His father has torn away the veil. While shame burns Ptolemy's face, fear freezes his words.
-
-**Ptolemy**：I-I ordered them to sneak into the forest.
-
-**Ptolemy**：To find traces of Krutov at any cost.
-
-**Ptolemy**：...
-
-**Ptolemy**：And then, six corpses were delivered to the entrance of our base.
-
-**Igor**：You allowed yourself to be blinded with hatred, Ptolemy. How can I entrust you with the Gryphon Legion if you can't maintain a steady hand?
-
-**Ptolemy**：I know, Father. I made a grave mistake. I will accept whatever punishment you see fit.
-
-He pauses, the ache in his left eye socket betraying a resentment rarely shown in front of his father.
-
-**Ptolemy**：But Krutov ... I saw him! He was right there, hiding in the woods!
-
-**Ptolemy**：I was so close I could see that arrogant sneer of his, hear the incessant classical music playing from his tent!
-
-**Ptolemy**：You know what he did to me, to us!
-
-**Ptolemy**：Every time I hear that wretched name, my eye aches with unbearable pain.
-
-A strange ceiling. A sharp, throbbing pain. Half the world has gone dark.
-
-**Ptolemy**：...?!
-
-**Ptolemy**：Agh, ah, medic! Medic! I need morphine!
-
-**Moldir**：They just gave you some, Ptolemy.
-
-**Ptolemy**：Moldir, what happened? Did our convoy hit a booby trap?
-
-**Moldir**：No, not a booby trap.
-
-**Moldir**：Enemies disguised as civilians were lurking by the farms you passed through. No one expected them to be hiding explosive Blazefuse cylinders beneath their clothes.
-
-**Ptolemy**：Right, right. I remember. My eye ... When will it be healed?
-
-**Moldir**：...
-
-**Moldir**：The retina in your left eye took a severe burn in the explosion. I'll see to it that you recover as much as possible. For now, just rest.
-
-He understands what this means. He'll have to learn to fire from his other shoulder.
-
-**Ptolemy**：Is Captain Krutov alright? We were in the same car.
-
-**Moldir**：He only suffered a mild concussion, thanks to you. I doubt he would have survived if you hadn't pushed him off in time.
-
-**Moldir**：You should sleep, brother. I'll ask the medic to increase your dosage.
-
-Ptolemy grips her arm tightly.
-
-**Ptolemy**：Did we win?
-
-**Moldir**：Of course. Father's strategy was effective as always. We destroyed the enemy command post. We took sector four decisively.
-
-**Ptolemy**：Good.
-
-**Ptolemy**：You need to rest too, Molly. And don't send for the medic. I don't need morphine anymore.
-
-**Ptolemy**：As we left Antarctica, I saw the documents those traitors tried to steal from your bag.
-
-**Ptolemy**：I learned what Krutov did—staging an assassination on himself, making it look like an enemy ambush—just to pressure the Foundation into approving the use of high-risk arcane weapons!
-
-**Ptolemy**：Killing me was part of his plan all along! I only survived because the assassin hesitated when I tried to save him!
-
-**Ptolemy**：Father, why did you keep this from me?
-
-**Igor**：Anger would only cloud your judgment, as proved with your actions.
-
-**Igor**：You will have your revenge, an eye for an eye. I promise you.
-
-**Igor**：But now, you must bear responsibility for your mistakes and honor the sacrifice of your brothers.
-
-**Igor**：They gave up past glory, identity, and every proof of their existence for us, entrusting the future into my hands.
-
-**Igor**：Do you not remember what I told you after leaving São Paulo?
-
-**Igor**：No more meaningless sacrifices. We don't leave anyone behind. You speak with my voice; you should remember this more than anyone.
-
-**Ptolemy**：...
-
-**Ptolemy**：I will, Father.
-
-Ptolemy touches the bandage over his burning eye socket and nods, willing himself to remain steady.
-
-**Igor**：What's that noise? I thought communications were severed after Krutov's assault.
-
-**Ptolemy**：We managed to reestablish a signal. It's been up nearly half an hour, but the only thing it's picked up is some bizarre enemy frequency.
-
-**Ptolemy**：The operators think it's some form of interference intended to jam our signals, so they've muted it.
-
-**Igor**：You mean this noise is a signal from Krutov's army, from Manus Vindictae?
-
-**Ptolemy**：Well, in theory, yes.
-
-**Igor**：Bring it up and unmute it! Now!
-
-**Ptolemy**：Yes, sir!
-
-He cuts all the jamming signals at once and turns the volume to its maximum.
-
-The "enemy radio station" crackles to life. Faint gunfire sounds in the background.
-
-**???**：Falcon Six calling the nest. Falcon Six calling the nest. This is the 45th call. Please respond!
-
-**???**：Huh? What? Is it connected? Command, do you copy?
-
-**Igor**：We read you loud and clear.
-
-**Igor**：This is your commander. Report your status.
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -10736,8 +10071,6 @@ But no one blames him for it.
 
 END OF DIALOGUE
 
-- Description：The chief of staff has never looked this troubled. She even forgot to remove her spurs when she entered the room.
-- Action：Salute
 
 
 ---
@@ -11473,11 +10806,7 @@ Winter returns. And with it, the eerie silence of snow.
 
 A distant sound answers for her.
 
-A distant sound answers for her.
-
 Hollered voices, snorting horses, and the stirring of the long grass all echo on the banks of the shimmering Don.
-
-Lilya: They did what they could.Some sins can never be redeemed. Yet, it is not too late to keep them from spreading, from taking root again.For one's own sake, and for the sake of home and family.Bare fists struck steel behemoths; soft flesh warded off fell sorcery.Their brittle lives were laid down so that others might be spared.And the living lift their eyes as the first snow falls.Time finds its rightful course once more. Winter has come.
 
 **Lilya:** They did what they could.
 
@@ -12218,8 +11547,6 @@ They disappear into the winter grassland, returning to the long, hard road they 
 
 END OF DIALOGUE
 
-- Description：Some Foundation staff have been complaining about rats on this floor lately. Pure nonsense.
-- Action：Listen closely.
 
 
 ---
@@ -12230,6 +11557,8 @@ END OF DIALOGUE
 > After the dust settles, he makes the decision.
 
 <!-- reader-body:start -->
+> **Title card：** The Day of Departure
+
 The streets of Bereggrad are packed. The people hug and laugh, and the soldiers drink and sing to their hard-won victory.
 
 But deep below the church, in a room from another age, there is nothing but silence.
@@ -12439,224 +11768,7 @@ A gun muzzle presses to the back of Igor's head.
 **Lilya:** I said it before, I'll say it again: I will personally escort you to the judgment seat.
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** After the dust settles, he makes the decision.
-
-> **Title card：** The Day of Departure
-
-The streets of Bereggrad are packed. The people hug and laugh, and the soldiers drink and sing to their hard-won victory.
-
-But deep below the church, in a room from another age, there is nothing but silence.
-
-**Vertin**：...
-
-The white marble chair is smooth and cold. The touch of a fingertip sends a distant call across time and space.
-
-**Vertin**：Is it really you?
-
-**Vertin**：Ah!
-
-She sits, and a pain prickles through her skin, a pain that is not her own.
-
-**Vertin**：What have you been through?
-
-**Vertin**：Where are you?
-
-Shh. We should let her get some rest.
-
-**Vertin**：...
-
-Vertin.
-
-**Vertin**：Who are you?
-
-We all walk our own paths, seeking our own answers.
-
-But our paths will surely cross again.
-
-**???**：Timekeeper?
-
-**Vertin**：...
-
-She gets to her feet, tearing her from those memories and thrusting her back into the real world.
-
-The footsteps that follow carry a note of caution.
-
-**Igor**：This room had always been locked to me, but now ... Tch. It is blindingly white.
-
-**Vertin**：Mr. Igor.
-
-**Igor**：I wouldn't sit in that chair. Not unless you know it to be necessary.
-
-**Vertin**：Urd sat here. I wanted to try it myself.
-
-**Igor**：Find anything useful?
-
-**Vertin**：Some documents on the experiment. The person who told me about this room might be interested.
-
-**Vertin**：But if you mean to ask about Urd specifically, I haven't learned anything more than I did on my first visit.
-
-**Vertin**：You were there. What do you know about the experiments in this room? What did they want from her?
-
-Her usually reasoned words come quickly, driven by her hunger for answers.
-
-**Vertin**：What did you do to her?
-
-**Igor**：The things the Pax House did to Urd ... I'm sure you've pieced it together somehow.
-
-**Igor**：After the second "Storm," the Foundation led an effort to build an emergency response system.
-
-**Igor**：But after Manus Vindictae reared their head and in the wake of the vanishing of two eras, we realized no system could stop the "Storm."
-
-**Igor**：We needed Urd.
-
-**Vertin**：And you tracked her down, only to find she'd become someone else, an investigative journalist, a humanitarian doctor, anything but the identity you were hoping for.
-
-**Vertin**：You tried every method to force that version of her, a blind woman you had no need of, into becoming Urd again, the one from 1999.
-
-**Igor**：We, or the Pax House, believed that ...
-
-**Igor**：No matter the nature of the "Storm," whether Manus Vindictae forged new psyches from the realm of souls or twisted the entire material world to warp memories on a universal scale ...
-
-**Igor**：The key to every question about the "Storm" was tied up in Urd, the original Urd. The Loop Laboratory and the vessel ensoulment experiments conducted here were dedicated to finding that key.
-
-**Vertin**：Was that your goal to find her and end all this?
-
-**Igor**：...
-
-The old admiral closes his eyes, either to recall or avoid.
-
-**Vertin**：Igor, do you also want to return to the era before the "Storm"?
-
-No reply comes. Igor moves to a corner as if searching for something.
-
-**Igor**：Just as I suspected, they didn't have time to evacuate with these materials.
-
-From a pile of disks, he lifts a white book as thick as a dictionary.
-
-**Igor**：Take it.
-
-**Vertin**：It's heavy.
-
-Its surface is as cold and hard as marble.
-
-**Igor**：The weight of 43 souls combined.
-
-**Vertin**：...
-
-**Igor**：The souls of those whose identities were "displaced" after the "Storm." I abducted them from all around the world—a way to regain my footing among the ranks.
-
-**Igor**：I placed my trust, my hope even, in the Foundation, believing that these experiments would one day bring back the people I loved.
-
-**Vertin**：But you chose to walk away.
-
-**Igor**：43. Each soul left behind a husk. I buried every one of them.
-
-**Igor**：I've buried so many people since the "Storm." I've lost count. I stopped counting.
-
-He takes the black cube from his coat and murmurs an incantation. It floats above his palm.
-
-**Igor**：Arcana's body was annihilated, but Her presence endures.
-
-**Igor**：Even with my modest lineage, I feel Her presence everywhere, at all times.
-
-**Igor**：She bestowed on me a "boon" that let my army cross the "Storm." It worked, as She promised.
-
-**Igor**：But after leaving Antarctica, the barrier that "boon" created could shelter only one person. I did still use it as a beacon to find a new sanctuary, but it cost us dearly in time and effort.
-
-**Igor**：Meanwhile, Krutov seized the opportunity to wreak havoc along the Don.
-
-A bitter smile colors Igor's face, and he stops channeling arcane energy into the "boon."
-
-**Igor**：This is Arcana's mockery of me—the mixed-blood arcanist who dared mimic Noah.
-
-**Vertin**：But you managed to build your own ark, didn't you?
-
-He gives a dry laugh that is neither a yes nor a no.
-
-Then he sets the "boon" down on the white book.
-
-When she reaches out to it, the ever-present threads pull taut, then fade into the air.
-
-**Vertin**：...?
-
-**Igor**：You are the true savior destined to lead us from the flood. Take it.
-
-**Igor**：Back to our deal, Timekeeper. I brought you to this laboratory as promised and told you secrets the Foundation would rather keep hidden.
-
-**Igor**：Along with this "boon," I believe I have done enough to earn your favor.
-
-**Vertin**：What is it that you want?
-
-**Igor**：Only that you consider me a partner in the future, so that we may help each other when the need arises.
-
-**Vertin**：I'm still the Timekeeper of the St. Pavlov Foundation. You're betting your life and freedom on nothing more than my favor.
-
-**Igor**：Not my first gamble. I have confidence. You and I share the same enemy in Arcana.
-
-**Vertin**：...
-
-**Igor**：There's another matter. Krutov has passed the mask trial. He is more dangerous than ever before.
-
-**Igor**：We defeated him at Tamarovka, but there was no sign of his body.
-
-**Vertin**：So you're suggesting ...
-
-**Igor**：Manus Vindictae lacks leaders with modern military training. I suspect Krutov will become key to their future conflicts with the Foundation.
-
-Having left the Timekeeper to her devices, Igor slips past the street celebrations and leaves Bereggrad.
-
-**Moldir**：Father.
-
-**Igor**：As you said, Moldir, the Timekeeper is unlike most of her colleagues.
-
-A soft laugh comes through the communicator. The events at the South Pole are still fresh in her mind.
-
-**Moldir**：She is a truly extraordinary young woman. Based on my collaboration with her team in Antarctica, I'm sure she has prospects beyond the Foundation.
-
-**Moldir**：I hope your meeting brought something of value.
-
-**Igor**：It did, to my surprise.
-
-**Igor**：Recall all personnel on the field to the sanctuary. We need to accelerate recruitment and redeployment.
-
-Moldir is temporarily rendered silent by the abruptness of this order.
-
-**Moldir**：Yes, Father.
-
-**Igor**：Let the residents of any nearby villages join us if they wish. We need all the strength we can muster.
-
-**Moldir**：All of them?
-
-**Igor**：Civilian or soldier, human or arcanist—take them all in.
-
-The admiral answers with unwavering conviction.
-
-**Igor**：And keep an eye on Ptolemy until I return.
-
-**Igor**：And should I not return, command of the Gryphon Legion will be transferred to you.
-
-**Moldir**：Father?
-
-Igor, standing on the bank of the Don, gives the old city one last glance and ends the call.
-
-**???**：What's the rush, old man?
-
-A gun muzzle presses to the back of Igor's head.
-
-**Igor**：I've been expecting you, Lieutenant Lilya.
-
-**Lilya**：So you recognize that Ptolemy is a good-for-nothing bastard, then? At least you're a better father than you are a soldier.
-
-**Lilya**：But being a half-decent father won't save you from the crimes you've committed or the lives you've taken.
-
-**Lilya**：I said it before, I'll say it again: I will personally escort you to the judgment seat.
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Invasion
 

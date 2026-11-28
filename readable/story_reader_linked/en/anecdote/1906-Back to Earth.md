@@ -32,6 +32,12 @@ Are stories buried in the depths of time.
 <!-- reader-body:start -->
 Library, Suitcase
 
+
+
+> **Title card：** Back to Earth
+
+> **Title card：** Sparrow in Hand
+
 Two figures are reading, illuminated by the soft lights of the library.
 
 They sit in comfortable harmony, a tacit understanding between them.
@@ -127,120 +133,13 @@ Archives, Foundation
 **Sonetto:** ...?
 
 The file contains only a few pages, despite covering half of his life within it.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** It hides so well that not even a dog can find it.
-
-> **Title card：** Back to Earth
-
-> **Title card：** Sparrow in Hand
-
-> **Title card：** Library, Suitcase
-
-Two figures are reading, illuminated by the soft lights of the library.
-
-They sit in comfortable harmony, a tacit understanding between them.
-
-**Зима**：…
-
-**Sonetto**：…
-
-The only sound is the turning of pages.
-
-**Sonetto**：…
-
-It is a silence that will break as their mutual agreement ends.
-
-After all, this girl has a question forming in her mind.
-
-**Sonetto**：Excuse me, Mr. Зима ...
-
-It seems the man is in a world of his own. He does not even notice her voice.
-
-The girl lowers her tone. It is shorter, urgent, and almost piercing.
-
-**Sonetto**：Mr. Зима!
-
-зима and Зима snap out of their trance.
-
-**Зима**：W-What?
-
-**Sonetto**：Sorry, maybe I shouldn't ask you here ...
-
-**Sonetto**：... but you have the most extensive knowledge of poetic imagery of anyone I know. I have a question that's been bothering me for a while—
-
-The chickadee on his shoulder shakes its head in surprise and takes flight.
-
-She takes no notice, fully focused on receiving her answer.
-
-**Sonetto**：I've been wondering ... What's your interpretation of "a sparrow in hand" and "a goose in the sky"?
-
-**Sonetto**：Is it simply referring to these two animals literally, or does it include all the extended symbolism from previous works?
-
-**Sonetto**：Or perhaps, as some suggest ... this is some kind of highly directional metaphor?
-
-**Зима**：…
-
-Зима silently picks up a pen, preparing to write his response in the book lying open in front of him.
-
-Sonetto keenly perceives his intent.
-
-**Sonetto**：Ah—please don't do that.
-
-The chickadee tilts its head, seemingly confused. Perhaps even a little annoyed.
-
-**Sonetto**：These books are from Timekeeper's collection ...
-
-**Sonetto**：... If you write on its pages in ink, it'll spoil the experience for the next reader.
-
-**Зима**：... S-sorry.
-
-**Зима**：It's not ... stone ... anymore. I ... forgot ...
-
-**Sonetto**：It's because you don't have any blank paper. Here, use this notebook.
-
-**Sonetto**：Just like your piles of parchment, I've filled many notebooks. Writing down my thoughts ... helps me clear my head.
-
-**Зима**：I ... u-use parchment ... to write.
-
-**Sonetto**：Of course. Parchment is a very good choice.
-
-**Sonetto**：I think there's some over there ... I'll go look for it. Hold on.
-
-**Зима**：…
-
-**Sonetto**：It should be here ... Ah, found it.
-
-When she turns around, a breath of cold air sweeps past her.
-
-The book remains open on the desk. The quill, its owner, and the chickadee named "зима" have all disappeared.
-
-**Sonetto**：Mr. Зима ...?
-
-**Sonetto**：Did I say something wrong ...?
-
-> **Title card：** Archives, Foundation
-
-**Sonetto**：Every time I ask him a question, it seems like he doesn't want to answer.
-
-**Sonetto**：And what did he mean by "stone"?
-
-**Sonetto**：Well ... I could take a look at his file. Maybe it'll help me avoid making the same mistake again.
-
-**Sonetto**：I'll just take a little peek ...
-
-**Sonetto**：...?
-
-The file contains only a few pages, despite covering half of his life within it.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -251,6 +150,8 @@ The file contains only a few pages, despite covering half of his life within it.
 > The thick woods, glowing campfires, and plenty of agile and daring companions.
 
 <!-- reader-body:start -->
+> **Title card：** Whispers in Black Forest
+
 Sonetto stands under the overhead light, slowly reading aloud the words in her hands.
 
 **Sonetto:** "In 1912, the poet was charged with 'insulting the highest authorities.' He was sent to Eastern Siberia, then transferred through various prisons, and eventually exiled to a solitary island."
@@ -380,126 +281,13 @@ By now, she has fallen into a nearby chair and is sitting in contemplation. Her 
 "These quiet years lasted at least until the mid-1920s."
 
 "Until a human journalist from the government set foot in that land of the Far East."
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** The thick woods, glowing campfires, and plenty of agile and daring companions.
-
-> **Title card：** Whispers in Black Forest
-
-Sonetto stands under the overhead light, slowly reading aloud the words in her hands.
-
-**Sonetto**："In 1912, the poet was charged with 'insulting the highest authorities.' He was sent to Eastern Siberia, then transferred through various prisons, and eventually exiled to a solitary island."
-
-**Sonetto**："Over the next decade, he lived there in isolation ..."
-
-**Sonetto**："His poetry ... was inseparable from ... the animals on the island ..."
-
-In the forest, Зима sits on a rock in a clearing.
-
-A group of animals surrounds him. A small forest gathering.
-
-**Зима**：..."Believe not in the unbelievable,"<br>"And touch not that which is untouchable,"
-
-A brown bear beside him places a thick paw on his arm, making the parchment in his hand wobble.
-
-**Зима**：Sir, please don't touch ...
-
-**Зима**：There should be no pause here. It interrupts the meter.
-
-**Зима**：Ahem.
-
-**Зима**："Look not back on the path you did not take,"<br>"Iron wings, a warning to the hunter makes."<br>"Yet in his greed, he disregards it still."
-
-On his left, a fox paws his sleeve disapprovingly.
-
-**Зима**：Please behave. Wait until I'm done ...
-
-**Зима**：..."Try as he might he cannot reach his prey,"<br>"Futility destroys his world this day."
-
-A sable drapes itself around his neck. It whispers in his ear.
-
-**Зима**：... Yes, you're right. The hunter is simply incorrigible.
-
-**Зима**：And ... I'm afraid there are still many such people in the world.
-
-**Зима**：May they reap what they sow ...
-
-In the background of this harmonious scene, a reindeer shakes its antlers.
-
-Her dissent nearly knocks the poet off the rock upon which he is sitting.
-
-**Зима**：Ah, miss ...!
-
-**Зима**：I ... ahem, ahem. I understand.
-
-**Зима**：You're saying that the hunter is just trying to survive ... I ... I simply don't agree.
-
-**Зима**：It is out of vanity, not hunger, that he refuses to return empty-handed.
-
-**Зима**：Are there truly gems in a pigeon's belly? The branch it perches on cannot bear, um, the weight of a man ...
-
-**Зима**：The hunter aims to persecute the pigeon, yet it warns him. When he falls into the snow, the snow embraces him.
-
-**Зима**：Truly ... forgiving.
-
-**Зима**：Yes, it reminds me of ...
-
-**Зима**："How can we not love earth more than heaven?"
-
-**Зима**：Nature is the fabric of our world.
-
-**Зима**：We are like potted plants ... placed amidst its great garden.
-
-A chickadee flies from afar, landing firmly and accurately on his shoulder.
-
-Surprise and intimacy. A pair of long-lost friends.
-
-**Зима**：My friend!
-
-**Зима**：You've been gone for so long. I had begun to think that you had fallen into a ... a hunter's trap.
-
-The surrounding animals immediately become alert.
-
-**Зима**：But there are no hunters here ...
-
-**Зима**：Just us.
-
-The hickadee shakes its head and chirps, displeased.
-
-It looks desperate for the full attention of its friends.
-
-**Зима**：What did you say?
-
-**Зима**：Wha—
-
-**Зима**：...!
-
-**Зима**：... No, I, ahem! Ahem, ahem. I should ... go ...
-
-The news leaves him trembling. Зима's papers scatter to the ground, but he is too hurried to pick them up.
-
-He leaps down from the rock, puts out the fire, and disappears into the depths of the forest.
-
-His friends, of course, follow close behind.
-
-"According to the poet's own account, the years on the island were marked by 'bitter cold and loyal companions.'"
-
-**Sonetto**："'Many friends ...'"
-
-By now, she has fallen into a nearby chair and is sitting in contemplation. Her gaze lingers on the file.
-
-"These quiet years lasted at least until the mid-1920s."
-
-"Until a human journalist from the government set foot in that land of the Far East."
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -1441,6 +1229,8 @@ The echoes reach the ears of a neatly uniformed duo, a little way away. They are
 > Somebody has to tell the truth, right?
 
 <!-- reader-body:start -->
+> **Title card：** Poet in the Street
+
 The two Foundation investigators trudge through the snow, like two cats with broken whiskers, making their way towards the rocks.
 
 **Investigator II:** It's rather crowded ... If we dug down right here, do you think we'd strike oil?
@@ -1558,138 +1348,13 @@ The howls of beasts and the cries of birds echo from the forest behind him.
 **Investigator I:** He must be. And now we know why.
 
 **Investigator I:** He's a poet.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Somebody has to tell the truth, right?
-
-> **Title card：** Poet in the Street
-
-The two Foundation investigators trudge through the snow, like two cats with broken whiskers, making their way towards the rocks.
-
-**Investigator II**：It's rather crowded ... If we dug down right here, do you think we'd strike oil?
-
-**Investigator I**：I suggest we wait for the crowd in front of that rock to disperse a bit before we collect samples from the carvings on it.
-
-**Investigator II**：Got it. You are the chief investigator, after all. What choice do I have but to listen to you?
-
-**Investigator I**：Even so, I'd rather we make decisions together.
-
-**Investigator II**：Understood! Not to interrupt, but there seems to be some commotion over there.
-
-**Investigator II**：By the—let me see ... the biggest rock over there.
-
-**Investigator II**：I suggest we go over and see what's going on.
-
-**Investigator I**：... Agreed.
-
-As they approach, the sound of argumentation grows louder. The debaters are stubbornly holding their ground.
-
-A crowd has gathered around them, awaiting the result with bated breath.
-
-**Tourist I**：... But it wouldn't be impossible to develop this island, even so far from the mainland ... After all, that's what several tsars spent two hundred years doing.
-
-**Tourist III**：So if these are fake, who is зима's ghostwriter?
-
-**Tourist II**：I still don't think there's a ghostwriter ...
-
-**Tourist II**：Whether written on parchment or stone, there is an amazingly consistent and special warmth maintained in the language. It would be extremely difficult for a city dweller to emulate it.
-
-**Tourist II**：I'd really like to meet the author ...
-
-After a brief silence, the dissenter speaks again. This time with words of praise.
-
-**Tourist III**：He's actually quite admirable.
-
-**Tourist I**：... The "savage," you mean?
-
-**Tourist III**：Think about it: if it's true, then this person has been living here in this place for all these years. Somehow, he's survived while writing beautiful poetry in the process. And for some reason, he never escaped or left, even after becoming famous.
-
-**Tourist III**：On the other hand, if it's false, it still means that someone has taken the time to scratch all these poems into these stones and write in three languages on those parchment papers you saw ... It's quite a feat.
-
-**Tourist II**：Yes, from that perspective, it's remarkable nonetheless.
-
-**Tourist I**：It actually is ...
-
-A consensus, however brief, has been reached.
-
-A new voice of dissent echoes from somewhere in the crowd.
-
-**???**：H-how disappointing.
-
-**???**：There's nothing ... r-remarkable.
-
-**???**：One could see this ... anywhere.
-
-**???**：Even a ... child could write this ...
-
-"The crowds seemed to have ruined everything."
-
-"They continuously poured onto the island, expressing their opinions about the engraved stones."
-
-"They persistently searched for any trace of the poet's existence."
-
-"But, this time, the poet did not hide."
-
-"He tried his best to get everything back to normal."
-
-**Tourist II**：Excuse me, do you know the poet? How else could you make such a judgment?
-
-**Зима**：…
-
-**Зима**：Anyone ... with eyes ... can see it ...
-
-**Tourist I**：Then you have insulted not just the poet but all of us too!
-
-**Зима**：These ... lines ... are so b-blunt and crude. The technique is ... inferior.
-
-**Зима**：It's like sticking straw ... into the tundra and p-praising ... the land's vitality ...
-
-**Tourist II**：Do you think you could write better?
-
-**Зима**：... I-it's just ... nonsense ... carved into stone ...
-
-**Зима**：Even you ... could write ... better.
-
-**Tourist III**：I suppose you are a famous poet yourself. May I ask what works you've written? When I return, I shall seek them out and read them.
-
-This comment is met with a wave of laughter. During the conversation, the crowd has divided into two distinct camps.
-
-The instigator, who is vigorously disparaging these poems, stands alone in the center, like Moses after he parted the Red Sea.
-
-The difference is that this "Red Sea" has not parted to give way to him, but to allow them to confront him more fiercely.
-
-**Зима**：…
-
-**Зима**：I ...
-
-The chickadee perches on his shoulder, pressing against his neck, eager to alleviate this moment of speechlessness.
-
-Language, whether written by hand or spoken from the tongue, has never seemed so pallid as it does at this moment.
-
-**Зима**：…
-
-In the strained silence, a faint, blue, icy halo appears beneath his feet.
-
-The howls of beasts and the cries of birds echo from the forest behind him.
-
-**Investigator II**：Look! The man in the middle.
-
-**Investigator I**：It's the same arcane fluctuation!
-
-**Investigator II**：He looks pretty much the same as the others. Is he the arcanist who's been carving things all over the place?
-
-**Investigator I**：He must be. And now we know why.
-
-**Investigator I**：He's a poet.
 
 > **Title card：** TO BE CONTINUED…
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -2019,6 +1684,8 @@ Everything feels small before this vast horizon.
 > Don't worry, the future isn't all doom and gloom.
 
 <!-- reader-body:start -->
+> **Title card：** Something Else
+
 "The poet accepted."
 
 "He completed the registration the next month, the only additional condition being that he would 'continue to stay on the island.'"
@@ -2160,142 +1827,13 @@ But a young voice says,
 A budding sprout, the branching veins of a leaf, ...
 
 The two signatures form a journey that has never been taken.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Don't worry, the future isn't all doom and gloom.
-
-> **Title card：** Something Else
-
-"The poet accepted."
-
-"He completed the registration the next month, the only additional condition being that he would 'continue to stay on the island.'"
-
-"After three months of negotiations, the Foundation retrieved the exhibited manuscripts from the authorities."
-
-"But the poet never returned to take them."
-
-"The original copies are currently housed in the Far East branch of the Foundation library. Copies are also available for reference at other branches."
-
-**Sonetto**：The library ...
-
-**Sonetto**：I'll go check there in a bit.
-
-She leafs through to the end of the file. There is only a half-blank page and the hard back cover.
-
-Scrawled in the margin is an almost imperceptible signature.
-
-зима
-
-**Sonetto**：... But before I go, there's one more thing I have to do.
-
-The sky is brightening as the morning mist clears. Platinum awnings dot the beach.
-
-In the distance, a heavy barge from Amur is outlined against the shore.
-
-Magnificent, yet small. It bobs like an iceberg floating in the sea.
-
-**Зима**：... The ship is here.
-
-Зима stands on the dock, surveying the scene as he did when he first set foot on the island.
-
-The chickadee by his ear chirps a question, and he answers.
-
-**Зима**：I still ... don't know.
-
-**Зима**：Perhaps I should go to the Foundation.
-
-**Зима**：Just like they said ...
-
-**Зима**：There are many people ... like me there.
-
-**Зима**：I can write poems and forget all about the wilderness, fires, sickness, and hunger ...
-
-**Зима**：I won't be bothered by those people.
-
-**Зима**：It'll be like ... heaven.
-
-**Зима**：I just need to board the ship.
-
-**Зима**：Do you understand?
-
-The chickadee sings a poem, which fails to answer the question.
-
-A fleeting smile crosses Зима's face.
-
-**Зима**：... You understand.
-
-**Зима**：But ...
-
-**Зима**：Here, the sun and moon are eternal.
-
-**Зима**：Eternal stones, walnut shells, parchment, and ...
-
-**Зима**：... all of you.
-
-**Зима**：…
-
-**Зима**：The joys of heaven are too vast and too remote ...
-
-**Зима**：…
-
-**Зима**：Let's go back.
-
-> **Title card：** Corridor, Suitcase
-
-The corridor leading to the library is as empty as it was when she left.
-
-**Sonetto**：Mr. Зима is usually here at this hour ...
-
-**Sonetto**：I hope he didn't change his plans.
-
-Sonetto gently knocks on the half-open door.
-
-**Sonetto**：... Mr. Зима?
-
-The only response is the chirping of a chickadee.
-
-зима is indeed there, along with a scroll of parchment and a bottle containing a strip of paper.
-
-**Sonetto**：That's the parchment I took out earlier.
-
-**Sonetto**：And ... a bottle? There's a paper inside. Is it for me?
-
-зима gives an earnest nod.
-
-**Sonetto**：Okay. I'm going to open it.
-
-**Sonetto**："—Please—read—"
-
-**Sonetto**：Huh? Please read what?
-
-She looks up. зима has already unfolded the parchment on the table with its beak.
-
-**Sonetto**：... Ah.
-
-Of course, a poet would present a poem.
-
-Poetry can give voice to the dead.
-
-Poetry can be a prophecy or simply an expression of one's thoughts and emotions.
-
-In one hundred feet of snow,<br>A dead branch a quill will be, sufficient<br>To write about the moon's passage both night and day;<br>To write about the frosted needles caught in treetops, the sound of the wind;<br>To write about the nothingness of night and the all-embracing sea.<br>They light a bonfire,<br>Crackling, flickering,<br>And before the fire leaves their eyes, they sing,<br>What did you see?<br>The rocks do not reply,<br>But a young voice says,
-
-"Humanity."
-
-зима's small, distinct black claw marks are stamped on the corner of the parchment.
-
-A budding sprout, the branching veins of a leaf, ...
-
-The two signatures form a journey that has never been taken.
 
 > **Title card：** THE END
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---

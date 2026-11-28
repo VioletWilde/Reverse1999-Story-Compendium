@@ -861,8 +861,6 @@ COMBAT:
 
 > **Action：** Pick up.
 
-- Description：A notebook pieced together with tattered pages, it tells of a gruesome Green Lake mystery.
-- Action：Pick up.
 
 
 ---
@@ -1544,6 +1542,8 @@ The critter roars in pain, waving its huge claws wildly. The Recorder is hit and
 > The last photograph of the best howler, it's dizzying and dotted with shining stars.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Tooth Fairy:** It escaped, taking my precious collection away.
 
 **Vertin:** Nah, there's no way to follow it. The trees it pushed down have blocked the path. This would take us some time.
@@ -1655,132 +1655,13 @@ The blonde girl falls silent for a brief moment and then storms away.
 **Tooth Fairy:** Kids, if you find any teeth, please pick them up and hand them to me.
 
 **Blonney:** Hurry up, Freddie. I'm freezing!
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** The last photograph of the best howler, it's dizzying and dotted with shining stars.
-
-> **Title card：** A Nightmare at Green Lake
-
-**Tooth Fairy**：It escaped, taking my precious collection away.
-
-**Vertin**：Nah, there's no way to follow it. The trees it pushed down have blocked the path. This would take us some time.
-
-**Vertin**：That was definitely not your usual critter. Ms. Tooth Fairy, what kind of traces did you find earlier?
-
-**Tooth Fairy**：Most of them were left by medium and small critters. Claw marks of giant critters are clear but few. There's probably one critter of such an immense size.
-
-**Tooth Fairy**：Besides, we need to offer an explanation to that lady.
-
-**Vertin**：Of course.
-
-They all look at the center of the chaos, who seems to feel the gazes and turn back in confusion.
-
-**Horropedia**：Why are you all staring at me? Do I have something on my face or my clothes?
-
-Tooth Fairy turns her face to the film crew. The actors stand in a circle, with fake blood all over their bodies. Blonney lets out a mournful cry.
-
-**Blonney**：Camera, my camera, my God. The roll films are ruined, too.
-
-**Anne**：There, there, Jennifer.
-
-**Anne**：Perhaps I can try piecing it together and fix it for you. Would it help you to feel better?
-
-**Blonney**：It's no use. Everything in it has gone—every take I took!
-
-**Horropedia**：Yeah, like what Anne said, don't be sad. Thanks to your generosity, none of us were injured.
-
-Blonney looks up, and the brittle pieces of burnt camera fall to the ground from her hand.
-
-**Blonney**：What did you just say?
-
-**Horropedia**：I'm trying to comfort you. Don't glare at me. Actually, I think this is unnecessary, but they made me.
-
-The young man lowers his head, keeps his voice down, and tilts his head toward the people behind him.
-
-**Horropedia**：See? Behind me, the girl with the hat and the girl in the white …
-
-**Blonney**：Ah, unnecessary? You think it's unnecessary? Do you have even the slightest idea of what you have destroyed?
-
-The blonde girl is shaking. Her face is clouded with anger.
-
-Her manicured nails nearly poke Horropedia's nose like sharpened little knives.
-
-**Blonney**：Make your four eyes useful and look at these. What do you think they are?!
-
-**Horropedia**：Alright, calm down. Let's be reasonable.
-
-**Horropedia**：If you were mad because of your movie, I am really sorry. But at that very moment, I thought our safety mattered the most.
-
-**Horropedia**：Also, I have good news for you. This Recorder is meant for taking daily family videos. The clips taken by it aren't nearly enough to be called a movie.
-
-**Horropedia**：So, to some extent, I just prevented you from shooting a disastrous movie.
-
-**Horropedia**：If you are looking for any financial compensation, please talk to the girl with the hat.
-
-**Blonney**：Ugh, ah! Come again? Who is going to make a disastrous movie? Ugh, no, don't change the subject!
-
-**Blonney**：Movies, ha! No, I'm not raging over some movies. I don't care about this stupid s**t at all!
-
-**Blonney**：You think money can get you out of trouble? It doesn't even come close! That was a limited collaboration product of Recorder and Lugus. You can only find three of these all over the world. Only three!
-
-**Blonney**：It's more valuable than any jewelry or luxury handbags!
-
-**Blonney**：The suede decoration on it alone can buy 200 of your stupid head, dumbass!
-
-**Blonney**：Shoot! My makeup!
-
-**Blonney**：What are you sticking there for? Go clean the broken trunks and branches off the path! We have to get back to the cabin as soon as possible. I have no desire to catch a cold in the rain!
-
-Someone comes to her side.
-
-**Tooth Fairy**：This is not a safe place for you. Get back to the town, find a hotel, and take a hot shower.
-
-**Tooth Fairy**：My students and I will escort you to the main road at the edge of the woods and arrange a car for you.
-
-**Tooth Fairy**：If any of you have symptoms like an itchy throat or rising temperature, please buy some Robitussin or similar drug at the nearest pharmacy.
-
-**Blonney**：Ah! No, I'm not leaving! The movie is not finished.
-
-**Blonney**：As long as you take care of that big monster, I can continue with my project to get that stupid s**t movie done.
-
-**Anne**：But, we don't have that cam- ... camer- ...
-
-**Blonney**：Camera! You dumb girl!
-
-**Blonney**：You have no idea what we are doing here, so don't tell me what to do if the best you could do is handcraft some props!
-
-**Tooth Fairy**：Staying here is really not a wise choice for you.
-
-**Tooth Fairy**：It is very dangerous, and you can't protect yourselves.
-
-**Blonney**：It's our right to stay here. You can't just expel us.
-
-**Tooth Fairy**：You are, of course, entitled of the right to stay, Ms. Blonney.
-
-**Tooth Fairy**：But I hope you could keep in mind that you and your friends are in grave danger. The Green Lake Campsite is not a place for fun.
-
-**Tooth Fairy**：You should stay with us for the sake of your safety.
-
-**Tooth Fairy**：The rain is getting heavier. We might catch a cold. Let's clean up the road and head for the shelter.
-
-The blonde girl falls silent for a brief moment and then storms away.
-
-**Blonney**：All this gibberish is to scare us off. Come here, Freddie!
-
-**Blonney**：Go into the campsite and see if you can find some axes for us.
-
-**Tooth Fairy**：Kids, if you find any teeth, please pick them up and hand them to me.
-
-**Blonney**：Hurry up, Freddie. I'm freezing!
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Repair the Wooden Bridge
 
@@ -1798,8 +1679,6 @@ The blonde girl falls silent for a brief moment and then storms away.
 
 They push and shove each other, begrudgingly clearing the way for you.
 
-- Description：The branches are denser and the rain more sparse. Rather than rush on ahead, many creatures choose to pause here instead.
-- Action：Clear the Congestion
 
 
 ---
@@ -1811,6 +1690,10 @@ They push and shove each other, begrudgingly clearing the way for you.
 
 <!-- reader-body:start -->
 Living area of the Cabin
+
+
+
+> **Title card：** A Nightmare at Green Lake
 
 **Sonetto:** The lock has been broken. Those are bite marks from small critters. They might have nested inside.
 
@@ -2069,254 +1952,13 @@ The rest of them look at each other. Suddenly, Horropedia gasps and rubs his sho
 **Horropedia:** He said and did all the things you shouldn't be doing.
 
 **Horropedia:** We are in a horror movie. His actions are like taking some sleeping pills, putting the noose around his neck, and shooting himself in the head.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** I climbed the creaky wooden stairs to see the dusty treehouse.
-
-### Segment 1 · `script 200207`
-
-> **Title card：** A Nightmare at Green Lake
-
-> **Title card：** Living area of the Cabin
-
-**Sonetto**：The lock has been broken. Those are bite marks from small critters. They might have nested inside.
-
-**Horropedia**：This damn place has power supply? Who'll pay for the bill?
-
-**Sonetto**：Maybe it has underground cables, or it's powered by some generation sets left by Zeno. Wait, stop here.
-
-**Sonetto**：To your right, by the corner of the stairway, there are three ... no, at least three of them.
-
-**Horropedia**：They are getting closer. Blondie, take your friends away.
-
-**Critter Crowd**：Coo ...!
-
-### Segment 2 · `script 200208`
-
-**Blonney**：Strange ... I remember I left it here. Where's the camera?
-
-**Anne**：Are you looking for something? Perhaps I can help.
-
-**Blonney**：No one asks for your help. Go away.
-
-Blonney extends her arm and stops the girl.
-
-**Blonney**：If you have nothing better to do, go clean the house up. I need a place to rest.
-
-**Anne**：Yes, sure, you must be tired. Don't worry. I'll take care of it.
-
-**Sonetto**：Let me give you a hand, Anne.
-
-**Anne**：That'd be great. The tools are in the closet. This won't take us long.
-
-The cleaning is finally done. Anne and Sonetto walk around in the living area, handing out blankets they found in the cabinet.
-
-Michael sniffs, turning his eyes speculatively.
-
-**Michael**：So, you guys are really the investigators from the St. Pavlov Foundation?
-
-**Anne**：What is St. Pavlov Foundation?
-
-**Michael**：No way! You've never heard about St. Pavlov Foundation?
-
-**Sonetto**：St. Pavlov Foundation is an official institution that takes in and organizes arcanists, Anne.
-
-**Sonetto**：My friends and I work for them. We will try our best to keep everyone here safe.
-
-**Michael**：I've never met a real one. What do you guys normally do? Taking humans for subject research? Roaming around to snoop on the political parties? Are those stories true?
-
-**Sonetto**：Human subject ... research? Political parties? Pardon me. I don't follow you.
-
-**Sonetto**：We will never do harm to any human. It's strictly stipulated.
-
-**Michael**：Save your bureaucratic rhetoric, little girl!
-
-**Michael**：I've read those books. I know you've done some dirty things. Tell me!
-
-**Blonney**：Shut your face, Michael. I recruited you to play the Fool, not asking you to really be one!
-
-**Blonney**：Don't bring disgrace on us for going to Vines State College with you.
-
-**Vertin**：You are all students from Vines State College?
-
-**Blonney**：Yes, Faculty of Filmmaking. This fool here is a chemistry student. The big guy over there is an art student on English literature and poetry.
-
-**Blonney**：It's one of my assignments to make a movie during the semester break.
-
-**Blonney**：So I hired every useless meathead available and traveled all the way to this s**thole, just to shoot a stupid horror movie.
-
-**Horropedia**：Stupid horror movie?
-
-**Horropedia**：I thought you loved horror movies.
-
-**Blonney**：Eww! Don't disgust me!
-
-**Blonney**：Who would possibly have interest in the movies filled with characters in sweat and dust and presenting zero romance or any nice costumes?!
-
-**Horropedia**：You mean you are not interested in horror movies but determined to film one here?
-
-Blonney pauses for a second, wrapping herself tighter in the blanket.
-
-**Blonney**：You tell me. They are cliched, meaningless, but easy to make.
-
-**Blonney**：They are the easiest option for this assignment. That's it. I've never liked any of them.
-
-**Horropedia**：Oh, I see.
-
-**Horropedia**：That's why you selected this awful script, all these beautiful but useless props, and such an untrained cast.
-
-**Blonney**：Ah! What did you say?! Awful script?!
-
-**Horropedia**：Well, I've read your script. It is illogical and dull. The conflicts are not strong enough.
-
-**Horropedia**：Or we can call it classic, but, in another word, it's stale.
-
-**Horropedia**：I really wonder, how did you get admitted to the filmmaking faculty? The admission criteria for Vines State College should be quite difficult to meet, hmm.
-
-**Blonney**：You! What do you know about filmmaking? You're no one but a spawn of the Foundation, like those bodyguards my daddy has.
-
-**Jason**：Come on, relax, Blonney.
-
-Jason lifts one arm and rests it on the girl's shoulder.
-
-**Jason**：If your dad didn't sponsor the two library buildings, you would not be here studying filmmaking.
-
-**Jason**：And you look exactly like an arcanist when you get mad. Don't ... It's not a good look.
-
-**Blonney**：F**king say that again? Think you can take a punch from me?
-
-**Blonney**：I'm not in a good mood today. I just lost a camera, so you can keep on pissing me off if life has been too good for you!
-
-**Jason**：Wow, wow, wow! Normally, you wouldn't be so mad over a little joke like this. Are you making a fuss now because your arcanist "friends" got your back?
-
-**Anne**：Jason! Jennifer is trying to finish a project. You shouldn't be mean to her!
-
-**Anne**：And Jennifer, please don't get into a fight with him. Isn't he your friend?
-
-**Anne**：I thought friends won't say hurtful words to each other. I don't understand. Is this the way people make friends in the outside world?
-
-Her words of mediation seem only inadequate and useless in front of Blonney's anger. The young girl jumps onto her classmate like a furious cat.
-
-She pulls Jason's hair and ears, yelling in rage.
-
-**Blonney**：I will knock off every tooth in your mouth and give them away to that crazy teeth collector.
-
-**Blonney**：Only in this way can your empty head remember how much I hate being called an "arcanist"!
-
-Angry scratches appear on the man's face, and he seems equally mad.
-
-**Jason**：But you are always an arcanist. Although you've tried every means to be a human, it won't change your identity!
-
-The Foundation's investigator does not plan to stand aside and watch.
-
-**Horropedia**：However much you despise us, many brilliant playwrights are arcanists.
-
-**Anne**：Mr. Horropedia, please stop making this worse.
-
-**Blonney**：You jerk!
-
-**Tooth Fairy**：Quiet.
-
-As Tooth Fairy knocks on the table with her glass jar, the sparkling creatures inside are frightened and start to hit the jar.
-
-**Tooth Fairy**：If you don't shut up now, I will shut you all up forever.
-
-**Blonney**：…
-
-**Tooth Fairy**：Ms. Anne has a point. This is not how friends get along.
-
-**Tooth Fairy**：Ladies and gentlemen, we are not here to fight. We need to cooperate.
-
-**Tooth Fairy**：I don't expect you to love each other, but no more fights. I don't care whether you are arcanist or human.
-
-**Tooth Fairy**：Now, sit back on the sofa, everyone.
-
-**Horropedia**：I'm sorry, Ms. Tooth Fairy.
-
-**Anne**：I'm sorry too. I should have stopped them.
-
-**Jason**：Humph!
-
-The young people sit back on the couch. There is a strange, uncomfortable silence in the room.
-
-**Blonney**：...
-
-**Vertin**：Blonney, is Anne also recruited as an actress? She is not as restless ... energetic as your classmates.
-
-**Blonney**：No, she isn't. She is a local villager. We met by the edge of the woods.
-
-**Blonney**：As well as Rod, the one that plays the Butcher. That's everyone in my crew. Now, if your curiosity has been well satisfied, leave. I need a break!
-
-Freddie, who is hiding in the corner, suddenly talks to Blonney in a low voice.
-
-**Freddie**：Sorry to interrupt you when you are not in a good mood. Actually, Rod didn't come here. He's hospitalized. Do you remember?
-
-**Blonney**：He's not here? Then who played the Butcher?
-
-**Freddie**：Isn't he another actor you hired? Together with Anne, in the town near the woods.
-
-**Blonney**：No, I've never looked for any other actors!
-
-**Blonney**：The only new actor I hired is Anne, because she looks almost like a twin to Anna, and Anna is absent because of her stomach flu.
-
-**Blonney**：Oh, wait. Right, Anna is in hospital because of her stomach flu, which was a result of that toad bark stew she had with Rod. So Rod, Rod was not in the car with us when we left.
-
-**Freddie**：Holy Mother of God.
-
-**Blonney**：That ... that is, we've been with a "butcher" whose identity is unknown to all of us ...
-
-**Blonney**：Ahhh!
-
-**Anne**：Jennifer, don't worry. I will protect you!
-
-**Blonney**：How is this possible! When did this place get so dark! What time is it now? Hey! Freddie, stop whining and take a look at the clock!
-
-**Freddie**：Okay, okay. Afternoon, afternoon, 1 p.m.
-
-Outside the window, there is midnight darkness. Nobody notices when the sun is gone.
-
-Freddie looks up. His lips are shaking. His face turns pale and twists strangely.
-
-**Freddie**：Is that Ro- ... nope, that butcher? He is going to slaughter us. He is truly a cold-blooded murderer!
-
-**Jason**：Don't freak out, Freddie. A murderer is not someone you frequently meet. We are not shooting a horror movie.
-
-**Horropedia**：Actually, you are.
-
-**Horropedia**：A giant monster, a fake friend of yours, a sudden nightfall … Anything here not like a horror movie?
-
-**Jason**：Damn it! Aren't you being paranoid enough? Do you want the situation to get messier?
-
-**Jason**：You! Sit down! I will go check the electrical panel and fix it. It will bring back the light and restore your sanity.
-
-**Horropedia**：Hmm. Negative from me.
-
-**Horropedia**：Those who remain alone in a horror movie never end up safe and sound. If the butcher is really lingering outside the door, you will be his "first blood."
-
-**Horropedia**：Although you are rude, impolite, and suspected to ancestry discrimination, I suggest you to take someone with you for the sake of your safety.
-
-**Jason**：Back off, you troll!
-
-Jason walks out of the cabin in anger. The wooden door is forcefully shut behind him.
-
-The rest of them look at each other. Suddenly, Horropedia gasps and rubs his shoulder. It's aching due to the push just now.
-
-**Horropedia**：He really didn't do that on purpose, did he?
-
-**Vertin**：What on purpose?
-
-**Horropedia**：He said and did all the things you shouldn't be doing.
-
-**Horropedia**：We are in a horror movie. His actions are like taking some sleeping pills, putting the noose around his neck, and shooting himself in the head.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -2327,6 +1969,8 @@ The rest of them look at each other. Suddenly, Horropedia gasps and rubs his sho
 > First the "loner", then the "failed fugitive". Now more than ever, we must act together.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 No one talks while waiting for Jason. They lower their heads, hoping the torturous waiting would end soon.
 
 **Horropedia:** It has been 7 minutes and 25 seconds since our Bro the Brave took the one-man mission.
@@ -2435,6 +2079,10 @@ She throws the glittering glass jar to her friends and runs into the forest with
 
 **Sonetto:** May the peace be with us.
 
+
+> **Title card：** 2#1
+
+
 ***
 
 COMBAT:
@@ -2442,126 +2090,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** First the "loner", then the "failed fugitive". Now more than ever, we must act together.
-
-> **Title card：** A Nightmare at Green Lake
-
-No one talks while waiting for Jason. They lower their heads, hoping the torturous waiting would end soon.
-
-**Horropedia**：It has been 7 minutes and 25 seconds since our Bro the Brave took the one-man mission.
-
-**Horropedia**：I have never fixed a panel before. Can anyone tell me if it's normal to take this long?
-
-**Tooth Fairy**：From my experience in human society, it is not too long.
-
-**Tooth Fairy**：If the device has been drastically destroyed or the maintenance man is not familiar with that model, it will take a longer time to fix. This is not unusual.
-
-**Vertin**：We need to go outside to find him.
-
-**Vertin**：We are not in the human society. Aside from the "butcher," he might confront some other troubles.
-
-**Vertin**：Sonetto, you stay here with Ms. Tooth Fairy. I will go find Jason with Horropedia.
-
-**Vertin**：No matter if we find him or not, we'll come back in five minutes.
-
-**Tooth Fairy**：What if you don't?
-
-**Vertin**：Then it means we are not in the kind of horror movie where misfortune only happens to "lone wolves."
-
-**Vertin**：If we don't come back, please evacuate the whole campsite and contact rescue.
-
-**Michael**：Jason? Yeah, it's Jason! He fixed the lights!
-
-The lights ease their anxiety and fear. Michael stands up from the couch with a hint of hope.
-
-He looks at the door with joy, hoping to see Jason walking in from there with open arms and mocking them for chickening.
-
-But the wait goes on, and on, and on.
-
-**Michael**：I … I can't stand it. This place sucks. I can't stay here for another second!
-
-**Michael**：Pack your bags. We are done with that film. Everybody get into the car with me. Let's go!
-
-**Horropedia**：Relax, man.
-
-**Horropedia**：Firstly, "lone wolf" disappears. Next, it will be the people who "failed to escape." Now we must stick together.
-
-**Horropedia**：At least the rain was the origin of all these weird things. You shouldn't have walked into it.
-
-**Vertin**：I remember the weather broadcast said there won't be any rain in this area today.
-
-**Vertin**：Like the story of Zeno Youth Force, we are in real danger now.
-
-**Anne**：Zeno? Zeno Armaments Engineering and Technology Academy?
-
-**Horropedia**：You know it? Are there anecdotes about Zeno in the town as well?
-
-**Anne**：They used to live here, in this cabin.
-
-**Michael**：Enough! Stop!
-
-**Michael**：Anne, stay away from those weirdos. We're leaving!
-
-**Anne**：Michael, we should listen to Vertin and her friends and stay ... ah!
-
-**Michael**：If … if Rod can be fake, this whole campsite can also be an entire illusion!
-
-**Michael**：You guys look normal, just like ... like any ordinary people whom we would possibly run into in a place like this. But then you will infiltrate …
-
-**Vertin**：Please calm down. We've only been trying to help.
-
-**Michael**：I … I won't be deceived anymore! I will shoot you. Stay away from me!
-
-One hand holding the gun, the other seizing Anne in his arm, Michael takes a few steps back to reach the door.
-
-**Michael**：Jason is right! Arcanists are all insane! I won't let you get into my car. You guys, stay here and wait for the butcher to get you!
-
-Michael storms out into the rain with Anne.
-
-**Blonney**：Damn it! How dare you leave without me!
-
-**Sonetto**：Blonney! Wait!
-
-**Vertin**：We can't let them leave like this. Hurry up.
-
-As time passes, Sonetto can feel the rain soaking her clothes.
-
-She wipes the water off her face and looks around.
-
-**Sonetto**：This is not good. It's too dark out here, hardly visible.
-
-**Sonetto**：Michael must have driven out of here, but how did Blonney disappear in the blink of an eye?
-
-**Tooth Fairy**：To the South. The skid marks and footprints all point to the south.
-
-**Tooth Fairy**：Here are the claw marks of the critter. They might be in danger. We need to hurry up.
-
-**Vertin**：Over here. I found her!
-
-**Giant Critter**：Coo ...!
-
-**Blonney**：He- ... Help ...
-
-**Sonetto**：Blonney, please stay still! We are coming for you!
-
-**Vertin**：Ms. Tooth Fairy and Horropedia, please follow them! Sonetto and I will handle this!
-
-**Tooth Fairy**：Be careful. This critter is very malicious. Use this if needed.
-
-She throws the glittering glass jar to her friends and runs into the forest with Horropedia.
-
-**Sonetto**：The rain has healed its wounds. It's getting stronger and harder to deal with.
-
-**Sonetto**：May the peace be with us.
-
-> **Title card：** 2#1
-<!-- client-body:end -->
-
-</details>
 
 ### Trail · Symphony Orchestra
 
@@ -2573,8 +2102,6 @@ She throws the glittering glass jar to her friends and runs into the forest with
 
 You add a rest to the movement.
 
-- Description：The sound of rain, a crash, a loud rumble, then the crackling of flames. The writhing musicians invite you to play with them.
-- Action：Decline
 
 
 ---
@@ -2585,6 +2112,8 @@ You add a rest to the movement.
 > She licked the glittering wing dust from her hand, recalling the tooth fairy's taste as it burst in her mouth.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Blonney:** Ugh!
 
 **Blonney:** My head, everywhere, hurts. Did I get pulled into pieces or ...
@@ -2810,246 +2339,13 @@ Blonney, shocked by what she heard, watches Tooth Fairy wrapping up her devices 
 **Tooth Fairy:** It seems I need to apologize to Vertin for letting out her secret.
 
 **Tooth Fairy:** But thank goodness, you are on her side now. Our negligence didn't cause much damage.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** She licked the glittering wing dust from her hand, recalling the tooth fairy's taste as it burst in her mouth.
-
-> **Title card：** A Nightmare at Green Lake
-
-**Blonney**：Ugh!
-
-**Blonney**：My head, everywhere, hurts. Did I get pulled into pieces or ...
-
-**Blonney**：Pi- … Pieces ...
-
-**Blonney**：No! Don't ...
-
-**Sonetto**：Blonney! You're awake.
-
-**Sonetto**：I have just given you first aid for the wounds. For now, we will have to wait for Ms. Tooth Fairy to administrate a thorough treatment when she comes back.
-
-**Sonetto**：Don't worry. She's very professional and skillful. You won't feel any pain in the process.
-
-**Blonney**：Am I ... am I in the cabin? Then I'm not dead. Good, I'm not dead.
-
-**Vertin**：You are safe. The critter is gone. Don't worry.
-
-**Vertin**：Follow me. Take a deep breath. Hold my hand. Another deep breath.
-
-**Blonney**：…
-
-Blonney gradually calms down, yet her hands are still trembling.
-
-**Vertin**：Do you feel better now?
-
-**Blonney**：Thank you. I feel much better now.
-
-**Blonney**：Oh, Anne! Where's she? Did she get hurt?
-
-**Vertin**：We didn't find her in the woods. Wasn't she in Michael's car?
-
-**Blonney**：No, she wasn't. She jumped off. She saw me being attacked by the critter and jumped out from the side window. Oh, no.
-
-**Blonney**：The butcher, he must have taken Anne! Must … be with him. I … I saw him too! He was walking towards her!
-
-**Blonney**：Just like what would happen in a horror movie ...
-
-**Vertin**：It's okay. Here, take my hand.
-
-**Vertin**：We know where she is now, this is good. We will get her back safe and sound.
-
-**Blonney**：Okay, I … I understand …
-
-The wooden door once again opens with squeaky noises.
-
-**Sonetto**：Ms. Tooth Fairy, you're back! Where is Michael?
-
-**Tooth Fairy**：They have gone.
-
-She takes a key out of her pocket and puts it on the table.
-
-**Tooth Fairy**：We are not able to catch up and intercept their car. It crashed on the ... the edge of the woods in front of us.
-
-**Sonetto**：Crashed on the edge of the woods? What do you mean?
-
-**Tooth Fairy**：I don't know, either. Their car was about to rush out of the woods, and then we heard a huge crushing sound.
-
-**Tooth Fairy**：The front section was squeezed together, and the rear wheels were lifted in the air. And there was an explosion. Looks like the car ... was crashing into an invisible wall.
-
-**Tooth Fairy**：It happened right in front of us, too quick and too astonishing.
-
-**Tooth Fairy**：We got to the car. The fire caused by the explosion was being extinguished by the rain. We found no one but this key.
-
-**Vertin**：Is it yours, Blonney?
-
-**Blonney**：No. Never seen it before.
-
-**Blonney**：I always have some decorations or a doll attached to the keychain. This one is rusty and too plain. It smells weird too, like dirt.
-
-**Vertin**：Anything special?
-
-**Tooth Fairy**：No. Neither mark nor labels. We didn't find anything to match it in the car.
-
-**Horropedia**：First, "lone wolf," then the "people who failed to escape."
-
-**Horropedia**：Things are getting too complicated, but there's one thing that I am certain of.
-
-**Horropedia**：We are now caught in a dangerously and classically plotted horror movie.
-
-After taking a break, they light a fire to warm the space.
-
-**Tooth Fairy**：That means Anne jumped off the car in order to save Blonney from the critter's attack. Then she got lost.
-
-**Tooth Fairy**：According to Blonney, the last thing she saw was the approaching butcher from the woods.
-
-**Vertin**：She is in great danger. We must act swiftly to save her.
-
-**Vertin**：Also, we need to turn this cabin into a security base for the upcoming battles.
-
-**Vertin**：Horropedia and I will rescue Anne. He is a horror movie expert, and it will be of great help.
-
-**Vertin**：In the meantime, you and Sonetto stay here to take care of Blonney and to secure this room.
-
-**Tooth Fairy**：I will take good care of her.
-
-The group splits into two halves. The one saying in the cabin starts to work.
-
-**Blonney**：Oh! This hurts!
-
-**Tooth Fairy**：Please bear with me for a minute. The wounds caused by critters are prone to tetanus. I need to thoroughly sterilize them.
-
-**Blonney**：How about some painkillers? Give me some!
-
-**Tooth Fairy**：I'm very sorry. I don't have any with me.
-
-**Blonney**：You! Didn't you say her treatment wouldn't be painful?
-
-**Sonetto**：I'm terribly sorry for what you're going through, but this is not the typical kind of treatment that we used to receive from her.
-
-**Blonney**：How did she do it, then?
-
-**Sonetto**：She would ...
-
-Sonetto looks at Tooth Fairy hesitantly until she sees a nod of permission.
-
-**Sonetto**：She would ask us to take the toothfairies, that is, those golden elves in the glass jar.
-
-**Sonetto**：They are effective in treating toothache and other oral diseases, but also can be used to reduce inflammation, stimulate wound healing, and relieve headaches.
-
-**Blonney**：Take ... You mean ... to eat ... this?
-
-**Sonetto**：Yes. And it actually tastes pretty nice, like mint and flavored dried plum. It ... it just looks a bit unconventional.
-
-**Blonney**：You would go as far as to eat this shi- ...
-
-**Tooth Fairy**：Please stretch your legs. I need to sterilize the inner thighs.
-
-**Blonney**：Aah ...!
-
-**Blonney**：Ah ...
-
-**Blonney**：Ugh! Okay, fine. I will take that. Bring me the little elflings!
-
-**Tooth Fairy**：Sorry, Blonney, you can't eat toothfairies as a treatment.
-
-**Blonney**：Why can't I? Of course, I can. I will just put it in my mouth and swallow with my eyes closed.
-
-**Tooth Fairy**：This is not about you. It is my own rule of treatment.
-
-**Tooth Fairy**：I have specific treatments for humans and arcanists correspondingly.
-
-**Tooth Fairy**：Through our contact so far, I got to know that you don't consider yourself as an arcanist, and that's why I will not treat you as one.
-
-**Blonney**：Are you upset about what I said? I … I owe you an apology. I shouldn't have been rude to arcanists in front of you.
-
-**Blonney**：I know it hurt your feelings. I was ... not myself.
-
-**Blonney**：I chose to live amongst humans, chose to be their friends, to be a "different arcanist" ...
-
-**Blonney**：I thought in this way I would be taken in as one of them. But, as you see, when things come to a critical moment, they ran away without me.
-
-**Blonney**：It was my car that they drove to escape, and yet they called me a freak and left me here to die. Huh! Funny, isn't it?
-
-**Tooth Fairy**：Sad story. I feel sorry for you.
-
-**Tooth Fairy**：But still, you can't take the toothfairies.
-
-**Blonney**：Is this a punishment for what I have done?
-
-**Tooth Fairy**：I can't feed you the toothfairies, only because you still think you are a human.
-
-**Tooth Fairy**：You don't recognize the behavior of your human classmates but still want to be on their side and be one of them.
-
-**Blonney**：Okay.
-
-**Tooth Fairy**：The wounds are packed.
-
-**Blonney**：Already? I … I didn't feel a thing.
-
-**Tooth Fairy**：I've applied Carbuncle growth promoter. It will paralyze, sedate, and accelerate your cell regeneration. Your wounds will close up in 30 minutes.
-
-**Blonney**：Isn't that a medicine for "arcanists"?
-
-**Tooth Fairy**：It is a prescription approved by the medicine examination supervised by Campbell. In this case, it doesn't violate my rule.
-
-**Blonney**：You could have applied this earlier and spared me the pain.
-
-**Tooth Fairy**：I don't rely on painkillers. I am an excellent doctor. Minimizing patients' pain is, of course, my forte.
-
-**Tooth Fairy**：When kids can't suppress their pain, I normally sing for them to ease their pain.
-
-**Blonney**：You didn't sing for me. Was it because you didn't want to?
-
-**Tooth Fairy**：Maybe. I confess, what you did and said at first was really annoying.
-
-**Tooth Fairy**：Arcanists and humans always act as if they were of one merged entity, but we all know how lines have been drawn between their own people and the others.
-
-**Tooth Fairy**：You grew up among humans, and you learned to look away from the truth as they did. Oh, but you do react better to the medicine for arcanists. Your blood is bringing you a good outcome. Look.
-
-**Tooth Fairy**：In another half an hour, your wounds will be fully recovered. By then, you will be able to jump and run freely, as if you were never hurt.
-
-**Tooth Fairy**：However you feel about your ancestry, it is helping you out.
-
-**Blonney**：My wounds ... a good outcome?
-
-Blonney, shocked by what she heard, watches Tooth Fairy wrapping up her devices and walking toward the stairs.
-
-**Sonetto**：Ms. Tooth Fairy, please wait.
-
-**Sonetto**：If what Mr. Horropedia has said is true, it's dangerous for us to split up. The three of us should stay together.
-
-**Tooth Fairy**：It will take another 25 minutes for her legs to fully recover.
-
-**Tooth Fairy**：If the situation were to develop based on the rules of "horror movies," at this stage, I am safe. Don't worry about me.
-
-**Sonetto**：I see. Have you also done a lot of research about this genre?
-
-**Tooth Fairy**：Hmm, not a lot. I just browsed the secret notebook left by Horropedia in the infirmary.
-
-**Tooth Fairy**：I covered him from the instructors to keep his notebook. Since then, we became friends.
-
-**Sonetto**：Keep, keep things from the instructors. Did you do this a lot?
-
-**Tooth Fairy**：Not really. The rules were extremely strict. Except for Horropedia, I only had Vertin as a frequent guest.
-
-**Tooth Fairy**：She pretended that she got a stomachache, lying in bed for half a class. She took many toffees when she left.
-
-**Sonetto**：Timekeeper faked her illness? Aah, and that also explains her toffees.
-
-**Tooth Fairy**：Heh, you didn't know that?
-
-**Tooth Fairy**：It seems I need to apologize to Vertin for letting out her secret.
-
-**Tooth Fairy**：But thank goodness, you are on her side now. Our negligence didn't cause much damage.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Storage Search
 
@@ -3481,6 +2777,8 @@ COMBAT:
 > Oh! My mind trembles at its ethereality!
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Horropedia:** You offered us the best odds. We have The Last Girl!
 
 **Anne:** Please don't say that. I'm not that good. It was pure luck.
@@ -3560,100 +2858,13 @@ But soon he sits up straight again and approaches the table eagerly.
 Tooth Fairy looks up at the dark attic.
 
 **Tooth Fairy:** Pity, I still haven't found a tooth.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Oh! My mind trembles at its ethereality!
-
-> **Title card：** A Nightmare at Green Lake
-
-**Horropedia**：You offered us the best odds. We have The Last Girl!
-
-**Anne**：Please don't say that. I'm not that good. It was pure luck.
-
-**Blonney**：No, you are awesome. You struck away a knife with a branch and took the murderer's life with his own weapon.
-
-**Blonney**：I can't be wrong with your part to play here. You are The Last Girl!
-
-**Blonney**：I should have noticed this earlier. You are gentle, simple, and kind-hearted enough to put yourself in danger to save others.
-
-**Blonney**：No one is more suitable for this role than you. This is your part.
-
-**Blonney**：Good, good. From now on, I will stay right next to you, because where you are is always going to be the safe place.
-
-**Anne**：Jennifer ...?!
-
-**Horropedia**：Blondie, I need to remind you that the character who relies on others always leads to a miserable end.
-
-**Blonney**：Ugh, get lost! Have you ever wondered why people dislike you?
-
-**Blonney**：Anne, promise me, you will keep me safe with this "special power" of yours!
-
-**Sonetto**：This is good. Blonney seems to be more relaxed now. She smiles a lot more as well.
-
-**Tooth Fairy**：She is changing. Not bad.
-
-**Vertin**：Ms. Tooth Fairy, please take a look at this.
-
-**Tooth Fairy**：A piece of moss ... with mud, and a sour and earthy smell ...
-
-**Tooth Fairy**：It smells the same as the key. I found this smell in that car as well as on the sofa in the cabin.
-
-**Tooth Fairy**：Where did you get this?
-
-**Vertin**：There's a special area near the woods where the temperature and humidity levels are higher, so mosses are ubiquitous.
-
-**Tooth Fairy**：Any signs of artificial cultivation?
-
-**Vertin**：I'm not sure. This place has been deserted for so long. We haven't found any trace of human activities.
-
-After examining the moss and thinking in silence, Tooth Fairy nods confirmedly.
-
-**Tooth Fairy**：This is a potion.
-
-**Tooth Fairy**：Like most moss-made potions, it paralyzes the central neural system of humans. The subject will become impulsive, confused, and mad.
-
-**Tooth Fairy**：They permeated the whole campsite with the rain, taking away the sanity from Jason, Freddie, and Michael, like what would happen in a horror movie.
-
-**Horropedia**：No surprise. Ordinary people would never behave as foolish as the main characters in a horror movie.
-
-**Horropedia**：It's said that a similar smell was also found on the Zeno Youth Force. Were they controlled by the moss here?
-
-**Tooth Fairy**：Yes, the changes of personality can be one of the effects of the moss.
-
-**Vertin**：So the moss not only affects humans, it also works on arcanists.
-
-**Vertin**：What about us? Why haven't we been affected?
-
-**Tooth Fairy**：Time, it takes time.
-
-**Tooth Fairy**：Humans perceive the world through the use of reason. They are the creature of logic and senses. However, they soon lose their sanity when they meet insanity.
-
-**Tooth Fairy**：Arcanists are not the same. We were born with chaotic, mixed emotions. Our innate sensitivity to feelings and potion resistance are stronger.
-
-**Tooth Fairy**：The Zeno Youth Force stayed here for an adequately long period to be contaminated. It will also affect us when the time comes.
-
-**Horropedia**：Perhaps we've lost our minds without realizing it.
-
-Horropedia puts both hands behind his head and sinks into the sofa.
-
-But soon he sits up straight again and approaches the table eagerly.
-
-**Horropedia**：Oh, what are these? They look appealing. Why hasn't anyone told me about them?
-
-**Tooth Fairy**：I found them in the attic. These tiny and exquisite items have a lot to dig into.
-
-Tooth Fairy looks up at the dark attic.
-
-**Tooth Fairy**：Pity, I still haven't found a tooth.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -3664,6 +2875,8 @@ Tooth Fairy looks up at the dark attic.
 > It's time to cleanse anew, my darling.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 The young staff of the Foundation are making deductions from the current situation.
 
 The city girl and the town girl lie on the sofa. They snuggle up to each other and fiddle with the clutter on the table.
@@ -3929,282 +3142,13 @@ It's a misjudgment of her own arcane ability—a mistake commonly made by rookie
 Horropedia shakes his hand, a grin spreading across his face.
 
 **Horropedia:** If you are willing to take advice from me, I would say don't overburden yourself.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** It's time to cleanse anew, my darling.
-
-### Segment 1 · `script 200215`
-
-> **Title card：** A Nightmare at Green Lake
-
-The young staff of the Foundation are making deductions from the current situation.
-
-The city girl and the town girl lie on the sofa. They snuggle up to each other and fiddle with the clutter on the table.
-
-**Blonney**：Look, they are trying to solve the problem, yet we can do nothing but fiddle around.
-
-**Blonney**：Maybe I should have worked harder in college, so that I can at least understand a thing or two from the conversations.
-
-**Anne**：Don't worry, Jennifer! I don't understand any of what they said either!
-
-**Anne**：You are not alone. I'm here with you.
-
-**Blonney**：I'm not like you. You literally don't know anything. I remember when we first met, you asked of everything I had on me.
-
-**Blonney**：You grew up here, in a small town in the middle of nowhere. It is only normal that you don't know anything about the outside world.
-
-**Blonney**：But I'm different. I've been to big cities, I've gone to college, I've read books, I pretended to be well-adapted to this lifestyle. But in fact, I'm still ignorant, knowing nothing but empty pleasures.
-
-**Blonney**：My hair color gives away who I am. I'm a silly blondie.
-
-**Anne**：Don't speak of yourself like this, Jennifer.
-
-Anne sits up, frowning with anxiety. She raises her voice.
-
-**Anne**：You're not silly. You are smart! You make your own movie with a script you wrote by yourself!
-
-**Anne**：You're pretty and kind, and you're the best person I've ever known. Please don't hate yourself.
-
-**Blonney**：Fine, I get it, but can you let go of my hand first? You're hurting me a bit.
-
-**Anne**：Oh! Sorry! Are you going to be okay? Shall I get you some ointment for these red areas on your hand?
-
-**Blonney**：Haha! You're funny. I'm not some glass doll that breaks for being held too tightly.
-
-**Blonney**：Heh heh. Oh, I can barely breathe. You are great fun!
-
-**Anne**：You're smiling. Did I make you happy? This is good.
-
-**Blonney**：Heh heh. Don't you find me weird?
-
-**Blonney**：My attitude changes so rapidly. I've been mean to you for a long time. And all of a sudden, I started to follow you around and try to use you to survive from this.
-
-**Anne**：Weird? What's so bad about that?
-
-**Anne**：Even if you're weird, it's a good kind of weird. I like you ... staying by my side.
-
-**Blonney**：Even if I'm a benefit-driven fence-sitter who immediately embraced arcanists after being ditched by my human friends?
-
-**Anne**：Jason and Michael shouldn't hate you, if they knew you better.
-
-**Blonney**：Hah ...
-
-The laughter makes her tired. She lets her body fall on the sofa, her head leaning on the shoulder of that small-town girl.
-
-**Blonney**：You seem to really like me.
-
-**Anne**：...!
-
-**Blonney**：You would jump off the car to rescue me, you protect me, praise me. You would even be happy because I was happy.
-
-**Anne**：Because I've never seen anyone as pretty as you are.
-
-**Anne**：You're special. You're different to the rest of us.
-
-**Blonney**：Oh, stop. I will not be embarrassed for these nice things you said about me. I've heard enough of them throughout my entire life.
-
-**Blonney**：Listen. I'm very sorry for mistreating you, and I'm grateful that you came to save me.
-
-**Blonney**：I will reward you with a secret, my secret. Do you wanna hear it?
-
-**Anne**：Absolutely!
-
-Anne's green eyes are filled with sincerity, shining like a puppy's.
-
-**Anne**：I'd love to!
-
-**Blonney**：In fact, I don't hate horror movies.
-
-**Tooth Fairy**：This is the diary I found in the attic. There were many other things, like a full warehouse.
-
-**Blonney**：I actually liked them a lot when I was a kid. I spent most of my time here, in Green Lake Campsite, writing my own horror movie scripts on paper.
-
-**Tooth Fairy**：The handwriting is pretty childish, so the writer might be around 8 to 13 years old. Some of the narratives are straightforward, but the story itself is very creative.
-
-**Blonney**：But later, we moved to another town.
-
-**Blonney**：Huh, hah! My parents earned great success in business, and we moved into a high-profile community where only humans are allowed. We were also given privileges that arcanists cannot enjoy.
-
-**Blonney**：It was then I realized—nobody wants me to be an arcanist.
-
-**Tooth Fairy**：It was since that day, the diary stopped updating.
-
-**Tooth Fairy**：It might be forgotten or taken away. The story ended there.
-
-**Blonney**：That's why I decided to break off my connections with arcanists and stop showing interests in emotive things like horror movies in order to hide the arcanist side of me.
-
-**Blonney**：Huh! I took out my energy on other things which may ease my mind, like soap operas, new clothes, fashions ...
-
-**Blonney**：People like me this way. They said this is what I'm supposed to do.
-
-**Blonney**：They believe that I'm a dumb bimbo, believe that I hate books. I led a life they want me to have, till I graduated from high school.
-
-**Anne**：I don't like these people.
-
-**Anne**：You shouldn't have been put through this. You are the smartest person I've ever known.
-
-Anne reaches out a hand and clenches a fist.
-
-**Anne**：If one day I run into them, I will pull their noses and mouths off, like this!
-
-**Blonney**：A wonderful idea. I wish I was as creative as you are.
-
-**Blonney**：So, in the end, I attacked one of the jerks who didn't watch his mouth at the prom.
-
-**Blonney**：I slapped him in the face and smashed four sandwiches and a salad on his head.
-
-**Blonney**：Then, feeling resentful for what had happened, I applied for a degree in filmmaking, a course which was considered to be "ill-fitted" to me. And next, I started shooting horror movies for an assignment "I have to finish."
-
-**Blonney**：Huh! Deep down inside, I think I have never really given them up. I've probably never stopped loving them.
-
-**Horropedia**：Keep on shooting. I will buy you a new camera.
-
-**Blonney**：Hello! Have you been eavesdropping? Where is your manners?
-
-**Vertin**：Actually, I heard them all as well.
-
-**Tooth Fairy**：So did I.
-
-**Horropedia**：We are in the same room. You can talk, we can hear, and the air helps. That's it.
-
-**Tooth Fairy**：Well, we are all here, paying attention to your voices. We heard everything you just said.
-
-Tooth Fairy walks up, gently putting a pink diary on Blonney's knees.
-
-**Tooth Fairy**：I think this is yours. Now I should hand it back to you.
-
-**Blonney**：Where did you find it? I haven't seen this for a really long time.
-
-A reunion after a long separation. Blonney opens the diary carefully.
-
-**Blonney**：I used to do some arcanist tricks with it, but I have lost control over my power since I threw it into the la- … lak- ... Aaah-choo!
-
-Blonney suddenly gives a shiver, perhaps because she is touched by the diary, or perhaps because of something else.
-
-She raises her head and looks around.
-
-**Blonney**：Aren't you guys cold? How come it's so chilly?
-
-A gust of cold wind, along with a bit of rain, swirls into the cabin. Outside the opened door, a wedding ring lies in a puddle, reflecting light ominously.
-
-**Blonney**：That ring? Wasn't it on my finger a minute ago?
-
-**Vertin**：Watch out! Something is approaching.
-
-### Segment 2 · `script 200216`
-
-**Blonney**：How many more dead men were buried here? I've had enough!
-
-**Blonney**：Can't we just get rid of that dead woman?
-
-**Ghost Bride**：Boohoo …
-
-**Blonney**：She's approaching! This is a good chance ...
-
-**Ghost Bride**：Aaahhh!
-
-**Blonney**：Ugh! She smells like a skunk in the sewer!
-
-**Sonetto**：Blonney! The ghost bride took her down. We need to help her!
-
-**Critter Crowd**：Squeak …
-
-**Sonetto**：Not good. The critters are coming around again!
-
-The ghost bride murmurs something and crawls over Blonney, who has fallen to the ground.
-
-**Ghost Bride**：I do ... do ... I do ... ah ...
-
-**Horropedia**：Hey! Blondie! If you wanna survive, leave that ring alone!
-
-**Blonney**：Hell, you think I wanted this?! This crazy woman ghost put it on me!
-
-**Blonney**：Get off! Get lost!
-
-The ghost bride's oozy body is kicked back several feet.
-
-**Ghost Bride**：Uuuhh ...!
-
-Blonney quickly struggles to her feet and runs toward the back of the cabin.
-
-**Ghost Bride**：Hmm, boohoo … uuhh ...
-
-**Horropedia**：Damn! Her whimper can summon more critters. They are going out from the ground!
-
-**Tooth Fairy**：Shh.
-
-Shaking her head, Tooth Fairy walks to the center of the monsters.
-
-She is surrounded by sparkling powder.
-
-**Tooth Fairy**：What they need is a song.
-
-**Sonetto**：This is Ms. Tooth Fairy's singing!
-
-**Sonetto**：Ms. Tooth Fairy, behind you!
-
-**Horropedia**：Jeez! What on earth is that!
-
-**Blonney**：Ahahaha! What is it, do you think?
-
-**Blonney**：Of course, a good surpriiiiiiiiise!
-
-**Blonney**：Ha! I didn't know I was a talented driver!
-
-**Blonney**：Once we get out of here, I'm gonna get myself a driver's license!
-
-**Horropedia**：Within 30 seconds, you crashed over every critter in our sight. I don't think you are qualified to be a driver.
-
-**Horropedia**：No, no. That's not the point. Where did you get the car?
-
-**Tooth Fairy**：Pink lines. This is drawn with an oil paint pen. This is her arcane skill.
-
-**Tooth Fairy**：Your arcane skill restored pretty fast. Seems like you've accepted your identity.
-
-**Blonney**：Maybe that, or maybe because I retrieved this diary. I feel something has changed inside me, making me a bit hyped.
-
-**Tooth Fairy**：A good try. Please keep up with the feeling.
-
-**Blonney**：That song you just sang—can I take it as a gift?
-
-**Tooth Fairy**：You mean ...?
-
-**Blonney**：Well, you still owe me a song. Please, I wanna a song from you.
-
-**Tooth Fairy**：Sure, take it as a gift.
-
-**Tooth Fairy**：For making progress in life and for your courage to embrace who you truly are.
-
-**Blonney**：Thanks.
-
-**Blonney**：This is my handkerchief. Take it. Wipe your face. Ah!
-
-The Hummer woven with pink graffiti horns and melts in the rain. Blonney stumbles backward.
-
-It's a misjudgment of her own arcane ability—a mistake commonly made by rookie arcanists.
-
-**Horropedia**：Did you just get a bit woozy from putting up a big scene to the rescue?
-
-**Blonney**：I didn't.
-
-**Horropedia**：Okay … uh-huh … yeah … uh-hum ...
-
-**Blonney**：What are you doing?
-
-**Horropedia**：I know the rules of social courtesy. You just saved my life, so I won't embarrass you by telling others you just overestimated your ability.
-
-Horropedia shakes his hand, a grin spreading across his face.
-
-**Horropedia**：If you are willing to take advice from me, I would say don't overburden yourself.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -4215,6 +3159,8 @@ Horropedia shakes his hand, a grin spreading across his face.
 > A crisp outer shell with a tattered note inside. Everyone likes to read their fortune.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 The ghost bride's flesh and wedding dress smash to the ground, emitting a beastly stench and turning into a pile of black fur.
 
 **Horropedia:** There's a note hidden inside, just like the one found in the butcher's corpse.
@@ -4418,142 +3364,13 @@ Anne seems to be shy. She scrunches up her chest and scratches her nose lightly.
 Anne reaches out a dry palm and points to the moon.
 
 **Anne:** That … the rain has stopped.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** A crisp outer shell with a tattered note inside. Everyone likes to read their fortune.
-
-### Segment 1 · `script 200217`
-
-> **Title card：** A Nightmare at Green Lake
-
-The ghost bride's flesh and wedding dress smash to the ground, emitting a beastly stench and turning into a pile of black fur.
-
-**Horropedia**：There's a note hidden inside, just like the one found in the butcher's corpse.
-
-**Vertin**：Someone is passing messages to us through these notes.
-
-**Vertin**：If we defeat more monsters, we will get a clearer picture of what's happened at Green Lake Campsite.
-
-**Horropedia**：This is the all-time favorite trick of the "plotter."
-
-**Horropedia**：He takes the whole situation under control, playfully teases the innocent participants like us, through which he gains a special sense of fulfillment.
-
-**Horropedia**：But we have our means to cope with it.
-
-Horropedia raises the note with his left hand and the shiny ring with his right hand and smiles.
-
-**Horropedia**：The ring brought us a putrefied ghost bride.
-
-**Horropedia**：Then we got the book, the pillbox, the weird samples. Every item from the attic comes from a monster we just confronted.
-
-**Horropedia**："Touching the forbidden, and the misfortune will befall you." We can find stories of this kind in many civilizations, but what if we use it to fight back ...
-
-**Vertin**：Not to wait for the monsters, but "summon" them to us.
-
-**Horropedia**：Exactly. If you want, we can select which ones to summon first.
-
-**Horropedia**：If you carefully look into each of these, you'll find that these items have a lot to tell us.
-
-**Horropedia**：If we plan their arrivals and predict their weaknesses in advance, victory will absolutely be ours.
-
-**Sonetto**：A risky strategy, but could be equally beneficial.
-
-**Sonetto**：However we decide to do this, it's always better to take action before our enemy does.
-
-**Vertin**：Horropedia, how likely is it for you to get their weaknesses right?
-
-**Horropedia**：Almost 100%.
-
-**Horropedia**：If one Horropedia isn't enough, we have one more creative "Ms. Horropedia" here as backup.
-
-**Blonney**：Ugh ...! You can't be talking about me?
-
-**Horropedia**：Of course, you. You are erudite and experienced in horror movies. Relax, you deserve the title of Horropedia.
-
-**Blonney**：Does he always vex people like this? Or, is he just being annoying here?
-
-**Sonetto**：Mr. Horropedia is not a bad person. He's just a bit unconventional.
-
-**Horropedia**：There's no doubt. This is the craziest carnival ever!
-
-**Horropedia**：The delirious fog, the attic filled with curses, the rainy night, and the countless monsters ...
-
-**Horropedia**：I praise you! My beloved cabin in the woods!
-
-### Segment 2 · `script 200218`
-
-**Vertin**：Good, this should be the last note.
-
-**Anne**：Vertin, these are all the notes we can find in the backyard!
-
-**Anne**：I just checked on Jennifer and Sonetto. They are still looking for more, but this shouldn't take them much longer.
-
-**Vertin**：Thank you for your update.
-
-**Anne**：Except that ...
-
-**Anne**：Vertin, can I ask you a question?
-
-**Vertin**：Sure, please.
-
-**Anne**：Do you have any wishes?
-
-**Anne**：Big ones, small ones, hilarious ones, or sincere ones, any wishes.
-
-**Vertin**：Me?
-
-**Vertin**：Hmm. I think, I currently don't have any wishes.
-
-**Anne**：Not even for the most trivial things? Like candies, a good rest, or a soft bed?
-
-**Vertin**：My life is good enough without them.
-
-**Vertin**：You look pretty shocked. Have they all told you what they want?
-
-**Anne**：Yes.
-
-**Anne**：Jennifer wants a soft bed and a hot tub. Mr. Horropedia wants a cup of coffee or gum.
-
-**Anne**：Ms. Tooth Fairy wants a collection of critter teeth, and Sonetto ...
-
-**Vertin**：Yeah?
-
-**Anne**：She wants a toffee. She said she wants to taste it properly this time, for she has never really paid attention to the flavor.
-
-**Vertin**：Once we get out of here, their wishes will soon come true.
-
-**Vertin**：How about you, Anne? What do you wish to get?
-
-**Anne**：Me?
-
-Anne seems to be shy. She scrunches up her chest and scratches her nose lightly.
-
-**Anne**：It is a secret. I can't tell you now.
-
-**Anne**：But I will get you some presents. I don't have many friends, and I really like you.
-
-**Sonetto**：Great! Timekeeper and Anne, you are here!
-
-**Sonetto**：We have found every piece of information we can. We can start cross-examining them any minute.
-
-**Vertin**：I get it. Let's go back.
-
-**Anne**：Have you noticed?
-
-**Vertin**：Noticed what?
-
-Anne reaches out a dry palm and points to the moon.
-
-**Anne**：That … the rain has stopped.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Organize your notes and draw conclusions from your clues.
 
@@ -4570,6 +3387,8 @@ Anne reaches out a dry palm and points to the moon.
 > You stand taller, yet you see no farther.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 The humid Green Lake is shrouded in mist.
 
 **Horropedia:** That's right. This is where all the stories are leading to.
@@ -4675,126 +3494,13 @@ His arms folded, Horropedia walks half a circle around the box.
 That makes sense.
 
 Horropedia thinks for a few seconds. He raises his eyebrows in approval and opens the box.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** You stand taller, yet you see no farther.
-
-> **Title card：** A Nightmare at Green Lake
-
-The humid Green Lake is shrouded in mist.
-
-**Horropedia**：That's right. This is where all the stories are leading to.
-
-Going through the notebook in his hand, he nods with certainty.
-
-**Horropedia**：Huh! Jack the Drowner, the monster crying under the water, and the bride sinking into a glistening "mirror" …
-
-**Horropedia**：Here must be the center of all that happened. This is where the ghost stories we encountered at the campsite were created, and now they have led us here.
-
-**Horropedia**：What we need to do next is find the clues hidden here and let the clues build our story!
-
-**Blonney**：…
-
-**Horropedia**：Hm? What's wrong, Blonney?
-
-**Blonney**：When we arrived here, was there …
-
-Blonney hesitantly raises her arm and points to the middle of the misty lake.
-
-**Blonney**：Wa- ... was there a lighthouse?
-
-**Horropedia**：Huh? Hmm.
-
-**Horropedia**：I think it just showed up out of nowhere, like a ghostly figure appearing behind you.
-
-**Horropedia**：A lighthouse in the lake ... A lighthouse ...
-
-**Tooth Fairy**：Is "the lighthouse in the lake" also a classic element in horror stories?
-
-**Horropedia**：Eh, well, not quite. But it can be a good place for horror stories.
-
-**Horropedia**：In the middle of a huge, gloomy lake, a lighthouse stands there like the fang in a monster's mouth. You can't find any place better than this to hide a horrifying secret!
-
-After observing the river bank for a while, Horropedia walks over and pulls a rope on the ground.
-
-The boat on the other end of the rope is then pulled to his side.
-
-**Horropedia**：And there's even a boat here!
-
-**Horropedia**：You should know that a campsite horror movie couldn't exist without a little boat!
-
-**Blonney**：Huh! You're just not afraid of being killed, are you?
-
-Blonney gives a shiver, rubbing the goose bumps on her arms.
-
-**Blonney**：What if it turns over? What if there's a lake monster? We might be putting ourselves into its mouth, like serving it a plate of dessert.
-
-**Horropedia**：To be fair, it makes no difference whether we are on the shore or in the boat. We're just cakes in different plates to it—if it does exist.
-
-**Horropedia**：If I were the lake monster, between the cake running away from me and the cake which willingly comes to me, I would give the latter one a better ending.
-
-Blonney looks at the lighthouse and then turns toward her confident companion. At last, she relaxes and shrugs.
-
-**Blonney**：Huh, alright. If I have to be eaten like a cake, I prefer to be the cake that has more control over its death.
-
-**Tooth Fairy**：Get into the boat, then. Let's head to the lighthouse.
-
-> **Title card：** Lighthouse
-
-**Horropedia**：Huh, a normal lighthouse. Not even a bloody handprint is found here.
-
-**Horropedia**：Well, I'll be damned!
-
-Feeling disappointed, Horropedia stands straight and gives up being a "sneaky" adventurer.
-
-**Tooth Fairy**：The reality is not as sensational as the stories.
-
-**Tooth Fairy**：Just like the "permanent-teeth loss" can't rival the "latest and most frightening curse" for excitement.
-
-**Blonney**：This is not just an ordinary place to me. I've never seen this before!
-
-**Blonney**：I used to come here every day, reading novels by the lake. But I've never seen a lighthouse here.
-
-**Blonney**：It just shows up like a ghost, followed by a series of mysterious, horrific events!
-
-Blonney shivers in fear and stays close to Anne.
-
-**Sonetto**：Timekeeper, please come and take a look at this.
-
-**Blonney**：Aah, my! This is ...
-
-**Horropedia**：The "man behind the scene" is much simpler than I thought.
-
-**Horropedia**：Maybe he really is a child?
-
-**Horropedia**：Like those evil kids in the movies. Despite their evil nature, they can only perform the evil deeds through simple means.
-
-**Horropedia**：Are we really going to open it?
-
-His arms folded, Horropedia walks half a circle around the box.
-
-**Vertin**：We'll have to open it, according to the note.
-
-**Horropedia**：I am saying, this is obviously a curse. A lighthouse, a strange lake, a fishing net, and a wooden box.
-
-**Horropedia**：Rub it three times, blow and unveil it ... What comes out of it is definitely not a genie offering us three wishes.
-
-**Vertin**：We have dealt with more curses in the past two hours than many people do in their entire life.
-
-**Vertin**：If it is a curse, then it is a curse prepared for us.
-
-That makes sense.
-
-Horropedia thinks for a few seconds. He raises his eyebrows in approval and opens the box.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -4805,6 +3511,8 @@ Horropedia thinks for a few seconds. He raises his eyebrows in approval and open
 > The poor, sweet girl and the terrifying monster are classic characters in horror movies.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Jennifer:** Today I'm going to read you The Frightening Hunter! I wrote it yesterday!
 
 **Deer Sockpuppet:** Read it! Read it!
@@ -4929,13 +3637,15 @@ Jennifer, we gotta go. Where are you?
 
 **Jessica:** My real name was never Anne. It's Jessica.
 
-Jessica: This is the last surprise I've prepared for you. Now, enjoy!
-
 **Jessica:** This is the last surprise I've prepared for you. Now, enjoy!
 
 **Blonney:** Anne! She jumped!
 
 **Sonetto:** Blonney! Watch out for the critters!
+
+
+> **Title card：** 2#1
+
 
 ***
 
@@ -4944,148 +3654,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** The poor, sweet girl and the terrifying monster are classic characters in horror movies.
-
-> **Title card：** A Nightmare at Green Lake
-
-**Jennifer**：Today I'm going to read you The Frightening Hunter! I wrote it yesterday!
-
-**Deer Sockpuppet**：Read it! Read it!
-
-**Jennifer**：This is the story of a hunter. The hunter is tall and muscly and of great frame. He can twist steel rebar with his bare hands, and no one can lift his arms up by a hair's thickness and escape from him.
-
-**Jennifer**：The hunter lives in the campsite, deep in the woods. He would slaughter every living thing that breaks into his territory.
-
-**Jennifer**：One day, a group of college students came into the forest.
-
-**Jennifer**：They enjoyed their time there, drinking and dancing. When it comes to the night, the strongest of them disappeared.
-
-**Deer Sockpuppet**：Oh? Where did he go?
-
-**Jennifer**：The hunter killed him! He hung the boy's head on the tree and turned to the girl with the blonde hair.
-
-**Deer Sockpuppet**：Oh!
-
-**Jennifer**：She also soon breathed her last breath. The third victim is the clumsy short guy, followed by the nerdy tall guy.
-
-**Jennifer**：At last, the hunter came up to our protagonist, the kind, naive girl.
-
-**Deer Sockpuppet**：That was the first story she ever told me.
-
-**Deer Sockpuppet**：An intriguing, interesting story.
-
-**Jennifer**：This is a story of Jessica.
-
-**Deer Sockpuppet**：How nice! You are here again. It's been a month since you last showed up here.
-
-**Jennifer**：Just like the character we've seen in the movies, she is a kind, introvert, virtuous girl.
-
-**Jennifer**：The friends of hers took her to a beautiful campsite next to a lovely lake. This would be the perfect place for a swimsuit party.
-
-**Deer Sockpuppet**：You've grown taller. Can you get up so I can see better?
-
-**Jennifer**：What they didn't know is that, deep in the water, a defeated, evil army is in hiding.
-
-**Deer Sockpuppet**：Why are you frowning?
-
-**Jennifer**：Countless demonic war beasts were roaring restlessly to be unleashed, and an evil plan has been hatched. A massacre was about to take place.
-
-**Deer Sockpuppet**：What can I do to make you feel better, Jennifer?
-
-**Jennifer**：Yes, a nightmare indeed. Jessica ran as fast as she could, kept pushing herself to go faster and faster until her ankles could not support one more sprint, and she rolled into a muddy pond.
-
-**Jennifer**：The monster with dark fur and a bloody mouth was right behind her. Then ...
-
-**Deer Sockpuppet**：Are you crying? Jennifer?
-
-Jennifer, we gotta go. Where are you?
-
-**Jennifer**：Oh, no. It's Mom. I'm here. I'm here!
-
-**Deer Sockpuppet**：Yes, so you are crying, Jennifer.
-
-**Deer Sockpuppet**：Oh. Aren't you taking the notebook with you? Why are you throwing it into the lake?
-
-**Jennifer**：I really like this place, but I'll probably never come back here again. I gotta go.
-
-**Jennifer**：See you, Jessica.
-
-**Deer Sockpuppet**：Okay.
-
-**Jessica**：See you, Jennifer.
-
-**Jessica**：That was the last story she told ...
-
-**Jessica**：I didn't understand what she meant by "see you," for she has never actually "seen" me.
-
-**Jessica**：After that, I also haven't seen her for a long, long time—feels like for ages.
-
-**Jessica**：I went through every corner of the campsite and collected every item I could possibly find, making stories out of them, one after another.
-
-**Jessica**：But who is there to tell? There's no one in the woods anymore.
-
-**Jessica**：At first, I spent my days with my furry friends.
-
-**Jessica**：They were my loyal listeners, and I taught them how to act and behave like the "monsters" in the stories.
-
-**Jessica**：We played the stories, one after another. It was great fun. But the stories got old. No exceptions.
-
-**Jessica**：This is when those young people came into the woods, like the protagonists in our stories. They arrived with their friends, and each of them have different relationships with one another.
-
-**Jessica**：We had a good time, but I would think about Jennifer a lot.
-
-**Jessica**：When I started to believe that I will never see her again, she's back.
-
-**Jessica**：She came back with many people who I have never met before, as well as a "camera" that I have never seen.
-
-**Jessica**：She was here to make a "movie," which is a word I used to hear a lot from her. I understand it to be a kind of story that could be stored in a box.
-
-**Jessica**：I'm glad that she is still passionate about horror movies, like what I have been feeling in all these years.
-
-**Jessica**：They were short of one "actress," and I know what that word means.
-
-**Jessica**：A brilliant idea came to my mind.
-
-**Jessica**：I joined them.
-
-**Jessica**：I was like the monster in the stories that hides in the group. She will be so surprised when she finds out what I did.
-
-**Jessica**：However, an accident happened. There were other people in the forest.
-
-**Jessica**：Ah, misfortune. What a misfortune!
-
-**Jessica**：Jennifer was upset. She got into a fight with a strange man.
-
-**Jessica**：I called upon the rain, bringing these people into my story too.
-
-**Jessica**：They accomplished a good story!
-
-**Jessica**：The man who knows a lot about horror movies, the woman who is always calm, the woman who seems strange, and the woman who smells like a puppy. They are all very interesting people.
-
-**Jessica**：I think I start to like them. They are different to the people I met before, who always cried and fainted very quickly, not long after my story started.
-
-**Jessica**：They are interesting and of great fun.
-
-**Jessica**：So I want to tell them the truth and make friends with them.
-
-**Jessica**：I have to let them know about this, that ...
-
-**Jessica**：My real name was never Anne. It's Jessica.
-
-**Jessica**：This is the last surprise I've prepared for you. Now, enjoy!
-
-**Blonney**：Anne! She jumped!
-
-**Sonetto**：Blonney! Watch out for the critters!
-
-> **Title card：** 2#1
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -5096,6 +3665,8 @@ Jennifer, we gotta go. Where are you?
 > Slicing and stitching, new scratches, and old sores—my flawless creations.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Vertin:** The lighthouse is sinking. Everyone, move and leave now!
 
 **Blonney:** Anne ... She ...
@@ -5176,6 +3747,10 @@ As they move forward, the river bank extends from a point to a line. In the blin
 
 The critters guarding the bank are roaring together.
 
+
+> **Title card：** 2#1
+
+
 ***
 
 COMBAT:
@@ -5183,98 +3758,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** Slicing and stitching, new scratches, and old sores—my flawless creations.
-
-> **Title card：** A Nightmare at Green Lake
-
-**Vertin**：The lighthouse is sinking. Everyone, move and leave now!
-
-**Blonney**：Anne ... She ...
-
-**Blonney**：She was The Last Girl. She was our only means to survive in this horror story, and we have lost her.
-
-**Blonney**：No. She was never with us.
-
-Blonney murmurs, staggering slowly.
-
-**Blonney**：I'm to blame. It's me who created such a girl at Green Lake, a girl who restrains people and treats them like toys!
-
-**Tooth Fairy**：Calm down, Blonney, calm down.
-
-**Blonney**：I ... I can't.
-
-She almost bursts into tears.
-
-**Blonney**：It's too late, Tooth Fairy. We have lost all the cards!
-
-**Tooth Fairy**：We still have a chance.
-
-**Blonney**：You don't understand. It was me who created the stories. I created that monster!
-
-**Blonney**：I've drawn many monsters in that notebook. With all those stories I told, I created her!
-
-**Blonney**：I turned our Last Girl into the biggest villain. What should we do now? How are we gonna ...
-
-**Tooth Fairy**：You are right. This is the story created by you.
-
-**Tooth Fairy**：They are all created by you. It's your story, your monsters, your past, your arcanum, and your identity as an arcanist.
-
-**Tooth Fairy**：They all belong to you.
-
-**Blonney**：Belong ... to me?
-
-The ground shakes again. The critters are crashing against the glass window irritably.
-
-**Tooth Fairy**：The monster born in the bottom of the lake, the butcher, and the pathetic bride—they all came from you.
-
-**Tooth Fairy**：It was you who taught Jessica how to make a story, how to create all of this. She created them all, but you endowed her with such ability. She's the creator of these, and you are the creator of the creator.
-
-Everything in their sight is shaking and even collapsing.
-
-**Tooth Fairy**：This is a page in your chapter. You created it, so you should learn to accept it, control it, not fear it.
-
-Tooth Fairy is still walking forward determinedly, step by step.
-
-**Tooth Fairy**：Don't run away, but face it.
-
-**Sonetto**：Blonney ... Timekeeper ...
-
-Sonetto struggles, but it doesn't stop her from sinking.
-
-She gradually loses her strength due to the lack of oxygen. Then, she seems to see a spot of silver light flashing on the bottom of the dark lake.
-
-**Sonetto**：A boat? Is this Blonney's …
-
-**Tooth Fairy**：It's her arcanum. Now, she is doing her utmost to keep the ship in balance.
-
-**Blonney**：Damn it. I knew I shouldn't be so ostentatious. There's no way that I can have control over such a big boat!
-
-**Blonney**：If I keep doing this for any longer, I would die of a headache before making it to An ... Jessica!
-
-**Horropedia**：I've warned you so, haven't I?
-
-**Horropedia**：But don't worry. The reliable Horropedia will save your neck.
-
-**Horropedia**：Using this amazing tool.
-
-**Horropedia**：Good, hooked onto the rock!
-
-**Horropedia**：You might feel a bit seasick. Please try not to vomit. If you fail, at least don't puke on me!
-
-**Horropedia**：Sit still and hold tight. We are heading towards the river bank!
-
-As they move forward, the river bank extends from a point to a line. In the blink of an eye, they have reached the bank.
-
-The critters guarding the bank are roaring together.
-
-> **Title card：** 2#1
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -5285,6 +3769,8 @@ The critters guarding the bank are roaring together.
 > And so the Red Sea parted to reveal the land.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Horropedia:** Honestly, can't we just show her our sincerity and care?
 
 **Horropedia:** To share something from the bottom of our hearts, to cure her agony caused by the antagonist's lonely childhood.
@@ -5610,272 +4096,13 @@ A familiar figure approaches them.
 **Vertin:** People from the "outside world." Don't worry. They won't hurt you.
 
 **Vertin:** You might receive some training for a period. It might be a bit boring, but I promise it won't last too long.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** And so the Red Sea parted to reveal the land.
-
-### Segment 1 · `script 200222`
-
-> **Title card：** A Nightmare at Green Lake
-
-**Horropedia**：Honestly, can't we just show her our sincerity and care?
-
-**Horropedia**：To share something from the bottom of our hearts, to cure her agony caused by the antagonist's lonely childhood.
-
-**Horropedia**：Oh, there she is.
-
-**Jessica**：Just like I expected, you made it!
-
-**Jessica**：Did you enjoy the story?
-
-**Jessica**：Oh. I didn't give you any background information in advance. But it's okay. You will see a familiar face or two. I believe you haven't forgotten them.
-
-**Jessica**：Just like I can't forget you, Jennifer.
-
-**Jessica**：Come with me. I've prepared you a new home, a home where you may sleep on beds made of soft moss and drink clear, cold spring water.
-
-**Jessica**：I will get you toffees, coffee, and so many teeth in beautiful shapes. You can even have mine, if you like.
-
-**Jessica**：You will stay here with me happily ever after, till ... till a time even I don't know of.
-
-**Blonney**：Huh, Jessica, let us talk. You've been thinking of me, haven't you?
-
-**Jessica**：Of course, I have!
-
-**Blonney**：You are fond of me, as well as the stories I made, aren't you?
-
-**Jessica**：Yes, I'm fond of you, Jennifer.
-
-The young girl takes a deep breath and tries to show a smile.
-
-**Blonney**：Do you wanna make me happy?
-
-**Jessica**：I think so. I have made you happy once. Would you let me do it again? Do you like my story?
-
-**Blonney**：Let us go, then, including Jason, Freddie, and Michael. Let all of us go.
-
-**Jessica**：Why?
-
-**Blonney**：You have made a mistake. You hurt people, and that is unacceptable. This is not funny.
-
-**Blonney**：I was to blame for misleading you. I can't let you keep on doing this. I ...
-
-**Jessica**：Don't you like my story?
-
-**Blonney**：Yes, I like it very much.
-
-**Blonney**：It resembles a lot of the stories I wrote when I was a kid. You must have really liked them so much that you would remember them, as well as me, for such a long time.
-
-**Blonney**：I will not leave you alone again. I'll come back for you.
-
-**Blonney**：Every year, no, every six months. I'll have more time after the graduation.
-
-**Blonney**：If I make a new movie, you'll be my first audience, like what we used to do.
-
-**Jessica**：But I hate living by myself. I don't wanna live like this anymore.
-
-**Jessica**：I have no one to talk to. The friends I have here can do nothing but roar. I sing with them as the sun comes up and wake up among them as the moon rises.
-
-**Jessica**：Jennifer, you know, I used to have the same dream over and over again.
-
-**Jessica**：A forest and a grassland. Not in Green Lake, nor any places that I know of. I can hear music that I've never heard before.
-
-**Jessica**：After we met, there is you in that dream.
-
-**Jessica**：You'd wake up in that dream with me, giving me a wreath. In that dream, I can truly rest.
-
-**Jessica**：But when I wake up, I found myself in Green Lake again.
-
-**Jessica**：Do I belong here, in Green Lake Campsite? Or somewhere afar?
-
-**Jessica**：In the days when no one is here, I always hum the melody in the dream, quietly waiting, until my figure almost blended into the mosses.
-
-**Jessica**：But I've waited for too long—so long that you are no longer a girl but a woman now.
-
-**Jessica**：I'm tired of waiting for you. I'm tired of living all by myself.
-
-**Jessica**：I was hoping that you may like my story, that you are different from all those people who always try to run away.
-
-The fog starts to surge, bringing a suffocating smell of grass.
-
-In the middle of the fog vortex, the deer girl approaches her targets step by step, her eyes glowing green.
-
-### Segment 2 · `script 200223`
-
-**Tooth Fairy**：The fog starts to gather around her. Step back!
-
-**Tooth Fairy**：Cover your mouth and nose. Don't breathe the fog in.
-
-**Sonetto**：Her wounds are healing, and I sense her arcanum is getting stronger. We need to leave now, Timekeeper!
-
-**Jessica**：No, please don't go.
-
-Jessica's voice comes out of the fog. She is like a little girl begging her mom for a puppy.
-
-**Jessica**：Please stay here. I will get you the best beds, honey, and fruits. I will search for foods for you. I will take the responsibility to take care of you.
-
-**Blonney**：Jessica, we will not stay. Now listen to me carefully!
-
-**Jessica**：No, I hate living alone!
-
-**Blonney**：Come with me!
-
-**Blonney**：I will get you a beautiful house, much better than the one you have here!
-
-**Blonney**：I will show you around, restaurants, shopping malls, and discos. We can have fun in so many places!
-
-**Blonney**：I will also get you a room, right in our house. I don't care whether my parents allow this or not.
-
-**Jessica**：Jennifer.
-
-**Jessica**：I really want to be with you, but I don't want to leave here. I have no desire for the outside world.
-
-**Jessica**：I will quickly reveal this true look of mine, and people will look at me as if I've done something wrong!
-
-**Jessica**：I don't like that. I hate when my power gets weakened.
-
-**Jessica**：I ... I want you to stay, here, with me!
-
-**Vertin**：If I say I could stay?
-
-**Sonetto**：Timekeeper?!
-
-**Vertin**：Jessica, if I stay, what will you get me? Except for food and shelter, what else will you get me?
-
-**Jessica**：Will you?
-
-Jessica wipes the tears off her face and smiles.
-
-**Jessica**：If you stay, I will share my critter friends with you.
-
-**Jessica**：Along with my cave, my keys, my little buttons ... anything you want!
-
-**Vertin**：Sounds great. We will definitely have great fun.
-
-**Vertin**：But Jessica, where are the people who once chose to stay here?
-
-**Vertin**：When they stayed for long enough, after you ran out of all available games, they were no longer attractive to you and no longer adored by you.
-
-**Vertin**：I can stay longer than them, but with no exception, I will become boring one day.
-
-**Vertin**：You will be alone again. Every day, waking up, falling asleep, roaming in the dream alone …
-
-**Jessica**：No, I don't want that. I don't wanna live like that anymore!
-
-**Vertin**：You can lead a different life. You can embrace a diversified and meaningful life.
-
-**Jessica**：A diversified, meaningful life?
-
-**Vertin**：When you were Anne, you asked what my wishes were.
-
-**Vertin**：Now I know the answer. I know what I want.
-
-**Vertin**：It's you.
-
-**Vertin**：Do you want to come with me?
-
-**Vertin**：I will find you a good place to stay, where nobody will consider you to be weird, nor will they keep staring at you.
-
-**Vertin**：You will see the world with us—the amazing and unique outside world.
-
-**Jessica**：This outside world ... what else will it have?
-
-**Vertin**：There are a lot of people and fantastic things out there.
-
-**Vertin**：There, some people eat gold bars; some others dance on the crocodile skin.
-
-**Vertin**：Some people ride a rocket, dashing into the sky, and eventually fall into an unknown Zero-G.
-
-**Vertin**：Even the grassland and the anonymous music in your dream, they truly exist ... in the outside world.
-
-**Vertin**：If you are willing to come with me, you will have them all.
-
-**Jessica**：Will you really take me to that place?
-
-**Vertin**：Of course.
-
-**Jessica**：Why would I trust you?
-
-**Vertin**：I promise, with everything I can offer.
-
-**Jessica**：Promise ... I know that word. It means words that cannot be broken.
-
-Jessica sniffs at Vertin, from forehead to jaw, again and again, like a small animal sniffing at something carefully.
-
-When she finally stops, she smiles like a happy child.
-
-**Jessica**：I will make your wish come true.
-
-**Jessica**：I like you. I hope you can be my friend.
-
-**Jessica**：This is new. I haven't made a friend like you in a really long time.
-
-The deer girl is holding a remote control. It's delicate but very old.
-
-**Vertin**：What's this?
-
-**Jessica**：This is a gift to you.
-
-**Jessica**：Press it. You will find out.
-
-**Vertin**：I see.
-
-The gift, or the remote control, makes a beep sound.
-
-**Vertin**：...!
-
-The sky brightens up. Zeno's members are coming this way.
-
-The night is over, and the fog has lifted. The horror story has reached its final act.
-
-**Zeno Soldier**：They are here! Hey, come here!
-
-**Female Foundation Investigator**：The medics are ready. Please leave the injured to us.
-
-**Zeno Soldier**：Captain, captain, we found the target and are now carrying out the rescue. Over.
-
-**Vertin**：There are no enemies here. Everyone here is a member of our squad!
-
-**Vertin**：Please don't attack. Repeat, please don't attack!
-
-**Horropedia**：Oh, come on ... seriously?
-
-**Horropedia**：First we persuaded her with love and care, then we presented the deus ex machina. Now we are doing this?
-
-**Horropedia**：This is the worst antagonist ever! Everything is so screwed! Commentators won't write anything nice for us!
-
-**Horropedia**：Well, if it were them to write the story, characters like me would always fail to live long enough to see the end. So I don't oppose to end this peacefully, but to end like this … errr …
-
-**Tooth Fairy**：Aren't you happy? They did it, like what you said.
-
-**Tooth Fairy**：Some emotional and comforting plots. Eventually, it shows us that love always wins.
-
-**Horropedia**：Emm, Ms. Tooth Fairy, that was a joke, a joke to show you my sense of humor.
-
-A familiar figure approaches them.
-
-**Male Foundation Investigator**：Timekeeper, it's great to see that you are fine.
-
-**Male Foundation Investigator**：And Mr. Horropedia, Madam Z is waiting for you in the car outside the woods. Please come with us.
-
-**Horropedia**：What? Madam Z? She's here?
-
-**Horropedia**：Oh, hiss, ah, my wounds ... Ah, how painful! Medics ... where are the medics?
-
-**Jessica**：What are these?
-
-**Vertin**：People from the "outside world." Don't worry. They won't hurt you.
-
-**Vertin**：You might receive some training for a period. It might be a bit boring, but I promise it won't last too long.
 
 > **Title card：** 2#1
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -5886,6 +4113,8 @@ A familiar figure approaches them.
 > The first photo from behind the scenes, inspiring vitriolic critique and deep slumber.
 
 <!-- reader-body:start -->
+> **Title card：** A Nightmare at Green Lake
+
 **Tooth Fairy:** Are you suffering from the headache again?
 
 **Z:** Me? No, I'm not.
@@ -6031,166 +4260,13 @@ Tooth Fairy turns around, leans over her seat, and presses the shutter.
 The children are leaning against each other and sleeping in peace.
 
 That's the end of the horror story, which is not that horrible, though.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** The first photo from behind the scenes, inspiring vitriolic critique and deep slumber.
-
-> **Title card：** A Nightmare at Green Lake
-
-**Tooth Fairy**：Are you suffering from the headache again?
-
-**Z**：Me? No, I'm not.
-
-**Tooth Fairy**：You shouldn't lie to a doctor.
-
-**Z**：Fine. A bit, just a bit. Some warm water will help. I don't need those ... those things.
-
-**Z**：I don't dislike your toothfairies. It's the texture that creeps me out. I've tried multiple times. You know how it ended.
-
-**Tooth Fairy**：Don't worry. I have some drugs for humans. Wanna try?
-
-That is another option for arcanists who find it hard to swallow those humanoid fairies.
-
-**Z**：Oh? That's surprising. Thank you.
-
-**Tooth Fairy**：How about the future of those kids?
-
-Madam Z casts a glimpse at the backseat and sighs.
-
-**Z**：Are you talking about the deer girl, or Joshua, the troublemaker?
-
-**Tooth Fairy**：You can tell me one by one. It's a long trip back to the headquarters. We've plenty time to chat.
-
-**Z**：Joshua will pay for what he did.
-
-**Z**：Absence from duty without permission is a severe violation of the regulations. He will face a demotion and be grounded for three to five months.
-
-**Z**：Of course, I'll apply for leniency for him, but I think it won't make much difference.
-
-**Z**：We don't have many means to help him. Vertin might be a good choice.
-
-**Tooth Fairy**：You mean assigning him to Vertin's team?
-
-**Z**：Exactly. If we can make Vertin apply for that …
-
-**Z**：He'll be put through a much milder punishment. After that, he'll be free to leave with Vertin.
-
-**Tooth Fairy**：This is a good idea.
-
-**Tooth Fairy**：How about Jessica, the deer girl?
-
-**Z**：She ...
-
-**Z**：She needs to receive some education to become adequately socialized.
-
-**Z**：Based on her result of the amended Arcanists Risk Evaluation Chart, this little girl is very dangerous.
-
-**Z**：We rescued nine hostages from her cave. Three are from the film crew. The other six are from the student expedition team that went missing six months ago.
-
-**Tooth Fairy**：The validity of that chart is debatable, for it doesn't have a sufficient number of questions to draw a conclusion.
-
-**Z**：Yeah, when we arrive at the Foundation, we will give her a more comprehensive test.
-
-**Z**：But that doesn't mean that she'll get a higher grade. We all know that the amended version tends to overestimate examinees.
-
-**Tooth Fairy**：Can I visit her while she's in the Foundation?
-
-**Z**：Of course, chatting with someone familiar is conductive to embracing the community.
-
-**Z**：You don't need to worry too much about her. We'll treat her the right way. The arcanum shown on her is of a very unique kind, and she'll be helpful in many experiments.
-
-**Tooth Fairy**：That's good. But I still have one more question.
-
-**Z**：Go ahead, doctor.
-
-**Tooth Fairy**：Members from the Zeno also participated in the rescue. Did you call them to come?
-
-**Z**：Yeah, this should have been their responsibilities. To be more precise, all of these problems were their fault.
-
-**Tooth Fairy**：Are you talking about the missing of their Youth Force?
-
-**Z**：What? No. But, wait, what missing Youth Force?
-
-**Tooth Fairy**：The myth that Zeno Youth Force disappeared overnight at the Green Lake Campsite. Haven't you ever heard of that?
-
-**Z**：No, never!
-
-**Z**：Where did you hear that?
-
-**Tooth Fairy**：Joshua told me.
-
-**Z**：He is just a young man, impulsive, and can't tell a story from a fact. Why would you believe …
-
-**Z**：Never mind. Back to the business.
-
-**Z**：By the end of the '50s, Zeno found a bunch of critters with unique appearance in the woods near the Green Lake Campsite.
-
-**Z**：As they continued to investigate, they found that special moss in the woods that can trigger changes in appearance.
-
-**Z**：In order to conduct further research, they built a campsite and held some camping activities as disguise from time to time.
-
-**Z**：The critters mutated and evolved very fast. Meanwhile, the town prospered, and the nearby population soared.
-
-**Z**：After several incidents of attacks on local residents by fled critter subjects, Zeno decided to move the campsite out of that area.
-
-**Z**：That deer girl was neglected during the moving. She was left at the Green Lake and kept on secretly living there till now.
-
-**Z**：Other critters that escaped have hybridized with the local breeds and hence created the new critters you've encountered.
-
-**Z**：They more or less carry a lineage of changelings, which are very hard to deal with. But thank God, you've brought this girl under control.
-
-**Tooth Fairy**：Jessica has been like their ... friend, or leader.
-
-**Z**：I think she is more like a leader, or even a master to them.
-
-**Z**：Zeno conducted military training to the first batch of critters, so they are more obedient than others.
-
-**Z**：Your Jessica is like … their commander.
-
-**Z**：She gives orders to the critters at the bottom of the lake through a radio hidden in the remote control so that they act in precise alignment.
-
-**Tooth Fairy**：…
-
-**Tooth Fairy**：So you knew the truth of the Green Lake Campsite from the beginning?
-
-**Z**：It was Zeno's idea to clean up the mess with the Foundation. They contacted me before …
-
-**Z**：Huh! If you could've asked me earlier, like before you depart, we wouldn't have to go through so much trouble.
-
-**Tooth Fairy**：Kids were ignorant for lack of knowledge, yet adults were ignorant for their cognitive inertia. In a story where truth and falsity are mingled together, it is hard to tell which is which.
-
-**Z**：What did you say?
-
-**Tooth Fairy**：Nothing, nothing important. Have you heard of what happened to my brother?
-
-**Z**：Huh? Your brother? What happened to him?
-
-**Tooth Fairy**：Do you know how his teeth disappeared?
-
-**Z**：Ummm. I don't want to offend anyone, but wasn't it because of the curse of the toothfairies?
-
-**Tooth Fairy**：Heh heh.
-
-**Z**：What? What are you laughing at?
-
-**Tooth Fairy**：Nah, nothing. As for my brother, I will tell you more later.
-
-**Tooth Fairy**：Hush now. Give me my camera.
-
-Tooth Fairy turns around, leans over her seat, and presses the shutter.
-
-The children are leaning against each other and sleeping in peace.
-
-That's the end of the horror story, which is not that horrible, though.
 
 > **Title card：** 2#2
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 ### Trail · Under the Canvas
 

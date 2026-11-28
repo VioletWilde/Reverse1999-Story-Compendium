@@ -310,8 +310,6 @@ She flips through the pages, all detailed records of the Nowa Miedź residents' 
 
 **Grundriss:** Ah, found it. "Irregularities Overview."
 
-Grundriss: Missing persons ...Grundriss: Reports of unusual sounds ... puppets ...Grundriss: And a ghost-like female figure?
-
 **Grundriss:** Missing persons ...
 
 **Grundriss:** Reports of unusual sounds ... puppets ...
@@ -662,8 +660,6 @@ Kenna: We can't be an island in times like these.
 
 Kenna: Sending a boat out toward the Point Irreversible is the first step to making sure we're not.
 
-- Description：Within the margins, words are weapons.
-- Action：Listen Carefully
 
 
 ---
@@ -1257,8 +1253,6 @@ She stows her gun and gives Cornerstone a reserved nod.
 
 **Cornerstone：** Everything has to start over from the beginning.
 
-- Description：The architect has brought up the old topic again, and her partner knows there's no stopping her.
-- Action：Listen In
 
 
 ---
@@ -2075,8 +2069,6 @@ An icy silence hangs in the air.
 
 **Kenna：** No. I'll buy you more time than that.
 
-- Description：Getting a project off the ground is never easy.
-- Action：Make a Plan
 
 
 ---
@@ -2462,8 +2454,6 @@ Sequel · UTTU Scouting Trip
 
 Crossing most of that vast building—the long corridors, the broad staircases, the open ground beneath its fallen dome—left me exhausted. You can probably guess how I felt. I checked my notebook of hurried sketches one last time and told myself: "Just a little further—that drink the locals talked about is waiting for you." Unsurprisingly, the "neighbors" were at the tavern too. The old woman behind the bar mixed me her specialty. Beside me sat a man in an old postal uniform, his expression vacant, his shoulders worn pale. A ragged, half-transparent canvas mailbag rested on his lap. It seemed I had a Shade for company. "You're welcome to move seats if he makes you feel uneasy. Old Michał isn't particularly talkative anyway," the old woman offered gently. I thanked her but stayed put. It was, after all, a good chance to rest while observing a Shade. The old postman's Shade sat in silence, staring at the grain of the bar counter, as if an after-work vodka should have been waiting there. Not far off, an old woman wrapped in a heavy shawl stood by a table, taking out the same photo—or, to be more specific, a photo-shaped Shade—again and again, turning it over in her hands. I guessed she must have lived alone in some apartment block, in a room that always smelled of coal stove and old cloth. By the time I finished my drink and looked back, a man in work clothes was standing at the center of the empty tavern—I couldn't say when he'd arrived—as if he'd been waiting there for a hundred or a thousand years. Half his face was burnt, and I caught the faint scent of ash coming off him. Something about his face must have drawn me in, because I found myself standing, trying to speak with him. "Sir, if I may ask, what are you doing here?" "Waiting." His answer came out hoarse. "Waiting for whom?" "A woman with eyes as blue as Lake Baikal." "You're hurt, sir." "No ... this is no scar." "It's Her ... it's proof that God has forsaken us." He raised a hand to his scarred cheek. "We were promised gold. That year, winter went on forever. I waved her goodbye and headed into the frozen wild. "We labored on, day and night. "Until the black oil erupted from the wells, flames rising and fading in the falling snow." His pupils trembled faintly, a silent fire burning somewhere in him. "Our sky broke open—but no dawn ever came." I think I knew where he'd come from. Everyone in this country knew where he and his scars came from.
 
-- Description：The magazine you know well, beloved across the arcanist community, lies open to its travel column.
-- Action：Read it
 
 
 ---
@@ -3903,8 +3893,6 @@ The Stone Remembers a New Voice
 
 "Ma'am, I have something for you. I found it in the residential wing." A faint clink of metal chain. The rustle of cloth. "There it is. I thought I'd lost it for good." "I opened it by accident and saw the photo inside. You were so beautiful back then. Eyes like lake water." "Thank you, Stasia." The click of metal opening. A gasp. "While we were surveying the building, we came across a man with burn scars on his face ... He told us he was waiting for a woman with eyes as blue as Lake Baikal." "Ah. So you've already met Tomasz." Another rustle of cloth. Knuckles clenching. A soft sigh. "He's always wandering around here—the stairs, the landings, my tavern. He's still wearing that old wool coat he had on the day I saw him off at the station. Even though he's long dead. What lingers around is just his ghost, his echo, whatever you want to call it—repeating the same few lines over and over even when I'm standing right in front of him." "I'm so ..." "No need to apologize, Stasia. You found my pendant for me—if anything, I owe you a few more drinks. "Don't worry ... that's just how life goes. He proposed before he left. He was planning to find work in some far-off oil fields and save up enough to come back and marry me. He never made it back. When they brought me the scraps of his clothes, I thought that was the end of everything. When I was exiled, I thought that was the end too ... And when the anomaly hit, I really thought it was over this time. But here I am. Even Tomasz is still here. "So ... life still goes on."
 
-- Description：A locket pendant resting in a gray corner.
-- Action：Pick Up
 
 ### Trail · Toast
 
@@ -3950,8 +3938,6 @@ The Stone Remembers a New Voice
 
 **Jasio：** Cheers ... Cheers ...
 
-- Description：No one can turn down one of Olga's signature drinks. Raise a glass to her health!
-- Action：Raise a Glass
 
 
 ---
@@ -4726,8 +4712,6 @@ A rare good day today! The sky's still gray, but I actually saw the sun. I woke 
 
 We took the tram to see the new steel foundry. Emil and Andrzej wanted to see the chimney, and I wanted to sketch. It really was a huge chimney, like some beast breathing coal-fire smoke from its great mouth. Róża said that after all these years, Nowa Miedź finally having a factory this size is a good thing. I drew the chimney, the canal, and a few wildflowers. My river sketchbook keeps getting thicker. Andrzej said he thinks I'll become a river expert. But it's not the canal itself I want to draw, though it matters too, of course. Why do we build our houses by the river? Why do we build our factories by the river? Why does the canal bring more people here? Why does the river turn black? Could we live somewhere better? Róża's explained it all to me before, but I want to find the answers myself. Maybe once I've figured it all out, I can help Mom, Dad, and my friends live better lives.
 
-- Description：A diary rests within the depths of memory. Its cover has long since faded, but you can still make out a doodle of a little cartoon character everyone loved that year.
-- Action：Open It
 
 
 ---
@@ -6409,8 +6393,6 @@ Still, the brick tells you only this: "I want to be an arch."
 
 At the end of the story, the old man said, "It's important to respect the material you've chosen. If you're going to use this brick, the best way is to respect it, to let it become what it is, not just to make do with it."
 
-- Description：A stack of well-kept old tickets. One of them has been carefully marked.
-- Action：Pull it Out
 
 
 ---
@@ -6816,8 +6798,6 @@ We asked around for a long time, and finally a fellow countryman told us your ad
 
 Always thinking of you, Katarzyna
 
-- Description：She's never forgotten where the letter is, and she's never taken it out, not once—until now. There's no need to keep it hidden any longer.
-- Action：Read the Letter
 
 ### Trail · The Wake
 
@@ -6847,8 +6827,6 @@ The architect stepped forward and cleared her throat. The words caught there lik
 
 "I won't forget you, Lucjan." She began with those words, as sunlight spilled gently through the broken dome, and it made her think of the light that boy had become. "He ... he's with us."
 
-- Description：When night falls, everyone is given a single white candle.
-- Action：Light the Candle
 
 
 ---
@@ -8142,8 +8120,6 @@ Cornerstone: Then let's get started. Also, Ms. Bkornblume, could I ask a favor o
 
 Bkornblume: I know what you're going to ask. It's fine, I need to head back anyway. I'll bring the tape and the files with me.
 
-- Description：That precious tape—you already know every face on it by heart.
-- Action：Play
 
 
 ---
@@ -8830,8 +8806,6 @@ Clappy Jelly User Manual
 
 Name: Clappy Jelly Features: ① Monitors the local environment's energy levels in real time, precisely detecting spatial fluctuations. ② Automatically triggers a continuous alarm when abnormal or dangerous energy signals appear. How to Use: ① Place Clappy Jelly at the center of the intended monitoring area. ② Massage its tentacles until the sensor pads glow green. ③ Pat the top of its head for about 3 seconds. It will power on and float up to its working height. ④ Clap hard once, and it will expand a spherical monitoring field, the range of which will increase over time. ⑤ Clap hard once more, and it will lock in the current sphere size and begin monitoring energy. ⑥ While the environment's energy stays stable, the Clappy Jelly will cruise through the air on its own. If it detects abnormal fluctuations, its tentacles will clap rapidly, much as a nervous person might, sounding the alarm with a frightened cry. ⑦ Sing Clappy Jelly a lullaby, and it will descend slowly, save its monitoring data, and drift off to sleep. Manufacturer: Institutum Lorentz **Notice:** Please do not forcibly power down this device during large-scale arcane rituals. Clappy Jellies are consummate professionals, but not especially brave. If startled, they may enter a prolonged alert state.
 
-- Description：Everyone knows: read the manual first, save your fingers later.
-- Action：Start Reading
 
 ### Trail · Before the Rain
 
@@ -8845,8 +8819,6 @@ Name: Clappy Jelly Features: ① Monitors the local environment's energy levels 
 
 "If blood turns to electric current, does the soul still stay in the body?" The blood vessels change first. They stop their soft pulsing and begin to grow straight, silent, climbing upward along the wrists—red, yellow, blue, green, black, and white gelcoat sheathing thin threads of metal, pushing slowly through skin, through flesh. The bakery clerk is the first to notice something wrong. She stops touching hot water. When the morning steam rises, her arms give off a faint glow, and in the places where blood should flow, something else now coils and branches quietly, like a tangle of wiring rewoven into place. More and more people fill the hospitals. X-rays line the light boxes. Inside the pale bodies there are no organs, only crisscrossing wires, like the vast, silent power grid beneath a city. The doctors say the humming in the chest, the numbness in the neck, and the teeth that flicker with light now and then—all of it is nothing but insomnia. Then even the chapel starts fizzing and crackling with prayer. The silver ornament on the pastor's chest is leaking current, throwing off tiny blue sparks. Someone weeps on their knees. Someone catches the smell of scorched metal in the air. An old woman looks up and quietly asks the question that has long lingered within her heart: "If blood turns to electric current, does the soul still stay in the body?" The pastor doesn't answer. A patch of bronze has surfaced on his palm too.
 
-- Description：That's the scent of the rain. It seeps into your skin, into your gut. There's little you can do.
-- Action：Start Waiting
 
 
 ---
@@ -9709,8 +9681,6 @@ As surely as light casts a shadow.
 
 Clearance Level: Top Secret Records on the Requisition of the Nowa Miedź Point Irreversible Building and the Establishment of the Eastern Europe Branch Attendee List: Lucy, Irinei, Kenna, Ida, Finn ... (and other authorized associated personnel). All personnel listed above must strictly comply with the confidentiality agreement. In accordance with the Temporal Anomaly Regional Intervention Regulations and related requisition management procedures, the following has been recorded regarding the elevation of the former "St. Pavlov Foundation Nowa Miedź Office" to the status of Eastern Europe Branch: I. Background The Temporal Anomaly is a highly dangerous arcane spatiotemporal hazard. Any individual exposed within its area of effect will vanish instantly, without a trace. This specific building in the Nowa Miedź region holds extremely high strategic value. It has been confirmed that this building is capable of stably resisting the Temporal Anomaly. Individuals within its enclosed structure are immune to the Temporal Anomaly's regressive effects. II. Establishment of the Office On November 8, 1996, the St. Pavlov Foundation Nowa Miedź Office was formally completed. Its primary responsibilities include monitoring abnormal environmental energy, coordinating resident evacuations, and handling regional anomalous incidents. Across multiple disaster events, this facility has operated stably, with no reversion breach incidents recorded. III. Formal Requisition On January 18, 1986, the Foundation formally initiated the permanent requisition process, bringing the building under core facility management. Structural and functional renovations followed, including a rebuilt disaster-prevention system, the addition of research and containment areas, and safety upgrades to public spaces. All former residents were properly resettled, and the corresponding community functions were transferred accordingly. IV. Establishment of the Branch On ██ ██, 19██, all renovation work was completed. With a portion of the public space preserved, the site was formally established as: "St. Pavlov Foundation Eastern Europe Branch" The former designation, "Nowa Miedź Office," is discontinued as of this date. All related files and authorizations are consolidated into the Eastern Europe Branch system. Recorded accordingly. St. Pavlov Foundation Central Council ██ ██, 19██
 
-- Description：Many stories end with a little piece of paper like this. At least we have that much.
-- Action：Read the Document
 
 ### Trail · Growth of Order
 
@@ -9724,8 +9694,6 @@ Excerpt from the Storm Act (Temporary)
 
 Excerpt from the Storm Act (Temporary) Before the term "Storm" was formally established, the Foundation used "Temporal Anomaly" as an umbrella term for this new class of phenomena. Anomalous incidents, including time reversal, the disappearance of buildings, the erasure of populations, and historical discontinuities, were filed separately for a long time. It was only after the Nowa Miedź Project that the Foundation confirmed these were manifestations of the same systemic disaster and began drafting the first edition of the "Storm" Regional Intervention Regulations. I. Confirmation of Terminology The "Storm" is provisionally confirmed as a highly dangerous disaster whose core manifestations are time reversal, historical erosion, and the reconstruction of reality. "Temporal Anomaly" is retained solely as a legacy term from earlier records. ... II. Duties of the Foundation The Supplementary Act on the Foundation's Duties specifies the following: The Foundation bears responsibility for the research and early warning of the "Storm," the takeover of endangered zones, personnel evacuation, the preservation of civilization, and the humanitarian restoration of survivors' identities. The primary bearer of responsibility and the details of implementation remain under dispute. The portions that have been finalized are recorded as follows: ... At this stage, "Storm" research prioritizes early-warning mechanisms, with continued work toward advancing and refining the "Storm" emergency response system, and ongoing exploration into the possibility of crossing or ending the "Storm" ... ... A system of disclosure rights concerning "Storm"-related information should be established, with strict controls against leaks of classified information, and close attention paid to staff panic, despair, and other emotional strain ... ...
 
-- Description：Order doesn't come from nothing. It's built one brick at a time.
-- Action：Read the Act
 
 ### Trail · Shh ...
 
@@ -9777,8 +9745,6 @@ Excerpt from the Storm Act (Temporary) Before the term "Storm" was formally esta
 
 **Foundation Officer：** Fascinating ...
 
-- Description：Some voices. Some voices that rise without a sound.
-- Action：Listen Only
 
 
 ---

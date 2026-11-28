@@ -29,6 +29,10 @@ Are stories buried in the depths of time.
 > What lies beyond the exquisitely crafted cage of mist?
 
 <!-- reader-body:start -->
+> **Title card：** The Story of Oliver
+
+> **Title card：** The Prison of Fog
+
 I can't remember when it was that I began to hate the fog.
 
 This city, forever shrouded in fog, prompts the overwrought comparison between Sisyphus's endless struggle and our own.
@@ -166,160 +170,13 @@ Just as everyone leans in closer, listening ever more attentively to the knight'
 > **Choice 1：** I don't think he's very happy about having to work outside of his schedule.
 
 **Crowd:** I see...
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** What lies beyond the exquisitely crafted cage of mist?
-
-> **Title card：** The Story of Oliver
-
-> **Title card：** The Prison of Fog
-
-I can't remember when it was that I began to hate the fog.
-
-This city, forever shrouded in fog, prompts the overwrought comparison between Sisyphus's endless struggle and our own.
-
-The fog that covers this absurdity and unsightliness is like a bell jar imprisoning a cricket.
-
-Beyond those invisible intangible borders lie the jeering faces of the gods. They drained every ounce of vitality from the cricket, dispatching the fog as their most faithful instrument.
-
-And so, the cricket turned its head to find this thick fog everywhere—up, down, left, right—all around. No escape in sight, no perceptible boundaries... Even its cry would be lost in the fog.
-
-That fog as viscous as snot flowing from a runny nose enveloped the cricket to the point where the poor wretch couldn't even make a sound. It rubbed its wings in vain, attempting to make even the slightest noise, but the only thing that filled the air was the fog and its silent ridicule.
-
-To this day, no one has responded to its pleas. In this thick fog, there is only silence, the silence of death... That's what it does, this fog—it invariably forces the individual to face the certainty of their own demise.
-
-Walking in this endless fog, with no end in sight, surrounded by a cage of untouchable wire, where even the most furious strikes have no means of finding their target.
-
-The only thing one is allowed to feel is extreme loneliness and that deathly still.
-
-We, walking through this dense fog for the sake of our so-called mission, might possibly be the most pitiable crickets of all.
-
-How long has it been since I last saw the sun?
-
-**Vertin**：...
-
-**Vertin**：Oliver Fog?
-
-**Oliver Fog**：Oh... Sorry, Miss Vertin. I lost myself for a moment there. What were we talking about just now?
-
-**Vertin**：That we hoped you would aid our cause two days from now. With the enemy well hidden within the fog;  determining their location will be no easy feat. It looks like we'll be counting on you and your arcane skill to succeed.
-
-**Oliver Fog**：The day after tomorrow... That's a holiday, isn't it?
-
-**Vertin**：It is indeed.
-
-**Oliver Fog**：Before I offer you a response, Miss Vertin, allow me to ask a question. Who was it that proposed I join you in this operation of yours?
-
-- **Choice：** It was Mr. Knight.
-  - **Oliver Fog**：And will he also be taking part?
-
-  - **Vertin**：Mr. Knight will not be taking part in this operation, but he recommended you wholeheartedly.
-
-  - **Oliver Fog**：You do know that he's egging me on by passing this work to me? It's quite evident, Miss Vertin.
-
-
-- **Choice：** And what if I were to say I was the one that chose you, recommendations notwithstanding?
-  - **Oliver Fog**：Deception is not your strong suit. It's entirely obvious that you're covering for him.
-
-  - **Oliver Fog**：You know for a fact that I am not the kind to work on a day off, and based on your personality, which is shall we say; conciliatory in nature, you would never have proposed such a plan.
-
-  - **Oliver Fog**：So, then. The suit of armor put you up to this? Am I right?
-
-  - **Vertin**：.....Perhaps. But why would you suspect him in the first place?
-
-
-**Oliver Fog**：Miss Vertin, I intend to direct a formal complaint towards Mr. Knight.
-
-**Vertin**：...
-
-**Oliver Fog**：Allow me to come straight to the point, Miss Vertin. I would be more than willing to help you in any way, merely due to the goodwill we have fostered through the course of our acquaintance. However, my principles will not permit me to sacrifice my hard-earned time off merely for the convenience of others.
-
-**Oliver Fog**：I will provide you with any advice you may require, but my practical assistance is out of the question.
-
-**Vertin**：So then, this your latest experiment in reformist rhetoric?
-
-**Oliver Fog**：Not at all. It's a manner of prevarication that's been in use since Chamberlain's day.
-
-**Vertin**：Look— I won't try to force you, Oliver. I'm merely here to discuss the matter with you.
-
-**Oliver Fog**：Then I thank you for your understanding, Miss Vertin. If there's nothing else I can help you with, I will take my leave. there's work I've yet to finish today.
-
-> **Title card：** Somewhere in the Suitcase
-
-**A Knight**：What someone is about to recount to you is a sworn testimonial of a face-to-face run-in with a dark spirit, a blood-thirsty creature of undeath someone encountered as a chivalrous knight long, long ago.
-
-**Sotheby**：Brilliant! I love this story— I mean, Miss Sotheby knows she's definitely going to love this story!
-
-**A Knight**：Someone came across a long-abandoned castle with a close friend while journeying the countryside one dark night.
-
-**Sonetto**：Hm...
-
-**A Knight**：...The forest around the castle was a mire shrouded in eerie mist, and someone was traipsing right through it, boots tramping on rotten leaves and kicking up the most vile, putrid stink of rancid soil mixed with the damp stench of decay.
-
-**A Knight**：But our destination was not far off. We had almost reached the castle gate.
-
-**Eagle**：...
-
-**A Knight**：Suddenly, someone and that faithful friend spied a shadowy figure up ahead. He was slumped askew against a tree, seemingly unconscious.
-
-**A Knight**：Back then, someone was still a simple-minded knight. Someone stepped forward and went heedlessly over to the side of the mysterious figure...
-
-**Crowd**：...
-
-Just as everyone leans in closer, listening ever more attentively to the knight's story, another figure passes by.
-
-**Oliver Fog**：I can confirm that there are no problems with the work plan. Everything seems to be in order... The schedule is a little tight, but if we proceed accordingly, we can still finish all work on time today.
-
-**A Knight**：Someone tapped him on the shoulder, but he didn't budge an inch. Then, someone tapped him again...
-
-**A Knight**：He suddenly lifted his head to reveal a ghastly, desiccated face with black holes where his eyes should've been!
-
-**Crowd**：What?!
-
-**Sotheby**：Miss Sotheby knows! It must've been the Chupacabra!
-
-**A Knight**：If only the truth were so simple. As soon as we saw that living corpse, someone and someone's good friend knew right away—
-
-**A Knight**：In the depths of the castle lay a terrifying, treacherous, blood-curdling banshee!
-
-**Sotheby**：An evil spirit? What a surprise! All the spirits Miss Sotheby has met have been most cordial to her! Though to be fair. I have never had the misfortune of meeting a thirsty one before.
-
-**Sonetto**：That's a good point... They might be a bit on the quirky side, but Poltergeist and Click are good souls.
-
-**Oliver Fog**：Excuse me please, some of us have work to do.
-
-**Sotheby**：Oh, this way, please—from my side, over here.
-
-**Sotheby**：Mr. Fog, Mr. Knight was telling us about his past adventures just now. In fact, he was right in the middle of a very interesting story when you came in. Would you like to stay a while and listen with us?
-
-**Oliver Fog**：I'll pass on the ghost stories; I am very busy. However, I feel I must caution you, ladies.
-
-**Sonetto**：Oh?
-
-**Oliver Fog**：There exist people in this world whose mouths are incapable of speaking the truth. Not only do they spin their yarns, boasting about what has never truly transpired, but they may even shirk their responsibilities and force minors to carry out their work for them.
-
-**A Knight**：Someone doesn't even have a mouth! Although someone has been wondering for some time now—how does someone even speak without anything with which to speak out of?
-
-**Sotheby**：Through the magic of your arcane skill!
-
-**Vertin**：...
-
-**Vertin**：I knew this was going to happen.
-
-**Sonetto**：Timekeeper? You came to visit, too? Did something happen to Mr. Fog today? He appears to be in quite a foul mood.
-
-- **Choice：** I don't think he's very happy about having to work outside of his schedule.
-
-**Crowd**：I see...
 
 > **Title card：** TO BE CONTINUED ...
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -617,6 +474,8 @@ He then freezes in place, like a Carbuncle eagerly emptying cans, only to find i
 > One or several corny, boring jokes.
 
 <!-- reader-body:start -->
+> **Title card：** Dad Jokes
+
 **Oliver Fog:** Well, that's everything done, more or less... Let me check my work schedule.
 
 **Oliver Fog:** Good. Then I can clock off now.
@@ -737,6 +596,10 @@ Yet more shadows emerge from the forest depths, like smoke spewing from factory 
 
 **A Knight:** It appears we've found ourselves in something of a predicament.
 
+
+> **Title card：** TO BE CONTINUED ...
+
+
 ***
 
 COMBAT:
@@ -744,138 +607,7 @@ COMBAT:
 ***
 <!-- reader-body:end -->
 
-<details>
-<summary>Client transcript</summary>
 
-<!-- client-body:start -->
-> **Subtitle：** One or several corny, boring jokes.
-
-> **Title card：** Dad Jokes
-
-**Oliver Fog**：Well, that's everything done, more or less... Let me check my work schedule.
-
-**Oliver Fog**：Good. Then I can clock off now.
-
-**Oliver Fog**：It's not that noticeable during the daytime, but as soon as night falls, this forest becomes excruciatingly quiet.
-
-**Oliver Fog**：Hm... I hate places that are this silent.
-
-It reminds me of the fog I have to immerse myself in almost daily.
-
-Where even my shouts and cries for help are swallowed up by this bedevilled fog.
-
-**???**：Waaaaah!!!
-
-**Oliver Fog**：What's this? It's too dark to see clearly ...
-
-**Oliver Fog**：Critters! And they're attacking!
-
-**???**：Squeeeee!!!
-
-**Oliver Fog**：There's even more of them than I'd feared ...
-
-**Oliver Fog**：And there's no kind of natural shelter around... If I stay put, they'll eventually surround me.
-
-**Oliver Fog**：Fortunate that I absorbed quite a bit of fog while working this afternoon. It should still be usable...
-
-**Oliver Fog**：Hah... So this my reward for all that hard work?
-
-**Oliver Fog**：No, I shouldn't think like that.
-
-**Oliver Fog**：But work's the reason I ended up in this mess.
-
-**Oliver Fog**：It looks like there are fewer enemies in that direction... I think I just might break through that way.
-
-A dense fog pours out from above his umbrella, quickly enveloping the surrounding area.
-
-**Oliver Fog**：Phew... That was a narrow escape, all thanks to the fog... At last it seems there aren't as many critters around here.
-
-**Oliver Fog**：It's too dark now, and with the fog, I couldn't even make out what kind of critters were attacking me...
-
-**Oliver Fog**：I need to rest for a bit now... I'll figure out how to get out of here once I catch my breath.
-
-**???**：Fogwalker, are you alright, my young friend?
-
-**Oliver Fog**：?!
-
-**A Knight**：Are you truly so surprised to see someone here, Fogwalker?
-
-**Oliver Fog**：...Mr. Knight!
-
-**A Knight**：Did you think me a Dullahan? Or else what other vile thing did you see as to elicit that reaction on seeing someone here.
-
-**Oliver Fog**：I thank you for using the word "surprised" instead of "panicked" regarding my reaction.
-
-**A Knight**：I have no interest in shaming your reaction, Fogwalker.
-
-**Oliver Fog**：Well then, Mr. Knight, what brings you here?
-
-**A Knight**：Someone had the sudden impulse to play the part of a stone in the forest. See? Someone's disguise is quite perfect, is it not? Even your keen eyes failed to detect someone's presence amid the moss and trees.
-
-**Oliver Fog**：Don't you think it would have been even stranger if I had managed to notice you there?
-
-**A Knight**：Because the night is so dark?
-
-**Oliver Fog**：Mr. Knight, this kind of banal joke is what we commonly refer to as a "dad joke."
-
-**Oliver Fog**：I haven't heard a line as terrible as that since my father passed. And I'd rather I never heard such a thing again...
-
-**A Knight**：Please forgive me. Someone didn't mean to stir up memories from your past. Someone deeply regrets having upset you so.
-
-**Oliver Fog**：Come now. It was a long time ago. I don't really care much about it anymore, anyway.
-
-**A Knight**：In that case, perhaps you might tell someone more about your father? Someone is quite interested in the previous Fogwalker.
-
-**Oliver Fog**：You want me to tell you about my father?
-
-**Oliver Fog**：I'd rather not. I can't think of a single thing worth mentioning about him.
-
-**Oliver Fog**：He was an ordinary man, and the most ordinary Fogwalker... A Fogwalker who died in the fog.
-
-**Oliver Fog**：And a failure of a father.
-
-**Oliver Fog**：He hardly ever spent any time with my mother and me. Every single day, if he wasn't busy working, he was studying the arcane. And it was only when discussing arcanism that he would display a demeanor alike to an arcanist.
-
-**Oliver Fog**：He spent his whole life studying and striving to push the arcane techniques of the Fog family forward, hoping to adapt them to the fog we now face in the modern era, but ultimately, it led him to his demise.
-
-**Oliver Fog**：Ironic, isn't it?
-
-**Oliver Fog**：I can scarcely remember what he looked like anymore. The only thing about him that left any sort of lasting impression on me were those few "dad jokes" he made around the dinner table.
-
-**Oliver Fog**：Terrible, tasteless jokes.
-
-**A Knight**：But he was a Fogwalker, and there was only one Fogwalker in all London.
-
-**Oliver Fog**：People have attached a great deal of import to the title "Fogwalker," but in my opinion, a Fogwalker is not much different from a manure scooper.
-
-**Oliver Fog**：Devoting yourself or even sacrificing yourself for the sake of your so-called responsibilities... there is nothing more foolish in the entire world.
-
-**Oliver Fog**：I'll never live my life the way my father did. He was bound by the title "Fogwalker," but I won't let that happen to me.
-
-**A Knight**：You admire your father greatly. Someone can feel it.
-
-**Oliver Fog**：I do not...
-
-**Oliver Fog**：When I was a child, I wanted to become a Fogwalker too, so yes... maybe then I admired my father greatly.
-
-**Oliver Fog**：But things are different now.
-
-**Oliver Fog**：It's only because he used to...
-
-**???**：Wooooo!!!
-
-**Oliver Fog**：Damn it! How did these critters ever catch up with me?
-
-Dark shadows rush out from the depths of the forest, encircling the area before there's time to react.
-
-Yet more shadows emerge from the forest depths, like smoke spewing from factory chimneys, thick and relentless.
-
-**A Knight**：It appears we've found ourselves in something of a predicament.
-
-> **Title card：** TO BE CONTINUED ...
-<!-- client-body:end -->
-
-</details>
 
 
 ---
@@ -1500,6 +1232,8 @@ Suddenly, the old suit of armor lifted his longsword, and a dazzling ball of lig
 > Step into the fog and break free from your prison.
 
 <!-- reader-body:start -->
+> **Title card：** The Fog Walker
+
 I had strayed from the main road and wandered into the fog.
 
 I wept, but the thick fog swallowed up my pleas for help.
@@ -1569,90 +1303,13 @@ I found myself weeping, the tears falling beyond my control.
 **A Knight:** Someone firmly believes that the day will come.
 
 **A Knight:** Or have you already forgetten someone told you of your potential as a knight?
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Step into the fog and break free from your prison.
-
-> **Title card：** The Fog Walker
-
-I had strayed from the main road and wandered into the fog.
-
-I wept, but the thick fog swallowed up my pleas for help.
-
-All that I felt was fear.
-
-The black fog enveloped me, almost devouring me.
-
-Just as I reached my limit, a majestic figure strood out from the depths of the fog.
-
-Holding a huge black umbrella and wearing a tall top hat from another time, he approached me with steady, composed steps.
-
-The hopeless black fog howled desperately, struggling futilely to flee from his presence.
-
-But to no avail.
-
-No one was better at dealing with the dreaded black fog than he.
-
-He walked toward me with purpose, with warm, hopeful sunlight rising from within him.
-
-Penetrating the depths of the fog and casting its light over me.
-
-This majestic figure arrived at my side and gently placed its hand on my shoulder.
-
-"Oliver, let's go home."
-
-He spoke to me softly.
-
-At this moment, I finally understood what it meant to be a Fogwalker.
-
-The Fogwalker is one who steps into the fog and brings light to others.
-
-Fundamentally, it's a job like any other, mundane as tightening screws or scooping manure.
-
-But that's not all it is.
-
-My father once walked through the fog to bring me hope.
-
-On that day, he did the same.
-
-"This is my responsibility. and it is our responsibility."
-
-The hand that had gently rested on my shoulder withdrew in silence. He donned his top hat again and stepped back into that fog.
-
-The same voracious fog that would devour him whole.
-
-In the same way, he found me in the fog and brought me hope.
-
-On that day in 1952, he also brought hope to the people of London.
-
-The hope of survival.
-
-I found myself weeping, the tears falling beyond my control.
-
-**A Knight**：...
-
-**A Knight**：Excellent work...
-
-**A Knight**：Oliver, let's go home.
-
-**Oliver Fog**：Some day in the future, will I be able to bring hope to the world, just like you and... my father?
-
-**A Knight**：...
-
-**A Knight**：Yes.
-
-**A Knight**：Someone firmly believes that the day will come.
-
-**A Knight**：Or have you already forgetten someone told you of your potential as a knight?
 
 > **Title card：** TO BE CONTINUED ...
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---
@@ -1663,6 +1320,8 @@ I found myself weeping, the tears falling beyond my control.
 > Maybe nothing will change, or maybe something will.
 
 <!-- reader-body:start -->
+> **Title card：** Time Off in Lieu
+
 **Oliver Fog:** ...Good morning, Miss Vertin.
 
 > **Choice 1：** Good morning, Mr. Fog.
@@ -1780,134 +1439,13 @@ I found myself weeping, the tears falling beyond my control.
 **Oliver Fog:** Please tell him ... that perhaps I will never become a knight, but I will not rest until I become myself.
 
 **Oliver Fog:** Oliver Fog, the Fogwalker of London.
-<!-- reader-body:end -->
-
-<details>
-<summary>Client transcript</summary>
-
-<!-- client-body:start -->
-> **Subtitle：** Maybe nothing will change, or maybe something will.
-
-> **Title card：** Time Off in Lieu
-
-**Oliver Fog**：...Good morning, Miss Vertin.
-
-- **Choice：** Good morning, Mr. Fog.
-
-**Oliver Fog**：...
-
-- **Choice：** ...
-
-- **Choice：** ...
-
-- **Choice：** Is there anything I can do for you, Mr. Fog?
-
-**Oliver Fog**：Ahem, not really. It's only that I remembered something.
-
-- **Choice：** What is it?
-
-**Oliver Fog**：It's not really worth mentioning, it's just... um...
-
-- **Choice：** You've taken on the title well, Fogwalker.
-
-**Oliver Fog**：Oh?
-
-**Oliver Fog**：Ahem, please... please don't concern yourself with that sort of thing.
-
-**Oliver Fog**：Actually, I came here for another reason.
-
-**Oliver Fog**：The day before yesterday, you mentioned an operation planned for today. One that required my participation.
-
-- **Choice：** Yes, I recall you refused it at the time...
-
-**Oliver Fog**：I... well, what I mean is, if you could... compensate me for my day off in some other way... then I might, well, that is to say it's not impossible for me to, let's say, make an exception and take on another shift.
-
-**Vertin**：Is that so? Well... the thing is, the matter has been resolved.
-
-**Oliver Fog**：...Resolved?
-
-**Vertin**：To be precise, on the evening of our conversation, you and Mr. Knight appear to have worked together to resolve the issue.
-
-**Oliver Fog**：When? Wait... You mean those critters?
-
-**Vertin**：Yes. we received word about a horde of critters in that forest known to attack humans.
-
-**Vertin**：Those critters would usually hide in the forest's fog during the day and only strike at night.
-
-**Vertin**：Therefore, I had hoped that today, during the daytime, you could absorb the fog to help us locate that particular critter horde.
-
-**Oliver Fog**：... And why not at night?
-
-- **Choice：** I seem to recall you having school tonight?
-
-**Oliver Fog**：... Thank you, Miss Vertin, for so kindly respecting my rights to education.
-
-**Vertin**：Since you and Mr. Knight already handled the critter situation, there is no need for you to remain at work today.
-
-**Oliver Fog**：... I can't help but feel something is amiss here.
-
-**Oliver Fog**：That's right!
-
-**Oliver Fog**：What about Mr. Knight? You told me he would be unable to participate in today's operation for some reason, but that night he and I ... defeated those critters alone.
-
-- **Choice：** Today, Mr. Knight has taken the day off.
-
-**Oliver Fog**：A day off?
-
-**Vertin**：Correct. He told me he wished to spend the day paying tribute to his fallen brothers-in-arms... Men who chose to make the ultimate sacrifice in order to give hope to others.
-
-**Oliver Fog**：...
-
-**Oliver Fog**：Miss Vertin.
-
-- **Choice：** Hm?
-
-**Oliver Fog**：Although I still hate the fog and the other Fogwalkers just as much as I did before...
-
-**Oliver Fog**：I feel as though I understand them a little more.
-
-**Oliver Fog**：Perhaps there is nothing I can do to put an end to the fog of London.
-
-**Oliver Fog**：But if I evade my responsibilities and duties like this, then I'll surely be depriving myself of that hope.
-
-**Oliver Fog**：The hope my father died trying to preserve.
-
-**Oliver Fog**：Vertin, I'm determined to clear the fog in London. Not only as a Fogwalker but also as someone who has seen the glorious light of the sun.
-
-**Oliver Fog**：... I want to become someone who can clear the fog and bring hope to others.
-
-**Oliver Fog**：To this end, I intend to study hard and secure a place at the University of Cambridge.
-
-**Vertin**：And what motivated you to make this decision?
-
-**Oliver Fog**：I believe that, compared to pursuing a life engaged in arcanism alone, it would be better for me to become a Cabinet Secretary, guiding our nation's politicians in the formulation and regulation of our nation's laws.
-
-**Oliver Fog**：Miss Vertin, why are you looking at me so strangely? Is there some unseen flaw in my plan?
-
-**Vertin**：No, Oliver, there's nothing wrong with it. Perhaps it's only that your plan is so fitting for you that I'm at a loss for words.
-
-**Oliver Fog**：Then I shall feel honored to have your approval, Miss Vertin.
-
-**Oliver Fog**：Anyway, I'll say goodbye now. I haven't finished my work for today just yet.
-
-- **Choice：** Goodbye, Mr. Fog.
-
-**Oliver Fog**：...
-
-**Oliver Fog**：By the way, there was one more thing I wanted to say.
-
-**Oliver Fog**：Thank you, Miss Vertin.
-
-**Oliver Fog**：Oh yes, and please convey my gratitude to Mr. Knight for me.
-
-**Oliver Fog**：Please tell him ... that perhaps I will never become a knight, but I will not rest until I become myself.
-
-**Oliver Fog**：Oliver Fog, the Fogwalker of London.
 
 > **Title card：** THE END
-<!-- client-body:end -->
 
-</details>
+
+<!-- reader-body:end -->
+
+
 
 
 ---

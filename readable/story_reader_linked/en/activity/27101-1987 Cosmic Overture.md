@@ -668,8 +668,6 @@ Public Radio Usage Log
 
 Public radio. Five minutes per person per day. Listen to whatever you want, but leave an update in the log. ... 12:05 Restored the frequency to normal and listened to Swan Lake. 18:05 Tuned to a foreign station. Adjusted the frequency to avoid interference. 03:05 Attempt 39, still no reply from the cosmic friend. Answer me ... answer me ... 12:05 Restored the frequency to normal and listened to Swan Lake. 18:05 Tuned to a foreign station. Adjusted the frequency to avoid interference. ... 03:05 Attempt 42, observed an unusual aurora. Must be the cosmic friend, she's responding. 12:05 Restored the frequency to normal and listened to Swan Lake. Wishful thinking aside, remember to reset the settings. 18:05 Tuned to a foreign station. Adjusted the frequency to avoid interference. ... 03:05 Attempt 73, The terns' migration route is different from last year. Is she affecting the magnetic field? 12:08 Plesetsk is not going buy a second radio. Break it again, and we'll bury you in the snow. 18:05 Tuned to a foreign station. Adjusted the frequency to avoid interference. ... 03:05 Attempt 106, the magnetic anomaly has reached the edge of the polar circle. I so want to meet her. 12:00 Off to intercept a cosmic idealist in Mirny, break his bones, and reclaim the radio. 18:00 I hope his imaginary cosmic friend is real. As if.
 
-- Description：Next to this empty radio dock is a log that's been diligently updated with each use.
-- Action：Where's the Radio?
 
 
 ---
@@ -2019,8 +2017,6 @@ An Unexpected Encounter
 
 Surrounded by light but feeling no pain. The screams and footsteps around her are crystal clear. The first footsteps she hears are Kozlov and Natalya's. Their voices are more familiar than her own heartbeat. The clatter of goat hooves belongs to Elijah, still midway through his riding performance. The particularly light, quick footsteps are Fracios's, a habit left from his juggling practice. "Everyone stay calm. Her Arcanum has protected her very well." A strange voice. Must be an audience member stepping onto the stage. "Relax, girl. Try not to think too much. Just tell me, what you see right now?" "This is unbelievable. I see a star, a shooting star is flying right toward me." The stranger crouches beside her. The light dims just a little. "I'm going to use Ley Lines to dissolve your Arcanum. Stay relaxed. Talk to me about anything. What hobbies do you have?" "Maybe they're not really hobbies, but ... I like to listen to the radio and weather reports. I also like exploring strange places. To keep from getting lost, I memorize all the unusual-looking trees and rocks along the way ... That star is still twinkling. That's not normal, right?" "Don't worry. Maybe everything today happened just so you could meet that star. Let's keep talking. Would you like to study Ley Lines with me? You have a real talent, I'm sure of it ..."
 
-- Description：An accident occurred here once, but fortunately, no one was hurt.
-- Action：Investigate
 
 ### Trail · The Great Utrennyaya Circus
 
@@ -2034,8 +2030,6 @@ The Great Utrennyaya Circus
 
 We have the best stage on Earth, each show as unique as a flake of snow. We bring the most spirited performances in the world. Elijah can turn any animal into the finest steed alive. Fracios's performances will make you laugh until you cry. And Kiperina, our tiny and adorable aerialist, walks on a wire so thin no one can even see it. Ringmaster Kozlov has folded his entire life's reputation into this little tent. From now until next month, this new world welcomes you!
 
-- Description：Darkness all around. What an unforgettable experience.
-- Action：Take It Off Your Face
 
 
 ---
@@ -2299,8 +2293,6 @@ Have You Heard?
 
 "That kid seems to have disappeared. You know where he went?" "Who?" "The talkative one. Obsessed with Roman myths." "Are you describing yourself?" "Name Day. I'm talking about Name Day." "You were closer to him than I was. Why ask me?" "The only thing I ever talked with him about was those myths." "Huh, our conversations were usually limited to German folklore. He seems to always keep people at a distance." "Nonsense. He hated German mythology." "Stop projecting. As far as we talked it seemed like he loved German culture. We talked about it all the time." Two Foundation staff glare at each other in the cafeteria, on the verge of fighting over a man they thought they knew, until a third person sits down between them. "You're talking about Name Day? He took two months off. I think he's on vacation." "That workaholic actually went on vacation? I thought his life was nothing but work and collecting trinkets." "Where'd he go?" "No idea. We only worked together on one mission, but he was a decent guy." "Did he ever chat with you about anything else?" "We talked about folk legends." "Roman?" "German?" "Gothic."
 
-- Description：Lunch breaks at the Foundation don't come often. Use them well for a little chit-chat.
-- Action：Pull Up a Chair
 
 
 ---
@@ -2884,8 +2876,6 @@ To the brightest future.
 
 0001 Anonymous No.95025535 ▶ Just had a two-year project canceled. Soon I too will be able to hide out in my room all day playing Sudoku. Not sad about this at all. 0002 Anonymous No.95025586 ▶ \>\>95025620 I wouldn't start celebrating just yet. It looks like you're about to lose your vacation time since there's a shortage of staff everywhere. 0003 Anonymous No.95025620 ▶ \>\>95025867 \>\>95025586 What are they gonna do? It's not like a simple number theory major like me can contribute to rebuilding in the wake of the "Storm." Nothing's going to stop me from going on vacation, nothing! 0004 Anonymous No.95025631 ▶ \>\>95025718 Would you look at that? The Enigmafication is spreading nicely. Good. At this rate, I'll have the entire Laplace break room all to myself. 0005 Anonymous No.95025718 ▶ \>\>95025961 \>\>95025631 As more people start slacking off, supplies will be cut too. You might get to hog all the Daily Meals from all of Laplace, but that's probably the best you'll do. 0006 Anonymous No.95025867 ▶ \>\>95025620 You know, it'd be hilarious if a bunch of random numbers and formulas turned out to be the key to defeating the "Storm," and you got roped into nonstop 24/7 work trying to crack it, with Madam Lucy interrogating you three times a day about your progress. 0007 Anonymous No.95025961 ▶ \>\>95025718 That sounds absolutely disgusting. I need a nap just at the thought of that. 0008 Anonymous No.95026012 ▶ Oh, and as part of the "humanitarian" gesture, I'll make sure your voice gets added to the machine too. 0009 Anonymous No.95026078 ▶ \>\>95026278 Well isn't that something? There are still poor souls who didn't get a vacation even at a time like this, with all these non-essential projects getting cut? 0010 Anonymous No.95026278 ▶ \>\>95026293 \>\>95026078 There's plenty. Like John from the medical team, John from the mechanical engineering group, and John from materials science ... Basically, every non-theoretical department is pulling all-nighters to rebuild Laplace under Madam Lucy's brand of ruthless pragmatism. 0011 Anonymous No.95026293 ▶ \>\>95026278 It really makes you wonder if the "Storm" was part of a conspiracy by the Johns to steal funding from the rest of the teams and justify their overtime pay. Coincidence? I think not!
 
-- Description：The pale green characters pulse with emotion. Making sense of what they're saying is going to take all your cunning.
-- Action：Read
 
 
 ---
@@ -3595,8 +3585,6 @@ To Camille
 
 Dear Camille, How long has it been since we last spoke? The long tug-of-war with the cold drained all my energy. Only today did I manage to warm up enough to dip my tail in ink and write to you. Sylvie is doing well. Maxime and Alexandre always help her think in parallel, and Monique, as usual, keeps things under control at critical moments. Serpentes has been showing more and more signs of thought lately. I think it's only a matter of time before he speaks. Hélène is sleepier than ever, staying in heated rooms around the clock. As for Chantal and Pierre, they're the same as always. And me? I didn't just hibernate. The local literature has filled the gaps in my collection that Sylvie once ruthlessly discarded. The Melusines were deeply moved by these authors' vivid portrayals of suffering and death, yet even within the darkest themes, the authors' exploration of new paths brimmed with vitality, dreams, and a defiant sense of romanticism. Whenever I read the literature to her, her memories become unusually vivid, and she recalls one line in particular with striking clarity from Pasternak's February: "The truest verses arise by chance, tempered in the fire of pain." Of course, there's no way to verify this and Sylvie would never admit it, but I believe she's the most romantic in our family. Or maybe the second-most. After me. I wish you were part of the Dubois family too. That way, you'll truly understand what Sylvie's memories feel like when she sees a shooting star. I truly hope we can talk about all of this someday. Maybe after Sylvie's little challenge is complete, you could visit Plesetsk. I promise Sylvie and I will both be warmly waiting to welcome you. Your dear friend, Estelle
 
-- Description：Literature may be divided into countless intricate schools, yet what it ultimately conveys is remarkably simple.
-- Action：Open the Letter
 
 
 ---
@@ -3780,8 +3768,6 @@ The sound of shattering glass immediately has Windsong turn to her colleague, co
 The noise appears to have come instead from a fish tank falling and—
 
 **Hissabeth:** Hey, watch out!
-
-Windsong: You know, Hissabeth, there's gentler ways to make an entrance.Hissabeth: I—can't—hear—you!The voices around her, whether in her headset or her ears, are garbled, twisted by the movement of space.Midair, Hissabeth adjusts her posture and lands squarely on the meeting table.Aside from the poor fish that were flung from their stone tank, it isn't the worst entrance.
 
 **Windsong:** You know, Hissabeth, there's gentler ways to make an entrance.
 
@@ -4380,8 +4366,6 @@ Cabinet of Wishes
 
 Become Director. Drink endless wine. Succeed in projects. World peace. Conquer the galaxy. Go home for a visit. Live to see next year. Touch Mars with your own hands. Establish relations with alien life. Grow flowers in Siberia. Free yourself from material needs. Become a true engineer. Defeat death. Marry Anastasia. Witness history.
 
-- Description：New Year's wishes made when the Kremlin's bells ring are kept here, ready to be laughed at next year.
-- Action：Open the Cabinet
 
 
 ---
@@ -5129,8 +5113,6 @@ The Story of Cepheus
 
 Cepheus learned a wonderful way to live. Always keep your eyes on the future. Keep walking forward. It believed that was the right thing to do. Cepheus moved quickly. And so, it fell hard. After that, it donned a metal shell. Inside that metal shell, the ghost of Cepheus witnessed countless beautiful moments— A near-eternal hearth being lit. Man-made stars launched into the sky. Earth's songs reaching beyond the Solar System. But it all vanished in the rain. Its dreams ended. And Cepheus felt regret for the first time. It realized, perhaps, that it didn't really know how to live after all. Cepheus believed itself to be a guiding pointer for millennia to come, leading the way for ten thousand years. But in truth, it realized it didn't even understand the road to the next hundred years. It couldn't even light the paths of the Southern Hemisphere. What happened to Cepheus afterward? It returned to the space base and continued its research for the sake of those still living. Yes. I am Cepheus.
 
-- Description：She doesn't seem like the storytelling type, but a long, long time ago ...
-- Action：Find a Seat
 
 
 ---
@@ -5837,8 +5819,6 @@ For the distant echoes of civilization.
 
 **Voyager:** Please listen.
 
-On this planet, she has witnessed sights she never knew existed.FriendsBrave visitors.The changing seasons, winding coastlines, warmth and cold, peace and conflict.Poverty and wealth, cruelty and nobility. The rise and fall of civilizations, the birds slicing through the sky.All on a single speck of dust in the Milky Way.Voyager: How beautiful ... the stars are.
-
 On this planet, she has witnessed sights she never knew existed.
 
 Friends
@@ -5876,8 +5856,6 @@ Party Highlights
 
 Excuse me, ladies and gentlemen. May I ask which one of you is Miss Hissabeth? I bring greetings from Constantine. I heard you speaking just now—please don't all play dumb and pretend to be snakes. ... Greetings, Miss Windsong. The Foundation has heard about the outstanding role that Ley Line Theory played in this aerospace experiment. Am I here to grant you Funding? No, I'm here to deliver Constantine's formal commendations, which surpass any material support. Is this your apprentice? The greatest contributor to the success of this space experiment! Constantine specially instructed me to offer Kiperina the highest congratulations, and to wish her a brilliant future at the LSCC. ... Hello, Ms. Pointer. This teleport disk really is a miraculous once-in-a-century invention. Constantine sees it as having immense strategic value. Your colleagues are already grumbling that I've ruined the party atmosphere—I hope you won't mind my delivering her greetings. Are you offering me the stage to speak? Then I'll take just five minutes. ... Help! Anyone! Save me from Medicine Pocket! I didn't know this table was their turf! They're still biting me! Hey, who's playing music at a time like this?! Somebody, help!
 
-- Description：A serious guy has shown up at the party. Poor guy, soon he'll become everyone's favorite memory.
-- Action：Replay the Footage
 
 ### Trail · Teleportation Ritual Seminar
 
@@ -5891,8 +5869,6 @@ Teleportation Ritual Seminar
 
 ... As many of you have read in academic journals, the theoretical feasibility of teleportation incantations is not determined by distance. However, the farther the distance, the more interference factors there are, and to this day, we still don't know exactly why. Thus, long-distance teleportation has always been considered the realm of pure fantasy. However, during the extreme conditions just before the "Storm," we gathered a vast amount of arcane energy fluctuation data from outer space to the Earth's surface. After repeated cross-analysis, we finally discovered a stable arcanum waveform capable of anchoring teleportation incantations. My teammate, she gave it a misleading name—"Pulsar Waveform." I suppose that was her way of being poetic or something. ... Yes, I hear some of you murmuring that this is purely experimental, lacking theoretical proof and impossible to replicate. That's true. But the fact is, over the past few weeks, we've tested it repeatedly. As long as you simulate this waveform near the destination and there's enough arcane energy, you can achieve teleportation with up to 95% accuracy. ... That's all I wanted to share today. I believe that one day in the distant future, with a complete theoretical framework, teleportation could become a field that outpaces aerospace itself. But even now, what we've uncovered is a stable, practical technology—perfect for food delivery.
 
-- Description：This isn't just another speech. It's history in the making.
-- Action：Stay Focused
 
 
 ---

@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-28",
+  "status": "passed",
+  "baseline_commit": "70ee8e3e4a7402723212070755f355773b0cc05f",
+  "counts": {
+    "retained_client_folds_unchanged": 2283,
+    "removed_folds_rechecked_in_order": 1172,
+    "source_main_units_compared": 7622,
+    "video_duplicate_presentations_removed": 232,
+    "source_trails_compared": 3055,
+    "version_matched_trail_records_checked": 1,
+    "client_only_units_unchanged": 38,
+    "removed_trail_metadata_fields_rechecked": 4658,
+    "chapter_identities_checked": 692,
+    "source_main_choices": 2183,
+    "source_main_responses": 2183
+  },
+  "editions": {
+    "zh-CN": {
+      "chapters": 147,
+      "episodes": 1636,
+      "trails": 671
+    },
+    "en": {
+      "chapters": 137,
+      "episodes": 1509,
+      "trails": 620
+    },
+    "ja": {
+      "chapters": 136,
+      "episodes": 1505,
+      "trails": 620
+    },
+    "ko": {
+      "chapters": 136,
+      "episodes": 1505,
+      "trails": 620
+    },
+    "zh-TW": {
+      "chapters": 136,
+      "episodes": 1505,
+      "trails": 620
+    }
+  },
+  "regression_tests_passed": 30,
+  "source_replay_scope": "正文按原始页面重放，并按逐项记录补入客户端标题卡；保留的异文逐字检查。",
+  "relative_links_verified": 12491,
+  "post_scan_redundant_folds": 0,
+  "cn_trail_configuration_check": {
+    "trails": 671,
+    "content_records": 3856,
+    "metadata_fields": 1160,
+    "new_missing_text": 0,
+    "missing_metadata": 0
+  },
+  "screenshot_checks": {
+    "zh-CN_10624_complete_tail_present": true,
+    "zh-CN_10624_redundant_fold_removed": true,
+    "zh-CN_10624_title_card_preserved": true,
+    "zh-CN_30102_six_teleport_lines": true,
+    "en_30102_six_teleport_lines": true
+  }
+}
