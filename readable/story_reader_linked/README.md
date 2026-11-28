@@ -17,3 +17,5 @@
 [本轮补录说明](../../structured/story_reader_completion_20261123/README.md) · [目录检查](validation.json) · [国服整理说明](../../structured/story_text_repull_20261109/README.md) · [国际服整理说明](../../structured/story_global_3_9/README.md)
 
 [2026-11-25 正文修订](../../structured/story_reader_proofreading_20261125/README.md)
+
+[2026-11-28 阅读文字修订](../../structured/story_reader_proofreading_20261128/README.md)

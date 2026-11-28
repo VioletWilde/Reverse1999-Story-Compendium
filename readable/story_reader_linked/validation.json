@@ -1,6 +1,6 @@
 {
   "format": "reverse1999-linked-reader-index-validation-v5",
-  "date": "2026-11-25",
+  "date": "2026-11-28",
   "editions": {
     "zh-CN": {
       "chapters": 147,
@@ -55,8 +55,8 @@
   "missing_navigation": [],
   "coverage_report": "../../structured/story_reader_completion_20261123/README.md",
   "passed": true,
-  "relative_links_checked": 12475,
-  "readme_files_checked": 13,
+  "relative_links_checked": 12483,
+  "readme_files_checked": 14,
   "body_proofreading_report": "../../structured/story_reader_proofreading_20261125/README.md",
   "body_proofreading": {
     "text_parts_compared": 7622,
@@ -70,5 +70,17 @@
     "restored_dialogue_lines": 77,
     "restored_choices": 12,
     "existing_localized_trail_bodies_verified": 4
+  },
+  "reviewed_corrections_20261128": {
+    "report": "../../structured/story_reader_proofreading_20261128/README.md",
+    "hidden_control_labels": 900,
+    "trail_actions": 2,
+    "chapter_files": 19,
+    "original_ids_preserved": true,
+    "primary_bodies_unchanged": 7622,
+    "unclassified_type0_matches_preserved": 1303,
+    "cn_trails_checked": 671,
+    "verification_passed": true,
+    "full_reference_replay_passed": true
   }
 }
